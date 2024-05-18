@@ -6,6 +6,7 @@
 | ![Thumbnail](thumbnails/http-www.activites.nicolet.ca-80.png) | [http-www.activites.nicolet.ca-80.png](screenshots/http-www.activites.nicolet.ca-80.png) |
 | ![Thumbnail](thumbnails/https-activites.nicolet.ca-443.png) | [https-activites.nicolet.ca-443.png](screenshots/https-activites.nicolet.ca-443.png) |
 | ![Thumbnail](thumbnails/https-ecomaritime.nicolet.ca-443.png) | [https-ecomaritime.nicolet.ca-443.png](screenshots/https-ecomaritime.nicolet.ca-443.png) |
+| ![Thumbnail](thumbnails/https-jmap.nicolet.ca-443.png) | [https-jmap.nicolet.ca-443.png](screenshots/https-jmap.nicolet.ca-443.png) |
 | ![Thumbnail](thumbnails/https-jmap.nicolet.ca-8443.png) | [https-jmap.nicolet.ca-8443.png](screenshots/https-jmap.nicolet.ca-8443.png) |
 | ![Thumbnail](thumbnails/https-jmap.nicolet.ca-88.png) | [https-jmap.nicolet.ca-88.png](screenshots/https-jmap.nicolet.ca-88.png) |
 | ![Thumbnail](thumbnails/https-nicolet.ca-443.png) | [https-nicolet.ca-443.png](screenshots/https-nicolet.ca-443.png) |

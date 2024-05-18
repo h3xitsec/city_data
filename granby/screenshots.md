@@ -64,9 +64,11 @@
 | ![Thumbnail](thumbnails/http-www.couleursurbaines.com-80.png) | [http-www.couleursurbaines.com-80.png](screenshots/http-www.couleursurbaines.com-80.png) |
 | ![Thumbnail](thumbnails/http-www.gmsgranby.org-80.png) | [http-www.gmsgranby.org-80.png](screenshots/http-www.gmsgranby.org-80.png) |
 | ![Thumbnail](thumbnails/http-www.granby.ca-80.png) | [http-www.granby.ca-80.png](screenshots/http-www.granby.ca-80.png) |
+| ![Thumbnail](thumbnails/http-www.granbymultisport.ca-80.png) | [http-www.granbymultisport.ca-80.png](screenshots/http-www.granbymultisport.ca-80.png) |
 | ![Thumbnail](thumbnails/http-www.granbymultisport.com-80.png) | [http-www.granbymultisport.com-80.png](screenshots/http-www.granbymultisport.com-80.png) |
 | ![Thumbnail](thumbnails/http-www.jagranby.com-80.png) | [http-www.jagranby.com-80.png](screenshots/http-www.jagranby.com-80.png) |
 | ![Thumbnail](thumbnails/http-www.palace.qc.ca-80.png) | [http-www.palace.qc.ca-80.png](screenshots/http-www.palace.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-www.tourismegranby.com-80.png) | [http-www.tourismegranby.com-80.png](screenshots/http-www.tourismegranby.com-80.png) |
 | ![Thumbnail](thumbnails/http-www.vccgranby.org-80.png) | [http-www.vccgranby.org-80.png](screenshots/http-www.vccgranby.org-80.png) |
 | ![Thumbnail](thumbnails/https-alerte.granby.ca-443.png) | [https-alerte.granby.ca-443.png](screenshots/https-alerte.granby.ca-443.png) |
 | ![Thumbnail](thumbnails/https-apps.granby.ca-443.png) | [https-apps.granby.ca-443.png](screenshots/https-apps.granby.ca-443.png) |
@@ -99,6 +101,7 @@
 | ![Thumbnail](thumbnails/https-gr.bvdep.com.ezproxy.granby.ca-443.png) | [https-gr.bvdep.com.ezproxy.granby.ca-443.png](screenshots/https-gr.bvdep.com.ezproxy.granby.ca-443.png) |
 | ![Thumbnail](thumbnails/https-gr.bvdep.com.ezproxy.ville.granby.qc.ca-443.png) | [https-gr.bvdep.com.ezproxy.ville.granby.qc.ca-443.png](screenshots/https-gr.bvdep.com.ezproxy.ville.granby.qc.ca-443.png) |
 | ![Thumbnail](thumbnails/https-granby-naxosmusiclibrary-com.ezproxy.granby.ca-443.png) | [https-granby-naxosmusiclibrary-com.ezproxy.granby.ca-443.png](screenshots/https-granby-naxosmusiclibrary-com.ezproxy.granby.ca-443.png) |
+| ![Thumbnail](thumbnails/https-granby.ca-443.png) | [https-granby.ca-443.png](screenshots/https-granby.ca-443.png) |
 | ![Thumbnail](thumbnails/https-grc.bvdep.com.ezproxy.granby.ca-443.png) | [https-grc.bvdep.com.ezproxy.granby.ca-443.png](screenshots/https-grc.bvdep.com.ezproxy.granby.ca-443.png) |
 | ![Thumbnail](thumbnails/https-grc.bvdep.com.ezproxy.ville.granby.qc.ca-443.png) | [https-grc.bvdep.com.ezproxy.ville.granby.qc.ca-443.png](screenshots/https-grc.bvdep.com.ezproxy.ville.granby.qc.ca-443.png) |
 | ![Thumbnail](thumbnails/https-hdvsrvipoffice.granby.ca-443.png) | [https-hdvsrvipoffice.granby.ca-443.png](screenshots/https-hdvsrvipoffice.granby.ca-443.png) |
@@ -118,6 +121,7 @@
 | ![Thumbnail](thumbnails/https-osx.ville.granby.qc.ca-443.png) | [https-osx.ville.granby.qc.ca-443.png](screenshots/https-osx.ville.granby.qc.ca-443.png) |
 | ![Thumbnail](thumbnails/https-portail.cinlb.org-443.png) | [https-portail.cinlb.org-443.png](screenshots/https-portail.cinlb.org-443.png) |
 | ![Thumbnail](thumbnails/https-portail.cinlb.org-8443.png) | [https-portail.cinlb.org-8443.png](screenshots/https-portail.cinlb.org-8443.png) |
+| ![Thumbnail](thumbnails/https-preprod.tourismegranby.com-443.png) | [https-preprod.tourismegranby.com-443.png](screenshots/https-preprod.tourismegranby.com-443.png) |
 | ![Thumbnail](thumbnails/https-s27-14.ville.granby.qc.ca-443.png) | [https-s27-14.ville.granby.qc.ca-443.png](screenshots/https-s27-14.ville.granby.qc.ca-443.png) |
 | ![Thumbnail](thumbnails/https-s27-41.ville.granby.qc.ca-443.png) | [https-s27-41.ville.granby.qc.ca-443.png](screenshots/https-s27-41.ville.granby.qc.ca-443.png) |
 | ![Thumbnail](thumbnails/https-s27-42.ville.granby.qc.ca-443.png) | [https-s27-42.ville.granby.qc.ca-443.png](screenshots/https-s27-42.ville.granby.qc.ca-443.png) |
@@ -135,7 +139,9 @@
 | ![Thumbnail](thumbnails/https-webdisk.granbymultisports.ca-443.png) | [https-webdisk.granbymultisports.ca-443.png](screenshots/https-webdisk.granbymultisports.ca-443.png) |
 | ![Thumbnail](thumbnails/https-webmail.granby.ca-443.png) | [https-webmail.granby.ca-443.png](screenshots/https-webmail.granby.ca-443.png) |
 | ![Thumbnail](thumbnails/https-webmail.granbymultisports.ca-443.png) | [https-webmail.granbymultisports.ca-443.png](screenshots/https-webmail.granbymultisports.ca-443.png) |
+| ![Thumbnail](thumbnails/https-webmail.ville.granby.qc.ca-443.png) | [https-webmail.ville.granby.qc.ca-443.png](screenshots/https-webmail.ville.granby.qc.ca-443.png) |
 | ![Thumbnail](thumbnails/https-www.biblio.granby.ca-443.png) | [https-www.biblio.granby.ca-443.png](screenshots/https-www.biblio.granby.ca-443.png) |
+| ![Thumbnail](thumbnails/https-www.biblio.ville.granby.qc.ca-443.png) | [https-www.biblio.ville.granby.qc.ca-443.png](screenshots/https-www.biblio.ville.granby.qc.ca-443.png) |
 | ![Thumbnail](thumbnails/https-www.cinlb.org-8443.png) | [https-www.cinlb.org-8443.png](screenshots/https-www.cinlb.org-8443.png) |
 | ![Thumbnail](thumbnails/https-www.genealogiequebec.com.ezproxy.granby.ca-443.png) | [https-www.genealogiequebec.com.ezproxy.granby.ca-443.png](screenshots/https-www.genealogiequebec.com.ezproxy.granby.ca-443.png) |
 | ![Thumbnail](thumbnails/https-www.genealogiequebec.com.ezproxy.ville.granby.qc.ca-443.png) | [https-www.genealogiequebec.com.ezproxy.ville.granby.qc.ca-443.png](screenshots/https-www.genealogiequebec.com.ezproxy.ville.granby.qc.ca-443.png) |
@@ -145,3 +151,4 @@
 | ![Thumbnail](thumbnails/https-www.prdh-igd.com.ezproxy.granby.ca-443.png) | [https-www.prdh-igd.com.ezproxy.granby.ca-443.png](screenshots/https-www.prdh-igd.com.ezproxy.granby.ca-443.png) |
 | ![Thumbnail](thumbnails/https-www.rbdigital.com.ezproxy.granby.ca-443.png) | [https-www.rbdigital.com.ezproxy.granby.ca-443.png](screenshots/https-www.rbdigital.com.ezproxy.granby.ca-443.png) |
 | ![Thumbnail](thumbnails/https-www.rbdigital.com.ezproxy.ville.granby.qc.ca-443.png) | [https-www.rbdigital.com.ezproxy.ville.granby.qc.ca-443.png](screenshots/https-www.rbdigital.com.ezproxy.ville.granby.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-www.vccgranby.org-443.png) | [https-www.vccgranby.org-443.png](screenshots/https-www.vccgranby.org-443.png) |
