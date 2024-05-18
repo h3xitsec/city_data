@@ -11,7 +11,19 @@
 |Services|7|
 |Ips|4|
 
-Updated: 20240517T204720
+*Generated: 2024-05-18 @ 12:47:21*
+
+## Scope
+
+<details>
+  <summary>In Scope</summary>
+
+- *.nicolet.ca
+- nicolet.ca
+
+</details>
+
+## Assets
 
 <details>
   <summary>URLs</summary>

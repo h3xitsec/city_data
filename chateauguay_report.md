@@ -11,7 +11,19 @@
 |Services|8|
 |Ips|17|
 
-Updated: 20240517T204720
+*Generated: 2024-05-18 @ 12:47:21*
+
+## Scope
+
+<details>
+  <summary>In Scope</summary>
+
+- *.chateauguay.qc.ca
+- chateauguay.qc.ca
+
+</details>
+
+## Assets
 
 <details>
   <summary>URLs</summary>

@@ -11,7 +11,19 @@
 |Services|4|
 |Ips|3|
 
-Updated: 20240517T204720
+*Generated: 2024-05-18 @ 12:47:21*
+
+## Scope
+
+<details>
+  <summary>In Scope</summary>
+
+- *.chibougamau.qc.ca
+- chibougamau.qc.ca
+
+</details>
+
+## Assets
 
 <details>
   <summary>URLs</summary>

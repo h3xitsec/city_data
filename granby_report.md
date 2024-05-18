@@ -11,7 +11,53 @@
 |Services|99|
 |Ips|129|
 
-Updated: 20240517T204720
+*Generated: 2024-05-18 @ 12:47:21*
+
+## Scope
+
+<details>
+  <summary>In Scope</summary>
+
+- *.jagranby.com
+- *.villegranby.net
+- *.granbymultisport.com
+- *.ville.granby.qc.ca
+- *.vccgranby.org
+- *.palace.qc.ca
+- *.tourismegranby.com
+- *.granbymultisports.com
+- *.gmsgranby.org
+- *.granby.ca
+- *.complexeartopex.com
+- *.granbymultisports.org
+- *.cinlb.org
+- *.couleursurbaines.com
+- *.couleursurbaines.ca
+- *.cdctgranbyregion.com
+- *.granbymultisport.ca
+- *.granbymultisports.ca
+- jagranby.com
+- villegranby.net
+- granbymultisport.com
+- ville.granby.qc.ca
+- vccgranby.org
+- palace.qc.ca
+- tourismegranby.com
+- granbymultisports.com
+- gmsgranby.org
+- granby.ca
+- complexeartopex.com
+- granbymultisports.org
+- cinlb.org
+- couleursurbaines.com
+- couleursurbaines.ca
+- cdctgranbyregion.com
+- granbymultisport.ca
+- granbymultisports.ca
+
+</details>
+
+## Assets
 
 <details>
   <summary>URLs</summary>

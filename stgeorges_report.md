@@ -11,7 +11,25 @@
 |Services|10|
 |Ips|16|
 
-Updated: 20240517T204720
+*Generated: 2024-05-18 @ 12:47:21*
+
+## Scope
+
+<details>
+  <summary>In Scope</summary>
+
+- *.saint-georges.ca
+- saint-georges.ca
+
+</details>
+
+<details>
+  <summary>Out of Scope</summary>
+
+- www.saint-georges.ca
+
+</details>
+## Assets
 
 <details>
   <summary>URLs</summary>
