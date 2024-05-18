@@ -1,0 +1,19 @@
+# Screenshots
+| Thumbnail | File |
+| --- | --- |
+| ![Thumbnail](thumbnails/http-biblio.ville.chateauguay.qc.ca-80.png) | [http-biblio.ville.chateauguay.qc.ca-80.png](screenshots/http-biblio.ville.chateauguay.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-guide.ville.chateauguay.qc.ca-80.png) | [http-guide.ville.chateauguay.qc.ca-80.png](screenshots/http-guide.ville.chateauguay.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-incendie-web.ville.chateauguay.qc.ca-80.png) | [http-incendie-web.ville.chateauguay.qc.ca-80.png](screenshots/http-incendie-web.ville.chateauguay.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-mondossier.ville.chateauguay.qc.ca-80.png) | [http-mondossier.ville.chateauguay.qc.ca-80.png](screenshots/http-mondossier.ville.chateauguay.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-ville.chateauguay.qc.ca-80.png) | [http-ville.chateauguay.qc.ca-80.png](screenshots/http-ville.chateauguay.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-www.guide.ville.chateauguay.qc.ca-80.png) | [http-www.guide.ville.chateauguay.qc.ca-80.png](screenshots/http-www.guide.ville.chateauguay.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-www.ville.chateauguay.qc.ca-80.png) | [http-www.ville.chateauguay.qc.ca-80.png](screenshots/http-www.ville.chateauguay.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/https-access-dti.ville.chateauguay.qc.ca-443.png) | [https-access-dti.ville.chateauguay.qc.ca-443.png](screenshots/https-access-dti.ville.chateauguay.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-biblio.ville.chateauguay.qc.ca-443.png) | [https-biblio.ville.chateauguay.qc.ca-443.png](screenshots/https-biblio.ville.chateauguay.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-csp.ville.chateauguay.qc.ca-443.png) | [https-csp.ville.chateauguay.qc.ca-443.png](screenshots/https-csp.ville.chateauguay.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-guide.ville.chateauguay.qc.ca-443.png) | [https-guide.ville.chateauguay.qc.ca-443.png](screenshots/https-guide.ville.chateauguay.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-mondossier.ville.chateauguay.qc.ca-443.png) | [https-mondossier.ville.chateauguay.qc.ca-443.png](screenshots/https-mondossier.ville.chateauguay.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-ptr.ville.chateauguay.qc.ca-443.png) | [https-ptr.ville.chateauguay.qc.ca-443.png](screenshots/https-ptr.ville.chateauguay.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-ville.chateauguay.qc.ca-443.png) | [https-ville.chateauguay.qc.ca-443.png](screenshots/https-ville.chateauguay.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-www.guide.ville.chateauguay.qc.ca-443.png) | [https-www.guide.ville.chateauguay.qc.ca-443.png](screenshots/https-www.guide.ville.chateauguay.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-www.ville.chateauguay.qc.ca-443.png) | [https-www.ville.chateauguay.qc.ca-443.png](screenshots/https-www.ville.chateauguay.qc.ca-443.png) |

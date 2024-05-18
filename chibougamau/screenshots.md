@@ -1,0 +1,19 @@
+# Screenshots
+| Thumbnail | File |
+| --- | --- |
+| ![Thumbnail](thumbnails/http-chiboujmap.ville.chibougamau.qc.ca-80.png) | [http-chiboujmap.ville.chibougamau.qc.ca-80.png](screenshots/http-chiboujmap.ville.chibougamau.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-chibouuel.ville.chibougamau.qc.ca-80.png) | [http-chibouuel.ville.chibougamau.qc.ca-80.png](screenshots/http-chibouuel.ville.chibougamau.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-chibouventi.ville.chibougamau.qc.ca-80.png) | [http-chibouventi.ville.chibougamau.qc.ca-80.png](screenshots/http-chibouventi.ville.chibougamau.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-ville.chibougamau.qc.ca-80.png) | [http-ville.chibougamau.qc.ca-80.png](screenshots/http-ville.chibougamau.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-www.chiboujmap.ville.chibougamau.qc.ca-80.png) | [http-www.chiboujmap.ville.chibougamau.qc.ca-80.png](screenshots/http-www.chiboujmap.ville.chibougamau.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-www.chibouuel.ville.chibougamau.qc.ca-80.png) | [http-www.chibouuel.ville.chibougamau.qc.ca-80.png](screenshots/http-www.chibouuel.ville.chibougamau.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-www.chibouventi.ville.chibougamau.qc.ca-80.png) | [http-www.chibouventi.ville.chibougamau.qc.ca-80.png](screenshots/http-www.chibouventi.ville.chibougamau.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/http-www.ville.chibougamau.qc.ca-80.png) | [http-www.ville.chibougamau.qc.ca-80.png](screenshots/http-www.ville.chibougamau.qc.ca-80.png) |
+| ![Thumbnail](thumbnails/https-chiboujmap.ville.chibougamau.qc.ca-443.png) | [https-chiboujmap.ville.chibougamau.qc.ca-443.png](screenshots/https-chiboujmap.ville.chibougamau.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-chibouuel.ville.chibougamau.qc.ca-443.png) | [https-chibouuel.ville.chibougamau.qc.ca-443.png](screenshots/https-chibouuel.ville.chibougamau.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-chibouventi.ville.chibougamau.qc.ca-443.png) | [https-chibouventi.ville.chibougamau.qc.ca-443.png](screenshots/https-chibouventi.ville.chibougamau.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-ville.chibougamau.qc.ca-443.png) | [https-ville.chibougamau.qc.ca-443.png](screenshots/https-ville.chibougamau.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-www.chiboujmap.ville.chibougamau.qc.ca-443.png) | [https-www.chiboujmap.ville.chibougamau.qc.ca-443.png](screenshots/https-www.chiboujmap.ville.chibougamau.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-www.chibouuel.ville.chibougamau.qc.ca-443.png) | [https-www.chibouuel.ville.chibougamau.qc.ca-443.png](screenshots/https-www.chibouuel.ville.chibougamau.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-www.chibouventi.ville.chibougamau.qc.ca-443.png) | [https-www.chibouventi.ville.chibougamau.qc.ca-443.png](screenshots/https-www.chibouventi.ville.chibougamau.qc.ca-443.png) |
+| ![Thumbnail](thumbnails/https-www.ville.chibougamau.qc.ca-443.png) | [https-www.ville.chibougamau.qc.ca-443.png](screenshots/https-www.ville.chibougamau.qc.ca-443.png) |
