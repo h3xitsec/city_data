@@ -11,7 +11,7 @@
 |Services|2|
 |Ips|1|
 
-Updated: 20240517T202118
+Updated: 20240517T204720
 
 <details>
   <summary>URLs</summary>
@@ -30,8 +30,8 @@ Updated: 20240517T202118
 
 | Domain | Resolved | Alive | Last HTTP Test | IPs | Found Date |
 |--------|----------|-------|----------------|-----|------------|
-| tourisme.ville.gaspe.qc.ca | true | true | never | 72.10.175.227 | 20240516 | 
-| ville.gaspe.qc.ca | true | true | never | 72.10.175.227 | 20240516 | 
+| tourisme.ville.gaspe.qc.ca | true | true | 20240517 | 72.10.175.227 | 20240516 | 
+| ville.gaspe.qc.ca | true | true | 20240517 | 72.10.175.227 | 20240516 | 
 
 </details>
 

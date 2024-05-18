@@ -11,7 +11,7 @@
 |Services|10|
 |Ips|16|
 
-Updated: 20240517T202118
+Updated: 20240517T204720
 
 <details>
   <summary>URLs</summary>
@@ -53,26 +53,26 @@ Updated: 20240517T202118
 
 | Domain | Resolved | Alive | Last HTTP Test | IPs | Found Date |
 |--------|----------|-------|----------------|-----|------------|
-| autodiscover.saint-georges.ca | true | true | never | 142.169.245.26 | 20240516 | 
-| biblio-images.saint-georges.ca | true | true | never | 142.169.245.21 | 20240516 | 
-| biblio-intranet.saint-georges.ca | true | true | never | 142.169.245.21 | 20240516 | 
-| biblio.saint-georges.ca | true | true | never | 142.169.245.21 | 20240516 | 
-| ccmf.saint-georges.ca | true | true | never | 142.169.245.17 | 20240516 | 
-| crl.saint-georges.ca | true | true | never | 142.169.245.26 | 20240516 | 
-| csp-mrc.saint-georges.ca | true | true | never | 142.169.245.14 | 20240516 | 
-| csp.saint-georges.ca | true | true | never | 142.169.245.18 | 20240516 | 
-| geomatique.saint-georges.ca | true | true | never | 142.169.245.26 | 20240516 | 
-| kohatest-intranet.saint-georges.ca | true | true | never | 142.169.245.21 | 20240516 | 
-| kohatest.saint-georges.ca | true | true | never | 142.169.245.21 | 20240516 | 
-| loisirs.saint-georges.ca | true | true | never | 142.169.245.17 | 20240516 | 
-| mx3.saint-georges.ca | true | false | never | 142.169.245.11 | 20240516 | 
-| mx4.saint-georges.ca | true | false | never | 142.169.245.12 | 20240516 | 
-| owa.saint-georges.ca | true | true | never | 142.169.245.26 | 20240516 | 
-| partage.saint-georges.ca | true | true | never | 142.169.245.27 | 20240516 | 
-| saint-georges.ca | true | true | never | 66.70.215.45 | 20240516 | 
-| ski.saint-georges.ca | true | true | never | 142.169.245.17 | 20240516 | 
-| tourisme.saint-georges.ca | true | true | never | 142.169.245.17 | 20240516 | 
-| vpn.saint-georges.ca | true | false | never | 142.169.245.2 | 20240516 | 
+| autodiscover.saint-georges.ca | true | true | 20240517 | 142.169.245.26 | 20240516 | 
+| biblio-images.saint-georges.ca | true | true | 20240517 | 142.169.245.21 | 20240516 | 
+| biblio-intranet.saint-georges.ca | true | true | 20240517 | 142.169.245.21 | 20240516 | 
+| biblio.saint-georges.ca | true | true | 20240517 | 142.169.245.21 | 20240516 | 
+| ccmf.saint-georges.ca | true | true | 20240517 | 142.169.245.17 | 20240516 | 
+| crl.saint-georges.ca | true | true | 20240517 | 142.169.245.26 | 20240516 | 
+| csp-mrc.saint-georges.ca | true | true | 20240517 | 142.169.245.14 | 20240516 | 
+| csp.saint-georges.ca | true | true | 20240517 | 142.169.245.18 | 20240516 | 
+| geomatique.saint-georges.ca | true | true | 20240517 | 142.169.245.26 | 20240516 | 
+| kohatest-intranet.saint-georges.ca | true | true | 20240517 | 142.169.245.21 | 20240516 | 
+| kohatest.saint-georges.ca | true | true | 20240517 | 142.169.245.21 | 20240516 | 
+| loisirs.saint-georges.ca | true | true | 20240517 | 142.169.245.17 | 20240516 | 
+| mx3.saint-georges.ca | true | false | 20240517 | 142.169.245.11 | 20240516 | 
+| mx4.saint-georges.ca | true | false | 20240517 | 142.169.245.12 | 20240516 | 
+| owa.saint-georges.ca | true | true | 20240517 | 142.169.245.26 | 20240516 | 
+| partage.saint-georges.ca | true | true | 20240517 | 142.169.245.27 | 20240516 | 
+| saint-georges.ca | true | true | 20240517 | 66.70.215.45 | 20240516 | 
+| ski.saint-georges.ca | true | true | 20240517 | 142.169.245.17 | 20240516 | 
+| tourisme.saint-georges.ca | true | true | 20240517 | 142.169.245.17 | 20240516 | 
+| vpn.saint-georges.ca | true | false | 20240517 | 142.169.245.2 | 20240516 | 
 
 </details>
 

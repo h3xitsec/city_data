@@ -11,7 +11,7 @@
 |Services|4|
 |Ips|3|
 
-Updated: 20240517T202118
+Updated: 20240517T204720
 
 <details>
   <summary>URLs</summary>
@@ -42,16 +42,16 @@ Updated: 20240517T202118
 
 | Domain | Resolved | Alive | Last HTTP Test | IPs | Found Date |
 |--------|----------|-------|----------------|-----|------------|
-| autoverification.ville.chibougamau.qc.ca | true | false | never | 142.202.213.35 | 20240516 | 
-| chiboujmap.ville.chibougamau.qc.ca | true | true | never | 142.202.213.36 | 20240516 | 
-| chibouuel.ville.chibougamau.qc.ca | true | true | never | 142.202.213.36 | 20240516 | 
-| chibouventi.ville.chibougamau.qc.ca | true | true | never | 142.202.213.36 | 20240516 | 
-| prevention.ville.chibougamau.qc.ca | true | false | never | 142.202.213.35 | 20240516 | 
-| ville.chibougamau.qc.ca | true | true | never | 15.222.192.230 | 20240516 | 
-| www.chiboujmap.ville.chibougamau.qc.ca | true | true | never | 142.202.213.36 | 20240516 | 
-| www.chibouuel.ville.chibougamau.qc.ca | true | true | never | 142.202.213.36 | 20240516 | 
-| www.chibouventi.ville.chibougamau.qc.ca | true | true | never | 142.202.213.36 | 20240516 | 
-| www.ville.chibougamau.qc.ca | true | true | never | 15.222.192.230 | 20240516 | 
+| autoverification.ville.chibougamau.qc.ca | true | false | 20240517 | 142.202.213.35 | 20240516 | 
+| chiboujmap.ville.chibougamau.qc.ca | true | true | 20240517 | 142.202.213.36 | 20240516 | 
+| chibouuel.ville.chibougamau.qc.ca | true | true | 20240517 | 142.202.213.36 | 20240516 | 
+| chibouventi.ville.chibougamau.qc.ca | true | true | 20240517 | 142.202.213.36 | 20240516 | 
+| prevention.ville.chibougamau.qc.ca | true | false | 20240517 | 142.202.213.35 | 20240516 | 
+| ville.chibougamau.qc.ca | true | true | 20240517 | 15.222.192.230 | 20240516 | 
+| www.chiboujmap.ville.chibougamau.qc.ca | true | true | 20240517 | 142.202.213.36 | 20240516 | 
+| www.chibouuel.ville.chibougamau.qc.ca | true | true | 20240517 | 142.202.213.36 | 20240516 | 
+| www.chibouventi.ville.chibougamau.qc.ca | true | true | 20240517 | 142.202.213.36 | 20240516 | 
+| www.ville.chibougamau.qc.ca | true | true | 20240517 | 15.222.192.230 | 20240516 | 
 
 </details>
 

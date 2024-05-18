@@ -11,7 +11,7 @@
 |Services|7|
 |Ips|4|
 
-Updated: 20240517T202118
+Updated: 20240517T204720
 
 <details>
   <summary>URLs</summary>
@@ -39,13 +39,13 @@ Updated: 20240517T202118
 
 | Domain | Resolved | Alive | Last HTTP Test | IPs | Found Date |
 |--------|----------|-------|----------------|-----|------------|
-| activites.nicolet.ca | true | true | never | 67.43.238.178 | 20240516 | 
-| ecomaritime.nicolet.ca | true | true | never | 67.43.238.178 | 20240516 | 
-| jmap.nicolet.ca | true | true | never | 69.51.201.250 | 20240516 | 
-| mail.nicolet.ca | true | false | never | 69.51.201.250 | 20240516 | 
-| nicolet.ca | true | true | never | 192.252.132.154 | 20240516 | 
-| www.activites.nicolet.ca | true | true | never | 67.43.238.178 | 20240516 | 
-| www.nicolet.ca | true | true | never | 192.252.132.154 | 20240516 | 
+| activites.nicolet.ca | true | true | 20240517 | 67.43.238.178 | 20240516 | 
+| ecomaritime.nicolet.ca | true | true | 20240517 | 67.43.238.178 | 20240516 | 
+| jmap.nicolet.ca | true | true | 20240517 | 69.51.201.250 | 20240516 | 
+| mail.nicolet.ca | true | false | 20240517 | 69.51.201.250 | 20240516 | 
+| nicolet.ca | true | true | 20240517 | 192.252.132.154 | 20240516 | 
+| www.activites.nicolet.ca | true | true | 20240517 | 67.43.238.178 | 20240516 | 
+| www.nicolet.ca | true | true | 20240517 | 192.252.132.154 | 20240516 | 
 
 </details>
 

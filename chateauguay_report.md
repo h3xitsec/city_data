@@ -11,7 +11,7 @@
 |Services|8|
 |Ips|17|
 
-Updated: 20240517T202118
+Updated: 20240517T204720
 
 <details>
   <summary>URLs</summary>
@@ -42,23 +42,23 @@ Updated: 20240517T202118
 
 | Domain | Resolved | Alive | Last HTTP Test | IPs | Found Date |
 |--------|----------|-------|----------------|-----|------------|
-| acces.ville.chateauguay.qc.ca | true | false | never | 207.35.210.146 | 20240516 | 
-| access-dti.ville.chateauguay.qc.ca | true | true | never | 67.69.135.248 | 20240516 | 
-| autodiscover.ville.chateauguay.qc.ca | true | false | never | 67.69.135.246 | 20240516 | 
-| biblio.ville.chateauguay.qc.ca | true | true | never | 151.101.66.159 | 20240516 | 
-| csp.ville.chateauguay.qc.ca | true | true | never | 67.69.135.252 | 20240516 | 
-| guide.ville.chateauguay.qc.ca | true | true | never | 151.101.66.159 | 20240516 | 
-| incendie-web.ville.chateauguay.qc.ca | true | true | never | 207.35.210.151 | 20240516 | 
-| legacy.ville.chateauguay.qc.ca | true | false | never | 199.243.181.139 | 20240516 | 
-| liencrpq.ville.chateauguay.qc.ca | true | false | never | 67.69.135.245 | 20240516 | 
-| mondossier.ville.chateauguay.qc.ca | true | true | never | 23.205.255.174,23.205.255.141 | 20240516 | 
-| owa.ville.chateauguay.qc.ca | true | false | never | 67.69.135.246 | 20240516 | 
-| ptr.ville.chateauguay.qc.ca | true | true | never | 199.243.181.138 | 20240516 | 
-| smtp.ville.chateauguay.qc.ca | true | false | never | 199.243.181.141 | 20240516 | 
-| u-sismique.ville.chateauguay.qc.ca | true | false | never | 67.69.135.251 | 20240516 | 
-| ville.chateauguay.qc.ca | true | true | never | 151.101.66.159 | 20240516 | 
-| www.guide.ville.chateauguay.qc.ca | true | true | never | 151.101.66.159 | 20240516 | 
-| www.ville.chateauguay.qc.ca | true | true | never | 151.101.66.159 | 20240516 | 
+| acces.ville.chateauguay.qc.ca | true | false | 20240517 | 207.35.210.146 | 20240516 | 
+| access-dti.ville.chateauguay.qc.ca | true | true | 20240517 | 67.69.135.248 | 20240516 | 
+| autodiscover.ville.chateauguay.qc.ca | true | false | 20240517 | 67.69.135.246 | 20240516 | 
+| biblio.ville.chateauguay.qc.ca | true | true | 20240517 | 151.101.66.159 | 20240516 | 
+| csp.ville.chateauguay.qc.ca | true | true | 20240517 | 67.69.135.252 | 20240516 | 
+| guide.ville.chateauguay.qc.ca | true | true | 20240517 | 151.101.66.159 | 20240516 | 
+| incendie-web.ville.chateauguay.qc.ca | true | true | 20240517 | 207.35.210.151 | 20240516 | 
+| legacy.ville.chateauguay.qc.ca | true | false | 20240517 | 199.243.181.139 | 20240516 | 
+| liencrpq.ville.chateauguay.qc.ca | true | false | 20240517 | 67.69.135.245 | 20240516 | 
+| mondossier.ville.chateauguay.qc.ca | true | true | 20240517 | 23.205.255.174,23.205.255.141 | 20240516 | 
+| owa.ville.chateauguay.qc.ca | true | false | 20240517 | 67.69.135.246 | 20240516 | 
+| ptr.ville.chateauguay.qc.ca | true | true | 20240517 | 199.243.181.138 | 20240516 | 
+| smtp.ville.chateauguay.qc.ca | true | false | 20240517 | 199.243.181.141 | 20240516 | 
+| u-sismique.ville.chateauguay.qc.ca | true | false | 20240517 | 67.69.135.251 | 20240516 | 
+| ville.chateauguay.qc.ca | true | true | 20240517 | 151.101.66.159 | 20240516 | 
+| www.guide.ville.chateauguay.qc.ca | true | true | 20240517 | 151.101.66.159 | 20240516 | 
+| www.ville.chateauguay.qc.ca | true | true | 20240517 | 151.101.66.159 | 20240516 | 
 
 </details>
 

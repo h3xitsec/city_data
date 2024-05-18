@@ -11,7 +11,7 @@
 |Services|13|
 |Ips|13|
 
-Updated: 20240517T202118
+Updated: 20240517T204720
 
 <details>
   <summary>URLs</summary>
@@ -54,27 +54,27 @@ Updated: 20240517T202118
 
 | Domain | Resolved | Alive | Last HTTP Test | IPs | Found Date |
 |--------|----------|-------|----------------|-----|------------|
-| ancien.ville.varennes.qc.ca | true | true | never | 184.107.112.53 | 20240516 | 
-| background.ville.varennes.qc.ca | true | false | never | 67.69.11.57 | 20240516 | 
-| benevole.ville.varennes.qc.ca | true | true | never | 192.99.206.73 | 20240516 | 
-| biblio.ville.varennes.qc.ca | true | true | never | 67.69.11.59 | 20240516 | 
-| cpanel.ville.varennes.qc.ca | true | true | never | 184.107.112.53 | 20240516 | 
-| fortiems.ville.varennes.qc.ca | true | false | never | 67.69.11.56 | 20240516 | 
-| mail.ville.varennes.qc.ca | true | true | never | 67.69.11.55 | 20240516 | 
-| mondopc.ville.varennes.qc.ca | true | false | never | 67.69.11.62 | 20240516 | 
-| nuage.ville.varennes.qc.ca | true | false | never | 67.69.11.51 | 20240516 | 
-| proxy.ville.varennes.qc.ca | true | true | never | 67.69.11.59 | 20240516 | 
-| smtp.ville.varennes.qc.ca | true | true | never | 67.69.11.58,45.73.13.234 | 20240516 | 
-| smtp1.ville.varennes.qc.ca | true | true | never | 67.69.11.58 | 20240516 | 
-| smtp2.ville.varennes.qc.ca | true | true | never | 45.73.13.234 | 20240516 | 
-| src.ville.varennes.qc.ca | true | true | never | 67.69.11.59 | 20240516 | 
-| srvewedgehdv.ville.varennes.qc.ca | true | true | never | 67.69.11.60 | 20240516 | 
-| supportinfo.ville.varennes.qc.ca | true | false | never | 67.69.11.53 | 20240516 | 
-| ville.varennes.qc.ca | true | true | never | 199.115.124.214 | 20240516 | 
-| webdisk.ville.varennes.qc.ca | true | true | never | 184.107.112.53 | 20240516 | 
-| webmail.ville.varennes.qc.ca | true | true | never | 184.107.112.53 | 20240516 | 
-| www.ancien.ville.varennes.qc.ca | true | true | never | 184.107.112.53 | 20240516 | 
-| www.ville.varennes.qc.ca | true | true | never | 199.115.124.214 | 20240516 | 
+| ancien.ville.varennes.qc.ca | true | true | 20240517 | 184.107.112.53 | 20240516 | 
+| background.ville.varennes.qc.ca | true | false | 20240517 | 67.69.11.57 | 20240516 | 
+| benevole.ville.varennes.qc.ca | true | true | 20240517 | 192.99.206.73 | 20240516 | 
+| biblio.ville.varennes.qc.ca | true | true | 20240517 | 67.69.11.59 | 20240516 | 
+| cpanel.ville.varennes.qc.ca | true | true | 20240517 | 184.107.112.53 | 20240516 | 
+| fortiems.ville.varennes.qc.ca | true | false | 20240517 | 67.69.11.56 | 20240516 | 
+| mail.ville.varennes.qc.ca | true | true | 20240517 | 67.69.11.55 | 20240516 | 
+| mondopc.ville.varennes.qc.ca | true | false | 20240517 | 67.69.11.62 | 20240516 | 
+| nuage.ville.varennes.qc.ca | true | false | 20240517 | 67.69.11.51 | 20240516 | 
+| proxy.ville.varennes.qc.ca | true | true | 20240517 | 67.69.11.59 | 20240516 | 
+| smtp.ville.varennes.qc.ca | true | true | 20240517 | 67.69.11.58,45.73.13.234 | 20240516 | 
+| smtp1.ville.varennes.qc.ca | true | true | 20240517 | 67.69.11.58 | 20240516 | 
+| smtp2.ville.varennes.qc.ca | true | true | 20240517 | 45.73.13.234 | 20240516 | 
+| src.ville.varennes.qc.ca | true | true | 20240517 | 67.69.11.59 | 20240516 | 
+| srvewedgehdv.ville.varennes.qc.ca | true | true | 20240517 | 67.69.11.60 | 20240516 | 
+| supportinfo.ville.varennes.qc.ca | true | false | 20240517 | 67.69.11.53 | 20240516 | 
+| ville.varennes.qc.ca | true | true | 20240517 | 199.115.124.214 | 20240516 | 
+| webdisk.ville.varennes.qc.ca | true | true | 20240517 | 184.107.112.53 | 20240516 | 
+| webmail.ville.varennes.qc.ca | true | true | 20240517 | 184.107.112.53 | 20240516 | 
+| www.ancien.ville.varennes.qc.ca | true | true | 20240517 | 184.107.112.53 | 20240516 | 
+| www.ville.varennes.qc.ca | true | true | 20240517 | 199.115.124.214 | 20240516 | 
 
 </details>
 
