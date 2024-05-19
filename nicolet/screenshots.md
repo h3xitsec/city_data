@@ -1,12 +1,12 @@
 # Grouped Screenshots
 | Thumbnail | File |
 | --- | --- |
-| <a href='groups_samples/1_ungrouped_https-jmap.nicolet.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-jmap.nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped</a> |
-| <a href='groups_samples/1_ungrouped_https-jmap.nicolet.ca-8443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-jmap.nicolet.ca-8443.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped</a> |
-| <a href='groups_samples/1_ungrouped_https-jmap.nicolet.ca-88.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-jmap.nicolet.ca-88.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped</a> |
-| <a href='groups_samples/2_group_2_https-nicolet.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/2_group_2_https-nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/2_group_2' target='_blank'>2_group_2</a> |
-| <a href='groups_samples/2_group_4_https-ecomaritime.nicolet.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/2_group_4_https-ecomaritime.nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/2_group_4' target='_blank'>2_group_4</a> |
-| <a href='groups_samples/4_group_1_http-www.activites.nicolet.ca-80.png' target='_blank'><img src='groups_samples/thumbnails/4_group_1_http-www.activites.nicolet.ca-80.png' alt='Thumbnail' /></a> | <a href='grouped/4_group_1' target='_blank'>4_group_1</a> |
+| <a href='groups_samples/1_ungrouped_https-jmap.nicolet.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-jmap.nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped<br>1 similars</a> |
+| <a href='groups_samples/1_ungrouped_https-jmap.nicolet.ca-8443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-jmap.nicolet.ca-8443.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped<br>1 similars</a> |
+| <a href='groups_samples/1_ungrouped_https-jmap.nicolet.ca-88.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-jmap.nicolet.ca-88.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped<br>1 similars</a> |
+| <a href='groups_samples/2_group_2_https-nicolet.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/2_group_2_https-nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/2_group_2' target='_blank'>group_2<br>2 similars</a> |
+| <a href='groups_samples/2_group_4_https-ecomaritime.nicolet.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/2_group_4_https-ecomaritime.nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/2_group_4' target='_blank'>group_4<br>2 similars</a> |
+| <a href='groups_samples/4_group_1_http-www.activites.nicolet.ca-80.png' target='_blank'><img src='groups_samples/thumbnails/4_group_1_http-www.activites.nicolet.ca-80.png' alt='Thumbnail' /></a> | <a href='grouped/4_group_1' target='_blank'>group_1<br>4 similars</a> |
 
 # Screenshots
 | Thumbnail | File |

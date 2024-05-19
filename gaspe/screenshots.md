@@ -1,9 +1,9 @@
 # Grouped Screenshots
 | Thumbnail | File |
 | --- | --- |
-| <a href='groups_samples/1_ungrouped_http-tourisme.ville.gaspe.qc.ca-80.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_http-tourisme.ville.gaspe.qc.ca-80.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped</a> |
-| <a href='groups_samples/1_ungrouped_https-tourisme.ville.gaspe.qc.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-tourisme.ville.gaspe.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped</a> |
-| <a href='groups_samples/1_ungrouped_https-ville.gaspe.qc.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-ville.gaspe.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped</a> |
+| <a href='groups_samples/1_ungrouped_http-tourisme.ville.gaspe.qc.ca-80.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_http-tourisme.ville.gaspe.qc.ca-80.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped<br>1 similars</a> |
+| <a href='groups_samples/1_ungrouped_https-tourisme.ville.gaspe.qc.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-tourisme.ville.gaspe.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped<br>1 similars</a> |
+| <a href='groups_samples/1_ungrouped_https-ville.gaspe.qc.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-ville.gaspe.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped<br>1 similars</a> |
 
 # Screenshots
 | Thumbnail | File |
