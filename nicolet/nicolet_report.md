@@ -11,7 +11,7 @@
 |Services|7|
 |Ips|4|
 
-*Generated: 2024-05-19 @ 00:30:23*
+*Generated: 2024-05-19 @ 01:12:25*
 
 ## Scope
 
@@ -19,7 +19,6 @@
   <summary>In Scope</summary>
 
 - *.nicolet.ca
-- nicolet.ca
 
 </details>
 
