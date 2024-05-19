@@ -1,11 +1,11 @@
 # Grouped Screenshots
 | Thumbnail | File |
 | --- | --- |
-| <a href='grouped/3_group_4' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_http-www.chibouventi.ville.chibougamau.qc.ca-80.png' alt='Thumbnail' /></a> | <a href='groups_samples/1_ungrouped_http-www.chibouventi.ville.chibougamau.qc.ca-80.png' target='_blank'>1_ungrouped_http-www.chibouventi.ville.chibougamau.qc.ca-80.png</a> |
-| <a href='grouped/3_group_4' target='_blank'><img src='groups_samples/thumbnails/3_group4_https-www.chibouventi.ville.chibougamau.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='groups_samples/3_group4_https-www.chibouventi.ville.chibougamau.qc.ca-443.png' target='_blank'>3_group4_https-www.chibouventi.ville.chibougamau.qc.ca-443.png</a> |
-| <a href='grouped/3_group_4' target='_blank'><img src='groups_samples/thumbnails/4_group2_https-chibouuel.ville.chibougamau.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='groups_samples/4_group2_https-chibouuel.ville.chibougamau.qc.ca-443.png' target='_blank'>4_group2_https-chibouuel.ville.chibougamau.qc.ca-443.png</a> |
-| <a href='grouped/3_group_4' target='_blank'><img src='groups_samples/thumbnails/4_group3_https-ville.chibougamau.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='groups_samples/4_group3_https-ville.chibougamau.qc.ca-443.png' target='_blank'>4_group3_https-ville.chibougamau.qc.ca-443.png</a> |
-| <a href='grouped/3_group_4' target='_blank'><img src='groups_samples/thumbnails/4_group5_http-chiboujmap.ville.chibougamau.qc.ca-80.png' alt='Thumbnail' /></a> | <a href='groups_samples/4_group5_http-chiboujmap.ville.chibougamau.qc.ca-80.png' target='_blank'>4_group5_http-chiboujmap.ville.chibougamau.qc.ca-80.png</a> |
+| <a href='grouped/1_ungrouped' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_http-www.chibouventi.ville.chibougamau.qc.ca-80.png' alt='Thumbnail' /></a> | <a href='groups_samples/1_ungrouped_http-www.chibouventi.ville.chibougamau.qc.ca-80.png' target='_blank'>1_ungrouped_http-www.chibouventi.ville.chibougamau.qc.ca-80.png</a> |
+| <a href='grouped/3_group4' target='_blank'><img src='groups_samples/thumbnails/3_group4_https-www.chibouventi.ville.chibougamau.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='groups_samples/3_group4_https-www.chibouventi.ville.chibougamau.qc.ca-443.png' target='_blank'>3_group4_https-www.chibouventi.ville.chibougamau.qc.ca-443.png</a> |
+| <a href='grouped/4_group2' target='_blank'><img src='groups_samples/thumbnails/4_group2_https-chibouuel.ville.chibougamau.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='groups_samples/4_group2_https-chibouuel.ville.chibougamau.qc.ca-443.png' target='_blank'>4_group2_https-chibouuel.ville.chibougamau.qc.ca-443.png</a> |
+| <a href='grouped/4_group3' target='_blank'><img src='groups_samples/thumbnails/4_group3_https-ville.chibougamau.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='groups_samples/4_group3_https-ville.chibougamau.qc.ca-443.png' target='_blank'>4_group3_https-ville.chibougamau.qc.ca-443.png</a> |
+| <a href='grouped/4_group5' target='_blank'><img src='groups_samples/thumbnails/4_group5_http-chiboujmap.ville.chibougamau.qc.ca-80.png' alt='Thumbnail' /></a> | <a href='groups_samples/4_group5_http-chiboujmap.ville.chibougamau.qc.ca-80.png' target='_blank'>4_group5_http-chiboujmap.ville.chibougamau.qc.ca-80.png</a> |
 
 # Screenshots
 | Thumbnail | File |
