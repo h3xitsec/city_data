@@ -1,14 +1,24 @@
+# Grouped Screenshots
+| Thumbnail | File |
+| --- | --- |
+| <a href='groups_samples/1_ungrouped_https-jmap.nicolet.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-jmap.nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='groups_samples/1_ungrouped_https-jmap.nicolet.ca-443.png' target='_blank'>1_ungrouped_https-jmap.nicolet.ca-443.png</a> |
+| <a href='groups_samples/1_ungrouped_https-jmap.nicolet.ca-8443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-jmap.nicolet.ca-8443.png' alt='Thumbnail' /></a> | <a href='groups_samples/1_ungrouped_https-jmap.nicolet.ca-8443.png' target='_blank'>1_ungrouped_https-jmap.nicolet.ca-8443.png</a> |
+| <a href='groups_samples/1_ungrouped_https-jmap.nicolet.ca-88.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-jmap.nicolet.ca-88.png' alt='Thumbnail' /></a> | <a href='groups_samples/1_ungrouped_https-jmap.nicolet.ca-88.png' target='_blank'>1_ungrouped_https-jmap.nicolet.ca-88.png</a> |
+| <a href='groups_samples/2_group2_https-nicolet.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/2_group2_https-nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='groups_samples/2_group2_https-nicolet.ca-443.png' target='_blank'>2_group2_https-nicolet.ca-443.png</a> |
+| <a href='groups_samples/2_group4_https-ecomaritime.nicolet.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/2_group4_https-ecomaritime.nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='groups_samples/2_group4_https-ecomaritime.nicolet.ca-443.png' target='_blank'>2_group4_https-ecomaritime.nicolet.ca-443.png</a> |
+| <a href='groups_samples/4_group1_http-www.activites.nicolet.ca-80.png' target='_blank'><img src='groups_samples/thumbnails/4_group1_http-www.activites.nicolet.ca-80.png' alt='Thumbnail' /></a> | <a href='groups_samples/4_group1_http-www.activites.nicolet.ca-80.png' target='_blank'>4_group1_http-www.activites.nicolet.ca-80.png</a> |
+
 # Screenshots
 | Thumbnail | File |
 | --- | --- |
-| ![Thumbnail](thumbnails/http-activites.nicolet.ca-80.png) | [http-activites.nicolet.ca-80.png](screenshots/http-activites.nicolet.ca-80.png) |
-| ![Thumbnail](thumbnails/http-ecomaritime.nicolet.ca-80.png) | [http-ecomaritime.nicolet.ca-80.png](screenshots/http-ecomaritime.nicolet.ca-80.png) |
-| ![Thumbnail](thumbnails/http-www.activites.nicolet.ca-80.png) | [http-www.activites.nicolet.ca-80.png](screenshots/http-www.activites.nicolet.ca-80.png) |
-| ![Thumbnail](thumbnails/https-activites.nicolet.ca-443.png) | [https-activites.nicolet.ca-443.png](screenshots/https-activites.nicolet.ca-443.png) |
-| ![Thumbnail](thumbnails/https-ecomaritime.nicolet.ca-443.png) | [https-ecomaritime.nicolet.ca-443.png](screenshots/https-ecomaritime.nicolet.ca-443.png) |
-| ![Thumbnail](thumbnails/https-jmap.nicolet.ca-443.png) | [https-jmap.nicolet.ca-443.png](screenshots/https-jmap.nicolet.ca-443.png) |
-| ![Thumbnail](thumbnails/https-jmap.nicolet.ca-8443.png) | [https-jmap.nicolet.ca-8443.png](screenshots/https-jmap.nicolet.ca-8443.png) |
-| ![Thumbnail](thumbnails/https-jmap.nicolet.ca-88.png) | [https-jmap.nicolet.ca-88.png](screenshots/https-jmap.nicolet.ca-88.png) |
-| ![Thumbnail](thumbnails/https-nicolet.ca-443.png) | [https-nicolet.ca-443.png](screenshots/https-nicolet.ca-443.png) |
-| ![Thumbnail](thumbnails/https-www.activites.nicolet.ca-443.png) | [https-www.activites.nicolet.ca-443.png](screenshots/https-www.activites.nicolet.ca-443.png) |
-| ![Thumbnail](thumbnails/https-www.nicolet.ca-443.png) | [https-www.nicolet.ca-443.png](screenshots/https-www.nicolet.ca-443.png) |
+| <a href='screenshots/http-activites.nicolet.ca-80.png' target='_blank'><img src='thumbnails/http-activites.nicolet.ca-80.png' alt='Thumbnail' /></a> | <a href='screenshots/http-activites.nicolet.ca-80.png' target='_blank'>http-activites.nicolet.ca-80.png</a> |
+| <a href='screenshots/http-ecomaritime.nicolet.ca-80.png' target='_blank'><img src='thumbnails/http-ecomaritime.nicolet.ca-80.png' alt='Thumbnail' /></a> | <a href='screenshots/http-ecomaritime.nicolet.ca-80.png' target='_blank'>http-ecomaritime.nicolet.ca-80.png</a> |
+| <a href='screenshots/http-www.activites.nicolet.ca-80.png' target='_blank'><img src='thumbnails/http-www.activites.nicolet.ca-80.png' alt='Thumbnail' /></a> | <a href='screenshots/http-www.activites.nicolet.ca-80.png' target='_blank'>http-www.activites.nicolet.ca-80.png</a> |
+| <a href='screenshots/https-activites.nicolet.ca-443.png' target='_blank'><img src='thumbnails/https-activites.nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='screenshots/https-activites.nicolet.ca-443.png' target='_blank'>https-activites.nicolet.ca-443.png</a> |
+| <a href='screenshots/https-ecomaritime.nicolet.ca-443.png' target='_blank'><img src='thumbnails/https-ecomaritime.nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='screenshots/https-ecomaritime.nicolet.ca-443.png' target='_blank'>https-ecomaritime.nicolet.ca-443.png</a> |
+| <a href='screenshots/https-jmap.nicolet.ca-443.png' target='_blank'><img src='thumbnails/https-jmap.nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='screenshots/https-jmap.nicolet.ca-443.png' target='_blank'>https-jmap.nicolet.ca-443.png</a> |
+| <a href='screenshots/https-jmap.nicolet.ca-8443.png' target='_blank'><img src='thumbnails/https-jmap.nicolet.ca-8443.png' alt='Thumbnail' /></a> | <a href='screenshots/https-jmap.nicolet.ca-8443.png' target='_blank'>https-jmap.nicolet.ca-8443.png</a> |
+| <a href='screenshots/https-jmap.nicolet.ca-88.png' target='_blank'><img src='thumbnails/https-jmap.nicolet.ca-88.png' alt='Thumbnail' /></a> | <a href='screenshots/https-jmap.nicolet.ca-88.png' target='_blank'>https-jmap.nicolet.ca-88.png</a> |
+| <a href='screenshots/https-nicolet.ca-443.png' target='_blank'><img src='thumbnails/https-nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='screenshots/https-nicolet.ca-443.png' target='_blank'>https-nicolet.ca-443.png</a> |
+| <a href='screenshots/https-www.activites.nicolet.ca-443.png' target='_blank'><img src='thumbnails/https-www.activites.nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='screenshots/https-www.activites.nicolet.ca-443.png' target='_blank'>https-www.activites.nicolet.ca-443.png</a> |
+| <a href='screenshots/https-www.nicolet.ca-443.png' target='_blank'><img src='thumbnails/https-www.nicolet.ca-443.png' alt='Thumbnail' /></a> | <a href='screenshots/https-www.nicolet.ca-443.png' target='_blank'>https-www.nicolet.ca-443.png</a> |
