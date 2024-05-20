@@ -1,1 +1,3703 @@
-[{"_id": "http://alerte.granby.ca:80", "_rev": "6-58b51a242a2ff2f8540f9531a152aa1c", "hostname": "alerte.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "Document", "status_code": "302", "location": "https://granby.omnivigil.com", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://apps.granby.ca:80", "_rev": "4-9cd9369269d471368401a5f55c476059", "hostname": "apps.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "Ville", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://autodiscover.cdctgranbyregion.com:80", "_rev": "3-08383fd87295bace74d35130dfd9bc48", "hostname": "autodiscover.cdctgranbyregion.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://autodiscover.cinlb.org:80", "_rev": "3-62264d6614596af3d01cfc17406bc2c5", "hostname": "autodiscover.cinlb.org", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://autodiscover.granby.ca:80", "_rev": "3-a58f70ff0f2b29a3aee52a740bb52814", "hostname": "autodiscover.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://autodiscover.granbymultisports.org:80", "_rev": "3-fc40cd0403d01cf576e6441c3a02ab6f", "hostname": "autodiscover.granbymultisports.org", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://autodiscover.palace.qc.ca:80", "_rev": "3-46a98740f91fb326b38a9a9a5589a1b4", "hostname": "autodiscover.palace.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://autodiscover.tourismegranby.com:80", "_rev": "3-1a503d94e16ab6fa6ca304ac765b9ee4", "hostname": "autodiscover.tourismegranby.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://autodiscover.vccgranby.org:80", "_rev": "3-cfdcf414ec1939e94553f6139dbcbe6b", "hostname": "autodiscover.vccgranby.org", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://autodiscover.ville.granby.qc.ca:80", "_rev": "3-bb1b2d6100e45cc75f7bd53eea084c2b", "hostname": "autodiscover.ville.granby.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://biblio.granby.ca:80", "_rev": "6-e1f8bd390969dac36a8c28eecdc252a7", "hostname": "biblio.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "308", "status_code": "308", "location": "https://biblio.granby.ca", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://biblio.ville.granby.qc.ca:80", "_rev": "6-2d3bd806959228b163fd9ebc64c6854d", "hostname": "biblio.ville.granby.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://biblio.granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://cadg-portes-ouvertes.granby.ca:8084", "_rev": "4-583038faa1438cbf9e8d7708b854c554", "hostname": "cadg-portes-ouvertes.granby.ca", "port": 8084, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "Apache", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://cadg.granby.ca:80", "_rev": "3-53fbd5475a06e97f11471bd2b9e64cc4", "hostname": "cadg.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://catalogue.granby.ca:80", "_rev": "6-bfd76a6bb8616e5aa5695c822a671a62", "hostname": "catalogue.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "Document", "status_code": "302", "location": "https://gran.ent.sirsidynix.net/client/fr_CA/general", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://cinlb.org:80", "_rev": "6-3f497858d3640b7dfd3f031b6817acbd", "hostname": "cinlb.org", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "nginx", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://cinlb.org/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://click.mail.palace.qc.ca:80", "_rev": "3-0fc220b3c8a104d58f44c03dc0673e7c", "hostname": "click.mail.palace.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://cloud.mail.palace.qc.ca:80", "_rev": "4-72f217896434003d67e8a9978da4ce56", "hostname": "cloud.mail.palace.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "404", "status_code": "404", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://complexeartopex.com:80", "_rev": "3-a75233d7e4e16a308016b2545709b2ac", "hostname": "complexeartopex.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://contact.granby.ca:80", "_rev": "4-c05f816afea6d3e7c85ce1ccb295e755", "hostname": "contact.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "403", "status_code": "403", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://contact.ville.granby.qc.ca:80", "_rev": "4-995e0dbe3990481025082dfd25ef64c7", "hostname": "contact.ville.granby.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "403", "status_code": "403", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://couleursurbaines.ca:80", "_rev": "3-bafa9462b534f39c05b5739145f8ae26", "hostname": "couleursurbaines.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["php:5.4.9", "apache_http_server:2.2.22", "ubuntu"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://couleursurbaines.com:80", "_rev": "3-65aabcd73f3ac7d75a5db5d0186299fb", "hostname": "couleursurbaines.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["php:5.4.9", "apache_http_server:2.2.22", "ubuntu"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://cpanel.granbymultisports.ca:80", "_rev": "3-b41a2c99dc216ded673fbc1d8bd1bdd5", "hostname": "cpanel.granbymultisports.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://cpcalendars.granbymultisports.ca:80", "_rev": "3-cb3b9aaa3516fadd3abe2794d257452e", "hostname": "cpcalendars.granbymultisports.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://cpcontacts.granbymultisports.ca:80", "_rev": "3-46a2a95425b95b26e05f7c8a36b1a31d", "hostname": "cpcontacts.granbymultisports.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://emplois.granby.ca:80", "_rev": "3-2a50c668808b2274adb8f3ce9006d903", "hostname": "emplois.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://esri.granby.ca:80", "_rev": "4-bd50786f25fb4e65a96b9fc186e7d136", "hostname": "esri.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:8.5", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "IIS", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://esri.ville.granby.qc.ca:80", "_rev": "4-e7b96b41f061055dba63e3439172062c", "hostname": "esri.ville.granby.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:8.5", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "IIS", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://gmsgranby.org:80", "_rev": "3-7d765f161ac5aaa575ecf6adfb4a56cf", "hostname": "gmsgranby.org", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://granby.ca:80", "_rev": "6-d6d18838678019a60a512cffc278fab5", "hostname": "granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "308", "status_code": "308", "location": "https://granby.ca", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://granbymultisport.ca:80", "_rev": "3-32c4d1f1a481e20ec5e58eac89d6b24a", "hostname": "granbymultisport.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["php:5.4.9", "apache_http_server:2.2.22", "ubuntu"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://granbymultisport.com:80", "_rev": "3-232161b530fd0538bb6fcb0a8fa7476d", "hostname": "granbymultisport.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["php:5.4.9", "apache_http_server:2.2.22", "ubuntu"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://granbymultisports.ca:80", "_rev": "3-8e87d0e645453af88331f44694f32784", "hostname": "granbymultisports.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://granbymultisports.com:80", "_rev": "3-be9cac5c7089bbdd8749d56379ec979d", "hostname": "granbymultisports.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["php:5.4.9", "apache_http_server:2.2.22", "ubuntu"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://image.mail.palace.qc.ca:80", "_rev": "4-dec1146df45facab932b0ac7dcc9abae", "hostname": "image.mail.palace.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "Access", "status_code": "403", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://images.granby.ca:80", "_rev": "4-2a836ea01f04fe085168671a90be3925", "hostname": "images.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "title": "403", "status_code": "403", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://impression.granby.ca:80", "_rev": "6-ac93022f4b810ab5df15fccd2cb01173", "hostname": "impression.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "Document", "status_code": "302", "location": "https://papercut.granby.ca:9192/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://incendie.granby.ca:80", "_rev": "6-95559f26b48e3c9ca639a750e24e0ba3", "hostname": "incendie.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "308", "status_code": "308", "location": "https://incendie.granby.ca", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://jagranby.com:80", "_rev": "3-32209346b1664ae1b3fab035bc17eda7", "hostname": "jagranby.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["react", "hsts", "wix"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://jagranby.com:82", "_rev": "3-aec095644573d891f5e8c7d6fa975155", "hostname": "jagranby.com", "port": 82, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["react", "hsts", "wix"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://mail.granbymultisports.ca:80", "_rev": "3-7ebfd3cae4ff4bb6fcd58bf874ef8130", "hostname": "mail.granbymultisports.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://osx.granby.ca:80", "_rev": "4-eb276e00bfbe7e74f32d17adfd25e337", "hostname": "osx.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["unix", "apache_http_server:2.4.48"], "screenshotted": "false", "scanned": "false", "title": "macOS", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://osx.ville.granby.qc.ca:80", "_rev": "4-7463983ad651420f40e2025334522470", "hostname": "osx.ville.granby.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["unix", "apache_http_server:2.4.48"], "screenshotted": "false", "scanned": "false", "title": "macOS", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://palace.qc.ca:80", "_rev": "4-92f53a395d27606d1b6fba8b606536d9", "hostname": "palace.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:8.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "Page", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://portail.cinlb.org:80", "_rev": "6-95cc1b9e81d8775246589ea55e3384b6", "hostname": "portail.cinlb.org", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "nginx", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://portail.cinlb.org/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://preprod.tourismegranby.com:80", "_rev": "6-123156b44616635b1018a46f53adea0e", "hostname": "preprod.tourismegranby.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "litespeed", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://preprod.tourismegranby.com/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://s27-14.ville.granby.qc.ca:80", "_rev": "4-13248a158ea16a7dc010b877b22c2a42", "hostname": "s27-14.ville.granby.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "403", "status_code": "403", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://s27-42.ville.granby.qc.ca:80", "_rev": "6-ad0f173c2b307974bf42caa2db202372", "hostname": "s27-42.ville.granby.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://taxibus.granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://s27-62.ville.granby.qc.ca:80", "_rev": "4-6b22842e4b058594f2b123aa42aef111", "hostname": "s27-62.ville.granby.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["unix", "apache_http_server:2.4.48"], "screenshotted": "false", "scanned": "false", "title": "macOS", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://support.granby.ca:80", "_rev": "3-ccba8fd059da5096830cc43ad4f9dfd1", "hostname": "support.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://taxibus.granby.ca:80", "_rev": "6-09f433ef2fbc4774eb1ec2d7e06830e1", "hostname": "taxibus.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://taxibus.granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://taxibus.ville.granby.qc.ca:80", "_rev": "6-20ecff3a1e93271bfb8c51be4a1383a6", "hostname": "taxibus.ville.granby.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://taxibus.granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://tourismegranby.com:80", "_rev": "3-4b9e7437fadc9914a856e4c924d12a2e", "hostname": "tourismegranby.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:8.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://vccgranby.org:80", "_rev": "3-8cde9b6be09d8c0c895fcaa4dbf34387", "hostname": "vccgranby.org", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["react", "hsts", "wix"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://vccgranby.org:82", "_rev": "3-a2b66d51b09e7fb4f0df1574eb0142c2", "hostname": "vccgranby.org", "port": 82, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["react", "hsts", "wix"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://view.mail.palace.qc.ca:80", "_rev": "3-5d224cea1d0483c254af5787022e2875", "hostname": "view.mail.palace.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://ville.granby.qc.ca:80", "_rev": "6-899188e34fba3f1019f9c5654e1c43d8", "hostname": "ville.granby.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://wallace.granby.ca:80", "_rev": "6-94618cf26930c0de23667b32461fb82f", "hostname": "wallace.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "308", "status_code": "308", "location": "https://wallace.granby.ca", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://webdisk.granbymultisports.ca:80", "_rev": "3-8e189fb3268978295091197f60698fcc", "hostname": "webdisk.granbymultisports.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://webmail.granbymultisports.ca:80", "_rev": "3-61b69f2b9eb9770432fa9df17265965b", "hostname": "webmail.granbymultisports.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.biblio.granby.ca:80", "_rev": "6-71f3b1c0302b60a15632befab53bc627", "hostname": "www.biblio.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://biblio.granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.biblio.ville.granby.qc.ca:80", "_rev": "6-8b90650a8969d8cdcbf9169bf5ca9377", "hostname": "www.biblio.ville.granby.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://biblio.granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.cinlb.org:80", "_rev": "6-19ecdf1f7707537767efacdb38b3f6fb", "hostname": "www.cinlb.org", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "nginx", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://cinlb.org/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.complexeartopex.com:80", "_rev": "3-fe343badd01b39e5c47c66401d9aa4e0", "hostname": "www.complexeartopex.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.couleursurbaines.ca:80", "_rev": "3-eba4db5dbec845b99843661df24499ec", "hostname": "www.couleursurbaines.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["php:5.4.9", "apache_http_server:2.2.22", "ubuntu"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.couleursurbaines.com:80", "_rev": "3-c8b305d217723357f5cc4b49ec718a73", "hostname": "www.couleursurbaines.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["php:5.4.9", "apache_http_server:2.2.22", "ubuntu"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.gmsgranby.org:80", "_rev": "3-245f7ca50adc9aa7d9f8a36f871d86b6", "hostname": "www.gmsgranby.org", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.granby.ca:80", "_rev": "6-d037a943693b1cf78b0d52568fb73fe3", "hostname": "www.granby.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.granbymultisport.ca:80", "_rev": "3-e68e41ccec5194f2bd97697cdf400fca", "hostname": "www.granbymultisport.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["php:5.4.9", "apache_http_server:2.2.22", "ubuntu"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.granbymultisport.com:80", "_rev": "3-1075f62e0aada5f1fa44bc1729fd3b8e", "hostname": "www.granbymultisport.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["php:5.4.9", "apache_http_server:2.2.22", "ubuntu"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.granbymultisports.ca:80", "_rev": "3-327c64b7aad0621b5f50f2226104a9a4", "hostname": "www.granbymultisports.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.granbymultisports.com:80", "_rev": "3-8bb55d111a8148edf3e0ec6e88969b4a", "hostname": "www.granbymultisports.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["php:5.4.9", "apache_http_server:2.2.22", "ubuntu"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.jagranby.com:80", "_rev": "3-e645ddb8fc06b04a23cb56ecb7337124", "hostname": "www.jagranby.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["google_cloud_cdn", "google_cloud", "hsts", "react", "wix"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.palace.qc.ca:80", "_rev": "4-e3638713a3fecd5c68b6abafed1f78c3", "hostname": "www.palace.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:8.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "Page", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.tourismegranby.com:80", "_rev": "4-f55ccb4b9e2e8b2ff42bc96b7235c518", "hostname": "www.tourismegranby.com", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:8.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "Page", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.vccgranby.org:80", "_rev": "3-d8b2c43ade88c4297dd69db33b0bbf9d", "hostname": "www.vccgranby.org", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["google_cloud_cdn", "google_cloud", "hsts", "react", "wix"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "http://www.ville.granby.qc.ca:80", "_rev": "6-d6e7159cd4ff1e2c0318e078f325cc6d", "hostname": "www.ville.granby.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://alerte.granby.ca:443", "_rev": "6-b7e5ea1c26e1d09c4b5db59becbda88f", "hostname": "alerte.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "Document", "status_code": "302", "location": "https://granby.omnivigil.com", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://apps.granby.ca:443", "_rev": "4-4340bbb696d4d208a607d0bf53062d5b", "hostname": "apps.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "Ville", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://auth.granby.ca:443", "_rev": "3-d27cfdbca82b4e8d0de851a7e80024c5", "hostname": "auth.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://biblio-mazaam-com.ezproxy.granby.ca:443", "_rev": "3-22e55ba541553e1fa6591848c0e39580", "hostname": "biblio-mazaam-com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://biblio.granby.ca:443", "_rev": "6-30c69286e67f81633077cc3ba981d19a", "hostname": "biblio.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "http://biblio.granby.ca/fr/paul-o-trepanier", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://biblio.toutapprendre.com.ezproxy.granby.ca:443", "_rev": "3-b0ed6b247fa3a36b46f4b5e2774c0199", "hostname": "biblio.toutapprendre.com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://biblio.toutapprendre.com.ezproxy.ville.granby.qc.ca:443", "_rev": "3-8abb4fe3d8949c57fa893b4aafd8a9ee", "hostname": "biblio.toutapprendre.com.ezproxy.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://biblio.ville.granby.qc.ca:443", "_rev": "6-50f1f806195ecd2b434c2c9f5d21501c", "hostname": "biblio.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://biblio.granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://biblioqc.ululab.com.ezproxy.granby.ca:443", "_rev": "3-628f9eadcbcec59176c9c5760511c4ca", "hostname": "biblioqc.ululab.com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://cadg-portes-ouvertes.granby.ca:443", "_rev": "4-37af208a83cc8f759222d5b6ed4be551", "hostname": "cadg-portes-ouvertes.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "title": "Apache2", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://cadg-portes-ouvertes.granby.ca:8443", "_rev": "4-58b982ca01bc91fbc02513afe97e0811", "hostname": "cadg-portes-ouvertes.granby.ca", "port": 8443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "Apache", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://cadg.granby.ca:443", "_rev": "3-734f03efc311095785c481ddd398ea93", "hostname": "cadg.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://carte.granby.ca:443", "_rev": "4-da5dbf66fae2fd8e334d3b82c31d1b3b", "hostname": "carte.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "IIS", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://catalogue.granby.ca:443", "_rev": "6-2e4c1e4bcb9c5dc511ad8d70714385ff", "hostname": "catalogue.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "Document", "status_code": "302", "location": "https://gran.ent.sirsidynix.net/client/fr_CA/general", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://cinlb.org:443", "_rev": "4-ad72780a4015f00a41a1e5b0f5937de4", "hostname": "cinlb.org", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["mysql", "elementor:3.20.3", "nginx", "php:8.2.19", "wordpress:6.4.4"], "screenshotted": "false", "scanned": "false", "title": "Accueil", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://cinlb.org:8443", "_rev": "3-a49db7c8d90c78507ca14a4c8e44a4f9", "hostname": "cinlb.org", "port": 8443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://click.mail.palace.qc.ca:443", "_rev": "4-2c4120dc6c8ba59c5706ad8feaa68abc", "hostname": "click.mail.palace.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "title": "403", "status_code": "403", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://cloud.mail.palace.qc.ca:443", "_rev": "4-e13939a3d78921ec015d1765db2cbc58", "hostname": "cloud.mail.palace.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "404", "status_code": "404", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://contact.granby.ca:443", "_rev": "4-a217ec2594035209318bac3a0adbe07a", "hostname": "contact.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "403", "status_code": "403", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://contact.ville.granby.qc.ca:443", "_rev": "4-baf03e31ab7f05ff0ee5d9a3f7dc606e", "hostname": "contact.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "403", "status_code": "403", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://cpanel.granbymultisports.ca:443", "_rev": "4-a4411c16e65eab06a9794b58dcd29a1a", "hostname": "cpanel.granbymultisports.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["hsts", "apache_http_server", "cpanel"], "screenshotted": "false", "scanned": "false", "title": "cPanel", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://cpcalendars.granbymultisports.ca:443", "_rev": "3-f2492f21c07919fe7595a9b29fef7ee7", "hostname": "cpcalendars.granbymultisports.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["hsts", "basic"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://cpcontacts.granbymultisports.ca:443", "_rev": "3-c9fe875bcb621e8b339e3e11ade74f52", "hostname": "cpcontacts.granbymultisports.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["hsts", "basic"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://emplois.granby.ca:443", "_rev": "3-bbb105557efab6b5b7740ea1a94de4d2", "hostname": "emplois.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://esri.granby.ca:443", "_rev": "4-12cb15beb3d6c4678251bed7c183d013", "hostname": "esri.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:8.5", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "IIS", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://esri.ville.granby.qc.ca:443", "_rev": "4-2748de3f0da13b3c5cfff52ee2747246", "hostname": "esri.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "microsoft_httpapi:2.0", "screenshotted": "false", "scanned": "false", "title": "Not", "status_code": "404", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://ezproxy.granby.ca:443", "_rev": "3-0abaa91b3f87a72c0e0840a6d54c187e", "hostname": "ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://ezproxy.ville.granby.qc.ca:443", "_rev": "3-10e3c39699221d38c49ce682b147741e", "hostname": "ezproxy.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://gr.bvdep.com.ezproxy.granby.ca:443", "_rev": "3-1c363801d91a8c8c30f261a8c1d69be6", "hostname": "gr.bvdep.com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://gr.bvdep.com.ezproxy.ville.granby.qc.ca:443", "_rev": "3-6a768e7a57968701ba5dcdba7bfecf61", "hostname": "gr.bvdep.com.ezproxy.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://granby-naxosmusiclibrary-com.ezproxy.granby.ca:443", "_rev": "3-018baebd94c3aef14d23ce7a30b3fe89", "hostname": "granby-naxosmusiclibrary-com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://granby.ca:443", "_rev": "6-8166b99c6c349d102e724ab9f22a633a", "hostname": "granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "http://granby.ca/fr/accueil", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://granbymultisports.ca:443", "_rev": "4-701ca43f734c3b23d6ebee159a1460a8", "hostname": "granbymultisports.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["google_tag_manager", "apache_http_server", "hsts", "mysql", "php", "site_kit:1.126.0", "wp_rocket", "wordpress"], "screenshotted": "false", "scanned": "false", "title": "Granby", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://grc.bvdep.com.ezproxy.granby.ca:443", "_rev": "3-7fc436c99d207b7c4ffd2a1cfc9a359a", "hostname": "grc.bvdep.com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://grc.bvdep.com.ezproxy.ville.granby.qc.ca:443", "_rev": "3-8ff8c7bc5e50f79761121265c273ec46", "hostname": "grc.bvdep.com.ezproxy.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://hdvsrvipoffice.granby.ca:443", "_rev": "3-d870eb8b434ef9291cc85f7fe9c6d990", "hostname": "hdvsrvipoffice.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://image.mail.palace.qc.ca:443", "_rev": "4-184f9c0a4908db914efb5b9abc08df02", "hostname": "image.mail.palace.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "title": "Access", "status_code": "403", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://images.granby.ca:443", "_rev": "4-42c4c65577ea44275249e625dee00ec7", "hostname": "images.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "title": "403", "status_code": "403", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://impression.granby.ca:443", "_rev": "6-2d26238999eb69addbc197860d91e25b", "hostname": "impression.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "Document", "status_code": "302", "location": "https://papercut.granby.ca:9192/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://incendie.granby.ca:443", "_rev": "6-4b05744923034f4449566c01a79d550b", "hostname": "incendie.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://granby.ca/fr/service-incendies/division-prevention", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://inscriptions.granby.ca:443", "_rev": "3-ce351b5b9caad7db19024c6cb2d9c682", "hostname": "inscriptions.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["iis:10.0", "hsts", "microsoft_asp.net", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://jagranby.com:443", "_rev": "3-92e412dcf655a6eeb7c983fbb3b92195", "hostname": "jagranby.com", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["react", "hsts", "wix"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://junior.bvdep.com.ezproxy.granby.ca:443", "_rev": "3-71e3c96802ac626fe3fab69630e6a178", "hostname": "junior.bvdep.com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://junior.bvdep.com.ezproxy.ville.granby.qc.ca:443", "_rev": "3-7e2965eb944c40c06d3208f7a10c1587", "hostname": "junior.bvdep.com.ezproxy.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://junior.universalis-edu.com.ezproxy.granby.ca:443", "_rev": "3-8300a08209186cfe417c6260d9cab124", "hostname": "junior.universalis-edu.com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://login.ezproxy.granby.ca:443", "_rev": "3-7199a948179f641e50b66fb151e8aaad", "hostname": "login.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://mail.granbymultisports.ca:443", "_rev": "3-26c5eec64da66203971a6056ebe885c9", "hostname": "mail.granbymultisports.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["hsts", "apache_http_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://nouveau.eureka.cc.ezproxy.granby.ca:443", "_rev": "3-c410af7ecccd22cd5f14678fc22b9143", "hostname": "nouveau.eureka.cc.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://nouveau.eureka.cc.ezproxy.ville.granby.qc.ca:443", "_rev": "3-f2c48dd0dc25021be7b3be26648430c8", "hostname": "nouveau.eureka.cc.ezproxy.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://osx.granby.ca:443", "_rev": "4-ee0ca605172c3f5532d41bf25e12bf13", "hostname": "osx.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["unix", "apache_http_server:2.4.48"], "screenshotted": "false", "scanned": "false", "title": "macOS", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://osx.ville.granby.qc.ca:443", "_rev": "4-605b2b7663ebb854cd0d7f6bd6f5cf82", "hostname": "osx.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["unix", "apache_http_server:2.4.48"], "screenshotted": "false", "scanned": "false", "title": "macOS", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://portail.cinlb.org:443", "_rev": "3-62c940c170c34fa25b2636197d6c7c32", "hostname": "portail.cinlb.org", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["plesk", "nginx"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://portail.cinlb.org:8443", "_rev": "3-ec8270407e152a9c337abb2109d09ad8", "hostname": "portail.cinlb.org", "port": 8443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://preprod.tourismegranby.com:443", "_rev": "3-2b8218f4b4e3eb79e8d1dd25439590bd", "hostname": "preprod.tourismegranby.com", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["litespeed", "http/3", "litespeed_cache", "php:7.4.33"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://s27-14.ville.granby.qc.ca:443", "_rev": "4-26b8a31da8953b3d3e5484a3ab0d2ab9", "hostname": "s27-14.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "title": "IIS", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://s27-41.ville.granby.qc.ca:443", "_rev": "3-ec18477d54254a8197e5b90d772de2f5", "hostname": "s27-41.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["windows_server", "iis:10.0"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://s27-42.ville.granby.qc.ca:443", "_rev": "3-9747564931d0db3208abbd86a91dc05e", "hostname": "s27-42.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["java", "glassfish", "java_servlet:3.1", "javaserver_pages:2.3"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://s27-45.ville.granby.qc.ca:443", "_rev": "3-4c45f7dbb318ba0eaa352d81c4d3a26b", "hostname": "s27-45.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://s27-55.ville.granby.qc.ca:443", "_rev": "3-65324ce5954f33e3f2e2191102ecb268", "hostname": "s27-55.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["iis:10.0", "hsts", "microsoft_asp.net", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://s27-6.ville.granby.qc.ca:443", "_rev": "3-5b9837ff106638b72a56aa25f27f2805", "hostname": "s27-6.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://s27-61.ville.granby.qc.ca:443", "_rev": "4-a20946b16d8108d10fac8d433e9ac997", "hostname": "s27-61.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "bootstrap", "screenshotted": "false", "scanned": "false", "title": "CSRF", "status_code": "403", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://s27-62.ville.granby.qc.ca:443", "_rev": "4-d9f5711f4f6e34711211e352b3bf160d", "hostname": "s27-62.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["unix", "apache_http_server:2.4.48"], "screenshotted": "false", "scanned": "false", "title": "macOS", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://support.granby.ca:443", "_rev": "3-b52bf3e41449cccf3e638bbcae441154", "hostname": "support.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://tapiro.taptouche.com.ezproxy.granby.ca:443", "_rev": "3-c4dcfaecfb0cf7bcc4303cbc3f9296e8", "hostname": "tapiro.taptouche.com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://taxibus.granby.ca:443", "_rev": "3-341f28923e923cbc91c1792c034ebf8b", "hostname": "taxibus.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["java", "glassfish", "java_servlet:3.1", "javaserver_pages:2.3"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://taxibus.ville.granby.qc.ca:443", "_rev": "3-ed793098ab5e264cf79777c1c58ec117", "hostname": "taxibus.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["java", "glassfish", "java_servlet:3.1", "javaserver_pages:2.3"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://vccgranby.org:443", "_rev": "3-8f21349b82452fada4fb38dcfd854965", "hostname": "vccgranby.org", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["react", "hsts", "wix"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://view.mail.palace.qc.ca:443", "_rev": "6-22829b406216286889312ca0c98a261b", "hostname": "view.mail.palace.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "title": "Object", "status_code": "302", "location": "/Error.aspx", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://ville.granby.qc.ca:443", "_rev": "6-76bc5a024ce77ba26a4907e4f42667cd", "hostname": "ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://wallace.granby.ca:443", "_rev": "3-acf10c2d65808f064f7ca444a01bc302", "hostname": "wallace.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["java", "hsts"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://webdisk.granbymultisports.ca:443", "_rev": "3-7e31c7ea43eeabab304a1590feb02d8a", "hostname": "webdisk.granbymultisports.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["hsts", "basic"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://webmail.granby.ca:443", "_rev": "3-1535088d318ab9c212b886f4acef5714", "hostname": "webmail.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["windows_server", "iis:10.0"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://webmail.granbymultisports.ca:443", "_rev": "4-db71528f131aefd6711a781fbf0afdf0", "hostname": "webmail.granbymultisports.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["hsts", "apache_http_server"], "screenshotted": "false", "scanned": "false", "title": "Webmail", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://webmail.ville.granby.qc.ca:443", "_rev": "3-c58a5be022d27b3cc5c73a35654fa7f3", "hostname": "webmail.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["windows_server", "iis:10.0"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.biblio.granby.ca:443", "_rev": "6-32c626f1b4986878f13970602c598466", "hostname": "www.biblio.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://biblio.granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.biblio.ville.granby.qc.ca:443", "_rev": "6-59cc898ab109e3612212d181d8cbeacd", "hostname": "www.biblio.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://biblio.granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.cinlb.org:443", "_rev": "6-2b99fe33eb4a39f24ddf9c996aa26fd4", "hostname": "www.cinlb.org", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "nginx", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://cinlb.org/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.cinlb.org:8443", "_rev": "3-23e97601564a00cce7e86975920d53b9", "hostname": "www.cinlb.org", "port": 8443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.genealogiequebec.com.ezproxy.granby.ca:443", "_rev": "3-f0a17ab0e3cb526541ebd76a160b8ea4", "hostname": "www.genealogiequebec.com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.genealogiequebec.com.ezproxy.ville.granby.qc.ca:443", "_rev": "3-9fa6f529351270c41004e58a110499be", "hostname": "www.genealogiequebec.com.ezproxy.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.granby.ca:443", "_rev": "6-a9af7ff51e4c6f60f2ab38b047026708", "hostname": "www.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.granbymultisports.ca:443", "_rev": "3-94d2000a2db2feebf21c408c31e031a3", "hostname": "www.granbymultisports.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["hsts", "apache_http_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.jagranby.com:443", "_rev": "4-4863a5ab0ab8e7333328cfe9fa328702", "hostname": "www.jagranby.com", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["google_cloud_cdn", "google_cloud", "hsts", "http/3", "react", "wix"], "screenshotted": "false", "scanned": "false", "title": "Jeunes", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.mesaieux.com.ezproxy.granby.ca:443", "_rev": "3-7d7c0b80720c2c2cca2c902b775f8cb8", "hostname": "www.mesaieux.com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.mesaieux.com.ezproxy.ville.granby.qc.ca:443", "_rev": "3-2ac799b29c8c2371c8595b8be416abd3", "hostname": "www.mesaieux.com.ezproxy.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.prdh-igd.com.ezproxy.granby.ca:443", "_rev": "3-135e1578dab53301a8d3d45be370394c", "hostname": "www.prdh-igd.com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.rbdigital.com.ezproxy.granby.ca:443", "_rev": "3-cf44dbe3a2b6466d45f4fa40b5e4955d", "hostname": "www.rbdigital.com.ezproxy.granby.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.rbdigital.com.ezproxy.ville.granby.qc.ca:443", "_rev": "3-90dfb5dde6dc0694f3f28843ca19142a", "hostname": "www.rbdigital.com.ezproxy.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "ezproxy", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.tourismegranby.com:443", "_rev": "3-5b48594a1b40792e7ef99f9d3cafd8b8", "hostname": "www.tourismegranby.com", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["litespeed", "http/3", "php:7.4.33"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.vccgranby.org:443", "_rev": "4-030d747c6e67b3b5c2ef7d5943f6de9e", "hostname": "www.vccgranby.org", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["google_cloud_cdn", "google_cloud", "hsts", "react", "wix"], "screenshotted": "false", "scanned": "false", "title": "Vie", "status_code": "200", "screenshotted_date": "never"}, "program": "granby", "type": "url"}, {"_id": "https://www.ville.granby.qc.ca:443", "_rev": "6-5bd8182a0e689556ccb250f942def80b", "hostname": "www.ville.granby.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "hsts", "screenshotted": "false", "scanned": "false", "title": "301", "status_code": "301", "location": "https://granby.ca/", "screenshotted_date": "never"}, "program": "granby", "type": "url"}]
+[
+    {
+        "_id": "http://alerte.granby.ca:80",
+        "_rev": "6-58b51a242a2ff2f8540f9531a152aa1c",
+        "hostname": "alerte.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://granby.omnivigil.com",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "302",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "Document"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://apps.granby.ca:80",
+        "_rev": "4-9cd9369269d471368401a5f55c476059",
+        "hostname": "apps.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "Ville"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://autodiscover.cdctgranbyregion.com:80",
+        "_rev": "3-08383fd87295bace74d35130dfd9bc48",
+        "hostname": "autodiscover.cdctgranbyregion.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://autodiscover.cinlb.org:80",
+        "_rev": "3-62264d6614596af3d01cfc17406bc2c5",
+        "hostname": "autodiscover.cinlb.org",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://autodiscover.granby.ca:80",
+        "_rev": "3-a58f70ff0f2b29a3aee52a740bb52814",
+        "hostname": "autodiscover.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://autodiscover.granbymultisports.org:80",
+        "_rev": "3-fc40cd0403d01cf576e6441c3a02ab6f",
+        "hostname": "autodiscover.granbymultisports.org",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://autodiscover.palace.qc.ca:80",
+        "_rev": "3-46a98740f91fb326b38a9a9a5589a1b4",
+        "hostname": "autodiscover.palace.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://autodiscover.tourismegranby.com:80",
+        "_rev": "3-1a503d94e16ab6fa6ca304ac765b9ee4",
+        "hostname": "autodiscover.tourismegranby.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://autodiscover.vccgranby.org:80",
+        "_rev": "3-cfdcf414ec1939e94553f6139dbcbe6b",
+        "hostname": "autodiscover.vccgranby.org",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://autodiscover.ville.granby.qc.ca:80",
+        "_rev": "3-bb1b2d6100e45cc75f7bd53eea084c2b",
+        "hostname": "autodiscover.ville.granby.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://biblio.granby.ca:80",
+        "_rev": "6-e1f8bd390969dac36a8c28eecdc252a7",
+        "hostname": "biblio.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://biblio.granby.ca",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "308",
+            "title": "308"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://biblio.ville.granby.qc.ca:80",
+        "_rev": "6-2d3bd806959228b163fd9ebc64c6854d",
+        "hostname": "biblio.ville.granby.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://biblio.granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://cadg-portes-ouvertes.granby.ca:8084",
+        "_rev": "4-583038faa1438cbf9e8d7708b854c554",
+        "hostname": "cadg-portes-ouvertes.granby.ca",
+        "path": "",
+        "port": 8084,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "title": "Apache"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://cadg.granby.ca:80",
+        "_rev": "3-53fbd5475a06e97f11471bd2b9e64cc4",
+        "hostname": "cadg.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://catalogue.granby.ca:80",
+        "_rev": "6-bfd76a6bb8616e5aa5695c822a671a62",
+        "hostname": "catalogue.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://gran.ent.sirsidynix.net/client/fr_CA/general",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "302",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "Document"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://cinlb.org:80",
+        "_rev": "6-3f497858d3640b7dfd3f031b6817acbd",
+        "hostname": "cinlb.org",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://cinlb.org/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "nginx",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://click.mail.palace.qc.ca:80",
+        "_rev": "3-0fc220b3c8a104d58f44c03dc0673e7c",
+        "hostname": "click.mail.palace.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://cloud.mail.palace.qc.ca:80",
+        "_rev": "4-72f217896434003d67e8a9978da4ce56",
+        "hostname": "cloud.mail.palace.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "404",
+            "title": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://complexeartopex.com:80",
+        "_rev": "3-a75233d7e4e16a308016b2545709b2ac",
+        "hostname": "complexeartopex.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://contact.granby.ca:80",
+        "_rev": "4-c05f816afea6d3e7c85ce1ccb295e755",
+        "hostname": "contact.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://contact.ville.granby.qc.ca:80",
+        "_rev": "4-995e0dbe3990481025082dfd25ef64c7",
+        "hostname": "contact.ville.granby.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://couleursurbaines.ca:80",
+        "_rev": "3-bafa9462b534f39c05b5739145f8ae26",
+        "hostname": "couleursurbaines.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "php:5.4.9",
+                "apache_http_server:2.2.22",
+                "ubuntu"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://couleursurbaines.com:80",
+        "_rev": "3-65aabcd73f3ac7d75a5db5d0186299fb",
+        "hostname": "couleursurbaines.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "php:5.4.9",
+                "apache_http_server:2.2.22",
+                "ubuntu"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://cpanel.granbymultisports.ca:80",
+        "_rev": "3-b41a2c99dc216ded673fbc1d8bd1bdd5",
+        "hostname": "cpanel.granbymultisports.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://cpcalendars.granbymultisports.ca:80",
+        "_rev": "3-cb3b9aaa3516fadd3abe2794d257452e",
+        "hostname": "cpcalendars.granbymultisports.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://cpcontacts.granbymultisports.ca:80",
+        "_rev": "3-46a2a95425b95b26e05f7c8a36b1a31d",
+        "hostname": "cpcontacts.granbymultisports.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://emplois.granby.ca:80",
+        "_rev": "3-2a50c668808b2274adb8f3ce9006d903",
+        "hostname": "emplois.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://esri.granby.ca:80",
+        "_rev": "4-bd50786f25fb4e65a96b9fc186e7d136",
+        "hostname": "esri.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:8.5",
+                "windows_server"
+            ],
+            "title": "IIS"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://esri.ville.granby.qc.ca:80",
+        "_rev": "4-e7b96b41f061055dba63e3439172062c",
+        "hostname": "esri.ville.granby.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:8.5",
+                "windows_server"
+            ],
+            "title": "IIS"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://gmsgranby.org:80",
+        "_rev": "3-7d765f161ac5aaa575ecf6adfb4a56cf",
+        "hostname": "gmsgranby.org",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://granby.ca:80",
+        "_rev": "6-d6d18838678019a60a512cffc278fab5",
+        "hostname": "granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://granby.ca",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "308",
+            "title": "308"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://granbymultisport.ca:80",
+        "_rev": "3-32c4d1f1a481e20ec5e58eac89d6b24a",
+        "hostname": "granbymultisport.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "php:5.4.9",
+                "apache_http_server:2.2.22",
+                "ubuntu"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://granbymultisport.com:80",
+        "_rev": "3-232161b530fd0538bb6fcb0a8fa7476d",
+        "hostname": "granbymultisport.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "php:5.4.9",
+                "apache_http_server:2.2.22",
+                "ubuntu"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://granbymultisports.ca:80",
+        "_rev": "3-8e87d0e645453af88331f44694f32784",
+        "hostname": "granbymultisports.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://granbymultisports.com:80",
+        "_rev": "3-be9cac5c7089bbdd8749d56379ec979d",
+        "hostname": "granbymultisports.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "php:5.4.9",
+                "apache_http_server:2.2.22",
+                "ubuntu"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://image.mail.palace.qc.ca:80",
+        "_rev": "4-dec1146df45facab932b0ac7dcc9abae",
+        "hostname": "image.mail.palace.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "title": "Access"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://images.granby.ca:80",
+        "_rev": "4-2a836ea01f04fe085168671a90be3925",
+        "hostname": "images.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "apache_http_server",
+            "title": "403"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://impression.granby.ca:80",
+        "_rev": "6-ac93022f4b810ab5df15fccd2cb01173",
+        "hostname": "impression.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://papercut.granby.ca:9192/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "302",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "Document"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://incendie.granby.ca:80",
+        "_rev": "6-95559f26b48e3c9ca639a750e24e0ba3",
+        "hostname": "incendie.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://incendie.granby.ca",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "308",
+            "title": "308"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://jagranby.com:80",
+        "_rev": "3-32209346b1664ae1b3fab035bc17eda7",
+        "hostname": "jagranby.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "react",
+                "hsts",
+                "wix"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://jagranby.com:82",
+        "_rev": "3-aec095644573d891f5e8c7d6fa975155",
+        "hostname": "jagranby.com",
+        "path": "",
+        "port": 82,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "react",
+                "hsts",
+                "wix"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://mail.granbymultisports.ca:80",
+        "_rev": "3-7ebfd3cae4ff4bb6fcd58bf874ef8130",
+        "hostname": "mail.granbymultisports.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://osx.granby.ca:80",
+        "_rev": "4-eb276e00bfbe7e74f32d17adfd25e337",
+        "hostname": "osx.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "unix",
+                "apache_http_server:2.4.48"
+            ],
+            "title": "macOS"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://osx.ville.granby.qc.ca:80",
+        "_rev": "4-7463983ad651420f40e2025334522470",
+        "hostname": "osx.ville.granby.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "unix",
+                "apache_http_server:2.4.48"
+            ],
+            "title": "macOS"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://palace.qc.ca:80",
+        "_rev": "4-92f53a395d27606d1b6fba8b606536d9",
+        "hostname": "palace.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:8.0",
+                "windows_server"
+            ],
+            "title": "Page"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://portail.cinlb.org:80",
+        "_rev": "6-95cc1b9e81d8775246589ea55e3384b6",
+        "hostname": "portail.cinlb.org",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://portail.cinlb.org/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "nginx",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://preprod.tourismegranby.com:80",
+        "_rev": "6-123156b44616635b1018a46f53adea0e",
+        "hostname": "preprod.tourismegranby.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://preprod.tourismegranby.com/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "litespeed",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://s27-14.ville.granby.qc.ca:80",
+        "_rev": "4-13248a158ea16a7dc010b877b22c2a42",
+        "hostname": "s27-14.ville.granby.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://s27-42.ville.granby.qc.ca:80",
+        "_rev": "6-ad0f173c2b307974bf42caa2db202372",
+        "hostname": "s27-42.ville.granby.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://taxibus.granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "apache_http_server",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://s27-62.ville.granby.qc.ca:80",
+        "_rev": "4-6b22842e4b058594f2b123aa42aef111",
+        "hostname": "s27-62.ville.granby.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "unix",
+                "apache_http_server:2.4.48"
+            ],
+            "title": "macOS"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://support.granby.ca:80",
+        "_rev": "3-ccba8fd059da5096830cc43ad4f9dfd1",
+        "hostname": "support.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://taxibus.granby.ca:80",
+        "_rev": "6-09f433ef2fbc4774eb1ec2d7e06830e1",
+        "hostname": "taxibus.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://taxibus.granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "apache_http_server",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://taxibus.ville.granby.qc.ca:80",
+        "_rev": "6-20ecff3a1e93271bfb8c51be4a1383a6",
+        "hostname": "taxibus.ville.granby.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://taxibus.granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "apache_http_server",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://tourismegranby.com:80",
+        "_rev": "3-4b9e7437fadc9914a856e4c924d12a2e",
+        "hostname": "tourismegranby.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:8.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://vccgranby.org:80",
+        "_rev": "3-8cde9b6be09d8c0c895fcaa4dbf34387",
+        "hostname": "vccgranby.org",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "react",
+                "hsts",
+                "wix"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://vccgranby.org:82",
+        "_rev": "3-a2b66d51b09e7fb4f0df1574eb0142c2",
+        "hostname": "vccgranby.org",
+        "path": "",
+        "port": 82,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "react",
+                "hsts",
+                "wix"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://view.mail.palace.qc.ca:80",
+        "_rev": "3-5d224cea1d0483c254af5787022e2875",
+        "hostname": "view.mail.palace.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://ville.granby.qc.ca:80",
+        "_rev": "6-899188e34fba3f1019f9c5654e1c43d8",
+        "hostname": "ville.granby.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://wallace.granby.ca:80",
+        "_rev": "6-94618cf26930c0de23667b32461fb82f",
+        "hostname": "wallace.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://wallace.granby.ca",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "308",
+            "title": "308"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://webdisk.granbymultisports.ca:80",
+        "_rev": "3-8e189fb3268978295091197f60698fcc",
+        "hostname": "webdisk.granbymultisports.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://webmail.granbymultisports.ca:80",
+        "_rev": "3-61b69f2b9eb9770432fa9df17265965b",
+        "hostname": "webmail.granbymultisports.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.biblio.granby.ca:80",
+        "_rev": "6-71f3b1c0302b60a15632befab53bc627",
+        "hostname": "www.biblio.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://biblio.granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.biblio.ville.granby.qc.ca:80",
+        "_rev": "6-8b90650a8969d8cdcbf9169bf5ca9377",
+        "hostname": "www.biblio.ville.granby.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://biblio.granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.cinlb.org:80",
+        "_rev": "6-19ecdf1f7707537767efacdb38b3f6fb",
+        "hostname": "www.cinlb.org",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://cinlb.org/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "nginx",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.complexeartopex.com:80",
+        "_rev": "3-fe343badd01b39e5c47c66401d9aa4e0",
+        "hostname": "www.complexeartopex.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.couleursurbaines.ca:80",
+        "_rev": "3-eba4db5dbec845b99843661df24499ec",
+        "hostname": "www.couleursurbaines.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "php:5.4.9",
+                "apache_http_server:2.2.22",
+                "ubuntu"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.couleursurbaines.com:80",
+        "_rev": "3-c8b305d217723357f5cc4b49ec718a73",
+        "hostname": "www.couleursurbaines.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "php:5.4.9",
+                "apache_http_server:2.2.22",
+                "ubuntu"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.gmsgranby.org:80",
+        "_rev": "3-245f7ca50adc9aa7d9f8a36f871d86b6",
+        "hostname": "www.gmsgranby.org",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.granby.ca:80",
+        "_rev": "6-d037a943693b1cf78b0d52568fb73fe3",
+        "hostname": "www.granby.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.granbymultisport.ca:80",
+        "_rev": "3-e68e41ccec5194f2bd97697cdf400fca",
+        "hostname": "www.granbymultisport.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "php:5.4.9",
+                "apache_http_server:2.2.22",
+                "ubuntu"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.granbymultisport.com:80",
+        "_rev": "3-1075f62e0aada5f1fa44bc1729fd3b8e",
+        "hostname": "www.granbymultisport.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "php:5.4.9",
+                "apache_http_server:2.2.22",
+                "ubuntu"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.granbymultisports.ca:80",
+        "_rev": "3-327c64b7aad0621b5f50f2226104a9a4",
+        "hostname": "www.granbymultisports.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.granbymultisports.com:80",
+        "_rev": "3-8bb55d111a8148edf3e0ec6e88969b4a",
+        "hostname": "www.granbymultisports.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "php:5.4.9",
+                "apache_http_server:2.2.22",
+                "ubuntu"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.jagranby.com:80",
+        "_rev": "3-e645ddb8fc06b04a23cb56ecb7337124",
+        "hostname": "www.jagranby.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "google_cloud_cdn",
+                "google_cloud",
+                "hsts",
+                "react",
+                "wix"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.palace.qc.ca:80",
+        "_rev": "4-e3638713a3fecd5c68b6abafed1f78c3",
+        "hostname": "www.palace.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:8.0",
+                "windows_server"
+            ],
+            "title": "Page"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.tourismegranby.com:80",
+        "_rev": "4-f55ccb4b9e2e8b2ff42bc96b7235c518",
+        "hostname": "www.tourismegranby.com",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:8.0",
+                "windows_server"
+            ],
+            "title": "Page"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.vccgranby.org:80",
+        "_rev": "3-d8b2c43ade88c4297dd69db33b0bbf9d",
+        "hostname": "www.vccgranby.org",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "google_cloud_cdn",
+                "google_cloud",
+                "hsts",
+                "react",
+                "wix"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.ville.granby.qc.ca:80",
+        "_rev": "6-d6e7159cd4ff1e2c0318e078f325cc6d",
+        "hostname": "www.ville.granby.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "granby",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://alerte.granby.ca:443",
+        "_rev": "6-b7e5ea1c26e1d09c4b5db59becbda88f",
+        "hostname": "alerte.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://granby.omnivigil.com",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "302",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "Document"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://apps.granby.ca:443",
+        "_rev": "4-4340bbb696d4d208a607d0bf53062d5b",
+        "hostname": "apps.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "Ville"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://auth.granby.ca:443",
+        "_rev": "3-d27cfdbca82b4e8d0de851a7e80024c5",
+        "hostname": "auth.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://biblio-mazaam-com.ezproxy.granby.ca:443",
+        "_rev": "3-22e55ba541553e1fa6591848c0e39580",
+        "hostname": "biblio-mazaam-com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://biblio.granby.ca:443",
+        "_rev": "6-30c69286e67f81633077cc3ba981d19a",
+        "hostname": "biblio.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "http://biblio.granby.ca/fr/paul-o-trepanier",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "hsts",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://biblio.toutapprendre.com.ezproxy.granby.ca:443",
+        "_rev": "3-b0ed6b247fa3a36b46f4b5e2774c0199",
+        "hostname": "biblio.toutapprendre.com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://biblio.toutapprendre.com.ezproxy.ville.granby.qc.ca:443",
+        "_rev": "3-8abb4fe3d8949c57fa893b4aafd8a9ee",
+        "hostname": "biblio.toutapprendre.com.ezproxy.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://biblio.ville.granby.qc.ca:443",
+        "_rev": "6-50f1f806195ecd2b434c2c9f5d21501c",
+        "hostname": "biblio.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://biblio.granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "hsts",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://biblioqc.ululab.com.ezproxy.granby.ca:443",
+        "_rev": "3-628f9eadcbcec59176c9c5760511c4ca",
+        "hostname": "biblioqc.ululab.com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cadg-portes-ouvertes.granby.ca:443",
+        "_rev": "4-37af208a83cc8f759222d5b6ed4be551",
+        "hostname": "cadg-portes-ouvertes.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "apache_http_server",
+            "title": "Apache2"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cadg-portes-ouvertes.granby.ca:8443",
+        "_rev": "4-58b982ca01bc91fbc02513afe97e0811",
+        "hostname": "cadg-portes-ouvertes.granby.ca",
+        "path": "",
+        "port": 8443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "title": "Apache"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cadg.granby.ca:443",
+        "_rev": "3-734f03efc311095785c481ddd398ea93",
+        "hostname": "cadg.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://carte.granby.ca:443",
+        "_rev": "4-da5dbf66fae2fd8e334d3b82c31d1b3b",
+        "hostname": "carte.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "IIS"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://catalogue.granby.ca:443",
+        "_rev": "6-2e4c1e4bcb9c5dc511ad8d70714385ff",
+        "hostname": "catalogue.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://gran.ent.sirsidynix.net/client/fr_CA/general",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "302",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "Document"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cinlb.org:443",
+        "_rev": "4-ad72780a4015f00a41a1e5b0f5937de4",
+        "hostname": "cinlb.org",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "mysql",
+                "elementor:3.20.3",
+                "nginx",
+                "php:8.2.19",
+                "wordpress:6.4.4"
+            ],
+            "title": "Accueil"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cinlb.org:8443",
+        "_rev": "3-a49db7c8d90c78507ca14a4c8e44a4f9",
+        "hostname": "cinlb.org",
+        "path": "",
+        "port": 8443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://click.mail.palace.qc.ca:443",
+        "_rev": "4-2c4120dc6c8ba59c5706ad8feaa68abc",
+        "hostname": "click.mail.palace.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cloud.mail.palace.qc.ca:443",
+        "_rev": "4-e13939a3d78921ec015d1765db2cbc58",
+        "hostname": "cloud.mail.palace.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "404",
+            "title": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://contact.granby.ca:443",
+        "_rev": "4-a217ec2594035209318bac3a0adbe07a",
+        "hostname": "contact.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://contact.ville.granby.qc.ca:443",
+        "_rev": "4-baf03e31ab7f05ff0ee5d9a3f7dc606e",
+        "hostname": "contact.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cpanel.granbymultisports.ca:443",
+        "_rev": "4-a4411c16e65eab06a9794b58dcd29a1a",
+        "hostname": "cpanel.granbymultisports.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "apache_http_server",
+                "cpanel"
+            ],
+            "title": "cPanel"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cpcalendars.granbymultisports.ca:443",
+        "_rev": "3-f2492f21c07919fe7595a9b29fef7ee7",
+        "hostname": "cpcalendars.granbymultisports.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "hsts",
+                "basic"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cpcontacts.granbymultisports.ca:443",
+        "_rev": "3-c9fe875bcb621e8b339e3e11ade74f52",
+        "hostname": "cpcontacts.granbymultisports.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "hsts",
+                "basic"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://emplois.granby.ca:443",
+        "_rev": "3-bbb105557efab6b5b7740ea1a94de4d2",
+        "hostname": "emplois.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://esri.granby.ca:443",
+        "_rev": "4-12cb15beb3d6c4678251bed7c183d013",
+        "hostname": "esri.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:8.5",
+                "windows_server"
+            ],
+            "title": "IIS"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://esri.ville.granby.qc.ca:443",
+        "_rev": "4-2748de3f0da13b3c5cfff52ee2747246",
+        "hostname": "esri.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "404",
+            "tech": "microsoft_httpapi:2.0",
+            "title": "Not"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ezproxy.granby.ca:443",
+        "_rev": "3-0abaa91b3f87a72c0e0840a6d54c187e",
+        "hostname": "ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ezproxy.ville.granby.qc.ca:443",
+        "_rev": "3-10e3c39699221d38c49ce682b147741e",
+        "hostname": "ezproxy.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://gr.bvdep.com.ezproxy.granby.ca:443",
+        "_rev": "3-1c363801d91a8c8c30f261a8c1d69be6",
+        "hostname": "gr.bvdep.com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://gr.bvdep.com.ezproxy.ville.granby.qc.ca:443",
+        "_rev": "3-6a768e7a57968701ba5dcdba7bfecf61",
+        "hostname": "gr.bvdep.com.ezproxy.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://granby-naxosmusiclibrary-com.ezproxy.granby.ca:443",
+        "_rev": "3-018baebd94c3aef14d23ce7a30b3fe89",
+        "hostname": "granby-naxosmusiclibrary-com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://granby.ca:443",
+        "_rev": "6-8166b99c6c349d102e724ab9f22a633a",
+        "hostname": "granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "http://granby.ca/fr/accueil",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "hsts",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://granbymultisports.ca:443",
+        "_rev": "4-701ca43f734c3b23d6ebee159a1460a8",
+        "hostname": "granbymultisports.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "apache_http_server",
+                "hsts",
+                "mysql",
+                "php",
+                "site_kit:1.126.0",
+                "wp_rocket",
+                "wordpress"
+            ],
+            "title": "Granby"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://grc.bvdep.com.ezproxy.granby.ca:443",
+        "_rev": "3-7fc436c99d207b7c4ffd2a1cfc9a359a",
+        "hostname": "grc.bvdep.com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://grc.bvdep.com.ezproxy.ville.granby.qc.ca:443",
+        "_rev": "3-8ff8c7bc5e50f79761121265c273ec46",
+        "hostname": "grc.bvdep.com.ezproxy.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://hdvsrvipoffice.granby.ca:443",
+        "_rev": "3-d870eb8b434ef9291cc85f7fe9c6d990",
+        "hostname": "hdvsrvipoffice.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "hsts"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://image.mail.palace.qc.ca:443",
+        "_rev": "4-184f9c0a4908db914efb5b9abc08df02",
+        "hostname": "image.mail.palace.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "title": "Access"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://images.granby.ca:443",
+        "_rev": "4-42c4c65577ea44275249e625dee00ec7",
+        "hostname": "images.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "apache_http_server",
+            "title": "403"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://impression.granby.ca:443",
+        "_rev": "6-2d26238999eb69addbc197860d91e25b",
+        "hostname": "impression.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://papercut.granby.ca:9192/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "302",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "Document"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://incendie.granby.ca:443",
+        "_rev": "6-4b05744923034f4449566c01a79d550b",
+        "hostname": "incendie.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://granby.ca/fr/service-incendies/division-prevention",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "hsts",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://inscriptions.granby.ca:443",
+        "_rev": "3-ce351b5b9caad7db19024c6cb2d9c682",
+        "hostname": "inscriptions.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "iis:10.0",
+                "hsts",
+                "microsoft_asp.net",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://jagranby.com:443",
+        "_rev": "3-92e412dcf655a6eeb7c983fbb3b92195",
+        "hostname": "jagranby.com",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "react",
+                "hsts",
+                "wix"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://junior.bvdep.com.ezproxy.granby.ca:443",
+        "_rev": "3-71e3c96802ac626fe3fab69630e6a178",
+        "hostname": "junior.bvdep.com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://junior.bvdep.com.ezproxy.ville.granby.qc.ca:443",
+        "_rev": "3-7e2965eb944c40c06d3208f7a10c1587",
+        "hostname": "junior.bvdep.com.ezproxy.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://junior.universalis-edu.com.ezproxy.granby.ca:443",
+        "_rev": "3-8300a08209186cfe417c6260d9cab124",
+        "hostname": "junior.universalis-edu.com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://login.ezproxy.granby.ca:443",
+        "_rev": "3-7199a948179f641e50b66fb151e8aaad",
+        "hostname": "login.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://mail.granbymultisports.ca:443",
+        "_rev": "3-26c5eec64da66203971a6056ebe885c9",
+        "hostname": "mail.granbymultisports.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "hsts",
+                "apache_http_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://nouveau.eureka.cc.ezproxy.granby.ca:443",
+        "_rev": "3-c410af7ecccd22cd5f14678fc22b9143",
+        "hostname": "nouveau.eureka.cc.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://nouveau.eureka.cc.ezproxy.ville.granby.qc.ca:443",
+        "_rev": "3-f2c48dd0dc25021be7b3be26648430c8",
+        "hostname": "nouveau.eureka.cc.ezproxy.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://osx.granby.ca:443",
+        "_rev": "4-ee0ca605172c3f5532d41bf25e12bf13",
+        "hostname": "osx.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "unix",
+                "apache_http_server:2.4.48"
+            ],
+            "title": "macOS"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://osx.ville.granby.qc.ca:443",
+        "_rev": "4-605b2b7663ebb854cd0d7f6bd6f5cf82",
+        "hostname": "osx.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "unix",
+                "apache_http_server:2.4.48"
+            ],
+            "title": "macOS"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://portail.cinlb.org:443",
+        "_rev": "3-62c940c170c34fa25b2636197d6c7c32",
+        "hostname": "portail.cinlb.org",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "plesk",
+                "nginx"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://portail.cinlb.org:8443",
+        "_rev": "3-ec8270407e152a9c337abb2109d09ad8",
+        "hostname": "portail.cinlb.org",
+        "path": "",
+        "port": 8443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://preprod.tourismegranby.com:443",
+        "_rev": "3-2b8218f4b4e3eb79e8d1dd25439590bd",
+        "hostname": "preprod.tourismegranby.com",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "litespeed",
+                "http/3",
+                "litespeed_cache",
+                "php:7.4.33"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://s27-14.ville.granby.qc.ca:443",
+        "_rev": "4-26b8a31da8953b3d3e5484a3ab0d2ab9",
+        "hostname": "s27-14.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "IIS"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://s27-41.ville.granby.qc.ca:443",
+        "_rev": "3-ec18477d54254a8197e5b90d772de2f5",
+        "hostname": "s27-41.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "windows_server",
+                "iis:10.0"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://s27-42.ville.granby.qc.ca:443",
+        "_rev": "3-9747564931d0db3208abbd86a91dc05e",
+        "hostname": "s27-42.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "java",
+                "glassfish",
+                "java_servlet:3.1",
+                "javaserver_pages:2.3"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://s27-45.ville.granby.qc.ca:443",
+        "_rev": "3-4c45f7dbb318ba0eaa352d81c4d3a26b",
+        "hostname": "s27-45.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://s27-55.ville.granby.qc.ca:443",
+        "_rev": "3-65324ce5954f33e3f2e2191102ecb268",
+        "hostname": "s27-55.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "iis:10.0",
+                "hsts",
+                "microsoft_asp.net",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://s27-6.ville.granby.qc.ca:443",
+        "_rev": "3-5b9837ff106638b72a56aa25f27f2805",
+        "hostname": "s27-6.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "hsts"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://s27-61.ville.granby.qc.ca:443",
+        "_rev": "4-a20946b16d8108d10fac8d433e9ac997",
+        "hostname": "s27-61.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "bootstrap",
+            "title": "CSRF"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://s27-62.ville.granby.qc.ca:443",
+        "_rev": "4-d9f5711f4f6e34711211e352b3bf160d",
+        "hostname": "s27-62.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "unix",
+                "apache_http_server:2.4.48"
+            ],
+            "title": "macOS"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://support.granby.ca:443",
+        "_rev": "3-b52bf3e41449cccf3e638bbcae441154",
+        "hostname": "support.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://tapiro.taptouche.com.ezproxy.granby.ca:443",
+        "_rev": "3-c4dcfaecfb0cf7bcc4303cbc3f9296e8",
+        "hostname": "tapiro.taptouche.com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://taxibus.granby.ca:443",
+        "_rev": "3-341f28923e923cbc91c1792c034ebf8b",
+        "hostname": "taxibus.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "java",
+                "glassfish",
+                "java_servlet:3.1",
+                "javaserver_pages:2.3"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://taxibus.ville.granby.qc.ca:443",
+        "_rev": "3-ed793098ab5e264cf79777c1c58ec117",
+        "hostname": "taxibus.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "java",
+                "glassfish",
+                "java_servlet:3.1",
+                "javaserver_pages:2.3"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://vccgranby.org:443",
+        "_rev": "3-8f21349b82452fada4fb38dcfd854965",
+        "hostname": "vccgranby.org",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "react",
+                "hsts",
+                "wix"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://view.mail.palace.qc.ca:443",
+        "_rev": "6-22829b406216286889312ca0c98a261b",
+        "hostname": "view.mail.palace.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "/Error.aspx",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "302",
+            "tech": "hsts",
+            "title": "Object"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ville.granby.qc.ca:443",
+        "_rev": "6-76bc5a024ce77ba26a4907e4f42667cd",
+        "hostname": "ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "hsts",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://wallace.granby.ca:443",
+        "_rev": "3-acf10c2d65808f064f7ca444a01bc302",
+        "hostname": "wallace.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "java",
+                "hsts"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://webdisk.granbymultisports.ca:443",
+        "_rev": "3-7e31c7ea43eeabab304a1590feb02d8a",
+        "hostname": "webdisk.granbymultisports.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "hsts",
+                "basic"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://webmail.granby.ca:443",
+        "_rev": "3-1535088d318ab9c212b886f4acef5714",
+        "hostname": "webmail.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "windows_server",
+                "iis:10.0"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://webmail.granbymultisports.ca:443",
+        "_rev": "4-db71528f131aefd6711a781fbf0afdf0",
+        "hostname": "webmail.granbymultisports.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "apache_http_server"
+            ],
+            "title": "Webmail"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://webmail.ville.granby.qc.ca:443",
+        "_rev": "3-c58a5be022d27b3cc5c73a35654fa7f3",
+        "hostname": "webmail.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "windows_server",
+                "iis:10.0"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.biblio.granby.ca:443",
+        "_rev": "6-32c626f1b4986878f13970602c598466",
+        "hostname": "www.biblio.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://biblio.granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "hsts",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.biblio.ville.granby.qc.ca:443",
+        "_rev": "6-59cc898ab109e3612212d181d8cbeacd",
+        "hostname": "www.biblio.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://biblio.granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "hsts",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.cinlb.org:443",
+        "_rev": "6-2b99fe33eb4a39f24ddf9c996aa26fd4",
+        "hostname": "www.cinlb.org",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://cinlb.org/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "nginx",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.cinlb.org:8443",
+        "_rev": "3-23e97601564a00cce7e86975920d53b9",
+        "hostname": "www.cinlb.org",
+        "path": "",
+        "port": 8443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.genealogiequebec.com.ezproxy.granby.ca:443",
+        "_rev": "3-f0a17ab0e3cb526541ebd76a160b8ea4",
+        "hostname": "www.genealogiequebec.com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.genealogiequebec.com.ezproxy.ville.granby.qc.ca:443",
+        "_rev": "3-9fa6f529351270c41004e58a110499be",
+        "hostname": "www.genealogiequebec.com.ezproxy.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.granby.ca:443",
+        "_rev": "6-a9af7ff51e4c6f60f2ab38b047026708",
+        "hostname": "www.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "hsts",
+            "title": "301"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.granbymultisports.ca:443",
+        "_rev": "3-94d2000a2db2feebf21c408c31e031a3",
+        "hostname": "www.granbymultisports.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "hsts",
+                "apache_http_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.jagranby.com:443",
+        "_rev": "4-4863a5ab0ab8e7333328cfe9fa328702",
+        "hostname": "www.jagranby.com",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "google_cloud_cdn",
+                "google_cloud",
+                "hsts",
+                "http/3",
+                "react",
+                "wix"
+            ],
+            "title": "Jeunes"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.mesaieux.com.ezproxy.granby.ca:443",
+        "_rev": "3-7d7c0b80720c2c2cca2c902b775f8cb8",
+        "hostname": "www.mesaieux.com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.mesaieux.com.ezproxy.ville.granby.qc.ca:443",
+        "_rev": "3-2ac799b29c8c2371c8595b8be416abd3",
+        "hostname": "www.mesaieux.com.ezproxy.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.prdh-igd.com.ezproxy.granby.ca:443",
+        "_rev": "3-135e1578dab53301a8d3d45be370394c",
+        "hostname": "www.prdh-igd.com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.rbdigital.com.ezproxy.granby.ca:443",
+        "_rev": "3-cf44dbe3a2b6466d45f4fa40b5e4955d",
+        "hostname": "www.rbdigital.com.ezproxy.granby.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.rbdigital.com.ezproxy.ville.granby.qc.ca:443",
+        "_rev": "3-90dfb5dde6dc0694f3f28843ca19142a",
+        "hostname": "www.rbdigital.com.ezproxy.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "ezproxy"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.tourismegranby.com:443",
+        "_rev": "3-5b48594a1b40792e7ef99f9d3cafd8b8",
+        "hostname": "www.tourismegranby.com",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "litespeed",
+                "http/3",
+                "php:7.4.33"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.vccgranby.org:443",
+        "_rev": "4-030d747c6e67b3b5c2ef7d5943f6de9e",
+        "hostname": "www.vccgranby.org",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "google_cloud_cdn",
+                "google_cloud",
+                "hsts",
+                "react",
+                "wix"
+            ],
+            "title": "Vie"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.ville.granby.qc.ca:443",
+        "_rev": "6-5bd8182a0e689556ccb250f942def80b",
+        "hostname": "www.ville.granby.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "granby",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "location": "https://granby.ca/",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "status_code": "301",
+            "tech": "hsts",
+            "title": "301"
+        },
+        "type": "url"
+    }
+]

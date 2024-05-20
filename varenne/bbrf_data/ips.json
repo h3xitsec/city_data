@@ -1,1 +1,128 @@
-[{"_id": "184.107.112.53", "_rev": "1-fe9839338a5a8c4cfffb65ce7ed6dcb3", "program": "varenne", "type": "ip", "domains": ["ancien.ville.varennes.qc.ca", "cpanel.ville.varennes.qc.ca", "webmail.ville.varennes.qc.ca", "webdisk.ville.varennes.qc.ca", "www.ancien.ville.varennes.qc.ca"]}, {"_id": "192.99.206.73", "_rev": "1-369ef9ce9bd80ac4dbc13a7eb77127a1", "program": "varenne", "type": "ip", "domains": ["benevole.ville.varennes.qc.ca"]}, {"_id": "199.115.124.214", "_rev": "1-84a9540eb1c1ebe1a86a661e62a99e45", "program": "varenne", "type": "ip", "domains": ["www.ville.varennes.qc.ca", "ville.varennes.qc.ca"]}, {"_id": "45.73.13.234", "_rev": "1-90dabc3f115d3f541f3488e27c294eb1", "program": "varenne", "type": "ip", "domains": ["smtp.ville.varennes.qc.ca", "smtp2.ville.varennes.qc.ca"]}, {"_id": "67.69.11.51", "_rev": "1-9ab907ed8242f33f4a4981cbca5dd360", "program": "varenne", "type": "ip", "domains": ["nuage.ville.varennes.qc.ca"]}, {"_id": "67.69.11.53", "_rev": "1-e7ce682177e59020b81420cbd3b86c96", "program": "varenne", "type": "ip", "domains": ["supportinfo.ville.varennes.qc.ca"]}, {"_id": "67.69.11.55", "_rev": "1-42599e41762c7838301a571304775e93", "program": "varenne", "type": "ip", "domains": ["mail.ville.varennes.qc.ca"]}, {"_id": "67.69.11.56", "_rev": "1-45ad5caf69fc496507f1e890d9db82d8", "program": "varenne", "type": "ip", "domains": ["fortiems.ville.varennes.qc.ca"]}, {"_id": "67.69.11.57", "_rev": "1-429a5f77ac19384dbc01c98edf209886", "program": "varenne", "type": "ip", "domains": ["background.ville.varennes.qc.ca"]}, {"_id": "67.69.11.58", "_rev": "1-a5a9b7e84fc58e421c950853768fb839", "program": "varenne", "type": "ip", "domains": ["smtp.ville.varennes.qc.ca", "smtp1.ville.varennes.qc.ca"]}, {"_id": "67.69.11.59", "_rev": "1-aa0516941503cc48a195b9ac69f73961", "program": "varenne", "type": "ip", "domains": ["src.ville.varennes.qc.ca", "biblio.ville.varennes.qc.ca", "proxy.ville.varennes.qc.ca"]}, {"_id": "67.69.11.60", "_rev": "1-1ccf859563320a13583700629f28eb26", "program": "varenne", "type": "ip", "domains": ["srvewedgehdv.ville.varennes.qc.ca"]}, {"_id": "67.69.11.62", "_rev": "1-331b881181da880f56e04ba628e58b1a", "program": "varenne", "type": "ip", "domains": ["mondopc.ville.varennes.qc.ca"]}]
+[
+    {
+        "_id": "184.107.112.53",
+        "_rev": "1-fe9839338a5a8c4cfffb65ce7ed6dcb3",
+        "domains": [
+            "ancien.ville.varennes.qc.ca",
+            "cpanel.ville.varennes.qc.ca",
+            "webmail.ville.varennes.qc.ca",
+            "webdisk.ville.varennes.qc.ca",
+            "www.ancien.ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    },
+    {
+        "_id": "192.99.206.73",
+        "_rev": "1-369ef9ce9bd80ac4dbc13a7eb77127a1",
+        "domains": [
+            "benevole.ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    },
+    {
+        "_id": "199.115.124.214",
+        "_rev": "1-84a9540eb1c1ebe1a86a661e62a99e45",
+        "domains": [
+            "www.ville.varennes.qc.ca",
+            "ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    },
+    {
+        "_id": "45.73.13.234",
+        "_rev": "1-90dabc3f115d3f541f3488e27c294eb1",
+        "domains": [
+            "smtp.ville.varennes.qc.ca",
+            "smtp2.ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.11.51",
+        "_rev": "1-9ab907ed8242f33f4a4981cbca5dd360",
+        "domains": [
+            "nuage.ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.11.53",
+        "_rev": "1-e7ce682177e59020b81420cbd3b86c96",
+        "domains": [
+            "supportinfo.ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.11.55",
+        "_rev": "1-42599e41762c7838301a571304775e93",
+        "domains": [
+            "mail.ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.11.56",
+        "_rev": "1-45ad5caf69fc496507f1e890d9db82d8",
+        "domains": [
+            "fortiems.ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.11.57",
+        "_rev": "1-429a5f77ac19384dbc01c98edf209886",
+        "domains": [
+            "background.ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.11.58",
+        "_rev": "1-a5a9b7e84fc58e421c950853768fb839",
+        "domains": [
+            "smtp.ville.varennes.qc.ca",
+            "smtp1.ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.11.59",
+        "_rev": "1-aa0516941503cc48a195b9ac69f73961",
+        "domains": [
+            "src.ville.varennes.qc.ca",
+            "biblio.ville.varennes.qc.ca",
+            "proxy.ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.11.60",
+        "_rev": "1-1ccf859563320a13583700629f28eb26",
+        "domains": [
+            "srvewedgehdv.ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.11.62",
+        "_rev": "1-331b881181da880f56e04ba628e58b1a",
+        "domains": [
+            "mondopc.ville.varennes.qc.ca"
+        ],
+        "program": "varenne",
+        "type": "ip"
+    }
+]

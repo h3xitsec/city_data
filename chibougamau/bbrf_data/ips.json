@@ -1,1 +1,36 @@
-[{"_id": "142.202.213.35", "_rev": "1-a32adfbb258d1ed38498f411b279c47c", "program": "chibougamau", "type": "ip", "domains": ["prevention.ville.chibougamau.qc.ca", "autoverification.ville.chibougamau.qc.ca"]}, {"_id": "142.202.213.36", "_rev": "1-edb551d3a683fa95ec392103a798b4ef", "program": "chibougamau", "type": "ip", "domains": ["www.chiboujmap.ville.chibougamau.qc.ca", "chiboujmap.ville.chibougamau.qc.ca", "www.chibouuel.ville.chibougamau.qc.ca", "www.chibouventi.ville.chibougamau.qc.ca", "chibouuel.ville.chibougamau.qc.ca", "chibouventi.ville.chibougamau.qc.ca"]}, {"_id": "15.222.192.230", "_rev": "1-20e11b0b8b47396aaa114e4b63225dba", "program": "chibougamau", "type": "ip", "domains": ["www.ville.chibougamau.qc.ca", "ville.chibougamau.qc.ca"]}]
+[
+    {
+        "_id": "142.202.213.35",
+        "_rev": "1-a32adfbb258d1ed38498f411b279c47c",
+        "domains": [
+            "prevention.ville.chibougamau.qc.ca",
+            "autoverification.ville.chibougamau.qc.ca"
+        ],
+        "program": "chibougamau",
+        "type": "ip"
+    },
+    {
+        "_id": "142.202.213.36",
+        "_rev": "1-edb551d3a683fa95ec392103a798b4ef",
+        "domains": [
+            "www.chiboujmap.ville.chibougamau.qc.ca",
+            "chiboujmap.ville.chibougamau.qc.ca",
+            "www.chibouuel.ville.chibougamau.qc.ca",
+            "www.chibouventi.ville.chibougamau.qc.ca",
+            "chibouuel.ville.chibougamau.qc.ca",
+            "chibouventi.ville.chibougamau.qc.ca"
+        ],
+        "program": "chibougamau",
+        "type": "ip"
+    },
+    {
+        "_id": "15.222.192.230",
+        "_rev": "1-20e11b0b8b47396aaa114e4b63225dba",
+        "domains": [
+            "www.ville.chibougamau.qc.ca",
+            "ville.chibougamau.qc.ca"
+        ],
+        "program": "chibougamau",
+        "type": "ip"
+    }
+]

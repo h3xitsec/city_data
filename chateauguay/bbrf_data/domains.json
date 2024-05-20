@@ -1,1 +1,555 @@
-[{"_id": "acces.ville.chateauguay.qc.ca", "_rev": "11-b0353b74171906777140f2107a9ade0a", "ips": ["207.35.210.146"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "access-dti.ville.chateauguay.qc.ca", "_rev": "14-5930f909744f785895c1ff6bb0895cfd", "ips": ["67.69.135.248"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443"}, "program": "chateauguay", "type": "domain"}, {"_id": "access-police.ville.chateauguay.qc.ca", "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "access.ville.chateauguay.qc.ca", "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "access2.ville.chateauguay.qc.ca", "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "autodiscover.ville.chateauguay.qc.ca", "_rev": "11-ed53513820703a864d1ed3700b6041f9", "ips": ["67.69.135.246"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "awds.ville.chateauguay.qc.ca", "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "awseg.ville.chateauguay.qc.ca", "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "biblio.ville.chateauguay.qc.ca", "_rev": "15-9eae0fb936eb918bc8338c1739731ed9", "ips": ["151.101.66.159"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "http_port": "80", "https_port": "443"}, "program": "chateauguay", "type": "domain"}, {"_id": "chateauguay.qc.ca", "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "csp.ville.chateauguay.qc.ca", "_rev": "14-51496dd54ea09cca14df48847a924ab1", "ips": ["67.69.135.252"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443"}, "program": "chateauguay", "type": "domain"}, {"_id": "dossier.ville.chateauguay.qc.ca", "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "guide.ville.chateauguay.qc.ca", "_rev": "14-edac3bae177b3d45ae8121e675b8d31d", "ips": ["151.101.66.159"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443"}, "program": "chateauguay", "type": "domain"}, {"_id": "incendie-web.ville.chateauguay.qc.ca", "_rev": "14-2490aa1cc31142e263db4abd29dff4bf", "ips": ["207.35.210.151"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "true", "https": "false", "http_port": "80"}, "program": "chateauguay", "type": "domain"}, {"_id": "legacy.ville.chateauguay.qc.ca", "_rev": "11-61c6c597a57d9d3d922f635a2a28babf", "ips": ["199.243.181.139"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "liencrpq.ville.chateauguay.qc.ca", "_rev": "11-afbf991361ef071644dc89f6c792cf76", "ips": ["67.69.135.245"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "mondossier.ville.chateauguay.qc.ca", "_rev": "14-39a2f989acbc5537ada0fe3e0f5f2df6", "ips": ["23.205.255.174", "23.205.255.141"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443"}, "program": "chateauguay", "type": "domain"}, {"_id": "owa.ville.chateauguay.qc.ca", "_rev": "11-ed53513820703a864d1ed3700b6041f9", "ips": ["67.69.135.246"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "paiewebapi.ville.chateauguay.qc.ca", "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "pop3.ville.chateauguay.qc.ca", "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "ptr.ville.chateauguay.qc.ca", "_rev": "14-64271549016f9d463729f01bf90bef0d", "ips": ["199.243.181.138"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443"}, "program": "chateauguay", "type": "domain"}, {"_id": "smtp.ville.chateauguay.qc.ca", "_rev": "11-32aa43d08c99756a512a2f3f38ba3235", "ips": ["199.243.181.141"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "u-sismique.ville.chateauguay.qc.ca", "_rev": "11-24a5855cfa976fa7c2ffbaa574e24518", "ips": ["67.69.135.251"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "ville.chateauguay.qc.ca", "_rev": "15-e98bd8b87851356bd6dfa82707a3c91b", "ips": ["151.101.66.159"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443", "http_port": "80"}, "program": "chateauguay", "type": "domain"}, {"_id": "www.chateauguay.qc.ca", "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "www.guide.ville.chateauguay.qc.ca", "_rev": "15-e98bd8b87851356bd6dfa82707a3c91b", "ips": ["151.101.66.159"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443", "http_port": "80"}, "program": "chateauguay", "type": "domain"}, {"_id": "www.owa.ville.chateauguay.qc.ca", "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "chateauguay", "type": "domain"}, {"_id": "www.ville.chateauguay.qc.ca", "_rev": "16-ea1c538d880ddf6309fa4f5ea4c28f8d", "ips": ["151.101.66.159"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "true", "https": "true", "http_port": "80", "https_port": "443"}, "program": "chateauguay", "type": "domain"}]
+[
+    {
+        "_id": "acces.ville.chateauguay.qc.ca",
+        "_rev": "11-b0353b74171906777140f2107a9ade0a",
+        "ips": [
+            "207.35.210.146"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "access-dti.ville.chateauguay.qc.ca",
+        "_rev": "14-5930f909744f785895c1ff6bb0895cfd",
+        "ips": [
+            "67.69.135.248"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "access-police.ville.chateauguay.qc.ca",
+        "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036",
+        "ips": [],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "access.ville.chateauguay.qc.ca",
+        "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036",
+        "ips": [],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "access2.ville.chateauguay.qc.ca",
+        "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036",
+        "ips": [],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "autodiscover.ville.chateauguay.qc.ca",
+        "_rev": "11-ed53513820703a864d1ed3700b6041f9",
+        "ips": [
+            "67.69.135.246"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "awds.ville.chateauguay.qc.ca",
+        "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036",
+        "ips": [],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "awseg.ville.chateauguay.qc.ca",
+        "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036",
+        "ips": [],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "biblio.ville.chateauguay.qc.ca",
+        "_rev": "15-9eae0fb936eb918bc8338c1739731ed9",
+        "ips": [
+            "151.101.66.159"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "chateauguay.qc.ca",
+        "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036",
+        "ips": [],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "csp.ville.chateauguay.qc.ca",
+        "_rev": "14-51496dd54ea09cca14df48847a924ab1",
+        "ips": [
+            "67.69.135.252"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "dossier.ville.chateauguay.qc.ca",
+        "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036",
+        "ips": [],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "guide.ville.chateauguay.qc.ca",
+        "_rev": "14-edac3bae177b3d45ae8121e675b8d31d",
+        "ips": [
+            "151.101.66.159"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "incendie-web.ville.chateauguay.qc.ca",
+        "_rev": "14-2490aa1cc31142e263db4abd29dff4bf",
+        "ips": [
+            "207.35.210.151"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "true",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "legacy.ville.chateauguay.qc.ca",
+        "_rev": "11-61c6c597a57d9d3d922f635a2a28babf",
+        "ips": [
+            "199.243.181.139"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "liencrpq.ville.chateauguay.qc.ca",
+        "_rev": "11-afbf991361ef071644dc89f6c792cf76",
+        "ips": [
+            "67.69.135.245"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "mondossier.ville.chateauguay.qc.ca",
+        "_rev": "14-39a2f989acbc5537ada0fe3e0f5f2df6",
+        "ips": [
+            "23.205.255.174",
+            "23.205.255.141"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "owa.ville.chateauguay.qc.ca",
+        "_rev": "11-ed53513820703a864d1ed3700b6041f9",
+        "ips": [
+            "67.69.135.246"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "paiewebapi.ville.chateauguay.qc.ca",
+        "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036",
+        "ips": [],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "pop3.ville.chateauguay.qc.ca",
+        "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036",
+        "ips": [],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "ptr.ville.chateauguay.qc.ca",
+        "_rev": "14-64271549016f9d463729f01bf90bef0d",
+        "ips": [
+            "199.243.181.138"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "smtp.ville.chateauguay.qc.ca",
+        "_rev": "11-32aa43d08c99756a512a2f3f38ba3235",
+        "ips": [
+            "199.243.181.141"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "u-sismique.ville.chateauguay.qc.ca",
+        "_rev": "11-24a5855cfa976fa7c2ffbaa574e24518",
+        "ips": [
+            "67.69.135.251"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "ville.chateauguay.qc.ca",
+        "_rev": "15-e98bd8b87851356bd6dfa82707a3c91b",
+        "ips": [
+            "151.101.66.159"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.chateauguay.qc.ca",
+        "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036",
+        "ips": [],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.guide.ville.chateauguay.qc.ca",
+        "_rev": "15-e98bd8b87851356bd6dfa82707a3c91b",
+        "ips": [
+            "151.101.66.159"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.owa.ville.chateauguay.qc.ca",
+        "_rev": "8-d9f8b54724371e61dda5d2dd26c4f036",
+        "ips": [],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.ville.chateauguay.qc.ca",
+        "_rev": "16-ea1c538d880ddf6309fa4f5ea4c28f8d",
+        "ips": [
+            "151.101.66.159"
+        ],
+        "program": "chateauguay",
+        "tags": {
+            "found_date": "20240516",
+            "http": "true",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    }
+]

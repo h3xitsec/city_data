@@ -1,1 +1,860 @@
-[{"_id": "ancien.ville.varennes.qc.ca", "_rev": "14-6ded71347cb0be0458218d1ab50e8f82", "ips": ["184.107.112.53"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "http_port": "80"}, "program": "varenne", "type": "domain"}, {"_id": "background.ville.varennes.qc.ca", "_rev": "11-0864d72346f38925cd555986c1aa6bb1", "ips": ["67.69.11.57"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "benevole.ville.varennes.qc.ca", "_rev": "15-6c1eec07719cdd96bd223cf3642bac1c", "ips": ["192.99.206.73"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "true", "https": "true", "https_port": "443"}, "program": "varenne", "type": "domain"}, {"_id": "biblio.ville.varennes.qc.ca", "_rev": "15-3ac2255aafb0ed3bb3bbfd93b4f460fb", "ips": ["67.69.11.59"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "true", "https": "false", "http_port": "80", "https_port": "443"}, "program": "varenne", "type": "domain"}, {"_id": "collab-edge.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "cpanel.ville.varennes.qc.ca", "_rev": "14-c1a41fbfd75a1d77e5e196ab5c34e2a9", "ips": ["184.107.112.53"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443"}, "program": "varenne", "type": "domain"}, {"_id": "fortiems.ville.varennes.qc.ca", "_rev": "11-382166fa4f821621aadc71094f0d6be1", "ips": ["67.69.11.56"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "gps.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "mail.ville.varennes.qc.ca", "_rev": "14-c6909f31cea3b06d0c8bee0f2f8b3025", "ips": ["67.69.11.55"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443"}, "program": "varenne", "type": "domain"}, {"_id": "mg.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "mondopc.ville.varennes.qc.ca", "_rev": "11-2fd08077bf7c262a70c4a7f783f6e1d9", "ips": ["67.69.11.62"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "nuage.ville.varennes.qc.ca", "_rev": "11-25620278edcaae6617938d6933c26deb", "ips": ["67.69.11.51"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "proxy.ville.varennes.qc.ca", "_rev": "15-c1953380b043bb913f46512ba4dc4802", "ips": ["67.69.11.59"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "true", "https": "true", "http_port": "80"}, "program": "varenne", "type": "domain"}, {"_id": "smtp.ville.varennes.qc.ca", "_rev": "14-596f3ba913ef427216d7498457ab063d", "ips": ["67.69.11.58", "45.73.13.234"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443"}, "program": "varenne", "type": "domain"}, {"_id": "smtp1.ville.varennes.qc.ca", "_rev": "14-a7a025963d0d4c74b892d4654afcfc20", "ips": ["67.69.11.58"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443"}, "program": "varenne", "type": "domain"}, {"_id": "smtp2.ville.varennes.qc.ca", "_rev": "14-e5121c325262b9c03d4c320ea2dc6d8b", "ips": ["45.73.13.234"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443"}, "program": "varenne", "type": "domain"}, {"_id": "src.ville.varennes.qc.ca", "_rev": "15-3ac2255aafb0ed3bb3bbfd93b4f460fb", "ips": ["67.69.11.59"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "true", "https": "false", "http_port": "80", "https_port": "443"}, "program": "varenne", "type": "domain"}, {"_id": "srvcucmcc.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "srvcucmhdv.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "srvewcore.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "srvewcorecc.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "srvewcorehdv.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "srvewedgehdv.ville.varennes.qc.ca", "_rev": "15-a5c520512c2e3242e7a657a45c50b2c0", "ips": ["67.69.11.60"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": ["443", "8443"]}, "program": "varenne", "type": "domain"}, {"_id": "srvewhybridcc.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "srvjabbercc.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "srvjabberhdv.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "srvunitycc.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "srvunityhdv.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "supportinfo.ville.varennes.qc.ca", "_rev": "11-17c8aaa9735cace490b4e1da157d708f", "ips": ["67.69.11.53"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "test.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "ville.varennes.qc.ca", "_rev": "14-7a087589239ef5c815e2ce80305dbe61", "ips": ["199.115.124.214"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "http_port": "80"}, "program": "varenne", "type": "domain"}, {"_id": "webdisk.ville.varennes.qc.ca", "_rev": "15-caa3a8ee2f38a715d0a1921a9f127764", "ips": ["184.107.112.53"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "true", "https": "false", "http_port": "80", "https_port": "443"}, "program": "varenne", "type": "domain"}, {"_id": "webmail.ville.varennes.qc.ca", "_rev": "16-1f53f7a34ae262fa3a0de7e053c5b394", "ips": ["184.107.112.53"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "true", "https": "true", "http_port": "80", "https_port": "443"}, "program": "varenne", "type": "domain"}, {"_id": "www.ancien.ville.varennes.qc.ca", "_rev": "14-dc0341bcf5351013723fcbd99905aefe", "ips": ["184.107.112.53"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "true", "https": "false", "http_port": "80"}, "program": "varenne", "type": "domain"}, {"_id": "www.background.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "www.mail.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "www.mg.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "www.smtp1.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "www.srvewcorecc.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "www.srvewcorehdv.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "www.srvewedgehdv.ville.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "www.varennes.qc.ca", "_rev": "8-56628a865d09ec53fe070373aec4e5ff", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "varenne", "type": "domain"}, {"_id": "www.ville.varennes.qc.ca", "_rev": "15-03120a6d8f91d3ed0814c4e4655cf518", "ips": ["199.115.124.214"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "true", "https": "true", "http_port": "80"}, "program": "varenne", "type": "domain"}]
+[
+    {
+        "_id": "ancien.ville.varennes.qc.ca",
+        "_rev": "14-6ded71347cb0be0458218d1ab50e8f82",
+        "ips": [
+            "184.107.112.53"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "background.ville.varennes.qc.ca",
+        "_rev": "11-0864d72346f38925cd555986c1aa6bb1",
+        "ips": [
+            "67.69.11.57"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "benevole.ville.varennes.qc.ca",
+        "_rev": "15-6c1eec07719cdd96bd223cf3642bac1c",
+        "ips": [
+            "192.99.206.73"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "true",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "biblio.ville.varennes.qc.ca",
+        "_rev": "15-3ac2255aafb0ed3bb3bbfd93b4f460fb",
+        "ips": [
+            "67.69.11.59"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "true",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "collab-edge.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "cpanel.ville.varennes.qc.ca",
+        "_rev": "14-c1a41fbfd75a1d77e5e196ab5c34e2a9",
+        "ips": [
+            "184.107.112.53"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "fortiems.ville.varennes.qc.ca",
+        "_rev": "11-382166fa4f821621aadc71094f0d6be1",
+        "ips": [
+            "67.69.11.56"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "gps.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "mail.ville.varennes.qc.ca",
+        "_rev": "14-c6909f31cea3b06d0c8bee0f2f8b3025",
+        "ips": [
+            "67.69.11.55"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "mg.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "mondopc.ville.varennes.qc.ca",
+        "_rev": "11-2fd08077bf7c262a70c4a7f783f6e1d9",
+        "ips": [
+            "67.69.11.62"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "nuage.ville.varennes.qc.ca",
+        "_rev": "11-25620278edcaae6617938d6933c26deb",
+        "ips": [
+            "67.69.11.51"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "proxy.ville.varennes.qc.ca",
+        "_rev": "15-c1953380b043bb913f46512ba4dc4802",
+        "ips": [
+            "67.69.11.59"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "true",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "smtp.ville.varennes.qc.ca",
+        "_rev": "14-596f3ba913ef427216d7498457ab063d",
+        "ips": [
+            "67.69.11.58",
+            "45.73.13.234"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "smtp1.ville.varennes.qc.ca",
+        "_rev": "14-a7a025963d0d4c74b892d4654afcfc20",
+        "ips": [
+            "67.69.11.58"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "smtp2.ville.varennes.qc.ca",
+        "_rev": "14-e5121c325262b9c03d4c320ea2dc6d8b",
+        "ips": [
+            "45.73.13.234"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "src.ville.varennes.qc.ca",
+        "_rev": "15-3ac2255aafb0ed3bb3bbfd93b4f460fb",
+        "ips": [
+            "67.69.11.59"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "true",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "srvcucmcc.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "srvcucmhdv.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "srvewcore.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "srvewcorecc.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "srvewcorehdv.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "srvewedgehdv.ville.varennes.qc.ca",
+        "_rev": "15-a5c520512c2e3242e7a657a45c50b2c0",
+        "ips": [
+            "67.69.11.60"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": [
+                "443",
+                "8443"
+            ],
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "srvewhybridcc.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "srvjabbercc.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "srvjabberhdv.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "srvunitycc.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "srvunityhdv.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "supportinfo.ville.varennes.qc.ca",
+        "_rev": "11-17c8aaa9735cace490b4e1da157d708f",
+        "ips": [
+            "67.69.11.53"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "test.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "ville.varennes.qc.ca",
+        "_rev": "14-7a087589239ef5c815e2ce80305dbe61",
+        "ips": [
+            "199.115.124.214"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "webdisk.ville.varennes.qc.ca",
+        "_rev": "15-caa3a8ee2f38a715d0a1921a9f127764",
+        "ips": [
+            "184.107.112.53"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "true",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "webmail.ville.varennes.qc.ca",
+        "_rev": "16-1f53f7a34ae262fa3a0de7e053c5b394",
+        "ips": [
+            "184.107.112.53"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "true",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.ancien.ville.varennes.qc.ca",
+        "_rev": "14-dc0341bcf5351013723fcbd99905aefe",
+        "ips": [
+            "184.107.112.53"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "true",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "false",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.background.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.mail.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.mg.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.smtp1.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.srvewcorecc.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.srvewcorehdv.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.srvewedgehdv.ville.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.varennes.qc.ca",
+        "_rev": "8-56628a865d09ec53fe070373aec4e5ff",
+        "ips": [],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.ville.varennes.qc.ca",
+        "_rev": "15-03120a6d8f91d3ed0814c4e4655cf518",
+        "ips": [
+            "199.115.124.214"
+        ],
+        "program": "varenne",
+        "tags": {
+            "found_date": "20240516",
+            "http": "true",
+            "http_alive": "true",
+            "http_port": "80",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    }
+]

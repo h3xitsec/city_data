@@ -1,1 +1,161 @@
-[{"_id": "151.101.66.159", "_rev": "1-d89465b22ee454af925b37b7bf59dd4a", "program": "chateauguay", "type": "ip", "domains": ["ville.chateauguay.qc.ca", "guide.ville.chateauguay.qc.ca", "biblio.ville.chateauguay.qc.ca", "www.ville.chateauguay.qc.ca", "www.guide.ville.chateauguay.qc.ca"]}, {"_id": "199.243.181.138", "_rev": "1-f975e0325d216ccb933f3d95a202c62a", "program": "chateauguay", "type": "ip", "domains": ["ptr.ville.chateauguay.qc.ca"]}, {"_id": "199.243.181.139", "_rev": "1-12c39459c2b7d01a4540264b2fbd2aea", "program": "chateauguay", "type": "ip", "domains": ["legacy.ville.chateauguay.qc.ca"]}, {"_id": "199.243.181.141", "_rev": "1-be458803691c7c6e4acb8f847eede942", "program": "chateauguay", "type": "ip", "domains": ["smtp.ville.chateauguay.qc.ca"]}, {"_id": "207.35.210.146", "_rev": "1-192941c53c3d76338148db067da92288", "program": "chateauguay", "type": "ip", "domains": ["acces.ville.chateauguay.qc.ca"]}, {"_id": "207.35.210.151", "_rev": "1-f7bc8156cd9065fa2f3b702b52fe92ec", "program": "chateauguay", "type": "ip", "domains": ["incendie-web.ville.chateauguay.qc.ca"]}, {"_id": "23.205.255.141", "_rev": "1-c39f71b224c94bf913e41b2cd6628da9", "program": "chateauguay", "type": "ip", "domains": ["mondossier.ville.chateauguay.qc.ca"]}, {"_id": "23.205.255.174", "_rev": "1-c39f71b224c94bf913e41b2cd6628da9", "program": "chateauguay", "type": "ip", "domains": ["mondossier.ville.chateauguay.qc.ca"]}, {"_id": "67.69.135.244", "_rev": "1-9e0b5a99d40fa00a642d801a116bacc8", "program": "chateauguay", "type": "ip", "domains": ["ville.chateauguay.qc.ca"]}, {"_id": "67.69.135.245", "_rev": "1-8a8ff90bd2f3c0ece6adefaddfa160a3", "program": "chateauguay", "type": "ip", "domains": ["liencrpq.ville.chateauguay.qc.ca"]}, {"_id": "67.69.135.246", "_rev": "1-75cddb2595e32634a6c5a18e74c4ee97", "program": "chateauguay", "type": "ip", "domains": ["owa.ville.chateauguay.qc.ca", "autodiscover.ville.chateauguay.qc.ca"]}, {"_id": "67.69.135.247", "_rev": "1-9e0b5a99d40fa00a642d801a116bacc8", "program": "chateauguay", "type": "ip", "domains": ["ville.chateauguay.qc.ca"]}, {"_id": "67.69.135.248", "_rev": "1-d2f0236b7b92f0acd1d33d45022a2be8", "program": "chateauguay", "type": "ip", "domains": ["ville.chateauguay.qc.ca", "access-dti.ville.chateauguay.qc.ca"]}, {"_id": "67.69.135.250", "_rev": "1-34e11e1b0651ba3e5c4419bc463d4581", "program": "chateauguay", "type": "ip", "domains": ["owa.police.chateauguay.ca"]}, {"_id": "67.69.135.251", "_rev": "1-a5c24abfdedae2115f3fe159f6c21a42", "program": "chateauguay", "type": "ip", "domains": ["u-sismique.ville.chateauguay.qc.ca"]}, {"_id": "67.69.135.252", "_rev": "1-ad23065c312e97aba1e9384934b668db", "program": "chateauguay", "type": "ip", "domains": ["csp.ville.chateauguay.qc.ca"]}, {"_id": "67.69.135.253", "_rev": "1-9e0b5a99d40fa00a642d801a116bacc8", "program": "chateauguay", "type": "ip", "domains": ["ville.chateauguay.qc.ca"]}]
+[
+    {
+        "_id": "151.101.66.159",
+        "_rev": "1-d89465b22ee454af925b37b7bf59dd4a",
+        "domains": [
+            "ville.chateauguay.qc.ca",
+            "guide.ville.chateauguay.qc.ca",
+            "biblio.ville.chateauguay.qc.ca",
+            "www.ville.chateauguay.qc.ca",
+            "www.guide.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "199.243.181.138",
+        "_rev": "1-f975e0325d216ccb933f3d95a202c62a",
+        "domains": [
+            "ptr.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "199.243.181.139",
+        "_rev": "1-12c39459c2b7d01a4540264b2fbd2aea",
+        "domains": [
+            "legacy.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "199.243.181.141",
+        "_rev": "1-be458803691c7c6e4acb8f847eede942",
+        "domains": [
+            "smtp.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "207.35.210.146",
+        "_rev": "1-192941c53c3d76338148db067da92288",
+        "domains": [
+            "acces.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "207.35.210.151",
+        "_rev": "1-f7bc8156cd9065fa2f3b702b52fe92ec",
+        "domains": [
+            "incendie-web.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "23.205.255.141",
+        "_rev": "1-c39f71b224c94bf913e41b2cd6628da9",
+        "domains": [
+            "mondossier.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "23.205.255.174",
+        "_rev": "1-c39f71b224c94bf913e41b2cd6628da9",
+        "domains": [
+            "mondossier.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.135.244",
+        "_rev": "1-9e0b5a99d40fa00a642d801a116bacc8",
+        "domains": [
+            "ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.135.245",
+        "_rev": "1-8a8ff90bd2f3c0ece6adefaddfa160a3",
+        "domains": [
+            "liencrpq.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.135.246",
+        "_rev": "1-75cddb2595e32634a6c5a18e74c4ee97",
+        "domains": [
+            "owa.ville.chateauguay.qc.ca",
+            "autodiscover.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.135.247",
+        "_rev": "1-9e0b5a99d40fa00a642d801a116bacc8",
+        "domains": [
+            "ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.135.248",
+        "_rev": "1-d2f0236b7b92f0acd1d33d45022a2be8",
+        "domains": [
+            "ville.chateauguay.qc.ca",
+            "access-dti.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.135.250",
+        "_rev": "1-34e11e1b0651ba3e5c4419bc463d4581",
+        "domains": [
+            "owa.police.chateauguay.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.135.251",
+        "_rev": "1-a5c24abfdedae2115f3fe159f6c21a42",
+        "domains": [
+            "u-sismique.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.135.252",
+        "_rev": "1-ad23065c312e97aba1e9384934b668db",
+        "domains": [
+            "csp.ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    },
+    {
+        "_id": "67.69.135.253",
+        "_rev": "1-9e0b5a99d40fa00a642d801a116bacc8",
+        "domains": [
+            "ville.chateauguay.qc.ca"
+        ],
+        "program": "chateauguay",
+        "type": "ip"
+    }
+]

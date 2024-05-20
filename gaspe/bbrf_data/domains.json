@@ -1,1 +1,170 @@
-[{"_id": "gaspe.qc.ca", "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "gaspe", "type": "domain"}, {"_id": "intranet.ville.gaspe.qc.ca", "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "gaspe", "type": "domain"}, {"_id": "tourisme.ville.gaspe.qc.ca", "_rev": "14-aa491471aff0456846b79f5e3ff8a66b", "ips": ["72.10.175.227"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443"}, "program": "gaspe", "type": "domain"}, {"_id": "ville.gaspe.qc.ca", "_rev": "14-aa491471aff0456846b79f5e3ff8a66b", "ips": ["72.10.175.227"], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "true", "resolved_date": "20240516", "http_alive": "true", "http_probed_date": "20240517", "tko_scanned": "false", "http": "false", "https": "true", "https_port": "443"}, "program": "gaspe", "type": "domain"}, {"_id": "w.ville.gaspe.qc.ca", "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "gaspe", "type": "domain"}, {"_id": "www.gaspe.qc.ca", "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "gaspe", "type": "domain"}, {"_id": "www.intranet.ville.gaspe.qc.ca", "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "gaspe", "type": "domain"}, {"_id": "www.tourisme.ville.gaspe.qc.ca", "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "gaspe", "type": "domain"}, {"_id": "www.ville.gaspe.qc.ca", "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c", "ips": [], "tags": {"found_date": "20240516", "scanned": "false", "resolved": "false", "resolved_date": "20240516", "http_alive": "false", "http_probed_date": "never", "tko_scanned": "false", "http": "false", "https": "false"}, "program": "gaspe", "type": "domain"}]
+[
+    {
+        "_id": "gaspe.qc.ca",
+        "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c",
+        "ips": [],
+        "program": "gaspe",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "intranet.ville.gaspe.qc.ca",
+        "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c",
+        "ips": [],
+        "program": "gaspe",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "tourisme.ville.gaspe.qc.ca",
+        "_rev": "14-aa491471aff0456846b79f5e3ff8a66b",
+        "ips": [
+            "72.10.175.227"
+        ],
+        "program": "gaspe",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "ville.gaspe.qc.ca",
+        "_rev": "14-aa491471aff0456846b79f5e3ff8a66b",
+        "ips": [
+            "72.10.175.227"
+        ],
+        "program": "gaspe",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "true",
+            "http_probed_date": "20240517",
+            "https": "true",
+            "https_port": "443",
+            "resolved": "true",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "w.ville.gaspe.qc.ca",
+        "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c",
+        "ips": [],
+        "program": "gaspe",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.gaspe.qc.ca",
+        "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c",
+        "ips": [],
+        "program": "gaspe",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.intranet.ville.gaspe.qc.ca",
+        "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c",
+        "ips": [],
+        "program": "gaspe",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.tourisme.ville.gaspe.qc.ca",
+        "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c",
+        "ips": [],
+        "program": "gaspe",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    },
+    {
+        "_id": "www.ville.gaspe.qc.ca",
+        "_rev": "8-87b8e26353a269b5fbcb33e217d4ac0c",
+        "ips": [],
+        "program": "gaspe",
+        "tags": {
+            "found_date": "20240516",
+            "http": "false",
+            "http_alive": "false",
+            "http_probed_date": "never",
+            "https": "false",
+            "resolved": "false",
+            "resolved_date": "20240516",
+            "scanned": "false",
+            "tko_scanned": "false"
+        },
+        "type": "domain"
+    }
+]

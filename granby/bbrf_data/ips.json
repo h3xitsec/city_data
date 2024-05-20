@@ -1,1 +1,1258 @@
-[{"_id": "128.245.131.91", "_rev": "1-3407db36fe639a0aca7c81b25ebb85a7", "program": "granby", "type": "ip", "domains": ["cloud.mail.palace.qc.ca"]}, {"_id": "128.245.146.186", "_rev": "1-9db879a70d5397efecab08f16472c1b1", "program": "granby", "type": "ip", "domains": ["click.mail.palace.qc.ca"]}, {"_id": "128.245.163.180", "_rev": "1-92be0b587c803065b1e768e199936308", "program": "granby", "type": "ip", "domains": ["view.mail.palace.qc.ca"]}, {"_id": "130.61.69.238", "_rev": "1-d4129656e1309b49dfc8e122b73cd675", "program": "granby", "type": "ip", "domains": ["www.gmsgranby.org", "gmsgranby.org"]}, {"_id": "158.69.17.240", "_rev": "1-3e0391bafb268bbd0572df247cf108f1", "program": "granby", "type": "ip", "domains": ["preprod.tourismegranby.com"]}, {"_id": "185.230.63.107", "_rev": "1-c6b268e1dcf62ec91f63095aeacce9db", "program": "granby", "type": "ip", "domains": ["jagranby.com", "vccgranby.org"]}, {"_id": "185.230.63.171", "_rev": "1-c6b268e1dcf62ec91f63095aeacce9db", "program": "granby", "type": "ip", "domains": ["jagranby.com", "vccgranby.org"]}, {"_id": "185.230.63.186", "_rev": "1-c6b268e1dcf62ec91f63095aeacce9db", "program": "granby", "type": "ip", "domains": ["jagranby.com", "vccgranby.org"]}, {"_id": "192.95.19.213", "_rev": "1-dbedaf6a41709ea787b671fae0601644", "program": "granby", "type": "ip", "domains": ["tourismegranby.com", "www.tourismegranby.com"]}, {"_id": "192.99.15.209", "_rev": "1-ae75e6204d0c0508428cd3828fdbcbbf", "program": "granby", "type": "ip", "domains": ["portail.cinlb.org"]}, {"_id": "198.27.81.24", "_rev": "1-40b7167d76ef17f163486f10873b67cf", "program": "granby", "type": "ip", "domains": ["www.cinlb.org", "cinlb.org"]}, {"_id": "20.175.128.225", "_rev": "1-7f557e4baeac7aa334711eed34f82500", "program": "granby", "type": "ip", "domains": ["www.ville.granby.qc.ca", "www.biblio.ville.granby.qc.ca", "incendie.granby.ca", "ville.granby.qc.ca", "wallace.granby.ca", "www.biblio.granby.ca", "www.granby.ca", "biblio.ville.granby.qc.ca", "biblio.granby.ca", "granby.ca"]}, {"_id": "205.151.209.49", "_rev": "1-bf0cb454f99602223802bf4c6f7d4ca0", "program": "granby", "type": "ip", "domains": ["esri.ville.granby.qc.ca", "esri.granby.ca"]}, {"_id": "205.151.209.52", "_rev": "1-e27916151977e31cddbc56659226abad", "program": "granby", "type": "ip", "domains": ["carte.granby.ca"]}, {"_id": "205.151.209.56", "_rev": "1-b80048b6bcb83f35f84a7a012cb0024b", "program": "granby", "type": "ip", "domains": ["hdvsrvipoffice.granby.ca"]}, {"_id": "205.151.209.58", "_rev": "1-09178567d2e36a3944198b5af5d82827", "program": "granby", "type": "ip", "domains": ["fme.granby.ca"]}, {"_id": "205.151.209.62", "_rev": "1-a99a13e45e5808bbd9241ff579e6968f", "program": "granby", "type": "ip", "domains": ["docutheque-ws.granby.ca"]}, {"_id": "23.205.255.70", "_rev": "1-65ab6736fd30cde7d604014b3b0acf37", "program": "granby", "type": "ip", "domains": ["image.mail.palace.qc.ca"]}, {"_id": "34.149.87.45", "_rev": "1-6fe1a70b87e0ce55db18800689426661", "program": "granby", "type": "ip", "domains": ["www.jagranby.com", "www.vccgranby.org"]}, {"_id": "34.198.182.201", "_rev": "1-fc552ca4ec9c8d66f14974d4a816d905", "program": "granby", "type": "ip", "domains": ["www.complexeartopex.com", "complexeartopex.com"]}, {"_id": "40.99.163.248", "_rev": "1-4dbd18abcd63c97304bbe333df8869ec", "program": "granby", "type": "ip", "domains": ["autodiscover.granbymultisports.org"]}, {"_id": "40.99.164.104", "_rev": "1-34a50edcfda076ff6bbf21df4f5cbcc7", "program": "granby", "type": "ip", "domains": ["autodiscover.palace.qc.ca"]}, {"_id": "40.99.164.88", "_rev": "1-0f4c4dc9c6fb3bbc0096e839f8c731de", "program": "granby", "type": "ip", "domains": ["autodiscover.palace.qc.ca", "autodiscover.cinlb.org"]}, {"_id": "40.99.226.152", "_rev": "1-7438a47ce5f2dd88779212afadd1ca68", "program": "granby", "type": "ip", "domains": ["autodiscover.granby.ca"]}, {"_id": "40.99.226.184", "_rev": "1-8643e3f82f8c90b5d6ddbe5a6684d8ca", "program": "granby", "type": "ip", "domains": ["autodiscover.cinlb.org"]}, {"_id": "40.99.226.200", "_rev": "1-addfbb276cf8e0386f2815175c907feb", "program": "granby", "type": "ip", "domains": ["autodiscover.cdctgranbyregion.com"]}, {"_id": "40.99.226.216", "_rev": "1-d0b7992152320a917291b468b119694b", "program": "granby", "type": "ip", "domains": ["autodiscover.cdctgranbyregion.com", "autodiscover.granbymultisports.org"]}, {"_id": "40.99.226.248", "_rev": "1-addfbb276cf8e0386f2815175c907feb", "program": "granby", "type": "ip", "domains": ["autodiscover.cdctgranbyregion.com"]}, {"_id": "40.99.227.104", "_rev": "1-8643e3f82f8c90b5d6ddbe5a6684d8ca", "program": "granby", "type": "ip", "domains": ["autodiscover.cinlb.org"]}, {"_id": "40.99.227.24", "_rev": "1-34a50edcfda076ff6bbf21df4f5cbcc7", "program": "granby", "type": "ip", "domains": ["autodiscover.palace.qc.ca"]}, {"_id": "40.99.227.40", "_rev": "1-4dbd18abcd63c97304bbe333df8869ec", "program": "granby", "type": "ip", "domains": ["autodiscover.granbymultisports.org"]}, {"_id": "40.99.227.56", "_rev": "1-7438a47ce5f2dd88779212afadd1ca68", "program": "granby", "type": "ip", "domains": ["autodiscover.granby.ca"]}, {"_id": "40.99.227.8", "_rev": "1-7438a47ce5f2dd88779212afadd1ca68", "program": "granby", "type": "ip", "domains": ["autodiscover.granby.ca"]}, {"_id": "40.99.227.88", "_rev": "1-8643e3f82f8c90b5d6ddbe5a6684d8ca", "program": "granby", "type": "ip", "domains": ["autodiscover.cinlb.org"]}, {"_id": "51.79.20.129", "_rev": "1-63eda4594e6354c3220939d5b39a331f", "program": "granby", "type": "ip", "domains": ["cadg-portes-ouvertes.granby.ca"]}, {"_id": "52.54.92.195", "_rev": "1-b6cf9f97fb3e41896d52e01743116397", "program": "granby", "type": "ip", "domains": ["tourismegranby.com", "palace.qc.ca", "www.palace.qc.ca", "www.tourismegranby.com"]}, {"_id": "52.96.122.56", "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a", "program": "granby", "type": "ip", "domains": ["autodiscover.tourismegranby.com"]}, {"_id": "52.96.122.88", "_rev": "1-95ef92a5ee269048bc8ea2425300811b", "program": "granby", "type": "ip", "domains": ["autodiscover.vccgranby.org"]}, {"_id": "52.96.165.136", "_rev": "1-95ef92a5ee269048bc8ea2425300811b", "program": "granby", "type": "ip", "domains": ["autodiscover.vccgranby.org"]}, {"_id": "52.96.165.216", "_rev": "1-95ef92a5ee269048bc8ea2425300811b", "program": "granby", "type": "ip", "domains": ["autodiscover.vccgranby.org"]}, {"_id": "52.96.165.40", "_rev": "1-95ef92a5ee269048bc8ea2425300811b", "program": "granby", "type": "ip", "domains": ["autodiscover.vccgranby.org"]}, {"_id": "52.96.181.248", "_rev": "1-95ef92a5ee269048bc8ea2425300811b", "program": "granby", "type": "ip", "domains": ["autodiscover.vccgranby.org"]}, {"_id": "52.96.184.56", "_rev": "1-95ef92a5ee269048bc8ea2425300811b", "program": "granby", "type": "ip", "domains": ["autodiscover.vccgranby.org"]}, {"_id": "52.96.186.168", "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a", "program": "granby", "type": "ip", "domains": ["autodiscover.tourismegranby.com"]}, {"_id": "52.96.189.8", "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a", "program": "granby", "type": "ip", "domains": ["autodiscover.tourismegranby.com"]}, {"_id": "52.96.215.24", "_rev": "1-ca4a9dbbf48ab040a0160064a00bfc82", "program": "granby", "type": "ip", "domains": ["autodiscover.ville.granby.qc.ca"]}, {"_id": "52.96.215.56", "_rev": "1-ca4a9dbbf48ab040a0160064a00bfc82", "program": "granby", "type": "ip", "domains": ["autodiscover.ville.granby.qc.ca"]}, {"_id": "52.96.215.8", "_rev": "1-89027a029a8f54352fc83b1181163583", "program": "granby", "type": "ip", "domains": ["autodiscover.cdctgranbyregion.com", "autodiscover.cinlb.org"]}, {"_id": "52.96.215.88", "_rev": "1-8643e3f82f8c90b5d6ddbe5a6684d8ca", "program": "granby", "type": "ip", "domains": ["autodiscover.cinlb.org"]}, {"_id": "52.96.222.184", "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a", "program": "granby", "type": "ip", "domains": ["autodiscover.tourismegranby.com"]}, {"_id": "52.96.230.216", "_rev": "1-7438a47ce5f2dd88779212afadd1ca68", "program": "granby", "type": "ip", "domains": ["autodiscover.granby.ca"]}, {"_id": "52.96.230.248", "_rev": "1-8643e3f82f8c90b5d6ddbe5a6684d8ca", "program": "granby", "type": "ip", "domains": ["autodiscover.cinlb.org"]}, {"_id": "52.96.28.8", "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a", "program": "granby", "type": "ip", "domains": ["autodiscover.tourismegranby.com"]}, {"_id": "52.96.37.40", "_rev": "1-95ef92a5ee269048bc8ea2425300811b", "program": "granby", "type": "ip", "domains": ["autodiscover.vccgranby.org"]}, {"_id": "52.96.40.120", "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a", "program": "granby", "type": "ip", "domains": ["autodiscover.tourismegranby.com"]}, {"_id": "52.96.50.136", "_rev": "1-ca4a9dbbf48ab040a0160064a00bfc82", "program": "granby", "type": "ip", "domains": ["autodiscover.ville.granby.qc.ca"]}, {"_id": "52.96.88.200", "_rev": "1-ca4a9dbbf48ab040a0160064a00bfc82", "program": "granby", "type": "ip", "domains": ["autodiscover.ville.granby.qc.ca"]}, {"_id": "52.96.88.248", "_rev": "1-34a50edcfda076ff6bbf21df4f5cbcc7", "program": "granby", "type": "ip", "domains": ["autodiscover.palace.qc.ca"]}, {"_id": "52.96.97.136", "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a", "program": "granby", "type": "ip", "domains": ["autodiscover.tourismegranby.com"]}, {"_id": "52.96.97.152", "_rev": "1-95ef92a5ee269048bc8ea2425300811b", "program": "granby", "type": "ip", "domains": ["autodiscover.vccgranby.org"]}, {"_id": "52.96.97.168", "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a", "program": "granby", "type": "ip", "domains": ["autodiscover.tourismegranby.com"]}, {"_id": "54.236.162.93", "_rev": "1-9fd6fee13362505a612caec2297a5d75", "program": "granby", "type": "ip", "domains": ["granbymultisport.ca", "www.granbymultisport.ca", "granbymultisports.com", "couleursurbaines.ca", "www.granbymultisports.com", "couleursurbaines.com", "www.couleursurbaines.com", "granbymultisport.com", "www.granbymultisport.com", "www.couleursurbaines.ca"]}, {"_id": "64.34.156.165", "_rev": "1-e7c482a78c66dd32f68284fa922d6fb8", "program": "granby", "type": "ip", "domains": ["images.granby.ca"]}, {"_id": "69.16.231.58", "_rev": "1-01dc2d405623cb64149336c8fe1eed44", "program": "granby", "type": "ip", "domains": ["ww1.cdctgranbyregion.com", "cdctgranbyregion.com", "www.cdctgranbyregion.com"]}, {"_id": "69.192.27.1", "_rev": "1-3223526ab9ce468fcd3cff9a04f95460", "program": "granby", "type": "ip", "domains": ["s27-1.ville.granby.qc.ca"]}, {"_id": "69.196.25.243", "_rev": "1-3b24d27d6216b8eeefff663a3acb3d3f", "program": "granby", "type": "ip", "domains": ["emplois.granby.ca", "support.granby.ca", "contact.ville.granby.qc.ca", "impression.granby.ca", "alerte.granby.ca", "contact.granby.ca", "catalogue.granby.ca", "cadg.granby.ca", "apps.granby.ca"]}, {"_id": "69.196.25.246", "_rev": "1-b456e632f5770d18176b0c71c09a384b", "program": "granby", "type": "ip", "domains": ["granby.ca", "carte.granby.ca"]}, {"_id": "69.196.27.1", "_rev": "1-3223526ab9ce468fcd3cff9a04f95460", "program": "granby", "type": "ip", "domains": ["s27-1.ville.granby.qc.ca"]}, {"_id": "69.196.27.10", "_rev": "1-747961f98d5d8afd4ec4e12917dc2151", "program": "granby", "type": "ip", "domains": ["s27-10.ville.granby.qc.ca"]}, {"_id": "69.196.27.11", "_rev": "1-b7a16c29b193d9cb60ef31dd1cabb003", "program": "granby", "type": "ip", "domains": ["s27-11.ville.granby.qc.ca", "granbymultisports.org", "www.granbymultisports.org"]}, {"_id": "69.196.27.12", "_rev": "1-86de7668f9f7b9b80db96222c1e18ce5", "program": "granby", "type": "ip", "domains": ["s27-12.ville.granby.qc.ca"]}, {"_id": "69.196.27.13", "_rev": "1-f14ac12755bf417c74793ab6574527ab", "program": "granby", "type": "ip", "domains": ["s27-13.ville.granby.qc.ca"]}, {"_id": "69.196.27.14", "_rev": "1-ee7b4084c07ef288ee3440594426f428", "program": "granby", "type": "ip", "domains": ["s27-14.ville.granby.qc.ca"]}, {"_id": "69.196.27.15", "_rev": "1-6e744968f907c2aa974d43a871323dc0", "program": "granby", "type": "ip", "domains": ["s27-15.ville.granby.qc.ca"]}, {"_id": "69.196.27.16", "_rev": "1-e14b6cdf6450d5da95eb1faaf368c6ac", "program": "granby", "type": "ip", "domains": ["s27-16.ville.granby.qc.ca"]}, {"_id": "69.196.27.17", "_rev": "1-ae95ab07ae0e0f0aab67a3e05a4f090f", "program": "granby", "type": "ip", "domains": ["s27-17.ville.granby.qc.ca"]}, {"_id": "69.196.27.18", "_rev": "1-fb3dfb1a78440cdc10d81875a59567b4", "program": "granby", "type": "ip", "domains": ["s27-18.ville.granby.qc.ca"]}, {"_id": "69.196.27.19", "_rev": "1-cb283a189330e97c5b05e5e6fc822860", "program": "granby", "type": "ip", "domains": ["s27-19.ville.granby.qc.ca"]}, {"_id": "69.196.27.2", "_rev": "1-80f8fefac59dc644f017fdde906bd0a5", "program": "granby", "type": "ip", "domains": ["extranet.villegranby.net", "extranet.granby.ca", "s27-2.ville.granby.qc.ca", "extranet.ville.granby.qc.ca"]}, {"_id": "69.196.27.20", "_rev": "1-cc4857f0b02ee15e8c8944632d034529", "program": "granby", "type": "ip", "domains": ["s27-20.ville.granby.qc.ca"]}, {"_id": "69.196.27.21", "_rev": "1-6a900fee1d94ba092ef01e56300b45af", "program": "granby", "type": "ip", "domains": ["s27-21.ville.granby.qc.ca"]}, {"_id": "69.196.27.22", "_rev": "1-9dd7760f805b5d90adbe5312028673ac", "program": "granby", "type": "ip", "domains": ["s27-22.ville.granby.qc.ca"]}, {"_id": "69.196.27.23", "_rev": "1-e4ccca70a729af1253b50d6145ef2261", "program": "granby", "type": "ip", "domains": ["s27-23.ville.granby.qc.ca"]}, {"_id": "69.196.27.24", "_rev": "1-2b24f0e6ec711412de0982425b1ffd38", "program": "granby", "type": "ip", "domains": ["s27-24.ville.granby.qc.ca"]}, {"_id": "69.196.27.25", "_rev": "1-a8e28461f892a9199b8d6eb373096253", "program": "granby", "type": "ip", "domains": ["s27-25.ville.granby.qc.ca"]}, {"_id": "69.196.27.26", "_rev": "1-65bb8c1839610328c62df4c928fc199a", "program": "granby", "type": "ip", "domains": ["s27-26.ville.granby.qc.ca"]}, {"_id": "69.196.27.27", "_rev": "1-c4f7104a27dd9b00addad66c6e76664f", "program": "granby", "type": "ip", "domains": ["s27-27.ville.granby.qc.ca"]}, {"_id": "69.196.27.28", "_rev": "1-210ac16be735286ab160894af418295e", "program": "granby", "type": "ip", "domains": ["s27-28.ville.granby.qc.ca"]}, {"_id": "69.196.27.29", "_rev": "1-5369cacb9029140f2c19523a6cdf773b", "program": "granby", "type": "ip", "domains": ["s27-29.ville.granby.qc.ca"]}, {"_id": "69.196.27.3", "_rev": "1-d11ed099975db9f420d37d4dc670cc54", "program": "granby", "type": "ip", "domains": ["s27-3.ville.granby.qc.ca"]}, {"_id": "69.196.27.30", "_rev": "1-debc798670d9e23dd5d8070e21aa90c4", "program": "granby", "type": "ip", "domains": ["s27-30.ville.granby.qc.ca"]}, {"_id": "69.196.27.31", "_rev": "1-3f17964a149c5e036603e4ee3434094a", "program": "granby", "type": "ip", "domains": ["s27-31.ville.granby.qc.ca"]}, {"_id": "69.196.27.32", "_rev": "1-5834bc2c2c51cd34ccd45f8b3c5b33c4", "program": "granby", "type": "ip", "domains": ["s27-32.ville.granby.qc.ca"]}, {"_id": "69.196.27.33", "_rev": "1-aab49d45968a34cec355456b100483b4", "program": "granby", "type": "ip", "domains": ["s27-33.ville.granby.qc.ca"]}, {"_id": "69.196.27.34", "_rev": "1-bdfd31ed8f0f9d0e9f05c9b82e9b8238", "program": "granby", "type": "ip", "domains": ["s27-34.ville.granby.qc.ca"]}, {"_id": "69.196.27.35", "_rev": "1-fe65f7e677d8179ebbef1b898131c0c8", "program": "granby", "type": "ip", "domains": ["s27-35.ville.granby.qc.ca"]}, {"_id": "69.196.27.36", "_rev": "1-b8185a9bdd37fa2929f77352f1d19852", "program": "granby", "type": "ip", "domains": ["s27-36.ville.granby.qc.ca"]}, {"_id": "69.196.27.37", "_rev": "1-0dd888c9e4f0deceec6a3ffefd62eaf4", "program": "granby", "type": "ip", "domains": ["mail.vccgranby.org", "mail2.ville.granby.qc.ca"]}, {"_id": "69.196.27.4", "_rev": "1-c4807aea0301a2832ce66de6c61c7b75", "program": "granby", "type": "ip", "domains": ["s27-4.ville.granby.qc.ca"]}, {"_id": "69.196.27.40", "_rev": "1-1d8a803e2936ad150a0a4a9adeacc541", "program": "granby", "type": "ip", "domains": ["mail1.granby.ca"]}, {"_id": "69.196.27.41", "_rev": "1-c5814ff6987ab0e289d6ab80820f3870", "program": "granby", "type": "ip", "domains": ["webmail.ville.granby.qc.ca", "webmail.granby.ca", "s27-41.ville.granby.qc.ca"]}, {"_id": "69.196.27.42", "_rev": "1-f8dc73b9eba39b7ccf87004bd9243388", "program": "granby", "type": "ip", "domains": ["taxibus.granby.ca", "s27-42.ville.granby.qc.ca", "taxibus.ville.granby.qc.ca"]}, {"_id": "69.196.27.43", "_rev": "1-79a98c92872b8a42dbb1e8bad9b58c37", "program": "granby", "type": "ip", "domains": ["www.villegranby.net", "villegranby.net", "s27-43.ville.granby.qc.ca"]}, {"_id": "69.196.27.44", "_rev": "1-3982a8dffaea31a10be729a0067e6597", "program": "granby", "type": "ip", "domains": ["s27-44.ville.granby.qc.ca"]}, {"_id": "69.196.27.45", "_rev": "1-1fa10824eb72d3a8765e81421cce9c10", "program": "granby", "type": "ip", "domains": ["biblioqc.ululab.com.ezproxy.granby.ca", "www.genealogiequebec.com.ezproxy.ville.granby.qc.ca", "granby-naxosmusiclibrary-com.ezproxy.granby.ca", "ezproxy.granby.ca", "www.rbdigital.com.ezproxy.granby.ca", "nouveau.eureka.cc.ezproxy.ville.granby.qc.ca", "grc.bvdep.com.ezproxy.ville.granby.qc.ca", "gr.bvdep.com.ezproxy.ville.granby.qc.ca", "gr.bvdep.com.ezproxy.granby.ca", "biblio-mazaam-com.ezproxy.granby.ca", "www.mesaieux.com.ezproxy.ville.granby.qc.ca", "www.rbdigital.com.ezproxy.ville.granby.qc.ca", "biblio.toutapprendre.com.ezproxy.granby.ca", "grc.bvdep.com.ezproxy.granby.ca", "biblio.toutapprendre.com.ezproxy.ville.granby.qc.ca", "nouveau.eureka.cc.ezproxy.granby.ca", "junior.universalis-edu.com.ezproxy.granby.ca", "www.prdh-igd.com.ezproxy.granby.ca", "junior.bvdep.com.ezproxy.granby.ca", "www.genealogiequebec.com.ezproxy.granby.ca", "tapiro.taptouche.com.ezproxy.granby.ca", "ezproxy.ville.granby.qc.ca", "login.ezproxy.granby.ca", "www.mesaieux.com.ezproxy.granby.ca", "junior.bvdep.com.ezproxy.ville.granby.qc.ca"]}, {"_id": "69.196.27.46", "_rev": "1-3eceb71f7ee9424fdbef9a4ddaba83f9", "program": "granby", "type": "ip", "domains": ["s27-46.ville.granby.qc.ca"]}, {"_id": "69.196.27.47", "_rev": "1-dae2c3d55773b15d2250856b11ff4386", "program": "granby", "type": "ip", "domains": ["courrier.casheffo.local", "mail.cantonshefford.qc.ca"]}, {"_id": "69.196.27.48", "_rev": "1-1bf6d695fe8306339f6d97446c64ded7", "program": "granby", "type": "ip", "domains": ["s27-48.ville.granby.qc.ca"]}, {"_id": "69.196.27.49", "_rev": "1-2c964869e9ed6b6483b2ca6f47a096eb", "program": "granby", "type": "ip", "domains": ["s27-49.ville.granby.qc.ca"]}, {"_id": "69.196.27.5", "_rev": "1-22e7081767e6d7db683731569472950e", "program": "granby", "type": "ip", "domains": ["s27-5.ville.granby.qc.ca"]}, {"_id": "69.196.27.50", "_rev": "1-b8770f7d0a20326aa4d8dc9891301b49", "program": "granby", "type": "ip", "domains": ["s27-50.ville.granby.qc.ca"]}, {"_id": "69.196.27.51", "_rev": "1-f159f0313bdbffe253a1284b4ed85680", "program": "granby", "type": "ip", "domains": ["s27-51.ville.granby.qc.ca"]}, {"_id": "69.196.27.52", "_rev": "1-3ff2f12c01eddeac2a6c5d780e500561", "program": "granby", "type": "ip", "domains": ["mail.haute-yamaska.com"]}, {"_id": "69.196.27.53", "_rev": "1-7c8a91db62695fe3b4d3f2e073ca9698", "program": "granby", "type": "ip", "domains": ["inscriptionludik.granby.ca", "s27-53.ville.granby.qc.ca", "inscriptionludik.ville.granby.qc.ca"]}, {"_id": "69.196.27.54", "_rev": "1-cec6f61969ea01ffac2724955ab8f1d9", "program": "granby", "type": "ip", "domains": ["s27-54.ville.granby.qc.ca", "ftp.granby.ca"]}, {"_id": "69.196.27.55", "_rev": "1-2139f6274d8ca08457d77ee0b8c1aa69", "program": "granby", "type": "ip", "domains": ["inscriptions.granby.ca", "s27-55.ville.granby.qc.ca"]}, {"_id": "69.196.27.56", "_rev": "1-176b4b15568fcecb54a3292f71adb7e7", "program": "granby", "type": "ip", "domains": ["s27-56.ville.granby.qc.ca"]}, {"_id": "69.196.27.57", "_rev": "1-e53a1347951889e5c968061b045430ec", "program": "granby", "type": "ip", "domains": ["s27-57.ville.granby.qc.ca"]}, {"_id": "69.196.27.58", "_rev": "1-92f7af08824bd84ad64a5c166421ee65", "program": "granby", "type": "ip", "domains": ["s27-58.ville.granby.qc.ca"]}, {"_id": "69.196.27.59", "_rev": "1-feea8a5a3a18a26c3bfe8c321c0ae6ab", "program": "granby", "type": "ip", "domains": ["s27-59.ville.granby.qc.ca"]}, {"_id": "69.196.27.6", "_rev": "1-38ea14d1a99e0591902f5c6b39e5b718", "program": "granby", "type": "ip", "domains": ["s27-6.ville.granby.qc.ca"]}, {"_id": "69.196.27.60", "_rev": "1-f3c3e87377dae8bc09003bffddf580ca", "program": "granby", "type": "ip", "domains": ["s27-60.ville.granby.qc.ca"]}, {"_id": "69.196.27.61", "_rev": "1-476444637f9a3342e52011a3593f0cb4", "program": "granby", "type": "ip", "domains": ["auth.granby.ca"]}, {"_id": "69.196.27.62", "_rev": "1-59645a36ad5686c485dd6b20ca728e1b", "program": "granby", "type": "ip", "domains": ["osx.granby.ca", "s27-62.ville.granby.qc.ca", "osx.ville.granby.qc.ca"]}, {"_id": "69.196.27.63", "_rev": "1-6f05227da039beeb74b792e307e05c09", "program": "granby", "type": "ip", "domains": ["s27-63.ville.granby.qc.ca"]}, {"_id": "69.196.27.7", "_rev": "1-60d5e357b362eea4279040eed1ca4a01", "program": "granby", "type": "ip", "domains": ["s27-7.ville.granby.qc.ca"]}, {"_id": "69.196.27.8", "_rev": "1-1066d7ac0e19f0464e5792d7b1a89e99", "program": "granby", "type": "ip", "domains": ["extranetsp.granby.ca", "s27-8.ville.granby.qc.ca"]}, {"_id": "69.196.27.9", "_rev": "1-bcc0fff22cf99c57debd5c4c93ffac95", "program": "granby", "type": "ip", "domains": ["s27-9.ville.granby.qc.ca"]}, {"_id": "72.10.173.218", "_rev": "1-99e4217b7a9fb4dfd1d085632f657df3", "program": "granby", "type": "ip", "domains": ["webdisk.granbymultisports.ca", "granbymultisports.ca", "cpanel.granbymultisports.ca", "mail.granbymultisports.ca", "cpcontacts.granbymultisports.ca", "webmail.granbymultisports.ca", "www.granbymultisports.ca", "cpcalendars.granbymultisports.ca"]}]
+[
+    {
+        "_id": "128.245.131.91",
+        "_rev": "1-3407db36fe639a0aca7c81b25ebb85a7",
+        "domains": [
+            "cloud.mail.palace.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "128.245.146.186",
+        "_rev": "1-9db879a70d5397efecab08f16472c1b1",
+        "domains": [
+            "click.mail.palace.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "128.245.163.180",
+        "_rev": "1-92be0b587c803065b1e768e199936308",
+        "domains": [
+            "view.mail.palace.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "130.61.69.238",
+        "_rev": "1-d4129656e1309b49dfc8e122b73cd675",
+        "domains": [
+            "www.gmsgranby.org",
+            "gmsgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "158.69.17.240",
+        "_rev": "1-3e0391bafb268bbd0572df247cf108f1",
+        "domains": [
+            "preprod.tourismegranby.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "185.230.63.107",
+        "_rev": "1-c6b268e1dcf62ec91f63095aeacce9db",
+        "domains": [
+            "jagranby.com",
+            "vccgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "185.230.63.171",
+        "_rev": "1-c6b268e1dcf62ec91f63095aeacce9db",
+        "domains": [
+            "jagranby.com",
+            "vccgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "185.230.63.186",
+        "_rev": "1-c6b268e1dcf62ec91f63095aeacce9db",
+        "domains": [
+            "jagranby.com",
+            "vccgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "192.95.19.213",
+        "_rev": "1-dbedaf6a41709ea787b671fae0601644",
+        "domains": [
+            "tourismegranby.com",
+            "www.tourismegranby.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "192.99.15.209",
+        "_rev": "1-ae75e6204d0c0508428cd3828fdbcbbf",
+        "domains": [
+            "portail.cinlb.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "198.27.81.24",
+        "_rev": "1-40b7167d76ef17f163486f10873b67cf",
+        "domains": [
+            "www.cinlb.org",
+            "cinlb.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "20.175.128.225",
+        "_rev": "1-7f557e4baeac7aa334711eed34f82500",
+        "domains": [
+            "www.ville.granby.qc.ca",
+            "www.biblio.ville.granby.qc.ca",
+            "incendie.granby.ca",
+            "ville.granby.qc.ca",
+            "wallace.granby.ca",
+            "www.biblio.granby.ca",
+            "www.granby.ca",
+            "biblio.ville.granby.qc.ca",
+            "biblio.granby.ca",
+            "granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "205.151.209.49",
+        "_rev": "1-bf0cb454f99602223802bf4c6f7d4ca0",
+        "domains": [
+            "esri.ville.granby.qc.ca",
+            "esri.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "205.151.209.52",
+        "_rev": "1-e27916151977e31cddbc56659226abad",
+        "domains": [
+            "carte.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "205.151.209.56",
+        "_rev": "1-b80048b6bcb83f35f84a7a012cb0024b",
+        "domains": [
+            "hdvsrvipoffice.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "205.151.209.58",
+        "_rev": "1-09178567d2e36a3944198b5af5d82827",
+        "domains": [
+            "fme.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "205.151.209.62",
+        "_rev": "1-a99a13e45e5808bbd9241ff579e6968f",
+        "domains": [
+            "docutheque-ws.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "23.205.255.70",
+        "_rev": "1-65ab6736fd30cde7d604014b3b0acf37",
+        "domains": [
+            "image.mail.palace.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "34.149.87.45",
+        "_rev": "1-6fe1a70b87e0ce55db18800689426661",
+        "domains": [
+            "www.jagranby.com",
+            "www.vccgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "34.198.182.201",
+        "_rev": "1-fc552ca4ec9c8d66f14974d4a816d905",
+        "domains": [
+            "www.complexeartopex.com",
+            "complexeartopex.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.163.248",
+        "_rev": "1-4dbd18abcd63c97304bbe333df8869ec",
+        "domains": [
+            "autodiscover.granbymultisports.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.164.104",
+        "_rev": "1-34a50edcfda076ff6bbf21df4f5cbcc7",
+        "domains": [
+            "autodiscover.palace.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.164.88",
+        "_rev": "1-0f4c4dc9c6fb3bbc0096e839f8c731de",
+        "domains": [
+            "autodiscover.palace.qc.ca",
+            "autodiscover.cinlb.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.226.152",
+        "_rev": "1-7438a47ce5f2dd88779212afadd1ca68",
+        "domains": [
+            "autodiscover.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.226.184",
+        "_rev": "1-8643e3f82f8c90b5d6ddbe5a6684d8ca",
+        "domains": [
+            "autodiscover.cinlb.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.226.200",
+        "_rev": "1-addfbb276cf8e0386f2815175c907feb",
+        "domains": [
+            "autodiscover.cdctgranbyregion.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.226.216",
+        "_rev": "1-d0b7992152320a917291b468b119694b",
+        "domains": [
+            "autodiscover.cdctgranbyregion.com",
+            "autodiscover.granbymultisports.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.226.248",
+        "_rev": "1-addfbb276cf8e0386f2815175c907feb",
+        "domains": [
+            "autodiscover.cdctgranbyregion.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.227.104",
+        "_rev": "1-8643e3f82f8c90b5d6ddbe5a6684d8ca",
+        "domains": [
+            "autodiscover.cinlb.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.227.24",
+        "_rev": "1-34a50edcfda076ff6bbf21df4f5cbcc7",
+        "domains": [
+            "autodiscover.palace.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.227.40",
+        "_rev": "1-4dbd18abcd63c97304bbe333df8869ec",
+        "domains": [
+            "autodiscover.granbymultisports.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.227.56",
+        "_rev": "1-7438a47ce5f2dd88779212afadd1ca68",
+        "domains": [
+            "autodiscover.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.227.8",
+        "_rev": "1-7438a47ce5f2dd88779212afadd1ca68",
+        "domains": [
+            "autodiscover.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.227.88",
+        "_rev": "1-8643e3f82f8c90b5d6ddbe5a6684d8ca",
+        "domains": [
+            "autodiscover.cinlb.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "51.79.20.129",
+        "_rev": "1-63eda4594e6354c3220939d5b39a331f",
+        "domains": [
+            "cadg-portes-ouvertes.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.54.92.195",
+        "_rev": "1-b6cf9f97fb3e41896d52e01743116397",
+        "domains": [
+            "tourismegranby.com",
+            "palace.qc.ca",
+            "www.palace.qc.ca",
+            "www.tourismegranby.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.122.56",
+        "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a",
+        "domains": [
+            "autodiscover.tourismegranby.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.122.88",
+        "_rev": "1-95ef92a5ee269048bc8ea2425300811b",
+        "domains": [
+            "autodiscover.vccgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.165.136",
+        "_rev": "1-95ef92a5ee269048bc8ea2425300811b",
+        "domains": [
+            "autodiscover.vccgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.165.216",
+        "_rev": "1-95ef92a5ee269048bc8ea2425300811b",
+        "domains": [
+            "autodiscover.vccgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.165.40",
+        "_rev": "1-95ef92a5ee269048bc8ea2425300811b",
+        "domains": [
+            "autodiscover.vccgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.181.248",
+        "_rev": "1-95ef92a5ee269048bc8ea2425300811b",
+        "domains": [
+            "autodiscover.vccgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.184.56",
+        "_rev": "1-95ef92a5ee269048bc8ea2425300811b",
+        "domains": [
+            "autodiscover.vccgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.186.168",
+        "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a",
+        "domains": [
+            "autodiscover.tourismegranby.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.189.8",
+        "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a",
+        "domains": [
+            "autodiscover.tourismegranby.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.215.24",
+        "_rev": "1-ca4a9dbbf48ab040a0160064a00bfc82",
+        "domains": [
+            "autodiscover.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.215.56",
+        "_rev": "1-ca4a9dbbf48ab040a0160064a00bfc82",
+        "domains": [
+            "autodiscover.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.215.8",
+        "_rev": "1-89027a029a8f54352fc83b1181163583",
+        "domains": [
+            "autodiscover.cdctgranbyregion.com",
+            "autodiscover.cinlb.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.215.88",
+        "_rev": "1-8643e3f82f8c90b5d6ddbe5a6684d8ca",
+        "domains": [
+            "autodiscover.cinlb.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.222.184",
+        "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a",
+        "domains": [
+            "autodiscover.tourismegranby.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.230.216",
+        "_rev": "1-7438a47ce5f2dd88779212afadd1ca68",
+        "domains": [
+            "autodiscover.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.230.248",
+        "_rev": "1-8643e3f82f8c90b5d6ddbe5a6684d8ca",
+        "domains": [
+            "autodiscover.cinlb.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.28.8",
+        "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a",
+        "domains": [
+            "autodiscover.tourismegranby.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.37.40",
+        "_rev": "1-95ef92a5ee269048bc8ea2425300811b",
+        "domains": [
+            "autodiscover.vccgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.40.120",
+        "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a",
+        "domains": [
+            "autodiscover.tourismegranby.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.50.136",
+        "_rev": "1-ca4a9dbbf48ab040a0160064a00bfc82",
+        "domains": [
+            "autodiscover.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.88.200",
+        "_rev": "1-ca4a9dbbf48ab040a0160064a00bfc82",
+        "domains": [
+            "autodiscover.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.88.248",
+        "_rev": "1-34a50edcfda076ff6bbf21df4f5cbcc7",
+        "domains": [
+            "autodiscover.palace.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.97.136",
+        "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a",
+        "domains": [
+            "autodiscover.tourismegranby.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.97.152",
+        "_rev": "1-95ef92a5ee269048bc8ea2425300811b",
+        "domains": [
+            "autodiscover.vccgranby.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.97.168",
+        "_rev": "1-c1ea6883b5b3d0e68c18ff5e475cb98a",
+        "domains": [
+            "autodiscover.tourismegranby.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "54.236.162.93",
+        "_rev": "1-9fd6fee13362505a612caec2297a5d75",
+        "domains": [
+            "granbymultisport.ca",
+            "www.granbymultisport.ca",
+            "granbymultisports.com",
+            "couleursurbaines.ca",
+            "www.granbymultisports.com",
+            "couleursurbaines.com",
+            "www.couleursurbaines.com",
+            "granbymultisport.com",
+            "www.granbymultisport.com",
+            "www.couleursurbaines.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "64.34.156.165",
+        "_rev": "1-e7c482a78c66dd32f68284fa922d6fb8",
+        "domains": [
+            "images.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.16.231.58",
+        "_rev": "1-01dc2d405623cb64149336c8fe1eed44",
+        "domains": [
+            "ww1.cdctgranbyregion.com",
+            "cdctgranbyregion.com",
+            "www.cdctgranbyregion.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.192.27.1",
+        "_rev": "1-3223526ab9ce468fcd3cff9a04f95460",
+        "domains": [
+            "s27-1.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.25.243",
+        "_rev": "1-3b24d27d6216b8eeefff663a3acb3d3f",
+        "domains": [
+            "emplois.granby.ca",
+            "support.granby.ca",
+            "contact.ville.granby.qc.ca",
+            "impression.granby.ca",
+            "alerte.granby.ca",
+            "contact.granby.ca",
+            "catalogue.granby.ca",
+            "cadg.granby.ca",
+            "apps.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.25.246",
+        "_rev": "1-b456e632f5770d18176b0c71c09a384b",
+        "domains": [
+            "granby.ca",
+            "carte.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.1",
+        "_rev": "1-3223526ab9ce468fcd3cff9a04f95460",
+        "domains": [
+            "s27-1.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.10",
+        "_rev": "1-747961f98d5d8afd4ec4e12917dc2151",
+        "domains": [
+            "s27-10.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.11",
+        "_rev": "1-b7a16c29b193d9cb60ef31dd1cabb003",
+        "domains": [
+            "s27-11.ville.granby.qc.ca",
+            "granbymultisports.org",
+            "www.granbymultisports.org"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.12",
+        "_rev": "1-86de7668f9f7b9b80db96222c1e18ce5",
+        "domains": [
+            "s27-12.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.13",
+        "_rev": "1-f14ac12755bf417c74793ab6574527ab",
+        "domains": [
+            "s27-13.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.14",
+        "_rev": "1-ee7b4084c07ef288ee3440594426f428",
+        "domains": [
+            "s27-14.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.15",
+        "_rev": "1-6e744968f907c2aa974d43a871323dc0",
+        "domains": [
+            "s27-15.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.16",
+        "_rev": "1-e14b6cdf6450d5da95eb1faaf368c6ac",
+        "domains": [
+            "s27-16.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.17",
+        "_rev": "1-ae95ab07ae0e0f0aab67a3e05a4f090f",
+        "domains": [
+            "s27-17.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.18",
+        "_rev": "1-fb3dfb1a78440cdc10d81875a59567b4",
+        "domains": [
+            "s27-18.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.19",
+        "_rev": "1-cb283a189330e97c5b05e5e6fc822860",
+        "domains": [
+            "s27-19.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.2",
+        "_rev": "1-80f8fefac59dc644f017fdde906bd0a5",
+        "domains": [
+            "extranet.villegranby.net",
+            "extranet.granby.ca",
+            "s27-2.ville.granby.qc.ca",
+            "extranet.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.20",
+        "_rev": "1-cc4857f0b02ee15e8c8944632d034529",
+        "domains": [
+            "s27-20.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.21",
+        "_rev": "1-6a900fee1d94ba092ef01e56300b45af",
+        "domains": [
+            "s27-21.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.22",
+        "_rev": "1-9dd7760f805b5d90adbe5312028673ac",
+        "domains": [
+            "s27-22.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.23",
+        "_rev": "1-e4ccca70a729af1253b50d6145ef2261",
+        "domains": [
+            "s27-23.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.24",
+        "_rev": "1-2b24f0e6ec711412de0982425b1ffd38",
+        "domains": [
+            "s27-24.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.25",
+        "_rev": "1-a8e28461f892a9199b8d6eb373096253",
+        "domains": [
+            "s27-25.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.26",
+        "_rev": "1-65bb8c1839610328c62df4c928fc199a",
+        "domains": [
+            "s27-26.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.27",
+        "_rev": "1-c4f7104a27dd9b00addad66c6e76664f",
+        "domains": [
+            "s27-27.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.28",
+        "_rev": "1-210ac16be735286ab160894af418295e",
+        "domains": [
+            "s27-28.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.29",
+        "_rev": "1-5369cacb9029140f2c19523a6cdf773b",
+        "domains": [
+            "s27-29.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.3",
+        "_rev": "1-d11ed099975db9f420d37d4dc670cc54",
+        "domains": [
+            "s27-3.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.30",
+        "_rev": "1-debc798670d9e23dd5d8070e21aa90c4",
+        "domains": [
+            "s27-30.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.31",
+        "_rev": "1-3f17964a149c5e036603e4ee3434094a",
+        "domains": [
+            "s27-31.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.32",
+        "_rev": "1-5834bc2c2c51cd34ccd45f8b3c5b33c4",
+        "domains": [
+            "s27-32.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.33",
+        "_rev": "1-aab49d45968a34cec355456b100483b4",
+        "domains": [
+            "s27-33.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.34",
+        "_rev": "1-bdfd31ed8f0f9d0e9f05c9b82e9b8238",
+        "domains": [
+            "s27-34.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.35",
+        "_rev": "1-fe65f7e677d8179ebbef1b898131c0c8",
+        "domains": [
+            "s27-35.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.36",
+        "_rev": "1-b8185a9bdd37fa2929f77352f1d19852",
+        "domains": [
+            "s27-36.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.37",
+        "_rev": "1-0dd888c9e4f0deceec6a3ffefd62eaf4",
+        "domains": [
+            "mail.vccgranby.org",
+            "mail2.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.4",
+        "_rev": "1-c4807aea0301a2832ce66de6c61c7b75",
+        "domains": [
+            "s27-4.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.40",
+        "_rev": "1-1d8a803e2936ad150a0a4a9adeacc541",
+        "domains": [
+            "mail1.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.41",
+        "_rev": "1-c5814ff6987ab0e289d6ab80820f3870",
+        "domains": [
+            "webmail.ville.granby.qc.ca",
+            "webmail.granby.ca",
+            "s27-41.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.42",
+        "_rev": "1-f8dc73b9eba39b7ccf87004bd9243388",
+        "domains": [
+            "taxibus.granby.ca",
+            "s27-42.ville.granby.qc.ca",
+            "taxibus.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.43",
+        "_rev": "1-79a98c92872b8a42dbb1e8bad9b58c37",
+        "domains": [
+            "www.villegranby.net",
+            "villegranby.net",
+            "s27-43.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.44",
+        "_rev": "1-3982a8dffaea31a10be729a0067e6597",
+        "domains": [
+            "s27-44.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.45",
+        "_rev": "1-1fa10824eb72d3a8765e81421cce9c10",
+        "domains": [
+            "biblioqc.ululab.com.ezproxy.granby.ca",
+            "www.genealogiequebec.com.ezproxy.ville.granby.qc.ca",
+            "granby-naxosmusiclibrary-com.ezproxy.granby.ca",
+            "ezproxy.granby.ca",
+            "www.rbdigital.com.ezproxy.granby.ca",
+            "nouveau.eureka.cc.ezproxy.ville.granby.qc.ca",
+            "grc.bvdep.com.ezproxy.ville.granby.qc.ca",
+            "gr.bvdep.com.ezproxy.ville.granby.qc.ca",
+            "gr.bvdep.com.ezproxy.granby.ca",
+            "biblio-mazaam-com.ezproxy.granby.ca",
+            "www.mesaieux.com.ezproxy.ville.granby.qc.ca",
+            "www.rbdigital.com.ezproxy.ville.granby.qc.ca",
+            "biblio.toutapprendre.com.ezproxy.granby.ca",
+            "grc.bvdep.com.ezproxy.granby.ca",
+            "biblio.toutapprendre.com.ezproxy.ville.granby.qc.ca",
+            "nouveau.eureka.cc.ezproxy.granby.ca",
+            "junior.universalis-edu.com.ezproxy.granby.ca",
+            "www.prdh-igd.com.ezproxy.granby.ca",
+            "junior.bvdep.com.ezproxy.granby.ca",
+            "www.genealogiequebec.com.ezproxy.granby.ca",
+            "tapiro.taptouche.com.ezproxy.granby.ca",
+            "ezproxy.ville.granby.qc.ca",
+            "login.ezproxy.granby.ca",
+            "www.mesaieux.com.ezproxy.granby.ca",
+            "junior.bvdep.com.ezproxy.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.46",
+        "_rev": "1-3eceb71f7ee9424fdbef9a4ddaba83f9",
+        "domains": [
+            "s27-46.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.47",
+        "_rev": "1-dae2c3d55773b15d2250856b11ff4386",
+        "domains": [
+            "courrier.casheffo.local",
+            "mail.cantonshefford.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.48",
+        "_rev": "1-1bf6d695fe8306339f6d97446c64ded7",
+        "domains": [
+            "s27-48.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.49",
+        "_rev": "1-2c964869e9ed6b6483b2ca6f47a096eb",
+        "domains": [
+            "s27-49.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.5",
+        "_rev": "1-22e7081767e6d7db683731569472950e",
+        "domains": [
+            "s27-5.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.50",
+        "_rev": "1-b8770f7d0a20326aa4d8dc9891301b49",
+        "domains": [
+            "s27-50.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.51",
+        "_rev": "1-f159f0313bdbffe253a1284b4ed85680",
+        "domains": [
+            "s27-51.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.52",
+        "_rev": "1-3ff2f12c01eddeac2a6c5d780e500561",
+        "domains": [
+            "mail.haute-yamaska.com"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.53",
+        "_rev": "1-7c8a91db62695fe3b4d3f2e073ca9698",
+        "domains": [
+            "inscriptionludik.granby.ca",
+            "s27-53.ville.granby.qc.ca",
+            "inscriptionludik.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.54",
+        "_rev": "1-cec6f61969ea01ffac2724955ab8f1d9",
+        "domains": [
+            "s27-54.ville.granby.qc.ca",
+            "ftp.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.55",
+        "_rev": "1-2139f6274d8ca08457d77ee0b8c1aa69",
+        "domains": [
+            "inscriptions.granby.ca",
+            "s27-55.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.56",
+        "_rev": "1-176b4b15568fcecb54a3292f71adb7e7",
+        "domains": [
+            "s27-56.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.57",
+        "_rev": "1-e53a1347951889e5c968061b045430ec",
+        "domains": [
+            "s27-57.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.58",
+        "_rev": "1-92f7af08824bd84ad64a5c166421ee65",
+        "domains": [
+            "s27-58.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.59",
+        "_rev": "1-feea8a5a3a18a26c3bfe8c321c0ae6ab",
+        "domains": [
+            "s27-59.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.6",
+        "_rev": "1-38ea14d1a99e0591902f5c6b39e5b718",
+        "domains": [
+            "s27-6.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.60",
+        "_rev": "1-f3c3e87377dae8bc09003bffddf580ca",
+        "domains": [
+            "s27-60.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.61",
+        "_rev": "1-476444637f9a3342e52011a3593f0cb4",
+        "domains": [
+            "auth.granby.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.62",
+        "_rev": "1-59645a36ad5686c485dd6b20ca728e1b",
+        "domains": [
+            "osx.granby.ca",
+            "s27-62.ville.granby.qc.ca",
+            "osx.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.63",
+        "_rev": "1-6f05227da039beeb74b792e307e05c09",
+        "domains": [
+            "s27-63.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.7",
+        "_rev": "1-60d5e357b362eea4279040eed1ca4a01",
+        "domains": [
+            "s27-7.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.8",
+        "_rev": "1-1066d7ac0e19f0464e5792d7b1a89e99",
+        "domains": [
+            "extranetsp.granby.ca",
+            "s27-8.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "69.196.27.9",
+        "_rev": "1-bcc0fff22cf99c57debd5c4c93ffac95",
+        "domains": [
+            "s27-9.ville.granby.qc.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    },
+    {
+        "_id": "72.10.173.218",
+        "_rev": "1-99e4217b7a9fb4dfd1d085632f657df3",
+        "domains": [
+            "webdisk.granbymultisports.ca",
+            "granbymultisports.ca",
+            "cpanel.granbymultisports.ca",
+            "mail.granbymultisports.ca",
+            "cpcontacts.granbymultisports.ca",
+            "webmail.granbymultisports.ca",
+            "www.granbymultisports.ca",
+            "cpcalendars.granbymultisports.ca"
+        ],
+        "program": "granby",
+        "type": "ip"
+    }
+]

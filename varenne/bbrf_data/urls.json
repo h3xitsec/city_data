@@ -1,1 +1,574 @@
-[{"_id": "http://ancien.ville.varennes.qc.ca:80", "_rev": "4-fb6252a367abcd7f9344fb8852341603", "hostname": "ancien.ville.varennes.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "http://benevole.ville.varennes.qc.ca:80", "_rev": "4-3dc6989a021799e05b84dd384a55bcaa", "hostname": "benevole.ville.varennes.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "http://biblio.ville.varennes.qc.ca:80", "_rev": "4-06323505e66c5be908332623e4829e6f", "hostname": "biblio.ville.varennes.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "nginx", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "http://cpanel.ville.varennes.qc.ca:80", "_rev": "4-e59b18446d5b9737ded34844347fad1c", "hostname": "cpanel.ville.varennes.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "http://proxy.ville.varennes.qc.ca:80", "_rev": "4-3a56fccdd63315f4fcd0c821ad055adb", "hostname": "proxy.ville.varennes.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "nginx", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "http://src.ville.varennes.qc.ca:80", "_rev": "4-d607a4f79d8cd8161b857aa433493e82", "hostname": "src.ville.varennes.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "nginx", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "http://ville.varennes.qc.ca:80", "_rev": "4-7dc0cfec5c416960f85b5597f110bb56", "hostname": "ville.varennes.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "http://webdisk.ville.varennes.qc.ca:80", "_rev": "4-7006e6adfabbe985bf220a7538177513", "hostname": "webdisk.ville.varennes.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "http://webmail.ville.varennes.qc.ca:80", "_rev": "4-4c94de107dc7d4b5ca512c1328571afa", "hostname": "webmail.ville.varennes.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "http://www.ancien.ville.varennes.qc.ca:80", "_rev": "4-0214a252ed7ecc6669eda6c522694d43", "hostname": "www.ancien.ville.varennes.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "http://www.ville.varennes.qc.ca:80", "_rev": "4-fdfd3207278b63aa48571493765b0b6d", "hostname": "www.ville.varennes.qc.ca", "port": 80, "query": [], "scheme": "http", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://ancien.ville.varennes.qc.ca:443", "_rev": "4-b8dd7b9fb2fd73c4a656e48b7b088540", "hostname": "ancien.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["drupal", "apache_http_server", "php:5.2.17"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://benevole.ville.varennes.qc.ca:443", "_rev": "4-8ba87951ccaf74b2ab31e812a9df7d72", "hostname": "benevole.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["laravel", "apache_http_server", "october_cms"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://biblio.ville.varennes.qc.ca:443", "_rev": "4-15c10a0632e776f218a5d23750f8e06b", "hostname": "biblio.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["nginx", "hsts"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://cpanel.ville.varennes.qc.ca:443", "_rev": "4-ce315576efb82c0104b8a3366256c43f", "hostname": "cpanel.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["cpanel", "apache_http_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://mail.ville.varennes.qc.ca:443", "_rev": "4-1701fe647adc616ffd54cb8d23fc9ce5", "hostname": "mail.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["windows_server", "iis:10.0"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://proxy.ville.varennes.qc.ca:443", "_rev": "4-b97d845651767d1186a46156b1b6e073", "hostname": "proxy.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["nginx", "hsts"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://smtp.ville.varennes.qc.ca:443", "_rev": "4-20b454bb947e24a757f756037e237136", "hostname": "smtp.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://smtp1.ville.varennes.qc.ca:443", "_rev": "4-50071d2aed20400ac70fc5f945e8fb58", "hostname": "smtp1.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://smtp2.ville.varennes.qc.ca:443", "_rev": "4-2300e0ba2b147ef272e5767d0153be8c", "hostname": "smtp2.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["microsoft_asp.net", "iis:10.0", "windows_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://src.ville.varennes.qc.ca:443", "_rev": "4-9c477c6b2eb07c9fcc9b67c2883722db", "hostname": "src.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["nginx", "hsts"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://srvewedgehdv.ville.varennes.qc.ca:443", "_rev": "4-83b5c1e8770e2b35e33ace79bc6f4db9", "hostname": "srvewedgehdv.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["hsts", "apache_http_server"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://srvewedgehdv.ville.varennes.qc.ca:8443", "_rev": "4-bd88eaf49cf26d459788726aa7cf1eb4", "hostname": "srvewedgehdv.ville.varennes.qc.ca", "port": 8443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://ville.varennes.qc.ca:443", "_rev": "4-8b6b72fa5fa7a5bbd79dbd9b8dcc4272", "hostname": "ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://webdisk.ville.varennes.qc.ca:443", "_rev": "4-0e25841b8d473506d0cd3da53942ada6", "hostname": "webdisk.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "basic", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://webmail.ville.varennes.qc.ca:443", "_rev": "4-d15a0c33f3ccf7715e839898b88678c0", "hostname": "webmail.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://www.ancien.ville.varennes.qc.ca:443", "_rev": "4-d4cb6223724d4b99c9d98a7a918cbdeb", "hostname": "www.ancien.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": ["drupal", "apache_http_server", "php:5.2.17"], "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}, {"_id": "https://www.ville.varennes.qc.ca:443", "_rev": "4-8a5e3b3712fe215a3402deeffe4cd699", "hostname": "www.ville.varennes.qc.ca", "port": 443, "query": [], "scheme": "https", "path": "", "tags": {"http_probed_date": "20240516", "http_alive": "true", "tech": "apache_http_server", "screenshotted": "false", "scanned": "false", "screenshotted_date": "never"}, "program": "varenne", "type": "url"}]
+[
+    {
+        "_id": "http://ancien.ville.varennes.qc.ca:80",
+        "_rev": "4-fb6252a367abcd7f9344fb8852341603",
+        "hostname": "ancien.ville.varennes.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "varenne",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://benevole.ville.varennes.qc.ca:80",
+        "_rev": "4-3dc6989a021799e05b84dd384a55bcaa",
+        "hostname": "benevole.ville.varennes.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "varenne",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://biblio.ville.varennes.qc.ca:80",
+        "_rev": "4-06323505e66c5be908332623e4829e6f",
+        "hostname": "biblio.ville.varennes.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "varenne",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "nginx"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://cpanel.ville.varennes.qc.ca:80",
+        "_rev": "4-e59b18446d5b9737ded34844347fad1c",
+        "hostname": "cpanel.ville.varennes.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "varenne",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://proxy.ville.varennes.qc.ca:80",
+        "_rev": "4-3a56fccdd63315f4fcd0c821ad055adb",
+        "hostname": "proxy.ville.varennes.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "varenne",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "nginx"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://src.ville.varennes.qc.ca:80",
+        "_rev": "4-d607a4f79d8cd8161b857aa433493e82",
+        "hostname": "src.ville.varennes.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "varenne",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "nginx"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://ville.varennes.qc.ca:80",
+        "_rev": "4-7dc0cfec5c416960f85b5597f110bb56",
+        "hostname": "ville.varennes.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "varenne",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://webdisk.ville.varennes.qc.ca:80",
+        "_rev": "4-7006e6adfabbe985bf220a7538177513",
+        "hostname": "webdisk.ville.varennes.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "varenne",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://webmail.ville.varennes.qc.ca:80",
+        "_rev": "4-4c94de107dc7d4b5ca512c1328571afa",
+        "hostname": "webmail.ville.varennes.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "varenne",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.ancien.ville.varennes.qc.ca:80",
+        "_rev": "4-0214a252ed7ecc6669eda6c522694d43",
+        "hostname": "www.ancien.ville.varennes.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "varenne",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.ville.varennes.qc.ca:80",
+        "_rev": "4-fdfd3207278b63aa48571493765b0b6d",
+        "hostname": "www.ville.varennes.qc.ca",
+        "path": "",
+        "port": 80,
+        "program": "varenne",
+        "query": [],
+        "scheme": "http",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ancien.ville.varennes.qc.ca:443",
+        "_rev": "4-b8dd7b9fb2fd73c4a656e48b7b088540",
+        "hostname": "ancien.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "drupal",
+                "apache_http_server",
+                "php:5.2.17"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://benevole.ville.varennes.qc.ca:443",
+        "_rev": "4-8ba87951ccaf74b2ab31e812a9df7d72",
+        "hostname": "benevole.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "laravel",
+                "apache_http_server",
+                "october_cms"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://biblio.ville.varennes.qc.ca:443",
+        "_rev": "4-15c10a0632e776f218a5d23750f8e06b",
+        "hostname": "biblio.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "nginx",
+                "hsts"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cpanel.ville.varennes.qc.ca:443",
+        "_rev": "4-ce315576efb82c0104b8a3366256c43f",
+        "hostname": "cpanel.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "cpanel",
+                "apache_http_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://mail.ville.varennes.qc.ca:443",
+        "_rev": "4-1701fe647adc616ffd54cb8d23fc9ce5",
+        "hostname": "mail.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "windows_server",
+                "iis:10.0"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://proxy.ville.varennes.qc.ca:443",
+        "_rev": "4-b97d845651767d1186a46156b1b6e073",
+        "hostname": "proxy.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "nginx",
+                "hsts"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://smtp.ville.varennes.qc.ca:443",
+        "_rev": "4-20b454bb947e24a757f756037e237136",
+        "hostname": "smtp.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://smtp1.ville.varennes.qc.ca:443",
+        "_rev": "4-50071d2aed20400ac70fc5f945e8fb58",
+        "hostname": "smtp1.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://smtp2.ville.varennes.qc.ca:443",
+        "_rev": "4-2300e0ba2b147ef272e5767d0153be8c",
+        "hostname": "smtp2.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://src.ville.varennes.qc.ca:443",
+        "_rev": "4-9c477c6b2eb07c9fcc9b67c2883722db",
+        "hostname": "src.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "nginx",
+                "hsts"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://srvewedgehdv.ville.varennes.qc.ca:443",
+        "_rev": "4-83b5c1e8770e2b35e33ace79bc6f4db9",
+        "hostname": "srvewedgehdv.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "hsts",
+                "apache_http_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://srvewedgehdv.ville.varennes.qc.ca:8443",
+        "_rev": "4-bd88eaf49cf26d459788726aa7cf1eb4",
+        "hostname": "srvewedgehdv.ville.varennes.qc.ca",
+        "path": "",
+        "port": 8443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ville.varennes.qc.ca:443",
+        "_rev": "4-8b6b72fa5fa7a5bbd79dbd9b8dcc4272",
+        "hostname": "ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://webdisk.ville.varennes.qc.ca:443",
+        "_rev": "4-0e25841b8d473506d0cd3da53942ada6",
+        "hostname": "webdisk.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "basic"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://webmail.ville.varennes.qc.ca:443",
+        "_rev": "4-d15a0c33f3ccf7715e839898b88678c0",
+        "hostname": "webmail.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.ancien.ville.varennes.qc.ca:443",
+        "_rev": "4-d4cb6223724d4b99c9d98a7a918cbdeb",
+        "hostname": "www.ancien.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": [
+                "drupal",
+                "apache_http_server",
+                "php:5.2.17"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.ville.varennes.qc.ca:443",
+        "_rev": "4-8a5e3b3712fe215a3402deeffe4cd699",
+        "hostname": "www.ville.varennes.qc.ca",
+        "path": "",
+        "port": 443,
+        "program": "varenne",
+        "query": [],
+        "scheme": "https",
+        "tags": {
+            "http_alive": "true",
+            "http_probed_date": "20240516",
+            "scanned": "false",
+            "screenshotted": "false",
+            "screenshotted_date": "never",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    }
+]

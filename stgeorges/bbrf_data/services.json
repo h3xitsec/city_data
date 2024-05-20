@@ -1,1 +1,149 @@
-[{"_id": "142.169.245.14:80", "_rev": "1-e74de65e0aaa51afbbd82ec8de3ebc56", "program": "stgeorges", "type": "service", "ip": "142.169.245.14", "port": "80", "service": "http", "tags": {"hostname": "csp-mrc.saint-georges.ca"}}, {"_id": "142.169.245.17:443", "_rev": "4-a11ab1c91fc59a45de7dd811b5368f20", "ip": "142.169.245.17", "port": "443", "service": "https", "tags": {"hostname": ["loisirs.saint-georges.ca", "tourisme.saint-georges.ca", "ski.saint-georges.ca", "ccmf.saint-georges.ca"]}, "program": "stgeorges", "type": "service"}, {"_id": "142.169.245.17:80", "_rev": "4-c16cdea7240e21db478a3071c698df01", "ip": "142.169.245.17", "port": "80", "service": "http", "tags": {"hostname": ["loisirs.saint-georges.ca", "tourisme.saint-georges.ca", "ski.saint-georges.ca", "ccmf.saint-georges.ca"]}, "program": "stgeorges", "type": "service"}, {"_id": "142.169.245.18:80", "_rev": "1-0bbaa1d4bf9211c95f9e38e91daf6d74", "program": "stgeorges", "type": "service", "ip": "142.169.245.18", "port": "80", "service": "http", "tags": {"hostname": "csp.saint-georges.ca"}}, {"_id": "142.169.245.21:443", "_rev": "5-6857d152b78e273ee136309e2cfa6dac", "ip": "142.169.245.21", "port": "443", "service": "https", "tags": {"hostname": ["biblio-images.saint-georges.ca", "biblio-intranet.saint-georges.ca", "kohatest.saint-georges.ca", "biblio.saint-georges.ca", "kohatest-intranet.saint-georges.ca"]}, "program": "stgeorges", "type": "service"}, {"_id": "142.169.245.21:80", "_rev": "5-15c2b2c9c1dbc9263ca86e2c2b74a706", "ip": "142.169.245.21", "port": "80", "service": "http", "tags": {"hostname": ["biblio-images.saint-georges.ca", "biblio-intranet.saint-georges.ca", "kohatest.saint-georges.ca", "biblio.saint-georges.ca", "kohatest-intranet.saint-georges.ca"]}, "program": "stgeorges", "type": "service"}, {"_id": "142.169.245.26:80", "_rev": "4-cb3e84e1d99abee8bc52ad6273e637e4", "ip": "142.169.245.26", "port": "80", "service": "http", "tags": {"hostname": ["autodiscover.saint-georges.ca", "owa.saint-georges.ca", "crl.saint-georges.ca", "geomatique.saint-georges.ca"]}, "program": "stgeorges", "type": "service"}, {"_id": "142.169.245.27:80", "_rev": "1-2cc5ab546324ee2809bfa3da5551e56d", "program": "stgeorges", "type": "service", "ip": "142.169.245.27", "port": "80", "service": "http", "tags": {"hostname": "partage.saint-georges.ca"}}, {"_id": "66.70.215.45:443", "_rev": "1-4f9f64c51730653186e14651290068f6", "program": "stgeorges", "type": "service", "ip": "66.70.215.45", "port": "443", "service": "https", "tags": {"hostname": "saint-georges.ca"}}, {"_id": "66.70.215.45:80", "_rev": "1-557dc2dce82576de3b8eed52f42b8fa2", "program": "stgeorges", "type": "service", "ip": "66.70.215.45", "port": "80", "service": "http", "tags": {"hostname": "saint-georges.ca"}}]
+[
+    {
+        "_id": "142.169.245.14:80",
+        "_rev": "1-e74de65e0aaa51afbbd82ec8de3ebc56",
+        "ip": "142.169.245.14",
+        "port": "80",
+        "program": "stgeorges",
+        "service": "http",
+        "tags": {
+            "hostname": "csp-mrc.saint-georges.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.169.245.17:443",
+        "_rev": "4-a11ab1c91fc59a45de7dd811b5368f20",
+        "ip": "142.169.245.17",
+        "port": "443",
+        "program": "stgeorges",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "loisirs.saint-georges.ca",
+                "tourisme.saint-georges.ca",
+                "ski.saint-georges.ca",
+                "ccmf.saint-georges.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.169.245.17:80",
+        "_rev": "4-c16cdea7240e21db478a3071c698df01",
+        "ip": "142.169.245.17",
+        "port": "80",
+        "program": "stgeorges",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "loisirs.saint-georges.ca",
+                "tourisme.saint-georges.ca",
+                "ski.saint-georges.ca",
+                "ccmf.saint-georges.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.169.245.18:80",
+        "_rev": "1-0bbaa1d4bf9211c95f9e38e91daf6d74",
+        "ip": "142.169.245.18",
+        "port": "80",
+        "program": "stgeorges",
+        "service": "http",
+        "tags": {
+            "hostname": "csp.saint-georges.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.169.245.21:443",
+        "_rev": "5-6857d152b78e273ee136309e2cfa6dac",
+        "ip": "142.169.245.21",
+        "port": "443",
+        "program": "stgeorges",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "biblio-images.saint-georges.ca",
+                "biblio-intranet.saint-georges.ca",
+                "kohatest.saint-georges.ca",
+                "biblio.saint-georges.ca",
+                "kohatest-intranet.saint-georges.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.169.245.21:80",
+        "_rev": "5-15c2b2c9c1dbc9263ca86e2c2b74a706",
+        "ip": "142.169.245.21",
+        "port": "80",
+        "program": "stgeorges",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "biblio-images.saint-georges.ca",
+                "biblio-intranet.saint-georges.ca",
+                "kohatest.saint-georges.ca",
+                "biblio.saint-georges.ca",
+                "kohatest-intranet.saint-georges.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.169.245.26:80",
+        "_rev": "4-cb3e84e1d99abee8bc52ad6273e637e4",
+        "ip": "142.169.245.26",
+        "port": "80",
+        "program": "stgeorges",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "autodiscover.saint-georges.ca",
+                "owa.saint-georges.ca",
+                "crl.saint-georges.ca",
+                "geomatique.saint-georges.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.169.245.27:80",
+        "_rev": "1-2cc5ab546324ee2809bfa3da5551e56d",
+        "ip": "142.169.245.27",
+        "port": "80",
+        "program": "stgeorges",
+        "service": "http",
+        "tags": {
+            "hostname": "partage.saint-georges.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "66.70.215.45:443",
+        "_rev": "1-4f9f64c51730653186e14651290068f6",
+        "ip": "66.70.215.45",
+        "port": "443",
+        "program": "stgeorges",
+        "service": "https",
+        "tags": {
+            "hostname": "saint-georges.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "66.70.215.45:80",
+        "_rev": "1-557dc2dce82576de3b8eed52f42b8fa2",
+        "ip": "66.70.215.45",
+        "port": "80",
+        "program": "stgeorges",
+        "service": "http",
+        "tags": {
+            "hostname": "saint-georges.ca"
+        },
+        "type": "service"
+    }
+]
