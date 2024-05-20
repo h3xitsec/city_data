@@ -3,6 +3,7 @@
 | --- | --- |
 | <a href='groups_samples/1_ungrouped_http-benevole.ville.varennes.qc.ca-80.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_http-benevole.ville.varennes.qc.ca-80.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped<br>1 similars</a> |
 | <a href='groups_samples/1_ungrouped_https-benevole.ville.varennes.qc.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-benevole.ville.varennes.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped<br>1 similars</a> |
+| <a href='groups_samples/1_ungrouped_https-proxy.ville.varennes.qc.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-proxy.ville.varennes.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped<br>1 similars</a> |
 | <a href='groups_samples/1_ungrouped_https-srvewedgehdv.ville.varennes.qc.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-srvewedgehdv.ville.varennes.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped<br>1 similars</a> |
 | <a href='groups_samples/2_group_5_https-proxy.ville.varennes.qc.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/2_group_5_https-proxy.ville.varennes.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/2_group_5' target='_blank'>group_5<br>2 similars</a> |
 | <a href='groups_samples/2_group_9_http-src.ville.varennes.qc.ca-80.png' target='_blank'><img src='groups_samples/thumbnails/2_group_9_http-src.ville.varennes.qc.ca-80.png' alt='Thumbnail' /></a> | <a href='grouped/2_group_9' target='_blank'>group_9<br>2 similars</a> |
@@ -11,6 +12,7 @@
 | <a href='groups_samples/4_group_7_https-webmail.ville.varennes.qc.ca-443.png' target='_blank'><img src='groups_samples/thumbnails/4_group_7_https-webmail.ville.varennes.qc.ca-443.png' alt='Thumbnail' /></a> | <a href='grouped/4_group_7' target='_blank'>group_7<br>4 similars</a> |
 | <a href='groups_samples/4_group_8_http-ville.varennes.qc.ca-80.png' target='_blank'><img src='groups_samples/thumbnails/4_group_8_http-ville.varennes.qc.ca-80.png' alt='Thumbnail' /></a> | <a href='grouped/4_group_8' target='_blank'>group_8<br>4 similars</a> |
 | <a href='groups_samples/6_group_3_http-webdisk.ville.varennes.qc.ca-80.png' target='_blank'><img src='groups_samples/thumbnails/6_group_3_http-webdisk.ville.varennes.qc.ca-80.png' alt='Thumbnail' /></a> | <a href='grouped/6_group_3' target='_blank'>group_3<br>6 similars</a> |
+| <a href='groups_samples/9_group_3_http-webdisk.ville.varennes.qc.ca-80.png' target='_blank'><img src='groups_samples/thumbnails/9_group_3_http-webdisk.ville.varennes.qc.ca-80.png' alt='Thumbnail' /></a> | <a href='grouped/9_group_3' target='_blank'>group_3<br>9 similars</a> |
 
 # Screenshots
 | Thumbnail | File |
