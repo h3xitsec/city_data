@@ -1,0 +1,31 @@
+[
+    {
+        "_id": "20.200.76.25",
+        "_rev": "1-49a124e60acb4c8bee7f69e01734ca32",
+        "domains": [
+            "new.carletonsurmer.com"
+        ],
+        "program": "carletonsurmer",
+        "type": "ip"
+    },
+    {
+        "_id": "24.226.199.115",
+        "_rev": "1-bb96c5a930fee58324fd43d86dc3fce6",
+        "domains": [
+            "ecomusee.carletonsurmer.com"
+        ],
+        "program": "carletonsurmer",
+        "type": "ip"
+    },
+    {
+        "_id": "97.107.141.164",
+        "_rev": "1-076c54c9559555e51cb67f9c73deec36",
+        "domains": [
+            "www.carletonsurmer.com",
+            "tracadigash.carletonsurmer.com",
+            "carletonsurmer.com"
+        ],
+        "program": "carletonsurmer",
+        "type": "ip"
+    }
+]
