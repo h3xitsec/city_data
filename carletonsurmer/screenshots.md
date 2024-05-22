@@ -1,7 +1,19 @@
 # Grouped Screenshots
 | Thumbnail | File |
 | --- | --- |
+| <a href='groups_samples/1_ungrouped_https-tracadigash.carletonsurmer.com-8443-.png' target='_blank'><img src='groups_samples/thumbnails/1_ungrouped_https-tracadigash.carletonsurmer.com-8443-.png' alt='Thumbnail' /></a> | <a href='grouped/ungrouped' target='_blank'>ungrouped<br>1 similars</a> |
+| <a href='groups_samples/2_group_1_http-tracadigash.carletonsurmer.com-80-.png' target='_blank'><img src='groups_samples/thumbnails/2_group_1_http-tracadigash.carletonsurmer.com-80-.png' alt='Thumbnail' /></a> | <a href='grouped/2_group_1' target='_blank'>group_1<br>2 similars</a> |
+| <a href='groups_samples/6_group_2_https-carletonsurmer.com-8443-.png' target='_blank'><img src='groups_samples/thumbnails/6_group_2_https-carletonsurmer.com-8443-.png' alt='Thumbnail' /></a> | <a href='grouped/6_group_2' target='_blank'>group_2<br>6 similars</a> |
 
 # Screenshots
 | Thumbnail | File |
 | --- | --- |
+| <a href='screenshots/http-carletonsurmer.com-80-.png' target='_blank'><img src='screenshots/thumbnails/http-carletonsurmer.com-80-.png' alt='Thumbnail' /></a> | <a href='screenshots/http-carletonsurmer.com-80-.png' target='_blank'>http-carletonsurmer.com-80-.png</a> |
+| <a href='screenshots/http-tracadigash.carletonsurmer.com-80-.png' target='_blank'><img src='screenshots/thumbnails/http-tracadigash.carletonsurmer.com-80-.png' alt='Thumbnail' /></a> | <a href='screenshots/http-tracadigash.carletonsurmer.com-80-.png' target='_blank'>http-tracadigash.carletonsurmer.com-80-.png</a> |
+| <a href='screenshots/http-www.carletonsurmer.com-80-.png' target='_blank'><img src='screenshots/thumbnails/http-www.carletonsurmer.com-80-.png' alt='Thumbnail' /></a> | <a href='screenshots/http-www.carletonsurmer.com-80-.png' target='_blank'>http-www.carletonsurmer.com-80-.png</a> |
+| <a href='screenshots/https-carletonsurmer.com-443-.png' target='_blank'><img src='screenshots/thumbnails/https-carletonsurmer.com-443-.png' alt='Thumbnail' /></a> | <a href='screenshots/https-carletonsurmer.com-443-.png' target='_blank'>https-carletonsurmer.com-443-.png</a> |
+| <a href='screenshots/https-carletonsurmer.com-8443-.png' target='_blank'><img src='screenshots/thumbnails/https-carletonsurmer.com-8443-.png' alt='Thumbnail' /></a> | <a href='screenshots/https-carletonsurmer.com-8443-.png' target='_blank'>https-carletonsurmer.com-8443-.png</a> |
+| <a href='screenshots/https-tracadigash.carletonsurmer.com-443-.png' target='_blank'><img src='screenshots/thumbnails/https-tracadigash.carletonsurmer.com-443-.png' alt='Thumbnail' /></a> | <a href='screenshots/https-tracadigash.carletonsurmer.com-443-.png' target='_blank'>https-tracadigash.carletonsurmer.com-443-.png</a> |
+| <a href='screenshots/https-tracadigash.carletonsurmer.com-8443-.png' target='_blank'><img src='screenshots/thumbnails/https-tracadigash.carletonsurmer.com-8443-.png' alt='Thumbnail' /></a> | <a href='screenshots/https-tracadigash.carletonsurmer.com-8443-.png' target='_blank'>https-tracadigash.carletonsurmer.com-8443-.png</a> |
+| <a href='screenshots/https-www.carletonsurmer.com-443-.png' target='_blank'><img src='screenshots/thumbnails/https-www.carletonsurmer.com-443-.png' alt='Thumbnail' /></a> | <a href='screenshots/https-www.carletonsurmer.com-443-.png' target='_blank'>https-www.carletonsurmer.com-443-.png</a> |
+| <a href='screenshots/https-www.carletonsurmer.com-8443-.png' target='_blank'><img src='screenshots/thumbnails/https-www.carletonsurmer.com-8443-.png' alt='Thumbnail' /></a> | <a href='screenshots/https-www.carletonsurmer.com-8443-.png' target='_blank'>https-www.carletonsurmer.com-8443-.png</a> |
