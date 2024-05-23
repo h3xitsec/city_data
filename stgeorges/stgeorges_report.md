@@ -11,7 +11,7 @@
 |Services|10|
 |Ips|16|
 
-*Generated: 2024-05-22 @ 07:29:00*
+*Generated: 2024-05-23 @ 02:05:51*
 
 ## Scope
 
@@ -29,6 +29,7 @@
 - www.saint-georges.ca
 
 </details>
+
 ## Assets
 
 <details>
