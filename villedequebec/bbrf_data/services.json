@@ -1,0 +1,1326 @@
+[
+    {
+        "_id": "13.107.246.35:443",
+        "_rev": "3-9fea5df7a2f98e16bfd12ddbc6fd3eef",
+        "ip": "13.107.246.35",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "gpddocs-dev.ville.quebec.qc.ca",
+                "gpddocs.ville.quebec.qc.ca",
+                "accesinfo-docs.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "13.107.246.35:80",
+        "_rev": "3-81af380ced77b45405dcfb62c000f2f8",
+        "ip": "13.107.246.35",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "gpddocs-dev.ville.quebec.qc.ca",
+                "gpddocs.ville.quebec.qc.ca",
+                "accesinfo-docs.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.102:443",
+        "_rev": "1-6dfc98e158c0857bdffd10c1c9c174bd",
+        "ip": "198.168.96.102",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "inventaire.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.123:443",
+        "_rev": "2-cdbb87c06236c55b589d8fbf9d68b5a5",
+        "ip": "198.168.96.123",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "ville.quebec.qc.ca",
+                "www.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.123:80",
+        "_rev": "2-2f623d36a3632a7e3772cdb386612053",
+        "ip": "198.168.96.123",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "ville.quebec.qc.ca",
+                "www.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.126:443",
+        "_rev": "1-df9842da4a5ec858c8925f267e3c279c",
+        "ip": "198.168.96.126",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "fournisseurs.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.140:443",
+        "_rev": "1-e1faded3fb5e5d0feeb519d6b562b8a0",
+        "ip": "198.168.96.140",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "imagespatrimoine.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.140:80",
+        "_rev": "1-df48b66ba183655190c09e584744e787",
+        "ip": "198.168.96.140",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "imagespatrimoine.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.159:443",
+        "_rev": "9-ec920120944ebe74260e45448e241251",
+        "ip": "198.168.96.159",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www.messaveurs.cmquebec.qc.ca",
+                "www.enqueteodregionquebec.cmquebec.qc.ca",
+                "enqueteodregionquebec.cmquebec.qc.ca",
+                "www.portail.cmquebec.qc.ca",
+                "www.atlasstat.cmquebec.qc.ca",
+                "atlasstat.cmquebec.qc.ca",
+                "portail.cmquebec.qc.ca",
+                "messaveurs.cmquebec.qc.ca",
+                "sig.cmquebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.15:443",
+        "_rev": "1-bf041c8ca28400a0ac5338b963f82628",
+        "ip": "198.168.96.15",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "services.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.15:80",
+        "_rev": "1-b43de27a46eb7447825ec1e9dae9b31f",
+        "ip": "198.168.96.15",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "services.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.221:443",
+        "_rev": "1-ee4c1cd88e03e3e6b8e918dc1ceae028",
+        "ip": "198.168.96.221",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "bvi.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.221:80",
+        "_rev": "1-43589ff47a98b35358c8cb7ca4133ebe",
+        "ip": "198.168.96.221",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "bvi.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.221:8443",
+        "_rev": "1-554b2027a2e845941764a5e7d1c61912",
+        "ip": "198.168.96.221",
+        "port": "8443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "bvi.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.24:443",
+        "_rev": "1-3a5c16a64b3d2efec2f053a45da83833",
+        "ip": "198.168.96.24",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "portailemploye.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.26:443",
+        "_rev": "1-cfffe354ff9bf1f8ad535641b35c2a74",
+        "ip": "198.168.96.26",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "carte.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.26:80",
+        "_rev": "1-6cbc88b099a9cb5f0dce18667aa7b5d1",
+        "ip": "198.168.96.26",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "carte.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.35:443",
+        "_rev": "2-3897abeb930bfcdaed6db667e8016de3",
+        "ip": "198.168.96.35",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www.premiereovation.com",
+                "premiereovation.com"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.35:80",
+        "_rev": "2-43560d0ebcaa93abe80903511ad6a3c6",
+        "ip": "198.168.96.35",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www.premiereovation.com",
+                "premiereovation.com"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.37:443",
+        "_rev": "3-4749cc0eb26e142a209d459056bd2153",
+        "ip": "198.168.96.37",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "recrutement.ville.quebec.qc.ca",
+                "portailvip-recpreprod.ville.quebec.qc.ca",
+                "portailvip-rec.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.37:80",
+        "_rev": "1-237b52c11e9a9e2fa1276268c51e90f1",
+        "ip": "198.168.96.37",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "portailvip-recpreprod.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.43:443",
+        "_rev": "1-1336c1edbcd0ddb5d9937156a86d9b58",
+        "ip": "198.168.96.43",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "identite.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.45:443",
+        "_rev": "1-f0240f71f5c90d0dbbabe042dc6e898f",
+        "ip": "198.168.96.45",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "reglements.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.45:80",
+        "_rev": "1-b852d778a59e439a410e9f86c8ceeccd",
+        "ip": "198.168.96.45",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "reglements.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.52:443",
+        "_rev": "2-4c1ee274de92191a87dae50557ebaeb6",
+        "ip": "198.168.96.52",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "api.ville.quebec.qc.ca",
+                "suivimeteo.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.52:80",
+        "_rev": "2-969e5a7ab38d0e2dd9317ee61bc3b6aa",
+        "ip": "198.168.96.52",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "api.ville.quebec.qc.ca",
+                "suivimeteo.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.55:443",
+        "_rev": "1-6eb42827866dc6c9be9bb0f8ef66cdb2",
+        "ip": "198.168.96.55",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "apps-externes.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.55:80",
+        "_rev": "1-73497bec592fea4911b239fca072d53c",
+        "ip": "198.168.96.55",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "apps-externes.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.5:443",
+        "_rev": "1-7e7a4dff2ed8092b4a3dac10839b3c8a",
+        "ip": "198.168.96.5",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "311.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.5:80",
+        "_rev": "1-92db216cb279a416b20d33d216afdb1b",
+        "ip": "198.168.96.5",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "311.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.6:443",
+        "_rev": "1-b461e127c253b9d0c6d10bd29a01fce0",
+        "ip": "198.168.96.6",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "vdi.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.6:80",
+        "_rev": "1-2c7225a61179454c985857c00e076f5c",
+        "ip": "198.168.96.6",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "vdi.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.73:443",
+        "_rev": "3-e3251052ca3bce3b2ca140c8690a830d",
+        "ip": "198.168.96.73",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "sts.ville.quebec.qc.ca",
+                "vplus-api.ville.quebec.qc.ca",
+                "services.sesame2011.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.74:443",
+        "_rev": "1-e3f409bfc5864d230689cd7b11a887f4",
+        "ip": "198.168.96.74",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "vplus.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.74:80",
+        "_rev": "1-92dc046107bae6d83eed666c8f54e4c0",
+        "ip": "198.168.96.74",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "vplus.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.76:443",
+        "_rev": "2-a6bcd659d7cc5439604bc1b398f66b3d",
+        "ip": "198.168.96.76",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "bibliothequedequebec.qc.ca",
+                "www.bibliothequedequebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.76:80",
+        "_rev": "2-8833dd9cdc3f480d53e4f79d7fea0234",
+        "ip": "198.168.96.76",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "bibliothequedequebec.qc.ca",
+                "www.bibliothequedequebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.7:443",
+        "_rev": "1-313950df92bf681a6cbd3459caf73108",
+        "ip": "198.168.96.7",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "archiveshisto.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.7:80",
+        "_rev": "1-5f8e053b6407e476c2fcb28f5e27ad18",
+        "ip": "198.168.96.7",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "archiveshisto.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.85:443",
+        "_rev": "1-6994342e26bc9314771c131834781ad3",
+        "ip": "198.168.96.85",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "gdcm.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.85:80",
+        "_rev": "1-575781b5ea5e41f9600cdca760186920",
+        "ip": "198.168.96.85",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "gdcm.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.90:443",
+        "_rev": "2-d08e9f30d01da092fd22c407f55b1ea4",
+        "ip": "198.168.96.90",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "partenaires.bibliothequedequebec.qc.ca",
+                "partenaires.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.90:80",
+        "_rev": "2-14529839ff587dc61f881bec010d84bc",
+        "ip": "198.168.96.90",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "partenaires.bibliothequedequebec.qc.ca",
+                "partenaires.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.94:443",
+        "_rev": "1-91fd8a7bdfa08859d009cde977db76e9",
+        "ip": "198.168.96.94",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "midi.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.94:80",
+        "_rev": "1-cc379d3f054431c8bb80aa7847d7e895",
+        "ip": "198.168.96.94",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "midi.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.9:443",
+        "_rev": "1-9c6d4a9853b118e83a10b99f5d73903f",
+        "ip": "198.168.96.9",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "archeologie.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.9:80",
+        "_rev": "1-0468bc56d144ad90fa8c71a0ebb35beb",
+        "ip": "198.168.96.9",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "archeologie.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.115:443",
+        "_rev": "29-8d1cd27cbfd644c2cec234102a86b523",
+        "ip": "198.168.97.115",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "app.bibliodyssee.com.ezproxy.bibliothequedequebec.qc.ca",
+                "jeux.mazaam.com.ezproxy.bibliothequedequebec.qc.ca",
+                "repere2.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca",
+                "french.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+                "spanish.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+                "curio.ca.ezproxy.bibliothequedequebec.qc.ca",
+                "institutcanadien.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca",
+                "myrxtx.ca.ezproxy.bibliothequedequebec.qc.ca",
+                "www.e-therapeutics.ca.ezproxy.bibliothequedequebec.qc.ca",
+                "cours.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+                "assets.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca",
+                "institutcanadien.naxosvideolibrary.com.ezproxy.bibliothequedequebec.qc.ca",
+                "www.universalis-edu.com.ezproxy.bibliothequedequebec.qc.ca",
+                "images.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca",
+                "portuguese.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+                "ip.vodeclic.com.ezproxy.bibliothequedequebec.qc.ca",
+                "ezproxy.bibliothequedequebec.qc.ca",
+                "english.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+                "tomplay.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+                "ssl.eureka.cc.ezproxy.bibliothequedequebec.qc.ca",
+                "games.mazaam.com.ezproxy.bibliothequedequebec.qc.ca",
+                "soutien-scolaire.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+                "www.mesaieux.com.ezproxy.bibliothequedequebec.qc.ca",
+                "biblio.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+                "www.pressreader.com.ezproxy.bibliothequedequebec.qc.ca",
+                "syrano.demarque.com.ezproxy.bibliothequedequebec.qc.ca",
+                "tapiro.taptouche.com.ezproxy.bibliothequedequebec.qc.ca",
+                "biblioqc.ululab.com.ezproxy.bibliothequedequebec.qc.ca",
+                "nouveau.eureka.cc.ezproxy.bibliothequedequebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.116:443",
+        "_rev": "27-958b7ab1c78b0b4c0576b9bae4640f61",
+        "ip": "198.168.97.116",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "cours.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca",
+                "repere4.sdmliaisons.org.ezdev.bibliothequedequebec.qc.ca",
+                "www.pressreader.com.ezdev.bibliothequedequebec.qc.ca",
+                "assets.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca",
+                "jeux.mazaam.com.ezdev.bibliothequedequebec.qc.ca",
+                "biblioqc.ululab.com.ezdev.bibliothequedequebec.qc.ca",
+                "institutcanadien.nml3.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca",
+                "syrano.demarque.com.ezdev.bibliothequedequebec.qc.ca",
+                "myrxtx.ca.ezdev.bibliothequedequebec.qc.ca",
+                "ip.vodeclic.com.ezdev.bibliothequedequebec.qc.ca",
+                "ezdev.bibliothequedequebec.qc.ca",
+                "institutcanadien.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca",
+                "institutcanadien.naxosvideolibrary.com.ezdev.bibliothequedequebec.qc.ca",
+                "www.e-therapeutics.ca.ezdev.bibliothequedequebec.qc.ca",
+                "ssl.eureka.cc.ezdev.bibliothequedequebec.qc.ca",
+                "bibliodysseeshelf.pubcoder.com.ezdev.bibliothequedequebec.qc.ca",
+                "curio.ca.ezdev.bibliothequedequebec.qc.ca",
+                "nouveau.eureka.cc.ezdev.bibliothequedequebec.qc.ca",
+                "app.bibliodyssee.com.ezdev.bibliothequedequebec.qc.ca",
+                "www.universalis-edu.com.ezdev.bibliothequedequebec.qc.ca",
+                "www.genealogiequebec.com.ezdev.bibliothequedequebec.qc.ca",
+                "www.mesaieux.com.ezdev.bibliothequedequebec.qc.ca",
+                "biblio.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca",
+                "tomplay.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca",
+                "repere2.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca",
+                "games.mazaam.com.ezdev.bibliothequedequebec.qc.ca",
+                "tapiro.taptouche.com.ezdev.bibliothequedequebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.116:80",
+        "_rev": "1-83610dfb013718b485104e32571202f9",
+        "ip": "198.168.97.116",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "ezdev.bibliothequedequebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.17:443",
+        "_rev": "1-f2c0d8d5325d83569270bc3b764880d6",
+        "ip": "198.168.97.17",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "clavardage6410.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.40:443",
+        "_rev": "1-c4b82602c9e68c0549716822b27cea5c",
+        "ip": "198.168.97.40",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "rel-www.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.40:80",
+        "_rev": "1-1dae0389aae29a0f2a35ddb743555371",
+        "ip": "198.168.97.40",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "rel-www.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.56:443",
+        "_rev": "1-67a24a90cf6125335136f2c32a4d69d0",
+        "ip": "198.168.97.56",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "hydroweb.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.56:80",
+        "_rev": "1-7b3b98df1f74df0de56e0dd9e3b2e1b1",
+        "ip": "198.168.97.56",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "hydroweb.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.5:443",
+        "_rev": "1-486a84386ba154af5288ff97824c8028",
+        "ip": "198.168.97.5",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "vpn.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.6:443",
+        "_rev": "1-e6042c97a870f82a12a4acd83896187c",
+        "ip": "198.168.97.6",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "vpnagence.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.7:443",
+        "_rev": "2-c56a224c457ced8ac42c9c3add02e548",
+        "ip": "198.168.97.7",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "micollab.ville.quebec.qc.ca",
+                "mbg.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.59.247.100:443",
+        "_rev": "4-1ee639babd83ebfdc63b25f46d99e96a",
+        "ip": "199.59.247.100",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "intranet.cmquebec.qc.ca",
+                "www.intranet.cmquebec.qc.ca",
+                "cmquebec.qc.ca",
+                "www.cmquebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.59.247.100:80",
+        "_rev": "4-98edd0f6c4675830bb5a7aabbf1d43cd",
+        "ip": "199.59.247.100",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "intranet.cmquebec.qc.ca",
+                "www.intranet.cmquebec.qc.ca",
+                "cmquebec.qc.ca",
+                "www.cmquebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.104.135.86:443",
+        "_rev": "8-3cdbaac1a209954564f4c0cc0469daf5",
+        "ip": "20.104.135.86",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "service-etatequipement-acc.ga.app.ville.quebec.qc.ca",
+                "service-declencheur-acc.ga.app.ville.quebec.qc.ca",
+                "service-configuration-acc.ga.app.ville.quebec.qc.ca",
+                "service-preemption-acc.ga.app.ville.quebec.qc.ca",
+                "console-ti-acc.ga.app.ville.quebec.qc.ca",
+                "service-infoequipement-acc.ga.app.ville.quebec.qc.ca",
+                "service-alarmes-acc.ga.app.ville.quebec.qc.ca",
+                "service-interventions-acc.ga.app.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.104.135.86:80",
+        "_rev": "7-508b0ecf360dafea9b75fe5d49b8a01f",
+        "ip": "20.104.135.86",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "service-etatequipement-acc.ga.app.ville.quebec.qc.ca",
+                "service-declencheur-acc.ga.app.ville.quebec.qc.ca",
+                "service-preemption-acc.ga.app.ville.quebec.qc.ca",
+                "console-ti-acc.ga.app.ville.quebec.qc.ca",
+                "service-infoequipement-acc.ga.app.ville.quebec.qc.ca",
+                "service-alarmes-acc.ga.app.ville.quebec.qc.ca",
+                "service-interventions-acc.ga.app.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.12.97.102:443",
+        "_rev": "1-c29c3f526a21a9d6949274aa1ba9c7d7",
+        "ip": "20.12.97.102",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "decisions.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.12.97.102:80",
+        "_rev": "1-c726077c858f5fd86a6f93a73331326d",
+        "ip": "20.12.97.102",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "decisions.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.175.151.117:443",
+        "_rev": "4-713ef068dc3ff6a052ecf505dc16d1cd",
+        "ip": "20.175.151.117",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "alerte.ville.quebec.qc.ca",
+                "blogue.ville.quebec.qc.ca",
+                "accesinfo.ville.quebec.qc.ca",
+                "pdidev.app.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.175.151.117:80",
+        "_rev": "4-71b0360ab32d59664bc3ebe4d30e1c01",
+        "ip": "20.175.151.117",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "alerte.ville.quebec.qc.ca",
+                "blogue.ville.quebec.qc.ca",
+                "accesinfo.ville.quebec.qc.ca",
+                "pdidev.app.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.220.100.112:443",
+        "_rev": "8-f4a45018cde2d9f2883b5543e10b306a",
+        "ip": "20.220.100.112",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "service-preemption.ga.app.ville.quebec.qc.ca",
+                "service-interventions.ga.app.ville.quebec.qc.ca",
+                "service-etatequipement.ga.app.ville.quebec.qc.ca",
+                "service-declencheur.ga.app.ville.quebec.qc.ca",
+                "service-configuration.ga.app.ville.quebec.qc.ca",
+                "service-infoequipement.ga.app.ville.quebec.qc.ca",
+                "console-ti.ga.app.ville.quebec.qc.ca",
+                "service-alarmes.ga.app.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.220.100.112:80",
+        "_rev": "8-7fad14d4b225c9588b2dfa008d49d037",
+        "ip": "20.220.100.112",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "service-preemption.ga.app.ville.quebec.qc.ca",
+                "service-interventions.ga.app.ville.quebec.qc.ca",
+                "service-etatequipement.ga.app.ville.quebec.qc.ca",
+                "service-declencheur.ga.app.ville.quebec.qc.ca",
+                "service-configuration.ga.app.ville.quebec.qc.ca",
+                "service-infoequipement.ga.app.ville.quebec.qc.ca",
+                "console-ti.ga.app.ville.quebec.qc.ca",
+                "service-alarmes.ga.app.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.220.114.25:443",
+        "_rev": "8-6672447ed58cfd1d9a5629638180c22f",
+        "ip": "20.220.114.25",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "service-interventions-dev.ga.app.ville.quebec.qc.ca",
+                "service-alarmes-dev.ga.app.ville.quebec.qc.ca",
+                "service-preemption-dev.ga.app.ville.quebec.qc.ca",
+                "console-ti-dev.ga.app.ville.quebec.qc.ca",
+                "service-etatequipement-dev.ga.app.ville.quebec.qc.ca",
+                "service-declencheur-dev.ga.app.ville.quebec.qc.ca",
+                "service-infoequipement-dev.ga.app.ville.quebec.qc.ca",
+                "service-configuration-dev.ga.app.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.220.114.25:80",
+        "_rev": "8-3abc1af7cc5c33ab4b0188244261a6f6",
+        "ip": "20.220.114.25",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "service-infoequipement-dev.ga.app.ville.quebec.qc.ca",
+                "service-interventions-dev.ga.app.ville.quebec.qc.ca",
+                "service-alarmes-dev.ga.app.ville.quebec.qc.ca",
+                "console-ti-dev.ga.app.ville.quebec.qc.ca",
+                "service-etatequipement-dev.ga.app.ville.quebec.qc.ca",
+                "service-declencheur-dev.ga.app.ville.quebec.qc.ca",
+                "service-preemption-dev.ga.app.ville.quebec.qc.ca",
+                "service-configuration-dev.ga.app.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.220.242.84:443",
+        "_rev": "1-63950823daa59ba7fa2ac51a668925c0",
+        "ip": "20.220.242.84",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "cmgvdq.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.232.173.23:443",
+        "_rev": "18-d53f411abbd38d5eb55220c1d2d09eae",
+        "ip": "20.232.173.23",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "icd-dev.app.ville.quebec.qc.ca",
+                "ge.app.ville.quebec.qc.ca",
+                "icd-formation.app.ville.quebec.qc.ca",
+                "servicessesameacc.ville.quebec.qc.ca",
+                "maximoeam.app.ville.quebec.qc.ca",
+                "dev-ge.app.ville.quebec.qc.ca",
+                "test-ecoute-spciq.app.ville.quebec.qc.ca",
+                "zoneemploye.ville.quebec.qc.ca",
+                "maximoeam-rapport.app.ville.quebec.qc.ca",
+                "icd-acc.app.ville.quebec.qc.ca",
+                "icd.app.ville.quebec.qc.ca",
+                "maximoeam-dev.app.ville.quebec.qc.ca",
+                "servicessesame.ville.quebec.qc.ca",
+                "ecoute-spciq.app.ville.quebec.qc.ca",
+                "monitoring.app.ville.quebec.qc.ca",
+                "acc-ge.app.ville.quebec.qc.ca",
+                "maximoeam-formation.app.ville.quebec.qc.ca",
+                "maximoeam-acc.app.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.232.173.23:80",
+        "_rev": "16-b8cb4b7206eebe9d5d87016246b3b33e",
+        "ip": "20.232.173.23",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "icd-dev.app.ville.quebec.qc.ca",
+                "ge.app.ville.quebec.qc.ca",
+                "servicessesameacc.ville.quebec.qc.ca",
+                "icd-formation.app.ville.quebec.qc.ca",
+                "maximoeam.app.ville.quebec.qc.ca",
+                "dev-ge.app.ville.quebec.qc.ca",
+                "zoneemploye.ville.quebec.qc.ca",
+                "icd-acc.app.ville.quebec.qc.ca",
+                "icd.app.ville.quebec.qc.ca",
+                "maximoeam-dev.app.ville.quebec.qc.ca",
+                "servicessesame.ville.quebec.qc.ca",
+                "ecoute-spciq.app.ville.quebec.qc.ca",
+                "monitoring.app.ville.quebec.qc.ca",
+                "acc-ge.app.ville.quebec.qc.ca",
+                "maximoeam-formation.app.ville.quebec.qc.ca",
+                "maximoeam-acc.app.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.48.202.168:443",
+        "_rev": "1-fc3cfda2f01709f23b7daaa9ec47e3ba",
+        "ip": "20.48.202.168",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "accesinfo-cms.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.48.202.168:80",
+        "_rev": "1-aafd90d3026dab789141c6eae5714568",
+        "ip": "20.48.202.168",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "accesinfo-cms.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.75.109.112:443",
+        "_rev": "2-4d41d227cb784a077ee752cda6fcacaa",
+        "ip": "20.75.109.112",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "maintenance.ville.quebec.qc.ca",
+                "testssl.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.75.109.112:80",
+        "_rev": "2-1e74b7419903cbdc2ae637d5c924376c",
+        "ip": "20.75.109.112",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "maintenance.ville.quebec.qc.ca",
+                "testssl.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.95.29.9:443",
+        "_rev": "1-ded773ef9ed9a6694cc25553694e91be",
+        "ip": "20.95.29.9",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "bvi-cloud.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.95.29.9:80",
+        "_rev": "1-11b27a723712fae98fc4af77803ff997",
+        "ip": "20.95.29.9",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "bvi-cloud.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.95.29.9:8443",
+        "_rev": "1-12e93b8fe87a349f13816b45494c5dbb",
+        "ip": "20.95.29.9",
+        "port": "8443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "bvi-cloud.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "206.187.24.150:443",
+        "_rev": "1-1773f6049a9c025d54c48f82701fd8be",
+        "ip": "206.187.24.150",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "catalogue.bibliothequedequebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "206.187.24.150:80",
+        "_rev": "1-96399d556c0a88ba3bbeff98a34c0898",
+        "ip": "206.187.24.150",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "catalogue.bibliothequedequebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "52.96.230.248:80",
+        "_rev": "1-b6362140b1539d17537ce4d87deb24b1",
+        "ip": "52.96.230.248",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "autodiscover.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "54.39.127.81:443",
+        "_rev": "1-06f943e4410fa112c88ce1b73de066b7",
+        "ip": "54.39.127.81",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": "dossieranimal.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "54.39.127.81:80",
+        "_rev": "1-d92eb5956d0d7065ac8078224a00e81c",
+        "ip": "54.39.127.81",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": "dossieranimal.ville.quebec.qc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "64.68.200.48:443",
+        "_rev": "7-2f87a374291e3d252f95f16a8cf0efe3",
+        "ip": "64.68.200.48",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "loisirs-organismes.ville.quebec.qc.ca",
+                "loisirs.ville.quebec.qc.ca",
+                "taxes.ville.quebec.qc.ca",
+                "alertes.ville.quebec.qc.ca",
+                "cumulus.app.ville.quebec.qc.ca",
+                "acces.ville.quebec.qc.ca",
+                "loisirs-paiement.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "64.68.200.48:80",
+        "_rev": "7-2ef97e6a4e680886f29708621fbacf8b",
+        "ip": "64.68.200.48",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "loisirs-organismes.ville.quebec.qc.ca",
+                "loisirs.ville.quebec.qc.ca",
+                "taxes.ville.quebec.qc.ca",
+                "alertes.ville.quebec.qc.ca",
+                "cumulus.app.ville.quebec.qc.ca",
+                "acces.ville.quebec.qc.ca",
+                "loisirs-paiement.ville.quebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "99.79.156.1:443",
+        "_rev": "3-ca067807dc4fc869d71eb9befb13b53f",
+        "ip": "99.79.156.1",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www.batirensemble.cmquebec.qc.ca",
+                "participationcitoyenne.ville.quebec.qc.ca",
+                "batirensemble.cmquebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "99.79.156.1:80",
+        "_rev": "3-4868524b0a7f2d2084d4b3518532e693",
+        "ip": "99.79.156.1",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www.batirensemble.cmquebec.qc.ca",
+                "participationcitoyenne.ville.quebec.qc.ca",
+                "batirensemble.cmquebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    }
+]

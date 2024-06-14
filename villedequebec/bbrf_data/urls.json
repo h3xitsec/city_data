@@ -1,0 +1,4680 @@
+[
+    {
+        "_id": "http://311.ville.quebec.qc.ca:80/",
+        "_rev": "5-43963387e7e250f3d916e7e385958f94",
+        "hostname": "311.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "node.js",
+                "iis:10.0",
+                "nuxt.js",
+                "vue.js",
+                "windows_server"
+            ],
+            "title": "311_|_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://acc-ge.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-af76bd4a4225d0418c3af82630bc9d73",
+        "hostname": "acc-ge.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://acces.ville.quebec.qc.ca:80/",
+        "_rev": "4-1459f57bcd8953fce1e2a24976db8649",
+        "hostname": "acces.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Portail_d'acc\u00e8s_s\u00e9curis\u00e9_de_la_Ville_de_Qu\u00e9bec_<br><br><font_size=\"2\"_color=\"#000080\">_Si_vous_\u00e9prouvez_des_difficult\u00e9s_de_connexion,_veuillez_contacter_l'assistance_TI.<br><br>Diff\u00e9rentes_options_s'offrent_\u00e0_vous_:<br><br>Par_t\u00e9l\u00e9phone_pour_joindre_le_6410_:<br>418_641_6410<br>1_833_407_0971_(num\u00e9ro_sans_frais_pour_les_appels_en_provenance_de_l\u2019Am\u00e9rique_du_Nord<br><br>Par_<a_href=\"https://direct.lc.chat/7935311/14\">_<FONT_COLOR=\"#0000FF\">messagerie_instantan\u00e9e</a><br><br><font_size=\"2\"_color=\"#000080\">Par_courriel_:<br>_<a_href=\"mailto:6410@ville.quebec.qc.ca\"></a>_<FONT_COLOR=\"#0000FF\">_6410@ville.quebec.qc.ca<font_color=\"#000080\">_(SVP_ne_pas_oublier_d\u2019y_indiquer_un_num\u00e9ro_de_t\u00e9l\u00e9phone_pour_vous_rejoindre_facilement)</font>"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://accesinfo-cms.ville.quebec.qc.ca:80/",
+        "_rev": "4-35fceab5da0df74b8fb27132bb457471",
+        "hostname": "accesinfo-cms.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://accesinfo-docs.ville.quebec.qc.ca:80/",
+        "_rev": "4-f5e5b2edbf70ece802c8c5694ffece7f",
+        "hostname": "accesinfo-docs.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "400",
+            "tech": [
+                "azure_front_door",
+                "azure"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://accesinfo.ville.quebec.qc.ca:80/",
+        "_rev": "4-94876e89be576e0df37a267ac0893708",
+        "hostname": "accesinfo.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "bootstrap:3.3.7",
+                "hsts",
+                "kestrel",
+                "microsoft_asp.net",
+                "typekit"
+            ],
+            "title": "Demande_d'acc\u00e8s_\u00e0_l'information_\u2013_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://alerte.ville.quebec.qc.ca:80/",
+        "_rev": "5-6673c8ac4c63e6e7841e0c6e5ab6f43f",
+        "hostname": "alerte.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "google_tag_manager",
+                "kestrel",
+                "microsoft_asp.net"
+            ],
+            "title": "Qu\u00e9bec_en_alerte___Ville_de_Qu\u00e9bec___Alerte_inactive"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://alertes.ville.quebec.qc.ca:80/",
+        "_rev": "4-d112386a8003bf914c5fe9b614e6fb52",
+        "hostname": "alertes.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "google_tag_manager",
+                "kestrel",
+                "microsoft_asp.net"
+            ],
+            "title": "Qu\u00e9bec_en_alerte___Ville_de_Qu\u00e9bec___Alerte_inactive"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://api.ville.quebec.qc.ca:80/",
+        "_rev": "4-fe1bab6152b11a4dd8d8567585669bd9",
+        "hostname": "api.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403___Forbidden:_Access_is_denied."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://apps-externes.ville.quebec.qc.ca:80/",
+        "_rev": "4-3f167a52d9df91439d3f22067bb536ed",
+        "hostname": "apps-externes.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "windows_server",
+                "iis:10.0"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://archeologie.ville.quebec.qc.ca:80/",
+        "_rev": "4-d4ff229a616f87b63355f51ee7ec4cb2",
+        "hostname": "archeologie.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "google_tag_manager",
+                "microsoft_asp.net:4.0.30319",
+                "windows_server"
+            ],
+            "title": "Accueil___Arch\u00e9ologie___Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://archiveshisto.ville.quebec.qc.ca:80/",
+        "_rev": "4-6a13043777ac3ce4ac2eb52f789cf7b1",
+        "hostname": "archiveshisto.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403___Forbidden:_Access_is_denied."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://autodiscover.ville.quebec.qc.ca:80/",
+        "_rev": "5-852a1980c93eb22cbf029cd47d7871d6",
+        "hostname": "autodiscover.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_Outlook"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://batirensemble.cmquebec.qc.ca:80/",
+        "_rev": "4-bcc1ca246a06ac39fa946a9aeb3c06c8",
+        "hostname": "batirensemble.cmquebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://bibliothequedequebec.qc.ca:80/",
+        "_rev": "5-3fbfeeed1c5e86bc13d4abdf8111bdb1",
+        "hostname": "bibliothequedequebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "google_tag_manager",
+                "microsoft_asp.net:4.0.30319",
+                "windows_server"
+            ],
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec_\u2013_D\u00e9couvrir._Se_divertir._R\u00eaver.___Biblioth\u00e8ques_de_la_ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://blogue.ville.quebec.qc.ca:80/",
+        "_rev": "4-bbf6e1ecc00e2ab81712e65fc1496094",
+        "hostname": "blogue.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "google_tag_manager",
+                "kestrel",
+                "mailchimp",
+                "microsoft_asp.net"
+            ],
+            "title": "Accueil___Blogue_#AccentLocal"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://bvi-cloud.ville.quebec.qc.ca:80/",
+        "_rev": "4-2359720c4ab9839bfbe4bd1640c54dcd",
+        "hostname": "bvi-cloud.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "java",
+                "hsts"
+            ],
+            "title": "VMware_Horizon"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://bvi.ville.quebec.qc.ca:80/",
+        "_rev": "4-b8aab22975467fabcd9230fc1da1a80b",
+        "hostname": "bvi.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "java",
+                "hsts"
+            ],
+            "title": "VMware_Horizon"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://carte.ville.quebec.qc.ca:80/",
+        "_rev": "4-9afef405b32bce876ae8b17db96cf5a7",
+        "hostname": "carte.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "Redirection_en_cours..."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://catalogue.bibliothequedequebec.qc.ca:80/",
+        "_rev": "4-dda490ebffb999b56339a60e1db05a1b",
+        "hostname": "catalogue.bibliothequedequebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "apache_http_server",
+                "java"
+            ],
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://cmquebec.qc.ca:80/",
+        "_rev": "5-5e805c99e06426279b7259d8d695ac39",
+        "hostname": "cmquebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "apache_http_server",
+                "mysql",
+                "php",
+                "wordpress"
+            ],
+            "title": "Communaut\u00e9_m\u00e9tropolitaine_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://console-ti-acc.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-d2eae5e6c3a565ed836c5842a759cf25",
+        "hostname": "console-ti-acc.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "503",
+            "tech": "hsts",
+            "title": "503_Service_Temporarily_Unavailable"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://console-ti-dev.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-7315b2b8b1856d5e16a5d9126dd5761c",
+        "hostname": "console-ti-dev.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "503",
+            "tech": "hsts",
+            "title": "503_Service_Temporarily_Unavailable"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://console-ti.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-ad9af7efc1e70d368acc28611d9dfdef",
+        "hostname": "console-ti.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "503",
+            "tech": "hsts",
+            "title": "503_Service_Temporarily_Unavailable"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://cumulus.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-b3f88c0df1302810854fa386ca8775c3",
+        "hostname": "cumulus.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://decisions.ville.quebec.qc.ca:80/",
+        "_rev": "4-060721cf7d975b28422c72e60a1a660e",
+        "hostname": "decisions.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "bootstrap:3.3.7",
+                "hsts",
+                "typekit"
+            ],
+            "title": "GPD_\u2013_Documents_d\u00e9cisionnels"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://dev-ge.app.ville.quebec.qc.ca:80/",
+        "_rev": "5-02bf522120923ef1e1adc8da08141988",
+        "hostname": "dev-ge.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://dossieranimal.ville.quebec.qc.ca:80/",
+        "_rev": "4-d7bc2ded87fa4ac8ed40820921ae73c9",
+        "hostname": "dossieranimal.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "nginx",
+                "hsts"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://ecoute-spciq.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-093c4a8a71ac0773b602d79dc843aaa4",
+        "hostname": "ecoute-spciq.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://enterpriseenrollment.ville.quebec.qc.ca:80/",
+        "_rev": "4-4f41d9eb0da5e526d0972da826589db2",
+        "hostname": "enterpriseenrollment.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "azure_front_door",
+                "azure",
+                "hsts"
+            ],
+            "title": "Microsoft_Intune_admin_center"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://enterpriseregistration.ville.quebec.qc.ca:80/",
+        "_rev": "4-c8cd46f9184e471ccc26c1dcc73f5769",
+        "hostname": "enterpriseregistration.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://ezdev.bibliothequedequebec.qc.ca:80/",
+        "_rev": "4-2c543668f65358b70f937485b8365564",
+        "hostname": "ezdev.bibliothequedequebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://gdcm.ville.quebec.qc.ca:80/",
+        "_rev": "4-b1735595590afcc3bca4f220cc425468",
+        "hostname": "gdcm.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net:4.0.30319",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "GDCM___Gestion_des_consentements_municipaux"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://ge.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-5678747eda342b177a72746beac5eb83",
+        "hostname": "ge.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://gpddocs-dev.ville.quebec.qc.ca:80/",
+        "_rev": "4-83807cbc4e7979f3da0b3589891a9265",
+        "hostname": "gpddocs-dev.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "400",
+            "tech": [
+                "azure_front_door",
+                "azure"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://gpddocs.ville.quebec.qc.ca:80/",
+        "_rev": "4-458be53a1582533221f73dde9f469636",
+        "hostname": "gpddocs.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404",
+            "tech": [
+                "azure_front_door",
+                "azure"
+            ],
+            "title": "Page_not_found"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://hydroweb.ville.quebec.qc.ca:80/",
+        "_rev": "4-ef08ae32cd035d4c1ba6cf9bbebb9896",
+        "hostname": "hydroweb.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "215",
+            "tech": "nginx:1.22.1",
+            "title": "Hydroweb"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://icd-acc.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-23ed437621c83810b8527349764b0322",
+        "hostname": "icd-acc.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://icd-dev.app.ville.quebec.qc.ca:80/",
+        "_rev": "5-2e2379f7d57b61f351c7525515853889",
+        "hostname": "icd-dev.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://icd-formation.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-5f7c0f5e6d8a0a674ce7a8a423397181",
+        "hostname": "icd-formation.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://icd.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-6a168d35d83a87406d64dda3b9214f02",
+        "hostname": "icd.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://imagespatrimoine.ville.quebec.qc.ca:80/",
+        "_rev": "5-b3d757bb9f57227dd0d3ab548a244751",
+        "hostname": "imagespatrimoine.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403___Forbidden:_Access_is_denied."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://intranet.cmquebec.qc.ca:80/",
+        "_rev": "5-3d77e3fda9c61f5d33fb0d88d36dca15",
+        "hostname": "intranet.cmquebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "apache_http_server",
+                "mysql",
+                "php",
+                "wordpress"
+            ],
+            "title": "Communaut\u00e9_m\u00e9tropolitaine_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://loisirs-organismes.ville.quebec.qc.ca:80/",
+        "_rev": "4-f215dc6b4430d99bc7de7f0712544b30",
+        "hostname": "loisirs-organismes.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Ville_de_Qu\u00e9bec___Site_officiel_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://loisirs-paiement.ville.quebec.qc.ca:80/",
+        "_rev": "5-20b06076c66bfdf6b952f0256a7b3964",
+        "hostname": "loisirs-paiement.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Ville_de_Qu\u00e9bec___Site_officiel_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://loisirs.ville.quebec.qc.ca:80/",
+        "_rev": "5-55c9bc4e3739e99c1c56ce4bd2747c82",
+        "hostname": "loisirs.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "google_tag_manager",
+                "microsoft_asp.net"
+            ],
+            "title": "Activit\u00e9s_de_loisir"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://maintenance.ville.quebec.qc.ca:80/",
+        "_rev": "4-ca3daf0953822605c8dd8bb0480ddffc",
+        "hostname": "maintenance.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Ville_de_Qu\u00e9bec___Site_officiel_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://maximoeam-acc.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-af1fd90c2f66522aee52d51119aa2930",
+        "hostname": "maximoeam-acc.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://maximoeam-dev.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-2f40801f129fbddbf32f826842645413",
+        "hostname": "maximoeam-dev.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Redirecting"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://maximoeam-formation.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-5e5c84fffd234e2200d6d2c7f2e09c8b",
+        "hostname": "maximoeam-formation.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://maximoeam-rapport.app.ville.quebec.qc.ca:80/",
+        "_rev": "5-ec2e17d880023655eb36377b18e5409d",
+        "hostname": "maximoeam-rapport.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://maximoeam.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-b53626ae500ed18193f045cc88bc865f",
+        "hostname": "maximoeam.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://midi.ville.quebec.qc.ca:80/",
+        "_rev": "5-211aa1f964b8f633cb12bb32a1af9d26",
+        "hostname": "midi.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "MIDI"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://monitoring.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-959fc9f49ab73300533b8b372af364b4",
+        "hostname": "monitoring.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://partenaires.bibliothequedequebec.qc.ca:80/",
+        "_rev": "5-504ec9768e0739310a4066bcac8c3816",
+        "hostname": "partenaires.bibliothequedequebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403___Forbidden:_Access_is_denied."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://partenaires.ville.quebec.qc.ca:80/",
+        "_rev": "4-e1346360bbb0d68c642c0eb0a140c8dd",
+        "hostname": "partenaires.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net:4.0.30319",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://participationcitoyenne.ville.quebec.qc.ca:80/",
+        "_rev": "4-14c9b8d19360972cce4cfeab643949c5",
+        "hostname": "participationcitoyenne.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Participation_citoyenne___Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://pdidev.app.ville.quebec.qc.ca:80/",
+        "_rev": "5-4463e1c23a9dd7959faceec60da56b9b",
+        "hostname": "pdidev.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "404",
+            "title": "404_Not_Found"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://portailvip-recpreprod.ville.quebec.qc.ca:80/",
+        "_rev": "5-66611e1f516888ba887bcdba597ce5d5",
+        "hostname": "portailvip-recpreprod.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "hsts"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://premiereovation.com:80/",
+        "_rev": "4-73e81de88717788c07d6ee8e0abee0b9",
+        "hostname": "premiereovation.com",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "google_tag_manager",
+                "microsoft_asp.net:4.0.30319",
+                "windows_server"
+            ],
+            "title": "Premi\u00e8re_Ovation_\u2013_Accueil"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://reglements.ville.quebec.qc.ca:80/",
+        "_rev": "4-61182924681bfaa0ed8a6fcc834d1184",
+        "hostname": "reglements.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "google_tag_manager",
+            "title": "Portail_des_r\u00e8glements_municipaux_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://rel-www.ville.quebec.qc.ca:80/",
+        "_rev": "5-7b0278a6cdb878860989abfe8db805fd",
+        "hostname": "rel-www.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "404",
+            "tech": "microsoft_httpapi:2.0",
+            "title": "Not_Found"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-alarmes-acc.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-635353b5be5ba69714c668d64093d1aa",
+        "hostname": "service-alarmes-acc.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-alarmes-dev.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-8a02b3d7fdb8baed972f3599f712f45d",
+        "hostname": "service-alarmes-dev.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-alarmes.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-f1cf32cc019d353418535c2061893067",
+        "hostname": "service-alarmes.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-configuration-acc.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-27b3821fba935f68e71a88a3d0014166",
+        "hostname": "service-configuration-acc.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-configuration-dev.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-ca5eaa0c0378fb1fab0172e3be8529e5",
+        "hostname": "service-configuration-dev.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-configuration.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-13a7b35fc7d6e472bcb4e01b1f0bd2f2",
+        "hostname": "service-configuration.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-declencheur-acc.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-d8c996fa3efd1c47593b3c9bba60a902",
+        "hostname": "service-declencheur-acc.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-declencheur-dev.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "5-071b8d0237af79db8bb64438509e91bf",
+        "hostname": "service-declencheur-dev.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-declencheur.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-6ed75b785a220607ee1453d62cd00ed0",
+        "hostname": "service-declencheur.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-etatequipement-acc.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "5-16b393428493457495eefef3b31cef70",
+        "hostname": "service-etatequipement-acc.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-etatequipement-dev.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "5-cc8c60eba68efc052d83fc08daaa0a8b",
+        "hostname": "service-etatequipement-dev.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-etatequipement.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "5-2b947959299c4bfd1805eae2110d406e",
+        "hostname": "service-etatequipement.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-infoequipement-acc.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-6b22072e9c9f5f8b17e25b927d1b5a3e",
+        "hostname": "service-infoequipement-acc.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-infoequipement-dev.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "5-6d0b88bbb9dac4449e5b0d5159901fb4",
+        "hostname": "service-infoequipement-dev.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-infoequipement.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-99ad42307a326519ace462a550f6f7e4",
+        "hostname": "service-infoequipement.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-interventions-acc.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-5e71d58c566a2390d1a4841d1be78245",
+        "hostname": "service-interventions-acc.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-interventions-dev.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-6bfe1a0b34e4f259ab2c1838f2d9a4d8",
+        "hostname": "service-interventions-dev.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-interventions.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "5-f18999c843f3d67b81f1b56e629a7f66",
+        "hostname": "service-interventions.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-preemption-acc.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-e525c8f08130ef2b70c91aef6cecf9f0",
+        "hostname": "service-preemption-acc.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "503",
+            "tech": "hsts",
+            "title": "503_Service_Temporarily_Unavailable"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-preemption-dev.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-56d9ec9beb44c5102f6ab6df561a1e11",
+        "hostname": "service-preemption-dev.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://service-preemption.ga.app.ville.quebec.qc.ca:80/",
+        "_rev": "5-374eb9e404be7bd2d35d6f3a50545e77",
+        "hostname": "service-preemption.ga.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://services.ville.quebec.qc.ca:80/",
+        "_rev": "4-60ece4cf6868b5ae9f736b128fe188e7",
+        "hostname": "services.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403___Forbidden:_Access_is_denied."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://servicessesame.ville.quebec.qc.ca:80/",
+        "_rev": "4-f604c05b001f8c3dc818c1bb95394f2d",
+        "hostname": "servicessesame.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://servicessesameacc.ville.quebec.qc.ca:80/",
+        "_rev": "5-3ff43f7bac0509d6da8d711bc3ca4140",
+        "hostname": "servicessesameacc.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://suivimeteo.ville.quebec.qc.ca:80/",
+        "_rev": "4-9ee04fe6756273b78f89419bc0e00d0e",
+        "hostname": "suivimeteo.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "IIS_Windows_Server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://taxes.ville.quebec.qc.ca:80/",
+        "_rev": "4-877897873327f77c0fb94f92d0e6e88c",
+        "hostname": "taxes.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "apache_http_server"
+            ],
+            "title": "Qu\ufffdbec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://test-ecoute-spciq.app.ville.quebec.qc.ca:80/",
+        "_rev": "4-a0721c68a833dfbe93bfa94a5f2a2296",
+        "hostname": "test-ecoute-spciq.app.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Redirecting"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://testssl.ville.quebec.qc.ca:80/",
+        "_rev": "4-e7562c2c776fbb905c5ad49201420b6d",
+        "hostname": "testssl.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404",
+            "tech": "bootstrap:5.2.3",
+            "title": "Azure_Static_Web_Apps___404:_Not_found"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://vdi.ville.quebec.qc.ca:80/",
+        "_rev": "5-5d39bcc94ef4a16edadc6bcf4de1e0a2",
+        "hostname": "vdi.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "java",
+                "hsts"
+            ],
+            "title": "VMware_Horizon"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://ville.quebec.qc.ca:80/",
+        "_rev": "4-8ca72e0293ccc3d5e92eb6e0d253314d",
+        "hostname": "ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "google_tag_manager",
+                "microsoft_asp.net"
+            ],
+            "title": "Ville_de_Qu\u00e9bec___Site_officiel_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://vplus.ville.quebec.qc.ca:80/",
+        "_rev": "4-7f4e324f42752127b1f87e6ec72f845f",
+        "hostname": "vplus.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "react",
+                "hsts"
+            ],
+            "title": "Portail_citoyen"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.batirensemble.cmquebec.qc.ca:80/",
+        "_rev": "5-b86cfabf504d2662793f47bbcdf40dda",
+        "hostname": "www.batirensemble.cmquebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "B\u00e2tir_ensemble"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.bibliothequedequebec.qc.ca:80/",
+        "_rev": "5-01d5ab4d61724c8737032036e4890134",
+        "hostname": "www.bibliothequedequebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "google_tag_manager",
+                "microsoft_asp.net",
+                "windows_server"
+            ],
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec_\u2013_D\u00e9couvrir._Se_divertir._R\u00eaver.___Biblioth\u00e8ques_de_la_ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.cmquebec.qc.ca:80/",
+        "_rev": "4-9409c568885b069d2b223cb1cd3b654f",
+        "hostname": "www.cmquebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "apache_http_server",
+                "mysql",
+                "php",
+                "wordpress"
+            ],
+            "title": "Communaut\u00e9_m\u00e9tropolitaine_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.intranet.cmquebec.qc.ca:80/",
+        "_rev": "4-8474ec2be5683223291dd891ec56a554",
+        "hostname": "www.intranet.cmquebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "apache_http_server",
+                "mysql",
+                "php",
+                "wordpress"
+            ],
+            "title": "Communaut\u00e9_m\u00e9tropolitaine_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.premiereovation.com:80/",
+        "_rev": "4-92c3f63ebd051f5958f2ad1a679fa84c",
+        "hostname": "www.premiereovation.com",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "google_tag_manager",
+                "microsoft_asp.net:4.0.30319",
+                "windows_server"
+            ],
+            "title": "Premi\u00e8re_Ovation_\u2013_Accueil"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://www.ville.quebec.qc.ca:80/",
+        "_rev": "4-319f651954c9fe6a792ed2327209b56e",
+        "hostname": "www.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "google_tag_manager",
+                "microsoft_asp.net"
+            ],
+            "title": "Ville_de_Qu\u00e9bec___Site_officiel_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "http://zoneemploye.ville.quebec.qc.ca:80/",
+        "_rev": "4-3d801083c825f1a4b92313302014ae56",
+        "hostname": "zoneemploye.ville.quebec.qc.ca",
+        "port": 80,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "bootstrap",
+                "microsoft_asp.net"
+            ],
+            "title": "Zone_RH"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://311.ville.quebec.qc.ca:443/",
+        "_rev": "4-ae8ab468d326ab08900e8620ac4347d8",
+        "hostname": "311.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "node.js",
+                "iis:10.0",
+                "nuxt.js",
+                "vue.js",
+                "windows_server"
+            ],
+            "title": "311_|_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://acc-ge.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-49bd0655404476663da3cc8f7d3c7146",
+        "hostname": "acc-ge.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://acces.ville.quebec.qc.ca:443/",
+        "_rev": "4-173fc792601fd5c831c11e29a3ac642a",
+        "hostname": "acces.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Portail_d'acc\u00e8s_s\u00e9curis\u00e9_de_la_Ville_de_Qu\u00e9bec_<br><br><font_size=\"2\"_color=\"#000080\">_Si_vous_\u00e9prouvez_des_difficult\u00e9s_de_connexion,_veuillez_contacter_l'assistance_TI.<br><br>Diff\u00e9rentes_options_s'offrent_\u00e0_vous_:<br><br>Par_t\u00e9l\u00e9phone_pour_joindre_le_6410_:<br>418_641_6410<br>1_833_407_0971_(num\u00e9ro_sans_frais_pour_les_appels_en_provenance_de_l\u2019Am\u00e9rique_du_Nord<br><br>Par_<a_href=\"https://direct.lc.chat/7935311/14\">_<FONT_COLOR=\"#0000FF\">messagerie_instantan\u00e9e</a><br><br><font_size=\"2\"_color=\"#000080\">Par_courriel_:<br>_<a_href=\"mailto:6410@ville.quebec.qc.ca\"></a>_<FONT_COLOR=\"#0000FF\">_6410@ville.quebec.qc.ca<font_color=\"#000080\">_(SVP_ne_pas_oublier_d\u2019y_indiquer_un_num\u00e9ro_de_t\u00e9l\u00e9phone_pour_vous_rejoindre_facilement)</font>"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://accesinfo-cms.ville.quebec.qc.ca:443/",
+        "_rev": "4-577d157108bebc72c75ebdbfa1a236ab",
+        "hostname": "accesinfo-cms.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://accesinfo-docs.ville.quebec.qc.ca:443/",
+        "_rev": "4-21dcb868b3e4117ad8cb1da919c768e9",
+        "hostname": "accesinfo-docs.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "400",
+            "tech": [
+                "azure_front_door",
+                "azure"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://accesinfo.ville.quebec.qc.ca:443/",
+        "_rev": "5-1477ec47796d988cb381016a107e68af",
+        "hostname": "accesinfo.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "bootstrap:3.3.7",
+                "hsts",
+                "kestrel",
+                "microsoft_asp.net",
+                "typekit"
+            ],
+            "title": "Demande_d'acc\u00e8s_\u00e0_l'information_\u2013_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://alerte.ville.quebec.qc.ca:443/",
+        "_rev": "4-253da1c5d681710669b6374d64619033",
+        "hostname": "alerte.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "google_tag_manager",
+                "kestrel",
+                "microsoft_asp.net"
+            ],
+            "title": "Qu\u00e9bec_en_alerte___Ville_de_Qu\u00e9bec___Alerte_inactive"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://alertes.ville.quebec.qc.ca:443/",
+        "_rev": "5-c9dd94eb22f18852065419c40975bef9",
+        "hostname": "alertes.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "google_tag_manager",
+                "kestrel",
+                "microsoft_asp.net"
+            ],
+            "title": "Qu\u00e9bec_en_alerte___Ville_de_Qu\u00e9bec___Alerte_inactive"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://api.ville.quebec.qc.ca:443/",
+        "_rev": "4-a543c4d5e472623df80716afa26196b7",
+        "hostname": "api.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403___Forbidden:_Access_is_denied."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://app.bibliodyssee.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-52360b5ccbe8585f5ae8556a4e2d2a93",
+        "hostname": "app.bibliodyssee.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://app.bibliodyssee.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-1e2cefe446e462201ac30c99e5e96aa5",
+        "hostname": "app.bibliodyssee.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://apps-externes.ville.quebec.qc.ca:443/",
+        "_rev": "5-22d03f985f734b3df16ca08cc1c5b7bf",
+        "hostname": "apps-externes.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://archeologie.ville.quebec.qc.ca:443/",
+        "_rev": "4-ad8e8a6a52237c634c5ef4a319098a8a",
+        "hostname": "archeologie.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "google_tag_manager",
+                "microsoft_asp.net:4.0.30319",
+                "windows_server"
+            ],
+            "title": "Accueil___Arch\u00e9ologie___Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://archiveshisto.ville.quebec.qc.ca:443/",
+        "_rev": "4-6714ad64276fce99608c787b2dd78af4",
+        "hostname": "archiveshisto.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403___Forbidden:_Access_is_denied."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://assets.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-346e307ec72d38b1bbc698238905ce5c",
+        "hostname": "assets.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://assets.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-e008061786dd6b5f2dbf1d89eebf29b4",
+        "hostname": "assets.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://atlasstat.cmquebec.qc.ca:443/",
+        "_rev": "5-3e52f6ce0cdcd6fd057dda5ef59ab433",
+        "hostname": "atlasstat.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "hsts",
+                "microsoft_asp.net",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://batirensemble.cmquebec.qc.ca:443/",
+        "_rev": "4-7e4624d85ca148992458a0076c95c0ba",
+        "hostname": "batirensemble.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://biblio.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-3658d643bcf877cbd650a9aa22e379a3",
+        "hostname": "biblio.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://biblio.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-548372b48b8fb5662378dbe33bf3aba4",
+        "hostname": "biblio.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://bibliodysseeshelf.pubcoder.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-529e3f6c1bfff26fc6b171d868e15134",
+        "hostname": "bibliodysseeshelf.pubcoder.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://biblioqc.ululab.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-53e8cf002599f44091ccfa1e8d9a3971",
+        "hostname": "biblioqc.ululab.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://biblioqc.ululab.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-a5f5be7d802f0e6626e66d4ac44d335b",
+        "hostname": "biblioqc.ululab.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-6c77dffaa40e51bd1f07a07c75980ff9",
+        "hostname": "bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "google_tag_manager",
+                "microsoft_asp.net:4.0.30319",
+                "windows_server"
+            ],
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec_\u2013_D\u00e9couvrir._Se_divertir._R\u00eaver.___Biblioth\u00e8ques_de_la_ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://blogue.ville.quebec.qc.ca:443/",
+        "_rev": "5-8af0773dc5f0ec1b554f986ea850df0d",
+        "hostname": "blogue.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "google_tag_manager",
+                "kestrel",
+                "mailchimp",
+                "microsoft_asp.net"
+            ],
+            "title": "Accueil___Blogue_#AccentLocal"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://bvi-cloud.ville.quebec.qc.ca:443/",
+        "_rev": "5-aa509e44c304e286f9688b1484497c7c",
+        "hostname": "bvi-cloud.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "java",
+                "hsts"
+            ],
+            "title": "VMware_Horizon"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://bvi-cloud.ville.quebec.qc.ca:8443/",
+        "_rev": "4-50a314497f727f09e965e8c581abb1a3",
+        "hostname": "bvi-cloud.ville.quebec.qc.ca",
+        "port": 8443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://bvi.ville.quebec.qc.ca:443/",
+        "_rev": "5-43df064c655a2b4ffc62e6f1d6cbcd09",
+        "hostname": "bvi.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "java",
+                "hsts"
+            ],
+            "title": "VMware_Horizon"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://bvi.ville.quebec.qc.ca:8443/",
+        "_rev": "4-03ece4aa1d6be2e16d6fecf1d6d230b3",
+        "hostname": "bvi.ville.quebec.qc.ca",
+        "port": 8443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://carte.ville.quebec.qc.ca:443/",
+        "_rev": "5-816e4fabb36e0d6eca040b206c0c4f2c",
+        "hostname": "carte.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "Redirection_en_cours..."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://catalogue.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-76d94c5711aa4f1e809ab826120680bc",
+        "hostname": "catalogue.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "apache_http_server",
+                "java"
+            ],
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://clavardage6410.ville.quebec.qc.ca:443/",
+        "_rev": "4-e6f30c5880bd987d4b4c59578e670ddf",
+        "hostname": "clavardage6410.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cmgvdq.ville.quebec.qc.ca:443/",
+        "_rev": "4-fe86fe3faac3afdaad22dd93a9f11d6b",
+        "hostname": "cmgvdq.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "500",
+            "tech": [
+                "iis:10.0",
+                "hsts",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cmquebec.qc.ca:443/",
+        "_rev": "4-6dd21d3c60ef9b6752f88618d6136c21",
+        "hostname": "cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "apache_http_server",
+                "mysql",
+                "php",
+                "wordpress"
+            ],
+            "title": "Communaut\u00e9_m\u00e9tropolitaine_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://console-ti-acc.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-a0d112964e98b8371e51933867806ec6",
+        "hostname": "console-ti-acc.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "503",
+            "tech": "hsts",
+            "title": "503_Service_Temporarily_Unavailable"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://console-ti-dev.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-22ec9ec6c644353d45564c769a372713",
+        "hostname": "console-ti-dev.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "503",
+            "tech": "hsts",
+            "title": "503_Service_Temporarily_Unavailable"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://console-ti.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-5e1ffb1ff0571aa3c6e484fdd064683b",
+        "hostname": "console-ti.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "503",
+            "tech": "hsts",
+            "title": "503_Service_Temporarily_Unavailable"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cours.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-4a6e9b0cbcd3be5528ea9ddf1a684301",
+        "hostname": "cours.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cours.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-ae98212bb1e8f499932c5c5a38d83678",
+        "hostname": "cours.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://cumulus.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-5fad4bca8b8f2758aad0674cc8c38d7f",
+        "hostname": "cumulus.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://curio.ca.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-6958621a681e897c159dd0efa860e676",
+        "hostname": "curio.ca.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://curio.ca.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-3ad576345793e5332ca0925e4f159739",
+        "hostname": "curio.ca.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://decisions.ville.quebec.qc.ca:443/",
+        "_rev": "4-5b8c19068c86734e891238d98cbd9abb",
+        "hostname": "decisions.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "bootstrap:3.3.7",
+                "hsts",
+                "typekit"
+            ],
+            "title": "GPD_\u2013_Documents_d\u00e9cisionnels"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://dev-ge.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-efd83c20b5d3b7fefcbc27075501bf8f",
+        "hostname": "dev-ge.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://dossieranimal.ville.quebec.qc.ca:443/",
+        "_rev": "4-3404eb47276466261822450c7f341f17",
+        "hostname": "dossieranimal.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "nginx",
+                "hsts"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ecoute-spciq.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-433b7511f0046a9fb46665e646068874",
+        "hostname": "ecoute-spciq.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://english.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-8e8cc5565b138cad7aec26078d89444e",
+        "hostname": "english.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://enqueteodregionquebec.cmquebec.qc.ca:443/",
+        "_rev": "4-0529fa37d0b9479982bc8490ae5768aa",
+        "hostname": "enqueteodregionquebec.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "hsts",
+                "microsoft_asp.net",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://enterpriseenrollment.ville.quebec.qc.ca:443/",
+        "_rev": "4-c9101d4da9b9b3e2b476ef2a6352852a",
+        "hostname": "enterpriseenrollment.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "azure_front_door",
+                "azure",
+                "hsts"
+            ],
+            "title": "Microsoft_Intune_admin_center"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://enterpriseregistration.ville.quebec.qc.ca:443/",
+        "_rev": "5-d102fa46b70dbdffe5915b49520d421f",
+        "hostname": "enterpriseregistration.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-a5cd9bdb2cea18db4529d579487e7529",
+        "hostname": "ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-a069685d12629cfba080294265ead2e4",
+        "hostname": "ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://fournisseurs.ville.quebec.qc.ca:443/",
+        "_rev": "5-583c0aa75e31932036965bc1a4ce0f89",
+        "hostname": "fournisseurs.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "title": "E_Business_Suite_Home_Page_Redirect"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://french.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-165f0814c112caa508f939123f6318e8",
+        "hostname": "french.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://games.mazaam.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-f1242643371e0549905895af97548872",
+        "hostname": "games.mazaam.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://games.mazaam.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-dfb2ccd20d737fcdeef14ab7628f8ce9",
+        "hostname": "games.mazaam.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://gdcm.ville.quebec.qc.ca:443/",
+        "_rev": "5-d98b2827cb77bc9259e1b15f8d768b81",
+        "hostname": "gdcm.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net:4.0.30319",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "GDCM___Gestion_des_consentements_municipaux"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ge.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-4e945791f9edaca4dda4b9095d0832f6",
+        "hostname": "ge.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://german.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-ca56d3d69cb002855e87e93f1f5755c8",
+        "hostname": "german.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://gpddocs-dev.ville.quebec.qc.ca:443/",
+        "_rev": "4-5bc1253aff0454c855fccece70b7572f",
+        "hostname": "gpddocs-dev.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "400",
+            "tech": [
+                "azure_front_door",
+                "azure"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://gpddocs.ville.quebec.qc.ca:443/",
+        "_rev": "4-0f7bf25436fd61fd4516cc149212de5b",
+        "hostname": "gpddocs.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "400",
+            "tech": [
+                "azure_front_door",
+                "azure"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://hydroweb.ville.quebec.qc.ca:443/",
+        "_rev": "4-dfb3e17e4023655a899db31157f12aff",
+        "hostname": "hydroweb.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "215",
+            "tech": "nginx:1.22.1",
+            "title": "Hydroweb"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://icd-acc.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-5aa6bb1b06c4d1536b4de432c5712755",
+        "hostname": "icd-acc.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Redirecting"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://icd-dev.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-4f49d2bdc5511fe7f6cadbd0ee4db9a7",
+        "hostname": "icd-dev.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://icd-formation.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-565d5a65bd0b9d80e8ef1ae1cccd3219",
+        "hostname": "icd-formation.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://icd.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-63bb86c4d935c51c28fd14cdca8d7662",
+        "hostname": "icd.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://identite.ville.quebec.qc.ca:443/",
+        "_rev": "4-800b1a72e978b40b909c499707ca7715",
+        "hostname": "identite.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "503",
+            "tech": [
+                "iis:10.0",
+                "hsts",
+                "typekit",
+                "windows_server"
+            ],
+            "title": "Ville_de_Qu\u00e9bec___Site_officiel_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://images.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-9dc826154b17ed99ab14f5aaab4c5b37",
+        "hostname": "images.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://images.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-d6f487988303913566e43e58ad898c49",
+        "hostname": "images.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://imagespatrimoine.ville.quebec.qc.ca:443/",
+        "_rev": "4-e90cc721338b288b96543ab93625184a",
+        "hostname": "imagespatrimoine.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403___Forbidden:_Access_is_denied."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://institutcanadien.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-e75c42bae5410b0d4b03d1899134cb46",
+        "hostname": "institutcanadien.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://institutcanadien.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-ac0614a2c75905c4f7c8bf89d71286c6",
+        "hostname": "institutcanadien.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://institutcanadien.naxosvideolibrary.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-5baa76bf5a0ed1022a0d4e19bff20ef7",
+        "hostname": "institutcanadien.naxosvideolibrary.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://institutcanadien.naxosvideolibrary.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-8c353674198577f9f8bd45b22d48cc5a",
+        "hostname": "institutcanadien.naxosvideolibrary.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://institutcanadien.nml3.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-6d86006ed655cc351d88c9a12d19a846",
+        "hostname": "institutcanadien.nml3.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://institutcanadien.nml3.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-1c235da1b8f8cb37b1da5f9d66fe60c6",
+        "hostname": "institutcanadien.nml3.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://intranet.cmquebec.qc.ca:443/",
+        "_rev": "4-b45529bb6c2374e1ca1c9377c606938e",
+        "hostname": "intranet.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "apache_http_server",
+                "mysql",
+                "php",
+                "wordpress"
+            ],
+            "title": "Communaut\u00e9_m\u00e9tropolitaine_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://inventaire.ville.quebec.qc.ca:443/",
+        "_rev": "5-a035a31f47932b34a8ddc827ab02d476",
+        "hostname": "inventaire.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "apache_http_server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ip.vodeclic.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-6a801ddf6232b51ebc6c687b293e10b7",
+        "hostname": "ip.vodeclic.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ip.vodeclic.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-cf8c950a537912e444dfe4b6ef59f57e",
+        "hostname": "ip.vodeclic.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://jeux.mazaam.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-76e03da29cfa2cacd4c2cfe561ecd49e",
+        "hostname": "jeux.mazaam.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://jeux.mazaam.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-a5f165d032b55c3ff61a6d84c106881c",
+        "hostname": "jeux.mazaam.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://login.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-403cd25bc34d4f0d76057f8a6606aab5",
+        "hostname": "login.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://loisirs-organismes.ville.quebec.qc.ca:443/",
+        "_rev": "4-ded471d7d2591a039d11d8e2ade69e55",
+        "hostname": "loisirs-organismes.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Ville_de_Qu\u00e9bec___Site_officiel_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://loisirs-paiement.ville.quebec.qc.ca:443/",
+        "_rev": "5-762198a5a32d8fd891501d2412be3033",
+        "hostname": "loisirs-paiement.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Ville_de_Qu\u00e9bec___Site_officiel_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://loisirs.ville.quebec.qc.ca:443/",
+        "_rev": "4-d947c33724eb254ea52bf23dc875dec3",
+        "hostname": "loisirs.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "google_tag_manager",
+                "microsoft_asp.net"
+            ],
+            "title": "Activit\u00e9s_de_loisir"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://maintenance.ville.quebec.qc.ca:443/",
+        "_rev": "4-2b6502e57e8cb9a99a780ecc6cee7378",
+        "hostname": "maintenance.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Ville_de_Qu\u00e9bec___Site_officiel_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://maximoeam-acc.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-db8286a401c1245700cc6c5c6fc3c0ed",
+        "hostname": "maximoeam-acc.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://maximoeam-dev.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-2d5190eb4604a3674ce104d02f60bc1c",
+        "hostname": "maximoeam-dev.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://maximoeam-formation.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-89f663654793de389998e3198aa37e8a",
+        "hostname": "maximoeam-formation.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Redirecting"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://maximoeam-rapport.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-5b1a03ad3691271b2de315d11ad5cf73",
+        "hostname": "maximoeam-rapport.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Redirecting"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://maximoeam.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-60c2f45141fafdf424a4cb59fcd1cd8a",
+        "hostname": "maximoeam.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Sign_in_to_your_account"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://mbg.ville.quebec.qc.ca:443/",
+        "_rev": "4-bf1bad376cc64ef7ec48e1e4e0a0b0a4",
+        "hostname": "mbg.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "apache_http_server"
+            ],
+            "title": "Redirecting..."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://messaveurs.cmquebec.qc.ca:443/",
+        "_rev": "4-110d34c3ca0a4ada194d673ba88a3e99",
+        "hostname": "messaveurs.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404",
+            "tech": [
+                "microsoft_httpapi:2.0",
+                "hsts"
+            ],
+            "title": "Not_Found"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://micollab.ville.quebec.qc.ca:443/",
+        "_rev": "4-6e050499f51fcb2fe87b8d805d497d97",
+        "hostname": "micollab.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "apache_http_server"
+            ],
+            "title": "Redirecting..."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://midi.ville.quebec.qc.ca:443/",
+        "_rev": "4-b1d34340750de319c970f1aa0d498dcf",
+        "hostname": "midi.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net:4.0.30319",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "MIDI"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://monitoring.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-c25b02bbd5cc73061e3856d037dbdfdc",
+        "hostname": "monitoring.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://myrxtx.ca.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-fe289db7c4b8c98c7355014fc24c66e3",
+        "hostname": "myrxtx.ca.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://myrxtx.ca.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-0d158d9619b8e38377a9bd542792c22d",
+        "hostname": "myrxtx.ca.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://nouveau.eureka.cc.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-ab340aa77c5cc40fd1c6b191d3526ec6",
+        "hostname": "nouveau.eureka.cc.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://nouveau.eureka.cc.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-1ddbf4f4343be4922a75c5b2adbe3ceb",
+        "hostname": "nouveau.eureka.cc.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://partenaires.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-2b18db4661f1febb3403f9bb4eff2cdc",
+        "hostname": "partenaires.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403___Forbidden:_Access_is_denied."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://partenaires.ville.quebec.qc.ca:443/",
+        "_rev": "4-6b14e3cad77c3643e59d9b00d924eb7a",
+        "hostname": "partenaires.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net:4.0.30319",
+                "iis:10.0",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://participationcitoyenne.ville.quebec.qc.ca:443/",
+        "_rev": "5-2c40be3f30d67117db9349723ce5c4ea",
+        "hostname": "participationcitoyenne.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Participation_citoyenne___Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://pdidev.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-35a9848ef54f305ca7c0cd7789530144",
+        "hostname": "pdidev.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404",
+            "title": "404_Not_Found"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://portail.cmquebec.qc.ca:443/",
+        "_rev": "5-81736bba938d04972f885cd02e2a6a84",
+        "hostname": "portail.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "401",
+            "tech": [
+                "hsts",
+                "basic",
+                "iis:10.0",
+                "microsoft_asp.net",
+                "windows_server"
+            ],
+            "title": "401___Unauthorized:_Access_is_denied_due_to_invalid_credentials."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://portailemploye.ville.quebec.qc.ca:443/",
+        "_rev": "4-a4069530467507455ceb1b03511a9114",
+        "hostname": "portailemploye.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "IIS_Windows_Server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://portailvip-rec.ville.quebec.qc.ca:443/",
+        "_rev": "5-c43983565c2fe308779407a62c2fd46e",
+        "hostname": "portailvip-rec.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "hsts"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://portailvip-recpreprod.ville.quebec.qc.ca:443/",
+        "_rev": "4-958f4869b8e4cc79ae4ac8f867601011",
+        "hostname": "portailvip-recpreprod.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "hsts"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://portuguese.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-92747f237978cf9aed786ec30dbf2e8d",
+        "hostname": "portuguese.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://premiereovation.com:443/",
+        "_rev": "5-3aa5026d371d1d5c16e50be12daf7587",
+        "hostname": "premiereovation.com",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "google_tag_manager",
+                "microsoft_asp.net:4.0.30319",
+                "windows_server"
+            ],
+            "title": "Premi\u00e8re_Ovation_\u2013_Accueil"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://recrutement.ville.quebec.qc.ca:443/",
+        "_rev": "4-9823641e6a8493d4e6719fb032702aef",
+        "hostname": "recrutement.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "hsts"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://reglements.ville.quebec.qc.ca:443/",
+        "_rev": "4-7801137f505d3325315906f52d7aaa2d",
+        "hostname": "reglements.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "google_tag_manager",
+            "title": "Portail_des_r\u00e8glements_municipaux_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://rel-www.ville.quebec.qc.ca:443/",
+        "_rev": "4-7b5242b56b6b439385d5d8325f3610a4",
+        "hostname": "rel-www.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404",
+            "tech": "microsoft_httpapi:2.0",
+            "title": "Not_Found"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://repere2.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-5fd5b4262d0ec1d84f57e1039761f1bd",
+        "hostname": "repere2.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://repere2.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-ed0de2e246ae73e42954b4fb15987d01",
+        "hostname": "repere2.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://repere4.sdmliaisons.org.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-720cb8428c2eea5d9377d25464baf953",
+        "hostname": "repere4.sdmliaisons.org.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://repere4.sdmliaisons.org.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-8dcbd635c7ddd2afe81502d0f0d06145",
+        "hostname": "repere4.sdmliaisons.org.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-alarmes-acc.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-31ed7dfcd14403421b30552530d1c020",
+        "hostname": "service-alarmes-acc.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-alarmes-dev.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-60844bb32f66f83b3c492828b9107422",
+        "hostname": "service-alarmes-dev.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-alarmes.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-41489090c5afb3149fb4eafcf0776bfe",
+        "hostname": "service-alarmes.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-configuration-acc.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-d4dd65ebc56d8e30c23e67fedbb5459a",
+        "hostname": "service-configuration-acc.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-configuration-dev.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-b78d33fb362ca0e5a1d16c728c7ad49b",
+        "hostname": "service-configuration-dev.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-configuration.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-b1cdcd28c682aca7279cf7e0cbbd74df",
+        "hostname": "service-configuration.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-declencheur-acc.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-77817cd83fd2590b340082b6f1b4e537",
+        "hostname": "service-declencheur-acc.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-declencheur-dev.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-3de68d6bd1328c0dc80d42e1210b804c",
+        "hostname": "service-declencheur-dev.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-declencheur.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-1001540a7505c7313c1c472d409771e4",
+        "hostname": "service-declencheur.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-etatequipement-acc.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-2a51d5564f39e0c2ea33c99fec645f9b",
+        "hostname": "service-etatequipement-acc.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-etatequipement-dev.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-bc6b5e81ca3bddacda91b8fe82534968",
+        "hostname": "service-etatequipement-dev.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-etatequipement.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-1470f9f6ea35383b27f47affc5bb1aa7",
+        "hostname": "service-etatequipement.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-infoequipement-acc.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-ba241712fb08d8b85ba618f65a058f0c",
+        "hostname": "service-infoequipement-acc.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-infoequipement-dev.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-dfe46ad0a208f700deb137af261a0956",
+        "hostname": "service-infoequipement-dev.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-infoequipement.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-ee252a87b5cb2f72159ca42d885e41d0",
+        "hostname": "service-infoequipement.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-interventions-acc.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-41cd286a6bf78f5e8768b136327a5e43",
+        "hostname": "service-interventions-acc.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-interventions-dev.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-8e2677db781f541b3efb3196c559e787",
+        "hostname": "service-interventions-dev.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-interventions.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-2fdab85fb2b08e981b1933355362d54a",
+        "hostname": "service-interventions.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-preemption-acc.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "4-d86d249c5131b6572d5ab8e0b0025d6c",
+        "hostname": "service-preemption-acc.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "503",
+            "tech": "hsts",
+            "title": "503_Service_Temporarily_Unavailable"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-preemption-dev.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-ee82ca390f311daf8fa16b908f783f5c",
+        "hostname": "service-preemption-dev.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://service-preemption.ga.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-5effbcb23ac05239e34352ea5c8afaac",
+        "hostname": "service-preemption.ga.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "403",
+            "tech": "hsts",
+            "title": "403_Forbidden"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://services.sesame2011.ville.quebec.qc.ca:443/",
+        "_rev": "4-f4c44ebcf6bc2b84173e1959d1de286d",
+        "hostname": "services.sesame2011.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404",
+            "tech": "microsoft_httpapi:2.0",
+            "title": "Not_Found"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://services.ville.quebec.qc.ca:443/",
+        "_rev": "4-c7e3cf2e685f377b58123c536db248bd",
+        "hostname": "services.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "403",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "403___Forbidden:_Access_is_denied."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://servicessesame.ville.quebec.qc.ca:443/",
+        "_rev": "4-10933610eeb6cfaf5abf1f7c07353dad",
+        "hostname": "servicessesame.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://servicessesameacc.ville.quebec.qc.ca:443/",
+        "_rev": "4-61eb564997f7b88726d96c42a5615f58",
+        "hostname": "servicessesameacc.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://sig.cmquebec.qc.ca:443/",
+        "_rev": "4-c288badeb419924f46760a5d94081044",
+        "hostname": "sig.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404",
+            "tech": [
+                "microsoft_httpapi:2.0",
+                "hsts"
+            ],
+            "title": "Not_Found"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://soutien-scolaire.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-8ceef2a02dcf91347769f477964aa845",
+        "hostname": "soutien-scolaire.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://spanish.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-6716415f0bd05926b64639b740eb43ee",
+        "hostname": "spanish.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ssl.eureka.cc.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-cb9a1c6698eb726f5e650a42b6a8b468",
+        "hostname": "ssl.eureka.cc.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ssl.eureka.cc.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-440b1fca0eb58dd96d1e52e5e669bfe4",
+        "hostname": "ssl.eureka.cc.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://sts.ville.quebec.qc.ca:443/",
+        "_rev": "5-abda86e780b980ecb97c42929a11e54d",
+        "hostname": "sts.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "404",
+            "tech": "microsoft_httpapi:2.0",
+            "title": "Not_Found"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://suivimeteo.ville.quebec.qc.ca:443/",
+        "_rev": "4-b321623129cb85804260645642e6d39c",
+        "hostname": "suivimeteo.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "microsoft_asp.net",
+                "iis:10.0",
+                "windows_server"
+            ],
+            "title": "IIS_Windows_Server"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://syrano.demarque.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-90bd68b4287206a0e379fef7e6704668",
+        "hostname": "syrano.demarque.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://syrano.demarque.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-c09f1e05e665cf9ac71038b7e66e3227",
+        "hostname": "syrano.demarque.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://tapiro.taptouche.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-450c12f2880e5c58929a63a26424d8ec",
+        "hostname": "tapiro.taptouche.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://tapiro.taptouche.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-9ab63cdb6c2fd2ac9575182fe00f485a",
+        "hostname": "tapiro.taptouche.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://taxes.ville.quebec.qc.ca:443/",
+        "_rev": "5-40c9d02ae32c99bb9ce4087fd55c87ae",
+        "hostname": "taxes.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "apache_http_server"
+            ],
+            "title": "Qu\ufffdbec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://test-ecoute-spciq.app.ville.quebec.qc.ca:443/",
+        "_rev": "5-159a45adbc3fcc30ec090dedfceae665",
+        "hostname": "test-ecoute-spciq.app.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Redirecting"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://testssl.ville.quebec.qc.ca:443/",
+        "_rev": "5-170e5e77a8d422a80e9af39bbfd6cae1",
+        "hostname": "testssl.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "404",
+            "tech": "bootstrap:5.2.3",
+            "title": "Azure_Static_Web_Apps___404:_Not_found"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://tomplay.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-6924eb5e2bbee9c983efe44e3087d7e1",
+        "hostname": "tomplay.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://tomplay.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-cda38babc480861eaadedce55ed34d29",
+        "hostname": "tomplay.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://vdi.ville.quebec.qc.ca:443/",
+        "_rev": "5-e538be8862cb18dc4078112e869a72f4",
+        "hostname": "vdi.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "java",
+                "hsts"
+            ],
+            "title": "VMware_Horizon"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://ville.quebec.qc.ca:443/",
+        "_rev": "4-b8f9c6e44493c5706289399a13e36f71",
+        "hostname": "ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "google_tag_manager",
+                "microsoft_asp.net"
+            ],
+            "title": "Ville_de_Qu\u00e9bec___Site_officiel_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://vplus-api.ville.quebec.qc.ca:443/",
+        "_rev": "5-3309bef70fad422a940b51a393d0d697",
+        "hostname": "vplus-api.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "404",
+            "tech": [
+                "hsts",
+                "application_request_routing:3.0",
+                "iis",
+                "microsoft_httpapi:2.0"
+            ],
+            "title": "Error"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://vplus.ville.quebec.qc.ca:443/",
+        "_rev": "4-89bd5a4b21440295f55d91cf1a6dc8eb",
+        "hostname": "vplus.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "react",
+                "hsts"
+            ],
+            "title": "Portail_citoyen"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://vpn.ville.quebec.qc.ca:443/",
+        "_rev": "4-48491f9afa6f8e1687221fb151566c73",
+        "hostname": "vpn.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Portail_d'acc\u00e8s_s\u00e9curis\u00e9_de_la_Ville_de_Qu\u00e9bec_<br><br><font_size=\"2\"_color=\"#000080\">_Si_vous_\u00e9prouvez_des_difficult\u00e9s_de_connexion,_veuillez_contacter_l'assistance_TI.<br><br>Diff\u00e9rentes_options_s'offrent_\u00e0_vous_:<br><br>Par_t\u00e9l\u00e9phone_pour_joindre_le_6410_:<br>418_641_6410<br>1_833_407_0971_(num\u00e9ro_sans_frais_pour_les_appels_en_provenance_de_l\u2019Am\u00e9rique_du_Nord<br><br>Par_<a_href=\"https://direct.lc.chat/7935311/14\">_<FONT_COLOR=\"#0000FF\">messagerie_instantan\u00e9e</a><br><br><font_size=\"2\"_color=\"#000080\">Par_courriel_:<br>_<a_href=\"mailto:6410@ville.quebec.qc.ca\"></a>_<FONT_COLOR=\"#0000FF\">_6410@ville.quebec.qc.ca<font_color=\"#000080\">_(SVP_ne_pas_oublier_d\u2019y_indiquer_un_num\u00e9ro_de_t\u00e9l\u00e9phone_pour_vous_rejoindre_facilement)</font>"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://vpnagence.ville.quebec.qc.ca:443/",
+        "_rev": "5-03241de12b25b4bbf0ca9c88a9bdb5c7",
+        "hostname": "vpnagence.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "Portail_d'acc\u00e8s_s\u00e9curis\u00e9_de_l'Agence_Ville_de_Qu\u00e9bec_<br><br><font_size=\"2\"_color=\"#000080\">_Si_vous_\u00e9prouvez_des_difficult\u00e9s_de_connexion,_veuillez_contacter_l'assistance_TI.<br><br>Diff\u00e9rentes_options_s'offrent_\u00e0_vous_:<br><br>Par_t\u00e9l\u00e9phone_pour_joindre_le_6410_:<br>418_641_6410<br>1_833_407_0971_(num\u00e9ro_sans_frais_pour_les_appels_en_provenance_de_l\u2019Am\u00e9rique_du_Nord<br><br>Par_<a_href=\"https://direct.lc.chat/7935311/14\">_<FONT_COLOR=\"#0000FF\">messagerie_instantan\u00e9e</a><br><br><font_size=\"2\"_color=\"#000080\">Par_courriel_:<br>_<a_href=\"mailto:6410@ville.quebec.qc.ca\"></a>_<FONT_COLOR=\"#0000FF\">_6410@ville.quebec.qc.ca<font_color=\"#000080\">_(SVP_ne_pas_oublier_d\u2019y_indiquer_un_num\u00e9ro_de_t\u00e9l\u00e9phone_pour_vous_rejoindre_facilement)</font>"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.atlasstat.cmquebec.qc.ca:443/",
+        "_rev": "4-7695ea0439b6e26357e66ccda162d397",
+        "hostname": "www.atlasstat.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "hsts",
+                "microsoft_asp.net",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.batirensemble.cmquebec.qc.ca:443/",
+        "_rev": "4-31cad1349db420c27ab2276a810d8db3",
+        "hostname": "www.batirensemble.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "hsts",
+            "title": "B\u00e2tir_ensemble"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-57cea05bd3b8cae5b824cef98cb31b62",
+        "hostname": "www.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "google_tag_manager",
+                "microsoft_asp.net:4.0.30319",
+                "windows_server"
+            ],
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec_\u2013_D\u00e9couvrir._Se_divertir._R\u00eaver.___Biblioth\u00e8ques_de_la_ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.cmquebec.qc.ca:443/",
+        "_rev": "4-212acc42474ea7fbf7d55ba799265550",
+        "hostname": "www.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "apache_http_server",
+                "mysql",
+                "php",
+                "wordpress"
+            ],
+            "title": "Communaut\u00e9_m\u00e9tropolitaine_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.e-therapeutics.ca.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-b27fc59bb6b93a0801ffc924e408ff69",
+        "hostname": "www.e-therapeutics.ca.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.e-therapeutics.ca.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-9b9de6cf65d7c0935b979da015b5b4a2",
+        "hostname": "www.e-therapeutics.ca.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.enqueteodregionquebec.cmquebec.qc.ca:443/",
+        "_rev": "4-5835a5fdfcc4f583c6e9b573d881971e",
+        "hostname": "www.enqueteodregionquebec.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "hsts",
+                "microsoft_asp.net",
+                "windows_server"
+            ]
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.genealogiequebec.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-3f2f4e20f6c42184fdfdd9ebbacecf1a",
+        "hostname": "www.genealogiequebec.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.genealogiequebec.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-b2b5262f77be0eb658c4550ff591d35a",
+        "hostname": "www.genealogiequebec.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.intranet.cmquebec.qc.ca:443/",
+        "_rev": "4-ee3628531d8bea75812d6805fe8c5821",
+        "hostname": "www.intranet.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "google_tag_manager",
+                "apache_http_server",
+                "mysql",
+                "php",
+                "wordpress"
+            ],
+            "title": "Communaut\u00e9_m\u00e9tropolitaine_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.mesaieux.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-e592781af83eff14be67c7abf11028fe",
+        "hostname": "www.mesaieux.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.mesaieux.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "5-85fe5dfbfc4fa2a3bce708b75f9ddae7",
+        "hostname": "www.mesaieux.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.messaveurs.cmquebec.qc.ca:443/",
+        "_rev": "4-499cf6393f62cb3bf01b1ec1b5ccc086",
+        "hostname": "www.messaveurs.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "404",
+            "tech": [
+                "microsoft_httpapi:2.0",
+                "hsts"
+            ],
+            "title": "Not_Found"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.portail.cmquebec.qc.ca:443/",
+        "_rev": "5-155db6c71b60597bbe28055427c6f230",
+        "hostname": "www.portail.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "401",
+            "tech": [
+                "hsts",
+                "basic",
+                "iis:10.0",
+                "microsoft_asp.net",
+                "windows_server"
+            ],
+            "title": "401___Unauthorized:_Access_is_denied_due_to_invalid_credentials."
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.premiereovation.com:443/",
+        "_rev": "5-1f73e7571759085c3f7a708ac9311a38",
+        "hostname": "www.premiereovation.com",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "google_tag_manager",
+                "microsoft_asp.net:4.0.30319",
+                "windows_server"
+            ],
+            "title": "Premi\u00e8re_Ovation_\u2013_Accueil"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.pressreader.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-ee7e908fe59e75a7ef233d19c2d80337",
+        "hostname": "www.pressreader.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.pressreader.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-c44edd158c49ef9131f98500aba7d56c",
+        "hostname": "www.pressreader.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.sig.cmquebec.qc.ca:443/",
+        "_rev": "4-4940dbefd4e2675dc64d4405b254bc4d",
+        "hostname": "www.sig.cmquebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "iis:10.0",
+                "hsts",
+                "microsoft_asp.net",
+                "windows_server"
+            ],
+            "title": "IIS_Windows_Server_Lyre"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.universalis-edu.com.ezdev.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-83291345fd250b5d386afe2056448ef8",
+        "hostname": "www.universalis-edu.com.ezdev.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.universalis-edu.com.ezproxy.bibliothequedequebec.qc.ca:443/",
+        "_rev": "4-712db71933361fb4bedbbed657ccd916",
+        "hostname": "www.universalis-edu.com.ezproxy.bibliothequedequebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": "ezproxy",
+            "title": "Biblioth\u00e8que_de_Qu\u00e9bec___Astrolabe___Connexion"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://www.ville.quebec.qc.ca:443/",
+        "_rev": "4-dc177537aba8d75a576fa80f2505e490",
+        "hostname": "www.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "never",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "google_tag_manager",
+                "microsoft_asp.net"
+            ],
+            "title": "Ville_de_Qu\u00e9bec___Site_officiel_de_la_Ville_de_Qu\u00e9bec"
+        },
+        "type": "url"
+    },
+    {
+        "_id": "https://zoneemploye.ville.quebec.qc.ca:443/",
+        "_rev": "5-fea5f7ca45fbd56150138e88917b9f52",
+        "hostname": "zoneemploye.ville.quebec.qc.ca",
+        "port": 443,
+        "program": "villedequebec",
+        "query": [],
+        "tags": {
+            "screenshotted_date": "20240614",
+            "status_code": "200",
+            "tech": [
+                "hsts",
+                "bootstrap",
+                "microsoft_asp.net"
+            ],
+            "title": "Zone_RH"
+        },
+        "type": "url"
+    }
+]
