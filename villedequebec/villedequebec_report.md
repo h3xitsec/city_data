@@ -11,7 +11,7 @@
 |Services|89|
 |Ips|109|
 
-*Generated: 2024-06-14 @ 00:22:54*
+*Generated: 2024-06-14 @ 00:28:44*
 
 ## Scope
 
@@ -850,117 +850,117 @@
 <details>
   <summary>IPs</summary>
 
-| IP | Domains |
-|-----|------------|
-| 104.146.230.59 | ['corp.qc.ca']|
-| 104.245.200.145 | ['git.qc.ca']|
-| 108.163.147.52 | ['sv.qc.ca']|
-| 13.107.246.35 | ['gpddocs-dev.ville.quebec.qc.ca', 'accesinfo-docs.ville.quebec.qc.ca', 'gpddocs.ville.quebec.qc.ca']|
-| 15.222.112.81 | ['sip.qc.ca']|
-| 162.159.136.54 | ['sport.qc.ca']|
-| 162.159.137.54 | ['sport.qc.ca']|
-| 192.30.252.153 | ['dd.qc.ca']|
-| 198.168.96.10 | ['pdi.ville.quebec.qc.ca']|
-| 198.168.96.102 | ['inventaire.ville.quebec.qc.ca']|
-| 198.168.96.104 | ['institutcanadien.qc.ca', 'www.institutcanadien.qc.ca']|
-| 198.168.96.123 | ['www.ville.quebec.qc.ca', 'ville.quebec.qc.ca']|
-| 198.168.96.126 | ['fournisseurs.ville.quebec.qc.ca', 'fournisseurs-pprd.ville.quebec.qc.ca', 'fournisseurs-acc.ville.quebec.qc.ca', 'fournisseurs-cnv2.ville.quebec.qc.ca', 'fournisseurs-int.ville.quebec.qc.ca']|
-| 198.168.96.140 | ['imagespatrimoine.ville.quebec.qc.ca', 'www.imagespatrimoine.ville.quebec.qc.ca']|
-| 198.168.96.141 | ['loisirs-dev.ville.quebec.qc.ca']|
-| 198.168.96.145 | ['data.ville.quebec.qc.ca']|
-| 198.168.96.15 | ['services.ville.quebec.qc.ca']|
-| 198.168.96.156 | ['gateway.partenaires.ville.quebec.qc.ca']|
-| 198.168.96.159 | ['sig.cmquebec.qc.ca', 'www.sig.cmquebec.qc.ca', 'aigle.cmquebec.qc.ca', 'cygne.cmquebec.qc.ca', 'lyre.cmquebec.qc.ca', 'atlasstat.cmquebec.qc.ca', 'enqueteodregionquebec.cmquebec.qc.ca', 'portail.cmquebec.qc.ca', 'messaveurs.cmquebec.qc.ca', 'saveursdecheznous.ca', 'www.atlasstat.cmquebec.qc.ca', 'www.enqueteodregionquebec.cmquebec.qc.ca', 'www.messaveurs.cmquebec.qc.ca']|
-| 198.168.96.160 | ['sig.cmquebec.qc.ca', 'www.sig.cmquebec.qc.ca', 'aigle.cmquebec.qc.ca', 'cygne.cmquebec.qc.ca', 'lyre.cmquebec.qc.ca', 'atlasstat.cmquebec.qc.ca', 'enqueteodregionquebec.cmquebec.qc.ca', 'portail.cmquebec.qc.ca', 'messaveurs.cmquebec.qc.ca', 'saveursdecheznous.ca', 'www.atlasstat.cmquebec.qc.ca', 'www.enqueteodregionquebec.cmquebec.qc.ca', 'www.messaveurs.cmquebec.qc.ca']|
-| 198.168.96.161 | ['sig.cmquebec.qc.ca', 'www.sig.cmquebec.qc.ca', 'aigle.cmquebec.qc.ca', 'cygne.cmquebec.qc.ca', 'lyre.cmquebec.qc.ca', 'atlasstat.cmquebec.qc.ca', 'enqueteodregionquebec.cmquebec.qc.ca', 'portail.cmquebec.qc.ca', 'messaveurs.cmquebec.qc.ca', 'saveursdecheznous.ca', 'www.atlasstat.cmquebec.qc.ca', 'www.enqueteodregionquebec.cmquebec.qc.ca', 'www.messaveurs.cmquebec.qc.ca']|
-| 198.168.96.185 | ['av.ville.quebec.qc.ca']|
-| 198.168.96.193 | ['hybrid9.ville.quebec.qc.ca']|
-| 198.168.96.221 | ['bvi.ville.quebec.qc.ca', 'vdi.ville.quebec.qc.ca']|
-| 198.168.96.23 | ['tramwaydequebec.info', 'www.tramwaydequebec.info', 'reseaustructurant.info']|
-| 198.168.96.24 | []|
-| 198.168.96.25 | ['smtp-sortie.ville.quebec.qc.ca']|
-| 198.168.96.26 | ['carte.ville.quebec.qc.ca', 'www.carte.ville.quebec.qc.ca']|
-| 198.168.96.29 | ['ftp.ville.quebec.qc.ca']|
-| 198.168.96.30 | ['preprod-www.ville.quebec.qc.ca']|
-| 198.168.96.33 | ['fs.ville.quebec.qc.ca']|
-| 198.168.96.35 | ['premiereovation.com', 'www.premiereovation.com']|
-| 198.168.96.37 | ['portailvip-rec.ville.quebec.qc.ca', 'www.portailvip-rec.ville.quebec.qc.ca', 'recrutement.ville.quebec.qc.ca', 'portailvip-recpreprod.ville.quebec.qc.ca', 'www.recrutement.ville.quebec.qc.ca']|
-| 198.168.96.43 | ['identite.ville.quebec.qc.ca', 'www.identite.ville.quebec.qc.ca']|
-| 198.168.96.45 | ['reglements.ville.quebec.qc.ca', 'www.reglements.ville.quebec.qc.ca', 'reglements-acc.ville.quebec.qc.ca']|
-| 198.168.96.5 | ['311.ville.quebec.qc.ca']|
-| 198.168.96.52 | ['api.ville.quebec.qc.ca']|
-| 198.168.96.55 | ['apps-externes.ville.quebec.qc.ca']|
-| 198.168.96.6 | ['bvi.ville.quebec.qc.ca', 'vdi.ville.quebec.qc.ca']|
-| 198.168.96.69 | ['smtp-sortant.ville.quebec.qc.ca']|
-| 198.168.96.7 | ['archiveshisto.ville.quebec.qc.ca', 'www.archiveshisto.ville.quebec.qc.ca']|
-| 198.168.96.73 | ['sts.ville.quebec.qc.ca', 'vplus-api.ville.quebec.qc.ca', 'services.sesame2011.ville.quebec.qc.ca']|
-| 198.168.96.74 | ['vplus.ville.quebec.qc.ca', 'www.vplus.ville.quebec.qc.ca', 'vplus-api.ville.quebec.qc.ca']|
-| 198.168.96.76 | ['bibliothequedequebec.qc.ca', 'www.bibliothequedequebec.qc.ca', 'bibliothequesdequebec.qc.ca', 'www.bibliothequesdequebec.qc.ca']|
-| 198.168.96.79 | ['taxes.ville.quebec.qc.ca', 'www.taxes.ville.quebec.qc.ca']|
-| 198.168.96.85 | ['gdcm.ville.quebec.qc.ca', 'preprod-gdcm.ville.quebec.qc.ca']|
-| 198.168.96.86 | ['phototheque.ville.quebec.qc.ca', 'images.quebec-cite.com']|
-| 198.168.96.87 | ['phototheque.ville.quebec.qc.ca', 'images.quebec-cite.com']|
-| 198.168.96.88 | ['echange.ville.quebec.qc.ca']|
-| 198.168.96.9 | ['archeologie.ville.quebec.qc.ca', 'www.archeologie.ville.quebec.qc.ca']|
-| 198.168.96.90 | ['partenaires.ville.quebec.qc.ca', 'partenaires.bibliothequedequebec.qc.ca']|
-| 198.168.96.94 | ['midi.ville.quebec.qc.ca', 'www.midi.ville.quebec.qc.ca']|
-| 198.168.97.115 | ['cours.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'games.mazaam.com.ezproxy.bibliothequedequebec.qc.ca', 'biblioqc.ululab.com.ezproxy.bibliothequedequebec.qc.ca', 'ezproxy.bibliothequedequebec.qc.ca', 'images.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca', 'www.genealogiequebec.com.ezproxy.bibliothequedequebec.qc.ca', 'english.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'ssl.eureka.cc.ezproxy.bibliothequedequebec.qc.ca', 'curio.ca.ezproxy.bibliothequedequebec.qc.ca', 'spanish.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'portuguese.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'repere2.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca', 'assets.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca', 'french.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'repere4.sdmliaisons.org.ezproxy.bibliothequedequebec.qc.ca', 'www.mesaieux.com.ezproxy.bibliothequedequebec.qc.ca', 'www.universalis-edu.com.ezproxy.bibliothequedequebec.qc.ca', 'www.pressreader.com.ezproxy.bibliothequedequebec.qc.ca', 'german.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'tomplay.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'nouveau.eureka.cc.ezproxy.bibliothequedequebec.qc.ca', 'tapiro.taptouche.com.ezproxy.bibliothequedequebec.qc.ca', 'jeux.mazaam.com.ezproxy.bibliothequedequebec.qc.ca', 'www.e-therapeutics.ca.ezproxy.bibliothequedequebec.qc.ca', 'institutcanadien.naxosvideolibrary.com.ezproxy.bibliothequedequebec.qc.ca', 'soutien-scolaire.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'myrxtx.ca.ezproxy.bibliothequedequebec.qc.ca', 'syrano.demarque.com.ezproxy.bibliothequedequebec.qc.ca', 'biblio.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'institutcanadien.nml3.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca', 'ip.vodeclic.com.ezproxy.bibliothequedequebec.qc.ca', 'institutcanadien.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca', 'app.bibliodyssee.com.ezproxy.bibliothequedequebec.qc.ca']|
-| 198.168.97.116 | ['bibliodysseeshelf.pubcoder.com.ezdev.bibliothequedequebec.qc.ca', 'biblioqc.ululab.com.ezdev.bibliothequedequebec.qc.ca', 'institutcanadien.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca', 'tapiro.taptouche.com.ezdev.bibliothequedequebec.qc.ca', 'ssl.eureka.cc.ezdev.bibliothequedequebec.qc.ca', 'app.bibliodyssee.com.ezdev.bibliothequedequebec.qc.ca', 'biblio.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca', 'nouveau.eureka.cc.ezdev.bibliothequedequebec.qc.ca', 'curio.ca.ezdev.bibliothequedequebec.qc.ca', 'www.genealogiequebec.com.ezdev.bibliothequedequebec.qc.ca', 'ezdev.bibliothequedequebec.qc.ca', 'institutcanadien.naxosvideolibrary.com.ezdev.bibliothequedequebec.qc.ca', 'repere2.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca', 'ip.vodeclic.com.ezdev.bibliothequedequebec.qc.ca', 'images.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca', 'institutcanadien.nml3.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca', 'tomplay.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca', 'repere4.sdmliaisons.org.ezdev.bibliothequedequebec.qc.ca', 'myrxtx.ca.ezdev.bibliothequedequebec.qc.ca', 'cours.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca', 'assets.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca', 'syrano.demarque.com.ezdev.bibliothequedequebec.qc.ca', 'login.ezdev.bibliothequedequebec.qc.ca', 'www.universalis-edu.com.ezdev.bibliothequedequebec.qc.ca', 'www.mesaieux.com.ezdev.bibliothequedequebec.qc.ca', 'www.pressreader.com.ezdev.bibliothequedequebec.qc.ca', 'www.e-therapeutics.ca.ezdev.bibliothequedequebec.qc.ca', 'jeux.mazaam.com.ezdev.bibliothequedequebec.qc.ca', 'games.mazaam.com.ezdev.bibliothequedequebec.qc.ca']|
-| 198.168.97.123 | ['ville.quebec.qc.ca', 'www.ville.quebec.qc.ca']|
-| 198.168.97.125 | ['fournisseurs-int.ville.quebec.qc.ca']|
-| 198.168.97.13 | ['vpnagencetest.ville.quebec.qc.ca']|
-| 198.168.97.134 | ['rao-dev.ville.quebec.qc.ca']|
-| 198.168.97.135 | ['nv-form.ville.quebec.qc.ca', 'rao-form.ville.quebec.qc.ca']|
-| 198.168.97.136 | ['nv-essais.ville.quebec.qc.ca', 'rao-essais.ville.quebec.qc.ca']|
-| 198.168.97.137 | ['rao.ville.quebec.qc.ca', 'nv.ville.quebec.qc.ca']|
-| 198.168.97.14 | ['vpn3.ville.quebec.qc.ca']|
-| 198.168.97.143 | ['validation.ville.quebec.qc.ca']|
-| 198.168.97.17 | ['messagerie6410.ville.quebec.qc.ca']|
-| 198.168.97.193 | ['hybrid9.ville.quebec.qc.ca']|
-| 198.168.97.22 | ['awmdm2.ville.quebec.qc.ca']|
-| 198.168.97.221 | ['bvi.ville.quebec.qc.ca', 'vdi.ville.quebec.qc.ca']|
-| 198.168.97.24 | ['awmdm.ville.quebec.qc.ca']|
-| 198.168.97.25 | ['smtpsortieouest.ville.quebec.qc.ca']|
-| 198.168.97.40 | ['rel-www.ville.quebec.qc.ca']|
-| 198.168.97.43 | []|
-| 198.168.97.5 | ['vpn.ville.quebec.qc.ca']|
-| 198.168.97.50 | ['bibliothequedequebec.qc.ca', 'www.bibliothequedequebec.qc.ca', 'bibliothequesdequebec.qc.ca', 'www.bibliothequesdequebec.qc.ca']|
-| 198.168.97.52 | ['messagerie6420.ville.quebec.qc.ca', 'messagerie6410.ville.quebec.qc.ca']|
-| 198.168.97.56 | ['www.hydroweb.ville.quebec.qc.ca', 'hydroweb.ville.quebec.qc.ca']|
-| 198.168.97.6 | ['vpnagence.ville.quebec.qc.ca']|
-| 198.168.97.69 | ['smtp-sortant.ville.quebec.qc.ca']|
-| 198.168.97.7 | ['micollab.ville.quebec.qc.ca', 'mbg.ville.quebec.qc.ca']|
-| 198.168.97.81 | ['ftp3.ville.quebec.qc.ca', 'ftp2.ville.quebec.qc.ca']|
-| 198.168.97.9 | ['vpn2.ville.quebec.qc.ca']|
-| 199.59.243.226 | ['map.qc.ca', 'imail.qc.ca', 'games.qc.ca']|
-| 199.59.247.100 | ['intranet.cmquebec.qc.ca', 'www.cmquebec.qc.ca', 'www.intranet.cmquebec.qc.ca', 'cmquebec.qc.ca']|
-| 20.104.135.86 | ['service-preemption-acc.ga.app.ville.quebec.qc.ca', 'service-alarmes-acc.ga.app.ville.quebec.qc.ca', 'service-configuration-acc.ga.app.ville.quebec.qc.ca', 'service-declencheur-acc.ga.app.ville.quebec.qc.ca', 'service-interventions-acc.ga.app.ville.quebec.qc.ca', 'service-infoequipement-acc.ga.app.ville.quebec.qc.ca', 'service-etatequipement-acc.ga.app.ville.quebec.qc.ca', 'console-ti-acc.ga.app.ville.quebec.qc.ca']|
-| 20.12.97.102 | ['decisions.ville.quebec.qc.ca']|
-| 20.175.151.117 | ['accesinfo.ville.quebec.qc.ca', 'alerte.ville.quebec.qc.ca', 'pdidev.app.ville.quebec.qc.ca', 'blogue.ville.quebec.qc.ca']|
-| 20.220.100.112 | ['service-interventions.ga.app.ville.quebec.qc.ca', 'service-infoequipement.ga.app.ville.quebec.qc.ca', 'service-declencheur.ga.app.ville.quebec.qc.ca', 'console-ti.ga.app.ville.quebec.qc.ca', 'service-configuration.ga.app.ville.quebec.qc.ca', 'service-etatequipement.ga.app.ville.quebec.qc.ca', 'service-preemption.ga.app.ville.quebec.qc.ca', 'service-alarmes.ga.app.ville.quebec.qc.ca']|
-| 20.220.114.25 | ['service-preemption-dev.ga.app.ville.quebec.qc.ca', 'service-configuration-dev.ga.app.ville.quebec.qc.ca', 'service-interventions-dev.ga.app.ville.quebec.qc.ca', 'service-declencheur-dev.ga.app.ville.quebec.qc.ca', 'console-ti-dev.ga.app.ville.quebec.qc.ca', 'service-infoequipement-dev.ga.app.ville.quebec.qc.ca', 'service-alarmes-dev.ga.app.ville.quebec.qc.ca', 'service-etatequipement-dev.ga.app.ville.quebec.qc.ca']|
-| 20.220.242.84 | ['cmgvdq.ville.quebec.qc.ca']|
-| 20.232.173.23 | ['icd.app.ville.quebec.qc.ca', 'maximoeam-formation.app.ville.quebec.qc.ca', 'acc-ge.app.ville.quebec.qc.ca', 'maximoeam-rapport.app.ville.quebec.qc.ca', 'servicessesameacc.ville.quebec.qc.ca', 'icd-formation.app.ville.quebec.qc.ca', 'maximoeam-acc.app.ville.quebec.qc.ca', 'dev-ge.app.ville.quebec.qc.ca', 'ecoute-spciq.app.ville.quebec.qc.ca', 'icd-acc.app.ville.quebec.qc.ca', 'monitoring.app.ville.quebec.qc.ca', 'zoneemploye.ville.quebec.qc.ca', 'ge.app.ville.quebec.qc.ca', 'test-ecoute-spciq.app.ville.quebec.qc.ca', 'maximoeam-dev.app.ville.quebec.qc.ca', 'icd-dev.app.ville.quebec.qc.ca', 'maximoeam.app.ville.quebec.qc.ca', 'servicessesame.ville.quebec.qc.ca']|
-| 20.48.202.168 | ['accesinfo-cms.ville.quebec.qc.ca']|
-| 20.62.72.11 | ['maintenance.ville.quebec.qc.ca']|
-| 20.75.109.112 | ['testssl.ville.quebec.qc.ca']|
-| 20.95.29.9 | ['bvi-cloud.ville.quebec.qc.ca']|
-| 204.101.92.5 | ['pma.qc.ca']|
-| 206.187.24.150 | ['catalogue.bibliothequedequebec.qc.ca']|
-| 216.251.32.98 | ['demo.qc.ca']|
-| 216.40.47.17 | ['job.qc.ca']|
-| 23.236.62.147 | ['pre.qc.ca']|
-| 35.208.26.197 | ['mm.qc.ca']|
-| 40.121.51.80 | ['adfsvdq.ville.quebec.qc.ca']|
-| 40.97.188.8 | ['autodiscover.ville.quebec.qc.ca']|
-| 51.161.122.78 | ['idp.qc.ca']|
-| 52.96.33.88 | ['autodiscover.ville.quebec.qc.ca']|
-| 52.96.69.56 | ['autodiscover.ville.quebec.qc.ca']|
-| 52.96.88.104 | ['autodiscover.ville.quebec.qc.ca']|
-| 54.39.127.81 | ['dossieranimal.ville.quebec.qc.ca']|
-| 64.68.200.48 | ['acces.ville.quebec.qc.ca', 'alertes.ville.quebec.qc.ca', 'loisirs-paiement.ville.quebec.qc.ca', 'taxes.ville.quebec.qc.ca', 'loisirs-organismes.ville.quebec.qc.ca', 'cumulus.app.ville.quebec.qc.ca', 'loisirs.ville.quebec.qc.ca']|
-| 69.49.101.57 | ['prd.qc.ca']|
-| 99.79.156.1 | ['batirensemble.cmquebec.qc.ca', 'participationcitoyenne.ville.quebec.qc.ca', 'www.batirensemble.cmquebec.qc.ca']|
+| IP | Domains | Domains | CDN |
+|-----|------------|-----|-----|
+| 104.146.230.59 | ['corp.qc.ca']|['corp.qc.ca']|false|
+| 104.245.200.145 | ['git.qc.ca']|['git.qc.ca']|false|
+| 108.163.147.52 | ['sv.qc.ca']|['sv.qc.ca']|false|
+| 13.107.246.35 | ['gpddocs-dev.ville.quebec.qc.ca', 'accesinfo-docs.ville.quebec.qc.ca', 'gpddocs.ville.quebec.qc.ca']|['gpddocs-dev.ville.quebec.qc.ca', 'accesinfo-docs.ville.quebec.qc.ca', 'gpddocs.ville.quebec.qc.ca']|false|
+| 15.222.112.81 | ['sip.qc.ca']|['sip.qc.ca']|false|
+| 162.159.136.54 | ['sport.qc.ca']|['sport.qc.ca']|false|
+| 162.159.137.54 | ['sport.qc.ca']|['sport.qc.ca']|false|
+| 192.30.252.153 | ['dd.qc.ca']|['dd.qc.ca']|false|
+| 198.168.96.10 | ['pdi.ville.quebec.qc.ca']|['pdi.ville.quebec.qc.ca']|false|
+| 198.168.96.102 | ['inventaire.ville.quebec.qc.ca']|['inventaire.ville.quebec.qc.ca']|false|
+| 198.168.96.104 | ['institutcanadien.qc.ca', 'www.institutcanadien.qc.ca']|['institutcanadien.qc.ca', 'www.institutcanadien.qc.ca']|false|
+| 198.168.96.123 | ['www.ville.quebec.qc.ca', 'ville.quebec.qc.ca']|['www.ville.quebec.qc.ca', 'ville.quebec.qc.ca']|false|
+| 198.168.96.126 | ['fournisseurs.ville.quebec.qc.ca', 'fournisseurs-pprd.ville.quebec.qc.ca', 'fournisseurs-acc.ville.quebec.qc.ca', 'fournisseurs-cnv2.ville.quebec.qc.ca', 'fournisseurs-int.ville.quebec.qc.ca']|['fournisseurs.ville.quebec.qc.ca', 'fournisseurs-pprd.ville.quebec.qc.ca', 'fournisseurs-acc.ville.quebec.qc.ca', 'fournisseurs-cnv2.ville.quebec.qc.ca', 'fournisseurs-int.ville.quebec.qc.ca']|false|
+| 198.168.96.140 | ['imagespatrimoine.ville.quebec.qc.ca', 'www.imagespatrimoine.ville.quebec.qc.ca']|['imagespatrimoine.ville.quebec.qc.ca', 'www.imagespatrimoine.ville.quebec.qc.ca']|false|
+| 198.168.96.141 | ['loisirs-dev.ville.quebec.qc.ca']|['loisirs-dev.ville.quebec.qc.ca']|false|
+| 198.168.96.145 | ['data.ville.quebec.qc.ca']|['data.ville.quebec.qc.ca']|false|
+| 198.168.96.15 | ['services.ville.quebec.qc.ca']|['services.ville.quebec.qc.ca']|false|
+| 198.168.96.156 | ['gateway.partenaires.ville.quebec.qc.ca']|['gateway.partenaires.ville.quebec.qc.ca']|false|
+| 198.168.96.159 | ['sig.cmquebec.qc.ca', 'www.sig.cmquebec.qc.ca', 'aigle.cmquebec.qc.ca', 'cygne.cmquebec.qc.ca', 'lyre.cmquebec.qc.ca', 'atlasstat.cmquebec.qc.ca', 'enqueteodregionquebec.cmquebec.qc.ca', 'portail.cmquebec.qc.ca', 'messaveurs.cmquebec.qc.ca', 'saveursdecheznous.ca', 'www.atlasstat.cmquebec.qc.ca', 'www.enqueteodregionquebec.cmquebec.qc.ca', 'www.messaveurs.cmquebec.qc.ca']|['sig.cmquebec.qc.ca', 'www.sig.cmquebec.qc.ca', 'aigle.cmquebec.qc.ca', 'cygne.cmquebec.qc.ca', 'lyre.cmquebec.qc.ca', 'atlasstat.cmquebec.qc.ca', 'enqueteodregionquebec.cmquebec.qc.ca', 'portail.cmquebec.qc.ca', 'messaveurs.cmquebec.qc.ca', 'saveursdecheznous.ca', 'www.atlasstat.cmquebec.qc.ca', 'www.enqueteodregionquebec.cmquebec.qc.ca', 'www.messaveurs.cmquebec.qc.ca']|false|
+| 198.168.96.160 | ['sig.cmquebec.qc.ca', 'www.sig.cmquebec.qc.ca', 'aigle.cmquebec.qc.ca', 'cygne.cmquebec.qc.ca', 'lyre.cmquebec.qc.ca', 'atlasstat.cmquebec.qc.ca', 'enqueteodregionquebec.cmquebec.qc.ca', 'portail.cmquebec.qc.ca', 'messaveurs.cmquebec.qc.ca', 'saveursdecheznous.ca', 'www.atlasstat.cmquebec.qc.ca', 'www.enqueteodregionquebec.cmquebec.qc.ca', 'www.messaveurs.cmquebec.qc.ca']|['sig.cmquebec.qc.ca', 'www.sig.cmquebec.qc.ca', 'aigle.cmquebec.qc.ca', 'cygne.cmquebec.qc.ca', 'lyre.cmquebec.qc.ca', 'atlasstat.cmquebec.qc.ca', 'enqueteodregionquebec.cmquebec.qc.ca', 'portail.cmquebec.qc.ca', 'messaveurs.cmquebec.qc.ca', 'saveursdecheznous.ca', 'www.atlasstat.cmquebec.qc.ca', 'www.enqueteodregionquebec.cmquebec.qc.ca', 'www.messaveurs.cmquebec.qc.ca']|false|
+| 198.168.96.161 | ['sig.cmquebec.qc.ca', 'www.sig.cmquebec.qc.ca', 'aigle.cmquebec.qc.ca', 'cygne.cmquebec.qc.ca', 'lyre.cmquebec.qc.ca', 'atlasstat.cmquebec.qc.ca', 'enqueteodregionquebec.cmquebec.qc.ca', 'portail.cmquebec.qc.ca', 'messaveurs.cmquebec.qc.ca', 'saveursdecheznous.ca', 'www.atlasstat.cmquebec.qc.ca', 'www.enqueteodregionquebec.cmquebec.qc.ca', 'www.messaveurs.cmquebec.qc.ca']|['sig.cmquebec.qc.ca', 'www.sig.cmquebec.qc.ca', 'aigle.cmquebec.qc.ca', 'cygne.cmquebec.qc.ca', 'lyre.cmquebec.qc.ca', 'atlasstat.cmquebec.qc.ca', 'enqueteodregionquebec.cmquebec.qc.ca', 'portail.cmquebec.qc.ca', 'messaveurs.cmquebec.qc.ca', 'saveursdecheznous.ca', 'www.atlasstat.cmquebec.qc.ca', 'www.enqueteodregionquebec.cmquebec.qc.ca', 'www.messaveurs.cmquebec.qc.ca']|false|
+| 198.168.96.185 | ['av.ville.quebec.qc.ca']|['av.ville.quebec.qc.ca']|false|
+| 198.168.96.193 | ['hybrid9.ville.quebec.qc.ca']|['hybrid9.ville.quebec.qc.ca']|false|
+| 198.168.96.221 | ['bvi.ville.quebec.qc.ca', 'vdi.ville.quebec.qc.ca']|['bvi.ville.quebec.qc.ca', 'vdi.ville.quebec.qc.ca']|false|
+| 198.168.96.23 | ['tramwaydequebec.info', 'www.tramwaydequebec.info', 'reseaustructurant.info']|['tramwaydequebec.info', 'www.tramwaydequebec.info', 'reseaustructurant.info']|false|
+| 198.168.96.24 | []|[]|false|
+| 198.168.96.25 | ['smtp-sortie.ville.quebec.qc.ca']|['smtp-sortie.ville.quebec.qc.ca']|false|
+| 198.168.96.26 | ['carte.ville.quebec.qc.ca', 'www.carte.ville.quebec.qc.ca']|['carte.ville.quebec.qc.ca', 'www.carte.ville.quebec.qc.ca']|false|
+| 198.168.96.29 | ['ftp.ville.quebec.qc.ca']|['ftp.ville.quebec.qc.ca']|false|
+| 198.168.96.30 | ['preprod-www.ville.quebec.qc.ca']|['preprod-www.ville.quebec.qc.ca']|false|
+| 198.168.96.33 | ['fs.ville.quebec.qc.ca']|['fs.ville.quebec.qc.ca']|false|
+| 198.168.96.35 | ['premiereovation.com', 'www.premiereovation.com']|['premiereovation.com', 'www.premiereovation.com']|false|
+| 198.168.96.37 | ['portailvip-rec.ville.quebec.qc.ca', 'www.portailvip-rec.ville.quebec.qc.ca', 'recrutement.ville.quebec.qc.ca', 'portailvip-recpreprod.ville.quebec.qc.ca', 'www.recrutement.ville.quebec.qc.ca']|['portailvip-rec.ville.quebec.qc.ca', 'www.portailvip-rec.ville.quebec.qc.ca', 'recrutement.ville.quebec.qc.ca', 'portailvip-recpreprod.ville.quebec.qc.ca', 'www.recrutement.ville.quebec.qc.ca']|false|
+| 198.168.96.43 | ['identite.ville.quebec.qc.ca', 'www.identite.ville.quebec.qc.ca']|['identite.ville.quebec.qc.ca', 'www.identite.ville.quebec.qc.ca']|false|
+| 198.168.96.45 | ['reglements.ville.quebec.qc.ca', 'www.reglements.ville.quebec.qc.ca', 'reglements-acc.ville.quebec.qc.ca']|['reglements.ville.quebec.qc.ca', 'www.reglements.ville.quebec.qc.ca', 'reglements-acc.ville.quebec.qc.ca']|false|
+| 198.168.96.5 | ['311.ville.quebec.qc.ca']|['311.ville.quebec.qc.ca']|false|
+| 198.168.96.52 | ['api.ville.quebec.qc.ca']|['api.ville.quebec.qc.ca']|false|
+| 198.168.96.55 | ['apps-externes.ville.quebec.qc.ca']|['apps-externes.ville.quebec.qc.ca']|false|
+| 198.168.96.6 | ['bvi.ville.quebec.qc.ca', 'vdi.ville.quebec.qc.ca']|['bvi.ville.quebec.qc.ca', 'vdi.ville.quebec.qc.ca']|false|
+| 198.168.96.69 | ['smtp-sortant.ville.quebec.qc.ca']|['smtp-sortant.ville.quebec.qc.ca']|false|
+| 198.168.96.7 | ['archiveshisto.ville.quebec.qc.ca', 'www.archiveshisto.ville.quebec.qc.ca']|['archiveshisto.ville.quebec.qc.ca', 'www.archiveshisto.ville.quebec.qc.ca']|false|
+| 198.168.96.73 | ['sts.ville.quebec.qc.ca', 'vplus-api.ville.quebec.qc.ca', 'services.sesame2011.ville.quebec.qc.ca']|['sts.ville.quebec.qc.ca', 'vplus-api.ville.quebec.qc.ca', 'services.sesame2011.ville.quebec.qc.ca']|false|
+| 198.168.96.74 | ['vplus.ville.quebec.qc.ca', 'www.vplus.ville.quebec.qc.ca', 'vplus-api.ville.quebec.qc.ca']|['vplus.ville.quebec.qc.ca', 'www.vplus.ville.quebec.qc.ca', 'vplus-api.ville.quebec.qc.ca']|false|
+| 198.168.96.76 | ['bibliothequedequebec.qc.ca', 'www.bibliothequedequebec.qc.ca', 'bibliothequesdequebec.qc.ca', 'www.bibliothequesdequebec.qc.ca']|['bibliothequedequebec.qc.ca', 'www.bibliothequedequebec.qc.ca', 'bibliothequesdequebec.qc.ca', 'www.bibliothequesdequebec.qc.ca']|false|
+| 198.168.96.79 | ['taxes.ville.quebec.qc.ca', 'www.taxes.ville.quebec.qc.ca']|['taxes.ville.quebec.qc.ca', 'www.taxes.ville.quebec.qc.ca']|false|
+| 198.168.96.85 | ['gdcm.ville.quebec.qc.ca', 'preprod-gdcm.ville.quebec.qc.ca']|['gdcm.ville.quebec.qc.ca', 'preprod-gdcm.ville.quebec.qc.ca']|false|
+| 198.168.96.86 | ['phototheque.ville.quebec.qc.ca', 'images.quebec-cite.com']|['phototheque.ville.quebec.qc.ca', 'images.quebec-cite.com']|false|
+| 198.168.96.87 | ['phototheque.ville.quebec.qc.ca', 'images.quebec-cite.com']|['phototheque.ville.quebec.qc.ca', 'images.quebec-cite.com']|false|
+| 198.168.96.88 | ['echange.ville.quebec.qc.ca']|['echange.ville.quebec.qc.ca']|false|
+| 198.168.96.9 | ['archeologie.ville.quebec.qc.ca', 'www.archeologie.ville.quebec.qc.ca']|['archeologie.ville.quebec.qc.ca', 'www.archeologie.ville.quebec.qc.ca']|false|
+| 198.168.96.90 | ['partenaires.ville.quebec.qc.ca', 'partenaires.bibliothequedequebec.qc.ca']|['partenaires.ville.quebec.qc.ca', 'partenaires.bibliothequedequebec.qc.ca']|false|
+| 198.168.96.94 | ['midi.ville.quebec.qc.ca', 'www.midi.ville.quebec.qc.ca']|['midi.ville.quebec.qc.ca', 'www.midi.ville.quebec.qc.ca']|false|
+| 198.168.97.115 | ['cours.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'games.mazaam.com.ezproxy.bibliothequedequebec.qc.ca', 'biblioqc.ululab.com.ezproxy.bibliothequedequebec.qc.ca', 'ezproxy.bibliothequedequebec.qc.ca', 'images.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca', 'www.genealogiequebec.com.ezproxy.bibliothequedequebec.qc.ca', 'english.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'ssl.eureka.cc.ezproxy.bibliothequedequebec.qc.ca', 'curio.ca.ezproxy.bibliothequedequebec.qc.ca', 'spanish.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'portuguese.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'repere2.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca', 'assets.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca', 'french.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'repere4.sdmliaisons.org.ezproxy.bibliothequedequebec.qc.ca', 'www.mesaieux.com.ezproxy.bibliothequedequebec.qc.ca', 'www.universalis-edu.com.ezproxy.bibliothequedequebec.qc.ca', 'www.pressreader.com.ezproxy.bibliothequedequebec.qc.ca', 'german.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'tomplay.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'nouveau.eureka.cc.ezproxy.bibliothequedequebec.qc.ca', 'tapiro.taptouche.com.ezproxy.bibliothequedequebec.qc.ca', 'jeux.mazaam.com.ezproxy.bibliothequedequebec.qc.ca', 'www.e-therapeutics.ca.ezproxy.bibliothequedequebec.qc.ca', 'institutcanadien.naxosvideolibrary.com.ezproxy.bibliothequedequebec.qc.ca', 'soutien-scolaire.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'myrxtx.ca.ezproxy.bibliothequedequebec.qc.ca', 'syrano.demarque.com.ezproxy.bibliothequedequebec.qc.ca', 'biblio.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'institutcanadien.nml3.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca', 'ip.vodeclic.com.ezproxy.bibliothequedequebec.qc.ca', 'institutcanadien.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca', 'app.bibliodyssee.com.ezproxy.bibliothequedequebec.qc.ca']|['cours.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'games.mazaam.com.ezproxy.bibliothequedequebec.qc.ca', 'biblioqc.ululab.com.ezproxy.bibliothequedequebec.qc.ca', 'ezproxy.bibliothequedequebec.qc.ca', 'images.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca', 'www.genealogiequebec.com.ezproxy.bibliothequedequebec.qc.ca', 'english.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'ssl.eureka.cc.ezproxy.bibliothequedequebec.qc.ca', 'curio.ca.ezproxy.bibliothequedequebec.qc.ca', 'spanish.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'portuguese.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'repere2.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca', 'assets.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca', 'french.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'repere4.sdmliaisons.org.ezproxy.bibliothequedequebec.qc.ca', 'www.mesaieux.com.ezproxy.bibliothequedequebec.qc.ca', 'www.universalis-edu.com.ezproxy.bibliothequedequebec.qc.ca', 'www.pressreader.com.ezproxy.bibliothequedequebec.qc.ca', 'german.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'tomplay.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'nouveau.eureka.cc.ezproxy.bibliothequedequebec.qc.ca', 'tapiro.taptouche.com.ezproxy.bibliothequedequebec.qc.ca', 'jeux.mazaam.com.ezproxy.bibliothequedequebec.qc.ca', 'www.e-therapeutics.ca.ezproxy.bibliothequedequebec.qc.ca', 'institutcanadien.naxosvideolibrary.com.ezproxy.bibliothequedequebec.qc.ca', 'soutien-scolaire.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'myrxtx.ca.ezproxy.bibliothequedequebec.qc.ca', 'syrano.demarque.com.ezproxy.bibliothequedequebec.qc.ca', 'biblio.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca', 'institutcanadien.nml3.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca', 'ip.vodeclic.com.ezproxy.bibliothequedequebec.qc.ca', 'institutcanadien.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca', 'app.bibliodyssee.com.ezproxy.bibliothequedequebec.qc.ca']|false|
+| 198.168.97.116 | ['bibliodysseeshelf.pubcoder.com.ezdev.bibliothequedequebec.qc.ca', 'biblioqc.ululab.com.ezdev.bibliothequedequebec.qc.ca', 'institutcanadien.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca', 'tapiro.taptouche.com.ezdev.bibliothequedequebec.qc.ca', 'ssl.eureka.cc.ezdev.bibliothequedequebec.qc.ca', 'app.bibliodyssee.com.ezdev.bibliothequedequebec.qc.ca', 'biblio.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca', 'nouveau.eureka.cc.ezdev.bibliothequedequebec.qc.ca', 'curio.ca.ezdev.bibliothequedequebec.qc.ca', 'www.genealogiequebec.com.ezdev.bibliothequedequebec.qc.ca', 'ezdev.bibliothequedequebec.qc.ca', 'institutcanadien.naxosvideolibrary.com.ezdev.bibliothequedequebec.qc.ca', 'repere2.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca', 'ip.vodeclic.com.ezdev.bibliothequedequebec.qc.ca', 'images.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca', 'institutcanadien.nml3.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca', 'tomplay.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca', 'repere4.sdmliaisons.org.ezdev.bibliothequedequebec.qc.ca', 'myrxtx.ca.ezdev.bibliothequedequebec.qc.ca', 'cours.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca', 'assets.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca', 'syrano.demarque.com.ezdev.bibliothequedequebec.qc.ca', 'login.ezdev.bibliothequedequebec.qc.ca', 'www.universalis-edu.com.ezdev.bibliothequedequebec.qc.ca', 'www.mesaieux.com.ezdev.bibliothequedequebec.qc.ca', 'www.pressreader.com.ezdev.bibliothequedequebec.qc.ca', 'www.e-therapeutics.ca.ezdev.bibliothequedequebec.qc.ca', 'jeux.mazaam.com.ezdev.bibliothequedequebec.qc.ca', 'games.mazaam.com.ezdev.bibliothequedequebec.qc.ca']|['bibliodysseeshelf.pubcoder.com.ezdev.bibliothequedequebec.qc.ca', 'biblioqc.ululab.com.ezdev.bibliothequedequebec.qc.ca', 'institutcanadien.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca', 'tapiro.taptouche.com.ezdev.bibliothequedequebec.qc.ca', 'ssl.eureka.cc.ezdev.bibliothequedequebec.qc.ca', 'app.bibliodyssee.com.ezdev.bibliothequedequebec.qc.ca', 'biblio.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca', 'nouveau.eureka.cc.ezdev.bibliothequedequebec.qc.ca', 'curio.ca.ezdev.bibliothequedequebec.qc.ca', 'www.genealogiequebec.com.ezdev.bibliothequedequebec.qc.ca', 'ezdev.bibliothequedequebec.qc.ca', 'institutcanadien.naxosvideolibrary.com.ezdev.bibliothequedequebec.qc.ca', 'repere2.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca', 'ip.vodeclic.com.ezdev.bibliothequedequebec.qc.ca', 'images.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca', 'institutcanadien.nml3.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca', 'tomplay.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca', 'repere4.sdmliaisons.org.ezdev.bibliothequedequebec.qc.ca', 'myrxtx.ca.ezdev.bibliothequedequebec.qc.ca', 'cours.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca', 'assets.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca', 'syrano.demarque.com.ezdev.bibliothequedequebec.qc.ca', 'login.ezdev.bibliothequedequebec.qc.ca', 'www.universalis-edu.com.ezdev.bibliothequedequebec.qc.ca', 'www.mesaieux.com.ezdev.bibliothequedequebec.qc.ca', 'www.pressreader.com.ezdev.bibliothequedequebec.qc.ca', 'www.e-therapeutics.ca.ezdev.bibliothequedequebec.qc.ca', 'jeux.mazaam.com.ezdev.bibliothequedequebec.qc.ca', 'games.mazaam.com.ezdev.bibliothequedequebec.qc.ca']|false|
+| 198.168.97.123 | ['ville.quebec.qc.ca', 'www.ville.quebec.qc.ca']|['ville.quebec.qc.ca', 'www.ville.quebec.qc.ca']|false|
+| 198.168.97.125 | ['fournisseurs-int.ville.quebec.qc.ca']|['fournisseurs-int.ville.quebec.qc.ca']|false|
+| 198.168.97.13 | ['vpnagencetest.ville.quebec.qc.ca']|['vpnagencetest.ville.quebec.qc.ca']|false|
+| 198.168.97.134 | ['rao-dev.ville.quebec.qc.ca']|['rao-dev.ville.quebec.qc.ca']|false|
+| 198.168.97.135 | ['nv-form.ville.quebec.qc.ca', 'rao-form.ville.quebec.qc.ca']|['nv-form.ville.quebec.qc.ca', 'rao-form.ville.quebec.qc.ca']|false|
+| 198.168.97.136 | ['nv-essais.ville.quebec.qc.ca', 'rao-essais.ville.quebec.qc.ca']|['nv-essais.ville.quebec.qc.ca', 'rao-essais.ville.quebec.qc.ca']|false|
+| 198.168.97.137 | ['rao.ville.quebec.qc.ca', 'nv.ville.quebec.qc.ca']|['rao.ville.quebec.qc.ca', 'nv.ville.quebec.qc.ca']|false|
+| 198.168.97.14 | ['vpn3.ville.quebec.qc.ca']|['vpn3.ville.quebec.qc.ca']|false|
+| 198.168.97.143 | ['validation.ville.quebec.qc.ca']|['validation.ville.quebec.qc.ca']|false|
+| 198.168.97.17 | ['messagerie6410.ville.quebec.qc.ca']|['messagerie6410.ville.quebec.qc.ca']|false|
+| 198.168.97.193 | ['hybrid9.ville.quebec.qc.ca']|['hybrid9.ville.quebec.qc.ca']|false|
+| 198.168.97.22 | ['awmdm2.ville.quebec.qc.ca']|['awmdm2.ville.quebec.qc.ca']|false|
+| 198.168.97.221 | ['bvi.ville.quebec.qc.ca', 'vdi.ville.quebec.qc.ca']|['bvi.ville.quebec.qc.ca', 'vdi.ville.quebec.qc.ca']|false|
+| 198.168.97.24 | ['awmdm.ville.quebec.qc.ca']|['awmdm.ville.quebec.qc.ca']|false|
+| 198.168.97.25 | ['smtpsortieouest.ville.quebec.qc.ca']|['smtpsortieouest.ville.quebec.qc.ca']|false|
+| 198.168.97.40 | ['rel-www.ville.quebec.qc.ca']|['rel-www.ville.quebec.qc.ca']|false|
+| 198.168.97.43 | []|[]|false|
+| 198.168.97.5 | ['vpn.ville.quebec.qc.ca']|['vpn.ville.quebec.qc.ca']|false|
+| 198.168.97.50 | ['bibliothequedequebec.qc.ca', 'www.bibliothequedequebec.qc.ca', 'bibliothequesdequebec.qc.ca', 'www.bibliothequesdequebec.qc.ca']|['bibliothequedequebec.qc.ca', 'www.bibliothequedequebec.qc.ca', 'bibliothequesdequebec.qc.ca', 'www.bibliothequesdequebec.qc.ca']|false|
+| 198.168.97.52 | ['messagerie6420.ville.quebec.qc.ca', 'messagerie6410.ville.quebec.qc.ca']|['messagerie6420.ville.quebec.qc.ca', 'messagerie6410.ville.quebec.qc.ca']|false|
+| 198.168.97.56 | ['www.hydroweb.ville.quebec.qc.ca', 'hydroweb.ville.quebec.qc.ca']|['www.hydroweb.ville.quebec.qc.ca', 'hydroweb.ville.quebec.qc.ca']|false|
+| 198.168.97.6 | ['vpnagence.ville.quebec.qc.ca']|['vpnagence.ville.quebec.qc.ca']|false|
+| 198.168.97.69 | ['smtp-sortant.ville.quebec.qc.ca']|['smtp-sortant.ville.quebec.qc.ca']|false|
+| 198.168.97.7 | ['micollab.ville.quebec.qc.ca', 'mbg.ville.quebec.qc.ca']|['micollab.ville.quebec.qc.ca', 'mbg.ville.quebec.qc.ca']|false|
+| 198.168.97.81 | ['ftp3.ville.quebec.qc.ca', 'ftp2.ville.quebec.qc.ca']|['ftp3.ville.quebec.qc.ca', 'ftp2.ville.quebec.qc.ca']|false|
+| 198.168.97.9 | ['vpn2.ville.quebec.qc.ca']|['vpn2.ville.quebec.qc.ca']|false|
+| 199.59.243.226 | ['map.qc.ca', 'imail.qc.ca', 'games.qc.ca']|['map.qc.ca', 'imail.qc.ca', 'games.qc.ca']|false|
+| 199.59.247.100 | ['intranet.cmquebec.qc.ca', 'www.cmquebec.qc.ca', 'www.intranet.cmquebec.qc.ca', 'cmquebec.qc.ca']|['intranet.cmquebec.qc.ca', 'www.cmquebec.qc.ca', 'www.intranet.cmquebec.qc.ca', 'cmquebec.qc.ca']|false|
+| 20.104.135.86 | ['service-preemption-acc.ga.app.ville.quebec.qc.ca', 'service-alarmes-acc.ga.app.ville.quebec.qc.ca', 'service-configuration-acc.ga.app.ville.quebec.qc.ca', 'service-declencheur-acc.ga.app.ville.quebec.qc.ca', 'service-interventions-acc.ga.app.ville.quebec.qc.ca', 'service-infoequipement-acc.ga.app.ville.quebec.qc.ca', 'service-etatequipement-acc.ga.app.ville.quebec.qc.ca', 'console-ti-acc.ga.app.ville.quebec.qc.ca']|['service-preemption-acc.ga.app.ville.quebec.qc.ca', 'service-alarmes-acc.ga.app.ville.quebec.qc.ca', 'service-configuration-acc.ga.app.ville.quebec.qc.ca', 'service-declencheur-acc.ga.app.ville.quebec.qc.ca', 'service-interventions-acc.ga.app.ville.quebec.qc.ca', 'service-infoequipement-acc.ga.app.ville.quebec.qc.ca', 'service-etatequipement-acc.ga.app.ville.quebec.qc.ca', 'console-ti-acc.ga.app.ville.quebec.qc.ca']|false|
+| 20.12.97.102 | ['decisions.ville.quebec.qc.ca']|['decisions.ville.quebec.qc.ca']|false|
+| 20.175.151.117 | ['accesinfo.ville.quebec.qc.ca', 'alerte.ville.quebec.qc.ca', 'pdidev.app.ville.quebec.qc.ca', 'blogue.ville.quebec.qc.ca']|['accesinfo.ville.quebec.qc.ca', 'alerte.ville.quebec.qc.ca', 'pdidev.app.ville.quebec.qc.ca', 'blogue.ville.quebec.qc.ca']|false|
+| 20.220.100.112 | ['service-interventions.ga.app.ville.quebec.qc.ca', 'service-infoequipement.ga.app.ville.quebec.qc.ca', 'service-declencheur.ga.app.ville.quebec.qc.ca', 'console-ti.ga.app.ville.quebec.qc.ca', 'service-configuration.ga.app.ville.quebec.qc.ca', 'service-etatequipement.ga.app.ville.quebec.qc.ca', 'service-preemption.ga.app.ville.quebec.qc.ca', 'service-alarmes.ga.app.ville.quebec.qc.ca']|['service-interventions.ga.app.ville.quebec.qc.ca', 'service-infoequipement.ga.app.ville.quebec.qc.ca', 'service-declencheur.ga.app.ville.quebec.qc.ca', 'console-ti.ga.app.ville.quebec.qc.ca', 'service-configuration.ga.app.ville.quebec.qc.ca', 'service-etatequipement.ga.app.ville.quebec.qc.ca', 'service-preemption.ga.app.ville.quebec.qc.ca', 'service-alarmes.ga.app.ville.quebec.qc.ca']|false|
+| 20.220.114.25 | ['service-preemption-dev.ga.app.ville.quebec.qc.ca', 'service-configuration-dev.ga.app.ville.quebec.qc.ca', 'service-interventions-dev.ga.app.ville.quebec.qc.ca', 'service-declencheur-dev.ga.app.ville.quebec.qc.ca', 'console-ti-dev.ga.app.ville.quebec.qc.ca', 'service-infoequipement-dev.ga.app.ville.quebec.qc.ca', 'service-alarmes-dev.ga.app.ville.quebec.qc.ca', 'service-etatequipement-dev.ga.app.ville.quebec.qc.ca']|['service-preemption-dev.ga.app.ville.quebec.qc.ca', 'service-configuration-dev.ga.app.ville.quebec.qc.ca', 'service-interventions-dev.ga.app.ville.quebec.qc.ca', 'service-declencheur-dev.ga.app.ville.quebec.qc.ca', 'console-ti-dev.ga.app.ville.quebec.qc.ca', 'service-infoequipement-dev.ga.app.ville.quebec.qc.ca', 'service-alarmes-dev.ga.app.ville.quebec.qc.ca', 'service-etatequipement-dev.ga.app.ville.quebec.qc.ca']|false|
+| 20.220.242.84 | ['cmgvdq.ville.quebec.qc.ca']|['cmgvdq.ville.quebec.qc.ca']|false|
+| 20.232.173.23 | ['icd.app.ville.quebec.qc.ca', 'maximoeam-formation.app.ville.quebec.qc.ca', 'acc-ge.app.ville.quebec.qc.ca', 'maximoeam-rapport.app.ville.quebec.qc.ca', 'servicessesameacc.ville.quebec.qc.ca', 'icd-formation.app.ville.quebec.qc.ca', 'maximoeam-acc.app.ville.quebec.qc.ca', 'dev-ge.app.ville.quebec.qc.ca', 'ecoute-spciq.app.ville.quebec.qc.ca', 'icd-acc.app.ville.quebec.qc.ca', 'monitoring.app.ville.quebec.qc.ca', 'zoneemploye.ville.quebec.qc.ca', 'ge.app.ville.quebec.qc.ca', 'test-ecoute-spciq.app.ville.quebec.qc.ca', 'maximoeam-dev.app.ville.quebec.qc.ca', 'icd-dev.app.ville.quebec.qc.ca', 'maximoeam.app.ville.quebec.qc.ca', 'servicessesame.ville.quebec.qc.ca']|['icd.app.ville.quebec.qc.ca', 'maximoeam-formation.app.ville.quebec.qc.ca', 'acc-ge.app.ville.quebec.qc.ca', 'maximoeam-rapport.app.ville.quebec.qc.ca', 'servicessesameacc.ville.quebec.qc.ca', 'icd-formation.app.ville.quebec.qc.ca', 'maximoeam-acc.app.ville.quebec.qc.ca', 'dev-ge.app.ville.quebec.qc.ca', 'ecoute-spciq.app.ville.quebec.qc.ca', 'icd-acc.app.ville.quebec.qc.ca', 'monitoring.app.ville.quebec.qc.ca', 'zoneemploye.ville.quebec.qc.ca', 'ge.app.ville.quebec.qc.ca', 'test-ecoute-spciq.app.ville.quebec.qc.ca', 'maximoeam-dev.app.ville.quebec.qc.ca', 'icd-dev.app.ville.quebec.qc.ca', 'maximoeam.app.ville.quebec.qc.ca', 'servicessesame.ville.quebec.qc.ca']|false|
+| 20.48.202.168 | ['accesinfo-cms.ville.quebec.qc.ca']|['accesinfo-cms.ville.quebec.qc.ca']|false|
+| 20.62.72.11 | ['maintenance.ville.quebec.qc.ca']|['maintenance.ville.quebec.qc.ca']|false|
+| 20.75.109.112 | ['testssl.ville.quebec.qc.ca']|['testssl.ville.quebec.qc.ca']|false|
+| 20.95.29.9 | ['bvi-cloud.ville.quebec.qc.ca']|['bvi-cloud.ville.quebec.qc.ca']|false|
+| 204.101.92.5 | ['pma.qc.ca']|['pma.qc.ca']|false|
+| 206.187.24.150 | ['catalogue.bibliothequedequebec.qc.ca']|['catalogue.bibliothequedequebec.qc.ca']|false|
+| 216.251.32.98 | ['demo.qc.ca']|['demo.qc.ca']|false|
+| 216.40.47.17 | ['job.qc.ca']|['job.qc.ca']|false|
+| 23.236.62.147 | ['pre.qc.ca']|['pre.qc.ca']|false|
+| 35.208.26.197 | ['mm.qc.ca']|['mm.qc.ca']|false|
+| 40.121.51.80 | ['adfsvdq.ville.quebec.qc.ca']|['adfsvdq.ville.quebec.qc.ca']|false|
+| 40.97.188.8 | ['autodiscover.ville.quebec.qc.ca']|['autodiscover.ville.quebec.qc.ca']|false|
+| 51.161.122.78 | ['idp.qc.ca']|['idp.qc.ca']|false|
+| 52.96.33.88 | ['autodiscover.ville.quebec.qc.ca']|['autodiscover.ville.quebec.qc.ca']|false|
+| 52.96.69.56 | ['autodiscover.ville.quebec.qc.ca']|['autodiscover.ville.quebec.qc.ca']|false|
+| 52.96.88.104 | ['autodiscover.ville.quebec.qc.ca']|['autodiscover.ville.quebec.qc.ca']|false|
+| 54.39.127.81 | ['dossieranimal.ville.quebec.qc.ca']|['dossieranimal.ville.quebec.qc.ca']|false|
+| 64.68.200.48 | ['acces.ville.quebec.qc.ca', 'alertes.ville.quebec.qc.ca', 'loisirs-paiement.ville.quebec.qc.ca', 'taxes.ville.quebec.qc.ca', 'loisirs-organismes.ville.quebec.qc.ca', 'cumulus.app.ville.quebec.qc.ca', 'loisirs.ville.quebec.qc.ca']|['acces.ville.quebec.qc.ca', 'alertes.ville.quebec.qc.ca', 'loisirs-paiement.ville.quebec.qc.ca', 'taxes.ville.quebec.qc.ca', 'loisirs-organismes.ville.quebec.qc.ca', 'cumulus.app.ville.quebec.qc.ca', 'loisirs.ville.quebec.qc.ca']|false|
+| 69.49.101.57 | ['prd.qc.ca']|['prd.qc.ca']|false|
+| 99.79.156.1 | ['batirensemble.cmquebec.qc.ca', 'participationcitoyenne.ville.quebec.qc.ca', 'www.batirensemble.cmquebec.qc.ca']|['batirensemble.cmquebec.qc.ca', 'participationcitoyenne.ville.quebec.qc.ca', 'www.batirensemble.cmquebec.qc.ca']|false|
 
 </details>
 
