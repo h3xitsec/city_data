@@ -11,7 +11,7 @@
 |Services|89|
 |Ips|109|
 
-*Generated: 2024-06-14 @ 00:42:23*
+*Generated: 2024-06-14 @ 00:43:10*
 
 ## Scope
 
@@ -331,7 +331,7 @@
   <summary>Resolved Domains</summary>
 
 | Domain | Alive | Last HTTP Test | IPs | Found Date |
-|--------|----------|-------|----------------|-----|------------|
+|---------|-------|----------------|-----|------------|
 | zoneemploye.ville.quebec.qc.ca | true | 20240614 | 20.232.173.23 | 20240613 | 
 | www.ville.quebec.qc.ca | true | 20240614 | 198.168.96.123 | 20240613 | 
 | www.universalis-edu.com.ezproxy.bibliothequedequebec.qc.ca | true | 20240614 | 198.168.97.115 | 20240613 | 
