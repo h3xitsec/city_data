@@ -1,7 +1,7 @@
 [
     {
         "_id": "104.245.200.145:110",
-        "_rev": "3-aa848cd576bcffc9ff150a406ab4ee9e",
+        "_rev": "7-90d83c7f82547d79be1b30301e9935d6",
         "ip": "104.245.200.145",
         "port": "110",
         "program": "villedequebec",
@@ -14,7 +14,7 @@
     },
     {
         "_id": "104.245.200.145:143",
-        "_rev": "3-5ea7f7a7e3d0b467bbbfb8894fe97efb",
+        "_rev": "7-ab76f14b359ae6e77a1175b26cec76cb",
         "ip": "104.245.200.145",
         "port": "143",
         "program": "villedequebec",
@@ -27,7 +27,7 @@
     },
     {
         "_id": "104.245.200.145:2082",
-        "_rev": "3-12d7ebb20ee9f0cee4cb9873ae312014",
+        "_rev": "7-d8e93fbf3adfd11077414e014a3e7904",
         "ip": "104.245.200.145",
         "port": "2082",
         "program": "villedequebec",
@@ -40,7 +40,7 @@
     },
     {
         "_id": "104.245.200.145:2083",
-        "_rev": "3-7e4c086ce037a7a58742138692a5bdf5",
+        "_rev": "7-3d5759e4464f545d5fc7c583d245e3b4",
         "ip": "104.245.200.145",
         "port": "2083",
         "program": "villedequebec",
@@ -53,7 +53,7 @@
     },
     {
         "_id": "104.245.200.145:21",
-        "_rev": "3-a0aa1e5190d4f61638caa87021148a4f",
+        "_rev": "7-1eef175e86b20272e711c609c2854b86",
         "ip": "104.245.200.145",
         "port": "21",
         "program": "villedequebec",
@@ -66,7 +66,7 @@
     },
     {
         "_id": "104.245.200.145:22",
-        "_rev": "3-9bdecb3a04d8c53a26974355c78afb9e",
+        "_rev": "7-6ac244f6237dcbbb3898aa4cad8e5bcd",
         "ip": "104.245.200.145",
         "port": "22",
         "program": "villedequebec",
@@ -79,7 +79,7 @@
     },
     {
         "_id": "104.245.200.145:443",
-        "_rev": "3-f92f6e18bf333b07e1a7f69eefef9d58",
+        "_rev": "7-e25497967feb8b3413a31ffdbb01472e",
         "ip": "104.245.200.145",
         "port": "443",
         "program": "villedequebec",
@@ -92,7 +92,7 @@
     },
     {
         "_id": "104.245.200.145:53",
-        "_rev": "3-98f3c073a8a339e13081b4c28adfd0e3",
+        "_rev": "7-f21f151a8c86cbf8abf1e50d0a53e3f2",
         "ip": "104.245.200.145",
         "port": "53",
         "program": "villedequebec",
@@ -105,7 +105,7 @@
     },
     {
         "_id": "104.245.200.145:80",
-        "_rev": "3-a4dcb7f7cd64140dfa670d1d86fbd822",
+        "_rev": "7-6411b112f9f7b8994253187c176e2221",
         "ip": "104.245.200.145",
         "port": "80",
         "program": "villedequebec",
@@ -118,7 +118,7 @@
     },
     {
         "_id": "104.245.200.145:993",
-        "_rev": "3-2cdaa410f076a5ecf76a6f9c87d907aa",
+        "_rev": "7-54e335a98abe22190baa8c8dc412aff7",
         "ip": "104.245.200.145",
         "port": "993",
         "program": "villedequebec",
@@ -131,7 +131,7 @@
     },
     {
         "_id": "104.245.200.145:995",
-        "_rev": "3-730bcec40634d256cd727368162345f7",
+        "_rev": "7-40915e27ba792cec38fd0f97d964f6db",
         "ip": "104.245.200.145",
         "port": "995",
         "program": "villedequebec",
@@ -144,7 +144,7 @@
     },
     {
         "_id": "108.163.147.52:110",
-        "_rev": "3-48929c06aa64b63b15b453549f73c930",
+        "_rev": "7-c4e707ba4fae233b370e2f664a1246e0",
         "ip": "108.163.147.52",
         "port": "110",
         "program": "villedequebec",
@@ -157,7 +157,7 @@
     },
     {
         "_id": "108.163.147.52:143",
-        "_rev": "3-853da53608c5a8c43635404e97c297a0",
+        "_rev": "7-b48a807052a77c25e2251228fd2646b2",
         "ip": "108.163.147.52",
         "port": "143",
         "program": "villedequebec",
@@ -170,7 +170,7 @@
     },
     {
         "_id": "108.163.147.52:2082",
-        "_rev": "3-775a723b9a39e214db9fd831953e3c74",
+        "_rev": "7-466f76cbcef8d705b7eb3485c357e0f4",
         "ip": "108.163.147.52",
         "port": "2082",
         "program": "villedequebec",
@@ -183,7 +183,7 @@
     },
     {
         "_id": "108.163.147.52:2083",
-        "_rev": "3-0fe21718bd069e06d24373d868f5d9f9",
+        "_rev": "7-98e4660b39d884541180bdfb1d56e466",
         "ip": "108.163.147.52",
         "port": "2083",
         "program": "villedequebec",
@@ -196,7 +196,7 @@
     },
     {
         "_id": "108.163.147.52:21",
-        "_rev": "3-4671544f21d7122dbb93dc631f1ca4ff",
+        "_rev": "7-0ab1af64e61007a055fbc044d03f68be",
         "ip": "108.163.147.52",
         "port": "21",
         "program": "villedequebec",
@@ -209,7 +209,7 @@
     },
     {
         "_id": "108.163.147.52:22",
-        "_rev": "3-0651e440eabf2d3b02f8cbcf7dc14092",
+        "_rev": "7-6e62d1c8ef648f44d6788b645f0b199b",
         "ip": "108.163.147.52",
         "port": "22",
         "program": "villedequebec",
@@ -222,7 +222,7 @@
     },
     {
         "_id": "108.163.147.52:443",
-        "_rev": "3-c74defb66a5b515fcb2fdba692863f46",
+        "_rev": "7-9cd27bb2ed66a48152c5323d544afbfb",
         "ip": "108.163.147.52",
         "port": "443",
         "program": "villedequebec",
@@ -235,7 +235,7 @@
     },
     {
         "_id": "108.163.147.52:80",
-        "_rev": "3-91076185bf0e3e4a4afaaff627d0e109",
+        "_rev": "7-4ed09e1694ebf555e652f55035ef46ae",
         "ip": "108.163.147.52",
         "port": "80",
         "program": "villedequebec",
@@ -248,7 +248,7 @@
     },
     {
         "_id": "108.163.147.52:993",
-        "_rev": "3-f9c6debe81f672d4a834e36245b97c85",
+        "_rev": "7-539c6de965576334b5534682779ec31f",
         "ip": "108.163.147.52",
         "port": "993",
         "program": "villedequebec",
@@ -261,7 +261,7 @@
     },
     {
         "_id": "108.163.147.52:995",
-        "_rev": "3-83676c8d4040c0f30d06fe57d860b981",
+        "_rev": "7-550957f82ddc72932a26f1b9f0a422c6",
         "ip": "108.163.147.52",
         "port": "995",
         "program": "villedequebec",
@@ -274,7 +274,7 @@
     },
     {
         "_id": "13.107.246.35:443",
-        "_rev": "6-5043133d953dacd9028e8fdcd3ab966f",
+        "_rev": "10-bd38ec4ac6ac457e01fce1244e8e7ad9",
         "ip": "13.107.246.35",
         "port": "443",
         "program": "villedequebec",
@@ -287,7 +287,7 @@
     },
     {
         "_id": "13.107.246.35:80",
-        "_rev": "6-560982358b37cf295c428708f95e949d",
+        "_rev": "10-9826a89a8b4254792d272e9cb860e765",
         "ip": "13.107.246.35",
         "port": "80",
         "program": "villedequebec",
@@ -299,8 +299,151 @@
         "type": "service"
     },
     {
+        "_id": "15.222.112.81:110",
+        "_rev": "7-76fbaa48f93b8e385e18c2a86b2d95d5",
+        "ip": "15.222.112.81",
+        "port": "110",
+        "program": "villedequebec",
+        "service": "pop3",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.222.112.81:143",
+        "_rev": "7-957f7f78c4e7f0d086be4f3cd2229a74",
+        "ip": "15.222.112.81",
+        "port": "143",
+        "program": "villedequebec",
+        "service": "imap",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.222.112.81:21",
+        "_rev": "7-da1e82118b5432150e321ece1e3cf243",
+        "ip": "15.222.112.81",
+        "port": "21",
+        "program": "villedequebec",
+        "service": "ftp",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.222.112.81:443",
+        "_rev": "7-22ddbeb947a945f8ee4d0822adbf7838",
+        "ip": "15.222.112.81",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.222.112.81:53",
+        "_rev": "7-ac8ad8ae29796d894019b6fb0d61cda8",
+        "ip": "15.222.112.81",
+        "port": "53",
+        "program": "villedequebec",
+        "service": "domain",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.222.112.81:80",
+        "_rev": "7-f7af80cbfaf43c5441947b3ebd46dfd4",
+        "ip": "15.222.112.81",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.222.112.81:8443",
+        "_rev": "7-8de2e187ab08d31a98b37c68de5be9d8",
+        "ip": "15.222.112.81",
+        "port": "8443",
+        "program": "villedequebec",
+        "service": "https-alt",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.222.112.81:993",
+        "_rev": "7-a7465fc60eda1f21e3dbefc2d276befe",
+        "ip": "15.222.112.81",
+        "port": "993",
+        "program": "villedequebec",
+        "service": "imaps",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.222.112.81:995",
+        "_rev": "7-af8c88032c2fcd0bf17e7b77760d26ef",
+        "ip": "15.222.112.81",
+        "port": "995",
+        "program": "villedequebec",
+        "service": "pop3s",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "192.30.252.153:443",
+        "_rev": "7-e578372e06f5e84b45a5be377c3f75f9",
+        "ip": "192.30.252.153",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "192.30.252.153:80",
+        "_rev": "7-c8b67a0beae4538b20b180d3f39cbe55",
+        "ip": "192.30.252.153",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "198.168.96.102:443",
-        "_rev": "4-b9ce29bde7c073bab33a6f18375bd06c",
+        "_rev": "8-fced397337b6dcd26b3288a473a2ce69",
         "ip": "198.168.96.102",
         "port": "443",
         "program": "villedequebec",
@@ -313,7 +456,7 @@
     },
     {
         "_id": "198.168.96.104:443",
-        "_rev": "5-63b7456271489fff0f0290da5b4ddf37",
+        "_rev": "9-4596d749468f8256158e5cda68800db8",
         "ip": "198.168.96.104",
         "port": "443",
         "program": "villedequebec",
@@ -326,7 +469,7 @@
     },
     {
         "_id": "198.168.96.104:80",
-        "_rev": "5-e73388fe0fc100052f77b28b90a6b597",
+        "_rev": "9-2dfb7a157baa01281cb2a952782696bf",
         "ip": "198.168.96.104",
         "port": "80",
         "program": "villedequebec",
@@ -339,7 +482,7 @@
     },
     {
         "_id": "198.168.96.123:443",
-        "_rev": "5-560491fc4511ffa7e037994d7c34285f",
+        "_rev": "9-7844399eb5998f4dc4a72666da674c86",
         "ip": "198.168.96.123",
         "port": "443",
         "program": "villedequebec",
@@ -352,7 +495,7 @@
     },
     {
         "_id": "198.168.96.123:80",
-        "_rev": "5-563bc252ec1e9b29af43468c346c2c08",
+        "_rev": "9-5d1c99c51a1d2e1f61ba7a539ab118f4",
         "ip": "198.168.96.123",
         "port": "80",
         "program": "villedequebec",
@@ -365,7 +508,7 @@
     },
     {
         "_id": "198.168.96.126:443",
-        "_rev": "4-b934f8a250e319bfb791b65132e50046",
+        "_rev": "8-88824eb578fcc452795241d9f4f64815",
         "ip": "198.168.96.126",
         "port": "443",
         "program": "villedequebec",
@@ -378,7 +521,7 @@
     },
     {
         "_id": "198.168.96.140:443",
-        "_rev": "4-63ac9aefaa1290b03ba45ac1b8f26e90",
+        "_rev": "8-b910d488b4343991ff7a90e271559ff7",
         "ip": "198.168.96.140",
         "port": "443",
         "program": "villedequebec",
@@ -391,7 +534,7 @@
     },
     {
         "_id": "198.168.96.140:80",
-        "_rev": "4-4b888d3e0f20610bafda85d3c16ad0c1",
+        "_rev": "8-d79959c82fd3942604edf9d55a351130",
         "ip": "198.168.96.140",
         "port": "80",
         "program": "villedequebec",
@@ -404,7 +547,7 @@
     },
     {
         "_id": "198.168.96.159:443",
-        "_rev": "14-95d6933becf7220758332fa19d338aad",
+        "_rev": "18-f256471ba1699e8fd5a1a10742626a38",
         "ip": "198.168.96.159",
         "port": "443",
         "program": "villedequebec",
@@ -417,7 +560,7 @@
     },
     {
         "_id": "198.168.96.15:443",
-        "_rev": "6-45fae7a66889283de73c6c31510a3153",
+        "_rev": "10-be140a733e94b47738778bbe259dca32",
         "ip": "198.168.96.15",
         "port": "443",
         "program": "villedequebec",
@@ -430,7 +573,7 @@
     },
     {
         "_id": "198.168.96.15:80",
-        "_rev": "6-4dfd5794b6642c778831871a3d8156d7",
+        "_rev": "10-eccb025b4b0c36adb655da13c6428567",
         "ip": "198.168.96.15",
         "port": "80",
         "program": "villedequebec",
@@ -442,8 +585,21 @@
         "type": "service"
     },
     {
+        "_id": "198.168.96.160:443",
+        "_rev": "7-b6ff8edb4d6f8c8ad82c955a93ddea5d",
+        "ip": "198.168.96.160",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "198.168.96.161:443",
-        "_rev": "3-b9c6c75882208e04e28902bcf7cbb626",
+        "_rev": "7-2c1fe3faeda2b498ebf964c255bce219",
         "ip": "198.168.96.161",
         "port": "443",
         "program": "villedequebec",
@@ -456,7 +612,7 @@
     },
     {
         "_id": "198.168.96.221:443",
-        "_rev": "4-cec756e18e53cbdf59c881e87eeed88a",
+        "_rev": "8-5cd7773f068b6e47ef00f2ba126ed99b",
         "ip": "198.168.96.221",
         "port": "443",
         "program": "villedequebec",
@@ -469,7 +625,7 @@
     },
     {
         "_id": "198.168.96.221:80",
-        "_rev": "4-09e96c7d964e4e7f135f3649738c4a9c",
+        "_rev": "8-888d990af96afd72b373390a531f91d5",
         "ip": "198.168.96.221",
         "port": "80",
         "program": "villedequebec",
@@ -482,7 +638,7 @@
     },
     {
         "_id": "198.168.96.221:8443",
-        "_rev": "4-48c773fd3e7a65d3fb871c6acdc4d8af",
+        "_rev": "8-5506710b764703d6b484eb29052700f8",
         "ip": "198.168.96.221",
         "port": "8443",
         "program": "villedequebec",
@@ -494,8 +650,86 @@
         "type": "service"
     },
     {
+        "_id": "198.168.96.23:443",
+        "_rev": "8-a26019de00b25c25a7734c7d98628567",
+        "ip": "198.168.96.23",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.23:80",
+        "_rev": "8-5d58b908dbb0bd64165919988c68419c",
+        "ip": "198.168.96.23",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.24:443",
+        "_rev": "8-5481f929d7fb4199510f89f1fb5c37e3",
+        "ip": "198.168.96.24",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.24:80",
+        "_rev": "7-79d8e71faa2f4b42ec7338770697c330",
+        "ip": "198.168.96.24",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.26:443",
+        "_rev": "8-4d5295952ca22b3f28608ceece222c31",
+        "ip": "198.168.96.26",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.26:80",
+        "_rev": "8-5278f8c18e3a51b0d015dcef704bc1fb",
+        "ip": "198.168.96.26",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "198.168.96.35:443",
-        "_rev": "5-27abf7395b72de10f37e806d55a043f0",
+        "_rev": "9-1ecfea57778c34dbc28be1c92d25708f",
         "ip": "198.168.96.35",
         "port": "443",
         "program": "villedequebec",
@@ -508,7 +742,7 @@
     },
     {
         "_id": "198.168.96.35:80",
-        "_rev": "5-3ad5e66d633fa417d0b09f97706671d5",
+        "_rev": "9-00f236c230cf1c668cc75525c94b0445",
         "ip": "198.168.96.35",
         "port": "80",
         "program": "villedequebec",
@@ -521,7 +755,7 @@
     },
     {
         "_id": "198.168.96.37:443",
-        "_rev": "8-9dc7cc6e8b12cad560e50b04b6421cd5",
+        "_rev": "12-38596b08db624de7d8d2da81d5d22ddc",
         "ip": "198.168.96.37",
         "port": "443",
         "program": "villedequebec",
@@ -534,7 +768,7 @@
     },
     {
         "_id": "198.168.96.37:80",
-        "_rev": "6-6a0b761b13402adfba1ff9fed36bee14",
+        "_rev": "10-45809bfb2a45913eb22026f0f4a8c943",
         "ip": "198.168.96.37",
         "port": "80",
         "program": "villedequebec",
@@ -546,8 +780,21 @@
         "type": "service"
     },
     {
+        "_id": "198.168.96.43:443",
+        "_rev": "10-0e63535a4303024612bf00a6cd18b471",
+        "ip": "198.168.96.43",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "198.168.96.45:443",
-        "_rev": "6-a0b3fa56f3b11558e67a960a47d64fb6",
+        "_rev": "10-87d8057b4492143ea7cad41e092ac1d0",
         "ip": "198.168.96.45",
         "port": "443",
         "program": "villedequebec",
@@ -560,7 +807,7 @@
     },
     {
         "_id": "198.168.96.45:80",
-        "_rev": "6-215b379d495c6a7979846f8688c41161",
+        "_rev": "10-3107b8b4cfc2f289c47a12215b6c354c",
         "ip": "198.168.96.45",
         "port": "80",
         "program": "villedequebec",
@@ -573,7 +820,7 @@
     },
     {
         "_id": "198.168.96.52:443",
-        "_rev": "5-5d059abcecc83342a196c5ab540b6e05",
+        "_rev": "9-4a0fa3a2cd347f55a55fda56eb0b82f0",
         "ip": "198.168.96.52",
         "port": "443",
         "program": "villedequebec",
@@ -586,7 +833,7 @@
     },
     {
         "_id": "198.168.96.52:80",
-        "_rev": "5-f93fa68010a2cec1054a64e016e4243c",
+        "_rev": "9-72bb3253a47e259da3f8c9723ed3b773",
         "ip": "198.168.96.52",
         "port": "80",
         "program": "villedequebec",
@@ -599,7 +846,7 @@
     },
     {
         "_id": "198.168.96.55:443",
-        "_rev": "6-65b54cb529587f357c84649461738964",
+        "_rev": "10-22794c14c70f18e89dc262026ddd0f4c",
         "ip": "198.168.96.55",
         "port": "443",
         "program": "villedequebec",
@@ -612,7 +859,7 @@
     },
     {
         "_id": "198.168.96.55:80",
-        "_rev": "6-34c0f431c6b1425735da06c3c94868d2",
+        "_rev": "10-078b576478c9cdf4d2da845706bc96e6",
         "ip": "198.168.96.55",
         "port": "80",
         "program": "villedequebec",
@@ -625,7 +872,7 @@
     },
     {
         "_id": "198.168.96.5:443",
-        "_rev": "4-10041ef6f1706bd442edee7fd71406bd",
+        "_rev": "8-ec93affd1652c147584104a928be08d3",
         "ip": "198.168.96.5",
         "port": "443",
         "program": "villedequebec",
@@ -638,7 +885,7 @@
     },
     {
         "_id": "198.168.96.5:80",
-        "_rev": "4-eb33b33e454e661799e88eadce2f399e",
+        "_rev": "8-0667f51cb9058f43709a9ad6e132c6d4",
         "ip": "198.168.96.5",
         "port": "80",
         "program": "villedequebec",
@@ -650,8 +897,47 @@
         "type": "service"
     },
     {
+        "_id": "198.168.96.6:443",
+        "_rev": "8-75f5ead19a2a6b6e858b2bf986fe9b49",
+        "ip": "198.168.96.6",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.6:80",
+        "_rev": "8-494b8a33161dbbd743ebbea278b4717b",
+        "ip": "198.168.96.6",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.73:443",
+        "_rev": "10-cc29c352571661365832d27917dcee85",
+        "ip": "198.168.96.73",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "198.168.96.74:443",
-        "_rev": "6-844b91f34f9a8a1bb9378ff0d97b302c",
+        "_rev": "10-d4941d78ead4c4cd5205b11ee742c669",
         "ip": "198.168.96.74",
         "port": "443",
         "program": "villedequebec",
@@ -664,7 +950,7 @@
     },
     {
         "_id": "198.168.96.74:80",
-        "_rev": "6-352f52b8aee7a2c30617f4e23ea70154",
+        "_rev": "10-86688fff53f757463644eb9752940a25",
         "ip": "198.168.96.74",
         "port": "80",
         "program": "villedequebec",
@@ -677,7 +963,7 @@
     },
     {
         "_id": "198.168.96.76:443",
-        "_rev": "5-af6d5d44a287524f4ef6e5dea23a0f0c",
+        "_rev": "9-3034a3e8eb9a5912a15c5d6f2f70caba",
         "ip": "198.168.96.76",
         "port": "443",
         "program": "villedequebec",
@@ -690,7 +976,7 @@
     },
     {
         "_id": "198.168.96.76:80",
-        "_rev": "5-dc0cc5a7d11d78105315f1af3921075e",
+        "_rev": "9-108796fd8cf036969e14d369c3005b38",
         "ip": "198.168.96.76",
         "port": "80",
         "program": "villedequebec",
@@ -703,7 +989,7 @@
     },
     {
         "_id": "198.168.96.79:443",
-        "_rev": "5-7528a2833e7e816bbcf71f679aa51826",
+        "_rev": "9-edb98805f771e0b41bd7d2477f49c7b7",
         "ip": "198.168.96.79",
         "port": "443",
         "program": "villedequebec",
@@ -716,7 +1002,7 @@
     },
     {
         "_id": "198.168.96.79:80",
-        "_rev": "5-ef5304a87766f62a2c8870fc33145af4",
+        "_rev": "9-48c992208f40907040936933543f8286",
         "ip": "198.168.96.79",
         "port": "80",
         "program": "villedequebec",
@@ -729,7 +1015,7 @@
     },
     {
         "_id": "198.168.96.7:443",
-        "_rev": "4-c855e16cd3611487e597ec1e423962c1",
+        "_rev": "8-c622c2b255b39a4dfd2b4710743d1776",
         "ip": "198.168.96.7",
         "port": "443",
         "program": "villedequebec",
@@ -742,7 +1028,7 @@
     },
     {
         "_id": "198.168.96.7:80",
-        "_rev": "4-6f1c44853f8af810b8f8d3ac683ee75c",
+        "_rev": "8-11e279900482c950369cb1cefe114b18",
         "ip": "198.168.96.7",
         "port": "80",
         "program": "villedequebec",
@@ -755,7 +1041,7 @@
     },
     {
         "_id": "198.168.96.85:443",
-        "_rev": "4-e5c11707e4eb34a0bef384f1db0036c5",
+        "_rev": "8-6f7445669b87c63b715518a9459e5834",
         "ip": "198.168.96.85",
         "port": "443",
         "program": "villedequebec",
@@ -768,7 +1054,7 @@
     },
     {
         "_id": "198.168.96.85:80",
-        "_rev": "4-16e3207e76ca1c53486c46153c7ce2a6",
+        "_rev": "8-0111b4702a9e6c6fc4d23dd497a01b73",
         "ip": "198.168.96.85",
         "port": "80",
         "program": "villedequebec",
@@ -780,8 +1066,47 @@
         "type": "service"
     },
     {
+        "_id": "198.168.96.86:443",
+        "_rev": "9-a57ebeab0335f2ebdf19501626141a88",
+        "ip": "198.168.96.86",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.87:443",
+        "_rev": "7-843e84581569e1593f629249d81ecda8",
+        "ip": "198.168.96.87",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.87:80",
+        "_rev": "7-3972cc464a4e9020cc80a1762a7deabe",
+        "ip": "198.168.96.87",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "198.168.96.90:443",
-        "_rev": "7-a3608b25066c510901ff4bfe3e38d69d",
+        "_rev": "11-02e75ee229c85465c6e7c39dd71ce03e",
         "ip": "198.168.96.90",
         "port": "443",
         "program": "villedequebec",
@@ -794,7 +1119,7 @@
     },
     {
         "_id": "198.168.96.90:80",
-        "_rev": "7-c57bac21e2294d91fa32dba988384262",
+        "_rev": "11-bc2a83c73691443be42d2189b5c1dfe5",
         "ip": "198.168.96.90",
         "port": "80",
         "program": "villedequebec",
@@ -807,7 +1132,7 @@
     },
     {
         "_id": "198.168.96.94:443",
-        "_rev": "4-ef1b3cbe16e54f01087940486f30a66b",
+        "_rev": "8-38ffb10335552cdf85e4001a398a2e15",
         "ip": "198.168.96.94",
         "port": "443",
         "program": "villedequebec",
@@ -820,7 +1145,7 @@
     },
     {
         "_id": "198.168.96.94:80",
-        "_rev": "4-ce2e00aa6f9501447f94bb357d070b53",
+        "_rev": "8-a2e5255c08cff20ab9764fea986b651e",
         "ip": "198.168.96.94",
         "port": "80",
         "program": "villedequebec",
@@ -832,8 +1157,47 @@
         "type": "service"
     },
     {
+        "_id": "198.168.96.9:443",
+        "_rev": "10-cf752228b278f78d8ded2dffc735f006",
+        "ip": "198.168.96.9",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.96.9:80",
+        "_rev": "10-f62c4331a893647241880f731bd70727",
+        "ip": "198.168.96.9",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.115:443",
+        "_rev": "36-1af9828792e62a1c2c451c91ef588735",
+        "ip": "198.168.97.115",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "198.168.97.116:443",
-        "_rev": "30-8d24381edeee0154b3ec434ebacfd486",
+        "_rev": "34-c1e195e153f3c3b0cc67d42e08a981f1",
         "ip": "198.168.97.116",
         "port": "443",
         "program": "villedequebec",
@@ -846,7 +1210,7 @@
     },
     {
         "_id": "198.168.97.116:80",
-        "_rev": "4-06ea2762b5b91bdd3af9086b09bc7b52",
+        "_rev": "8-2efc11ed796305065a506a0c7410ed7e",
         "ip": "198.168.97.116",
         "port": "80",
         "program": "villedequebec",
@@ -858,8 +1222,34 @@
         "type": "service"
     },
     {
+        "_id": "198.168.97.123:443",
+        "_rev": "7-5ed16ed4c0a9fcf7a44025d38b761231",
+        "ip": "198.168.97.123",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.123:80",
+        "_rev": "7-48fe443dd0d9b978e7dbb8b26628b4e8",
+        "ip": "198.168.97.123",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "198.168.97.17:443",
-        "_rev": "4-84ead1294a5c4af2d4cddec328bdeaec",
+        "_rev": "8-9ce5f7d52fe3a0646a2be40542499241",
         "ip": "198.168.97.17",
         "port": "443",
         "program": "villedequebec",
@@ -872,7 +1262,7 @@
     },
     {
         "_id": "198.168.97.221:443",
-        "_rev": "5-afabe185f2191f3aef37630920a50779",
+        "_rev": "9-8cdafca9d21dd4ad72e8e8d8dd5b4559",
         "ip": "198.168.97.221",
         "port": "443",
         "program": "villedequebec",
@@ -885,7 +1275,7 @@
     },
     {
         "_id": "198.168.97.221:80",
-        "_rev": "5-41eb83cf45f43e32baaef01d571b9f71",
+        "_rev": "9-8e94c490a1cf4bd471d36765a4e9eb09",
         "ip": "198.168.97.221",
         "port": "80",
         "program": "villedequebec",
@@ -898,7 +1288,7 @@
     },
     {
         "_id": "198.168.97.221:8443",
-        "_rev": "5-3ed5907c563ee3454e97a15d347e1a28",
+        "_rev": "9-0c321c51a69393e4f459d1573689dac5",
         "ip": "198.168.97.221",
         "port": "8443",
         "program": "villedequebec",
@@ -910,8 +1300,47 @@
         "type": "service"
     },
     {
+        "_id": "198.168.97.40:443",
+        "_rev": "8-dac84feb0b1f7ca2e11368bce528c993",
+        "ip": "198.168.97.40",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.40:80",
+        "_rev": "8-e8501aa8465e2f87aff379aeee8a5c62",
+        "ip": "198.168.97.40",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.43:443",
+        "_rev": "7-d842fd8cefebfa713b3addcf7397431f",
+        "ip": "198.168.97.43",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "198.168.97.50:443",
-        "_rev": "5-c0ed4fb90b4e32bac6b689da28a88a06",
+        "_rev": "9-fe82ba880e909705653eaf9f541753cf",
         "ip": "198.168.97.50",
         "port": "443",
         "program": "villedequebec",
@@ -924,7 +1353,7 @@
     },
     {
         "_id": "198.168.97.50:80",
-        "_rev": "5-420b69db8180bc12619d88c97b92837a",
+        "_rev": "9-0f898555abbb166ba5cdfed92a0ee305",
         "ip": "198.168.97.50",
         "port": "80",
         "program": "villedequebec",
@@ -936,8 +1365,47 @@
         "type": "service"
     },
     {
+        "_id": "198.168.97.56:443",
+        "_rev": "8-142f864b383b6b8282b84caaefbcf8a7",
+        "ip": "198.168.97.56",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.56:80",
+        "_rev": "8-dbefa38c8c1e05d07777b61d136ba9cf",
+        "ip": "198.168.97.56",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.168.97.5:443",
+        "_rev": "8-29b09769ef72f6e504156a5a551ad48c",
+        "ip": "198.168.97.5",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "198.168.97.6:443",
-        "_rev": "4-9172e2ef96261d0230b3046d1f00f1b5",
+        "_rev": "8-aa1c0c79cb78c621da14c6a2a34729c7",
         "ip": "198.168.97.6",
         "port": "443",
         "program": "villedequebec",
@@ -950,7 +1418,7 @@
     },
     {
         "_id": "198.168.97.7:443",
-        "_rev": "5-728190b66e54b5753ae6d1e9b98aebc6",
+        "_rev": "9-59dee984396ffc3dae01c39f7895bb68",
         "ip": "198.168.97.7",
         "port": "443",
         "program": "villedequebec",
@@ -962,8 +1430,21 @@
         "type": "service"
     },
     {
+        "_id": "199.59.243.226:10000",
+        "_rev": "3-23fdb9515a37b878ecaf1d192ff9b0a4",
+        "ip": "199.59.243.226",
+        "port": "10000",
+        "program": "villedequebec",
+        "service": "snet-sensor-mgmt",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "199.59.243.226:139",
-        "_rev": "3-236ac59f26a3d8bdb9d7cf2949e64230",
+        "_rev": "7-b4a1fae3c4c7dd01c2de39ac7dbd17cb",
         "ip": "199.59.243.226",
         "port": "139",
         "program": "villedequebec",
@@ -975,34 +1456,8 @@
         "type": "service"
     },
     {
-        "_id": "199.59.243.226:143",
-        "_rev": "3-8507d2f6677152a7e89531abf5974833",
-        "ip": "199.59.243.226",
-        "port": "143",
-        "program": "villedequebec",
-        "service": "imap",
-        "tags": {
-            "banner": "",
-            "state": "open"
-        },
-        "type": "service"
-    },
-    {
-        "_id": "199.59.243.226:16080",
-        "_rev": "1-17610e0ad7901159242699dd5c877bae",
-        "ip": "199.59.243.226",
-        "port": "16080",
-        "program": "villedequebec",
-        "service": "osxwebadmin",
-        "tags": {
-            "banner": "",
-            "state": "open"
-        },
-        "type": "service"
-    },
-    {
         "_id": "199.59.243.226:18080",
-        "_rev": "3-302890fb200313e9b7877149ece0b738",
+        "_rev": "5-d9c32408618882ec81d7ee95e9d023ec",
         "ip": "199.59.243.226",
         "port": "18080",
         "program": "villedequebec",
@@ -1015,7 +1470,7 @@
     },
     {
         "_id": "199.59.243.226:2083",
-        "_rev": "1-0d56000ba18f742de6d094191e7df2c8",
+        "_rev": "5-c07cb3f8ea1c1994709c469caa45d80c",
         "ip": "199.59.243.226",
         "port": "2083",
         "program": "villedequebec",
@@ -1027,12 +1482,12 @@
         "type": "service"
     },
     {
-        "_id": "199.59.243.226:22",
-        "_rev": "3-478c7226e1833d9a09b7fbef4ab9a2bb",
+        "_id": "199.59.243.226:21",
+        "_rev": "1-707d18d433bac1484875d05560195cc7",
         "ip": "199.59.243.226",
-        "port": "22",
+        "port": "21",
         "program": "villedequebec",
-        "service": "ssh",
+        "service": "ftp",
         "tags": {
             "banner": "",
             "state": "open"
@@ -1041,7 +1496,7 @@
     },
     {
         "_id": "199.59.243.226:23",
-        "_rev": "3-150d84a41ac715a5b29383c75f804f9d",
+        "_rev": "5-7ea6a3bb44c5b23e9f7802df5fb20420",
         "ip": "199.59.243.226",
         "port": "23",
         "program": "villedequebec",
@@ -1054,7 +1509,7 @@
     },
     {
         "_id": "199.59.243.226:2443",
-        "_rev": "1-2b98cf43b80d28c2a862d70786a8487b",
+        "_rev": "3-35066b5d78b260a9f92cd29d3124640e",
         "ip": "199.59.243.226",
         "port": "2443",
         "program": "villedequebec",
@@ -1066,8 +1521,21 @@
         "type": "service"
     },
     {
+        "_id": "199.59.243.226:3128",
+        "_rev": "5-2cf6a93d9ed8f38b0952a1b82c8fc514",
+        "ip": "199.59.243.226",
+        "port": "3128",
+        "program": "villedequebec",
+        "service": "squid-http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "199.59.243.226:3306",
-        "_rev": "3-de616fba9e3e5ac89658b5573b1d1b06",
+        "_rev": "5-963d009d01ffd2d211cacecb12eed841",
         "ip": "199.59.243.226",
         "port": "3306",
         "program": "villedequebec",
@@ -1080,7 +1548,7 @@
     },
     {
         "_id": "199.59.243.226:3389",
-        "_rev": "1-48f2c5f2322ab1f51a87c7e17b7a59c1",
+        "_rev": "3-b37927744a9618307ff782ee2d586854",
         "ip": "199.59.243.226",
         "port": "3389",
         "program": "villedequebec",
@@ -1093,7 +1561,7 @@
     },
     {
         "_id": "199.59.243.226:443",
-        "_rev": "3-01d81ac509bc22472249660966df4484",
+        "_rev": "7-eef98a96916f3e6057554eb9def0ef14",
         "ip": "199.59.243.226",
         "port": "443",
         "program": "villedequebec",
@@ -1106,7 +1574,7 @@
     },
     {
         "_id": "199.59.243.226:4443",
-        "_rev": "1-e411d1aab6de70052701322840bcfb4c",
+        "_rev": "5-a5ae3bb676348168534efa16bcb5ff56",
         "ip": "199.59.243.226",
         "port": "4443",
         "program": "villedequebec",
@@ -1119,7 +1587,7 @@
     },
     {
         "_id": "199.59.243.226:5000",
-        "_rev": "1-b2561b3e3a78d022768ad2a047c4797e",
+        "_rev": "5-a2615ac1e401bd5e326e02959f03e438",
         "ip": "199.59.243.226",
         "port": "5000",
         "program": "villedequebec",
@@ -1131,21 +1599,8 @@
         "type": "service"
     },
     {
-        "_id": "199.59.243.226:5050",
-        "_rev": "1-47d0e8fc7484a91acd41cf7507cf2bc1",
-        "ip": "199.59.243.226",
-        "port": "5050",
-        "program": "villedequebec",
-        "service": "mmcc",
-        "tags": {
-            "banner": "",
-            "state": "open"
-        },
-        "type": "service"
-    },
-    {
         "_id": "199.59.243.226:53",
-        "_rev": "3-e6425784d57d3e0d52cd252477b38428",
+        "_rev": "5-e3ae43f50cecc7eefe194043b695b2ea",
         "ip": "199.59.243.226",
         "port": "53",
         "program": "villedequebec",
@@ -1158,7 +1613,7 @@
     },
     {
         "_id": "199.59.243.226:5432",
-        "_rev": "3-3d8613b5342ad60416d581045068a182",
+        "_rev": "7-830cb669c7a98574d6db62023c8ce350",
         "ip": "199.59.243.226",
         "port": "5432",
         "program": "villedequebec",
@@ -1171,7 +1626,7 @@
     },
     {
         "_id": "199.59.243.226:5900",
-        "_rev": "3-e98d06bb296ec461471bf5fe902f06e3",
+        "_rev": "7-d6b7b3d73f60d3cb08ca5adba687bc98",
         "ip": "199.59.243.226",
         "port": "5900",
         "program": "villedequebec",
@@ -1183,8 +1638,21 @@
         "type": "service"
     },
     {
+        "_id": "199.59.243.226:5901",
+        "_rev": "3-19660cf91289496e098476ff874a93dd",
+        "ip": "199.59.243.226",
+        "port": "5901",
+        "program": "villedequebec",
+        "service": "vnc-1",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "199.59.243.226:5986",
-        "_rev": "3-8ad28d19a8574f1bc5f8b39d880beee5",
+        "_rev": "7-791c9a748b57fe133e6b77f429ac2eea",
         "ip": "199.59.243.226",
         "port": "5986",
         "program": "villedequebec",
@@ -1197,7 +1665,7 @@
     },
     {
         "_id": "199.59.243.226:80",
-        "_rev": "3-6e6c66638b8eca803b47803f5a7a2a3c",
+        "_rev": "7-85dd7dd4d69c6e4e868955719f291134",
         "ip": "199.59.243.226",
         "port": "80",
         "program": "villedequebec",
@@ -1209,12 +1677,12 @@
         "type": "service"
     },
     {
-        "_id": "199.59.243.226:8080",
-        "_rev": "3-63e2dbc484b16d7dc17f9d733f1dcbb5",
+        "_id": "199.59.243.226:8081",
+        "_rev": "5-70f50986bc7a1b01f11396bf25118b4c",
         "ip": "199.59.243.226",
-        "port": "8080",
+        "port": "8081",
         "program": "villedequebec",
-        "service": "http-proxy",
+        "service": "blackice-icecap",
         "tags": {
             "banner": "",
             "state": "open"
@@ -1222,25 +1690,12 @@
         "type": "service"
     },
     {
-        "_id": "199.59.243.226:81",
-        "_rev": "1-b0e133fdda600eebf14ee0925084fd17",
+        "_id": "199.59.243.226:82",
+        "_rev": "3-196aaa712b066158031499f3e43b3899",
         "ip": "199.59.243.226",
-        "port": "81",
+        "port": "82",
         "program": "villedequebec",
-        "service": "hosts2-ns",
-        "tags": {
-            "banner": "",
-            "state": "open"
-        },
-        "type": "service"
-    },
-    {
-        "_id": "199.59.243.226:8443",
-        "_rev": "3-e9d4dd6500912b417b2ca0c7e8c5f557",
-        "ip": "199.59.243.226",
-        "port": "8443",
-        "program": "villedequebec",
-        "service": "https-alt",
+        "service": "xfer",
         "tags": {
             "banner": "",
             "state": "open"
@@ -1249,7 +1704,7 @@
     },
     {
         "_id": "199.59.243.226:88",
-        "_rev": "3-dfe2796f0188d62377f08756959f17f3",
+        "_rev": "5-2e570c3a5e380feb4f124bf05492d666",
         "ip": "199.59.243.226",
         "port": "88",
         "program": "villedequebec",
@@ -1262,7 +1717,7 @@
     },
     {
         "_id": "199.59.243.226:8888",
-        "_rev": "3-7e3245b065c65af33f325b76212c6058",
+        "_rev": "7-9134b0458771586eeeb2c8b834f82fd2",
         "ip": "199.59.243.226",
         "port": "8888",
         "program": "villedequebec",
@@ -1274,34 +1729,8 @@
         "type": "service"
     },
     {
-        "_id": "199.59.243.226:9000",
-        "_rev": "1-34f496b84636ea9b61d969e11bab417a",
-        "ip": "199.59.243.226",
-        "port": "9000",
-        "program": "villedequebec",
-        "service": "cslistener",
-        "tags": {
-            "banner": "",
-            "state": "open"
-        },
-        "type": "service"
-    },
-    {
-        "_id": "199.59.243.226:9090",
-        "_rev": "3-8a5d103e50ca1bcc7f01f91dd7ffaa7d",
-        "ip": "199.59.243.226",
-        "port": "9090",
-        "program": "villedequebec",
-        "service": "zeus-admin",
-        "tags": {
-            "banner": "",
-            "state": "open"
-        },
-        "type": "service"
-    },
-    {
         "_id": "199.59.243.226:9091",
-        "_rev": "1-fea3ca644bca4bc00bfe710061b31189",
+        "_rev": "3-6624e8585c474c5b01d70c16faeab1b8",
         "ip": "199.59.243.226",
         "port": "9091",
         "program": "villedequebec",
@@ -1313,8 +1742,21 @@
         "type": "service"
     },
     {
+        "_id": "199.59.243.226:993",
+        "_rev": "3-f93b1cedfe685bffe86c1a81ed69bed0",
+        "ip": "199.59.243.226",
+        "port": "993",
+        "program": "villedequebec",
+        "service": "imaps",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "199.59.243.226:995",
-        "_rev": "1-9dc13c3d2ed28cf801ba640dd7e6168f",
+        "_rev": "5-008e5dd459a9a23013dacab4c9820709",
         "ip": "199.59.243.226",
         "port": "995",
         "program": "villedequebec",
@@ -1327,7 +1769,7 @@
     },
     {
         "_id": "199.59.247.100:110",
-        "_rev": "3-2ec8f3d11c140dc342d966c05f9073b7",
+        "_rev": "7-43ce13c09b43ba1691e9324a2af3af31",
         "ip": "199.59.247.100",
         "port": "110",
         "program": "villedequebec",
@@ -1340,7 +1782,7 @@
     },
     {
         "_id": "199.59.247.100:143",
-        "_rev": "3-ed5052b5e8d37705374a56b99ead082e",
+        "_rev": "7-73898c65eda2a585f65d40195d583516",
         "ip": "199.59.247.100",
         "port": "143",
         "program": "villedequebec",
@@ -1353,7 +1795,7 @@
     },
     {
         "_id": "199.59.247.100:2082",
-        "_rev": "3-5573c8af518db4747bf37987484bf212",
+        "_rev": "7-ca714bacf88737b0d5ff543c7adfdd3e",
         "ip": "199.59.247.100",
         "port": "2082",
         "program": "villedequebec",
@@ -1366,7 +1808,7 @@
     },
     {
         "_id": "199.59.247.100:2083",
-        "_rev": "3-127a6d5d7e897365b6cd1c3b6a2e7f4a",
+        "_rev": "7-030fd634b85cb11190eedeb76f6ca8f7",
         "ip": "199.59.247.100",
         "port": "2083",
         "program": "villedequebec",
@@ -1379,7 +1821,7 @@
     },
     {
         "_id": "199.59.247.100:21",
-        "_rev": "3-16edd7e6fa094242ad36f67fecfc2ce3",
+        "_rev": "7-566fad57ebea3300cf5e8662322fd60c",
         "ip": "199.59.247.100",
         "port": "21",
         "program": "villedequebec",
@@ -1392,7 +1834,7 @@
     },
     {
         "_id": "199.59.247.100:443",
-        "_rev": "7-cb10928a0c7ddb34c2e4704614bb65e1",
+        "_rev": "11-1a68ad35e6cfed30f55fc3e40288bdc5",
         "ip": "199.59.247.100",
         "port": "443",
         "program": "villedequebec",
@@ -1405,7 +1847,7 @@
     },
     {
         "_id": "199.59.247.100:53",
-        "_rev": "3-0cbd98ee9869cac2ad4a3201b3c3e313",
+        "_rev": "7-6b100ecfbe2f0a6641844f3e926b803b",
         "ip": "199.59.247.100",
         "port": "53",
         "program": "villedequebec",
@@ -1418,7 +1860,7 @@
     },
     {
         "_id": "199.59.247.100:80",
-        "_rev": "7-4f2e7dc09468c7aef80b5d9ca5c092f8",
+        "_rev": "11-c974e7036e09a8bdcb4cde6784cb22d5",
         "ip": "199.59.247.100",
         "port": "80",
         "program": "villedequebec",
@@ -1431,7 +1873,7 @@
     },
     {
         "_id": "199.59.247.100:8888",
-        "_rev": "3-fe800df47797eeac04b7cfcfd950dcd6",
+        "_rev": "7-d4904402877a8fea088ecce33b1fa970",
         "ip": "199.59.247.100",
         "port": "8888",
         "program": "villedequebec",
@@ -1444,7 +1886,7 @@
     },
     {
         "_id": "199.59.247.100:993",
-        "_rev": "3-7168c44f570ced1851edcaba2ecffee7",
+        "_rev": "7-041a1e9d69d1ce4fb453814d8e69a2fe",
         "ip": "199.59.247.100",
         "port": "993",
         "program": "villedequebec",
@@ -1457,7 +1899,7 @@
     },
     {
         "_id": "199.59.247.100:995",
-        "_rev": "3-af1b57e93e842a9c0b3385ce302a5f08",
+        "_rev": "7-8560d040c13f0cb200e89b7caadd628f",
         "ip": "199.59.247.100",
         "port": "995",
         "program": "villedequebec",
@@ -1470,7 +1912,7 @@
     },
     {
         "_id": "20.104.135.86:443",
-        "_rev": "11-8ec9e8a35fc3421f47a7eae10c816cf9",
+        "_rev": "15-f60c6cdf03a4152d8c102385953ed219",
         "ip": "20.104.135.86",
         "port": "443",
         "program": "villedequebec",
@@ -1483,7 +1925,7 @@
     },
     {
         "_id": "20.104.135.86:80",
-        "_rev": "10-08f042c03f0f4f83630450e66583f065",
+        "_rev": "14-d3003e70d403bffc78259382383b658a",
         "ip": "20.104.135.86",
         "port": "80",
         "program": "villedequebec",
@@ -1495,8 +1937,112 @@
         "type": "service"
     },
     {
+        "_id": "20.12.97.102:443",
+        "_rev": "8-e7e8ecdf650e5bdba3faa612c77fc64c",
+        "ip": "20.12.97.102",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.12.97.102:80",
+        "_rev": "8-3290406061e9ff389b8c8a16d5fa3695",
+        "ip": "20.12.97.102",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.175.151.117:443",
+        "_rev": "11-2da3dc4fb498bffa4924ebffde5a6e8e",
+        "ip": "20.175.151.117",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.175.151.117:80",
+        "_rev": "11-cb5dceb7c7c293dddec729c5d5a4d48e",
+        "ip": "20.175.151.117",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.220.100.112:443",
+        "_rev": "15-2efefcdd9c8d5933ea8a76a16cfd6117",
+        "ip": "20.220.100.112",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.220.100.112:80",
+        "_rev": "15-71fb1b35ade9852ecf493096ada7e70e",
+        "ip": "20.220.100.112",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.220.114.25:443",
+        "_rev": "15-6dfc051372a55f0e9057b26706a40ffa",
+        "ip": "20.220.114.25",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.220.114.25:80",
+        "_rev": "15-4edead67f30afa139647728938deb286",
+        "ip": "20.220.114.25",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "20.220.242.84:443",
-        "_rev": "4-6029fdf79b394d006a1d711e11ff6b7d",
+        "_rev": "8-73216b9188eebbe7ba70cb0df1365053",
         "ip": "20.220.242.84",
         "port": "443",
         "program": "villedequebec",
@@ -1509,7 +2055,7 @@
     },
     {
         "_id": "20.232.173.23:443",
-        "_rev": "23-110327b268fe6a845fe0848dae1d6429",
+        "_rev": "27-8b99eb6e3dd3bf8a6f27ee2eba398f88",
         "ip": "20.232.173.23",
         "port": "443",
         "program": "villedequebec",
@@ -1522,7 +2068,7 @@
     },
     {
         "_id": "20.232.173.23:80",
-        "_rev": "21-b488ad8f890c3f97fc6d571cf3b2be4f",
+        "_rev": "25-bc99834453bed91696c54ae809aeb53f",
         "ip": "20.232.173.23",
         "port": "80",
         "program": "villedequebec",
@@ -1535,7 +2081,7 @@
     },
     {
         "_id": "20.48.202.168:443",
-        "_rev": "4-2ddd0465662e6cbcbd5b4c72151a02c6",
+        "_rev": "8-e9fdbc08897740fcccc537d1adf57b6c",
         "ip": "20.48.202.168",
         "port": "443",
         "program": "villedequebec",
@@ -1548,7 +2094,7 @@
     },
     {
         "_id": "20.48.202.168:80",
-        "_rev": "4-7d2ae2c31e65f65691dc35a12fef29b7",
+        "_rev": "8-c72019c4b39dbea3c378832a571f69b0",
         "ip": "20.48.202.168",
         "port": "80",
         "program": "villedequebec",
@@ -1561,7 +2107,7 @@
     },
     {
         "_id": "20.62.72.11:443",
-        "_rev": "3-e653e4133a868ae1e581bd56d3016d9c",
+        "_rev": "7-6e2af33be5e19d76993f48136c3f12d9",
         "ip": "20.62.72.11",
         "port": "443",
         "program": "villedequebec",
@@ -1574,7 +2120,7 @@
     },
     {
         "_id": "20.62.72.11:80",
-        "_rev": "3-b180743f92cdae1d4f7ab104566f7e27",
+        "_rev": "7-fa54abf2a3a494cd35c0856e5761a019",
         "ip": "20.62.72.11",
         "port": "80",
         "program": "villedequebec",
@@ -1587,7 +2133,7 @@
     },
     {
         "_id": "20.75.109.112:443",
-        "_rev": "7-5340821aabeee8f2058d3d5f268f98ff",
+        "_rev": "11-8ee447c094db444e9feb990c7d06f9a4",
         "ip": "20.75.109.112",
         "port": "443",
         "program": "villedequebec",
@@ -1600,7 +2146,7 @@
     },
     {
         "_id": "20.75.109.112:80",
-        "_rev": "7-6a4017d12bf7857c12b2fe7f08ae8717",
+        "_rev": "11-f49eb3645d516f92d3cc4f2d37f75cc4",
         "ip": "20.75.109.112",
         "port": "80",
         "program": "villedequebec",
@@ -1612,8 +2158,112 @@
         "type": "service"
     },
     {
+        "_id": "20.95.29.9:443",
+        "_rev": "8-efbbf3a5a18d97fc49e46d5b30ee138b",
+        "ip": "20.95.29.9",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.95.29.9:80",
+        "_rev": "8-d5958c878908e2330208a34040826084",
+        "ip": "20.95.29.9",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.95.29.9:8443",
+        "_rev": "8-8afbb1dab56a98eabae399e7b9295029",
+        "ip": "20.95.29.9",
+        "port": "8443",
+        "program": "villedequebec",
+        "service": "https-alt",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "204.101.92.5:21",
+        "_rev": "7-76733c8b8391f8c7a12e74eb213f2223",
+        "ip": "204.101.92.5",
+        "port": "21",
+        "program": "villedequebec",
+        "service": "ftp",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "204.101.92.5:443",
+        "_rev": "7-1bf155eff4fbe12a7548932ba01b93b6",
+        "ip": "204.101.92.5",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "204.101.92.5:80",
+        "_rev": "7-bf38a4006a95510ed6b59dfc81f29c3d",
+        "ip": "204.101.92.5",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "206.187.24.150:443",
+        "_rev": "8-2158d501cb20d8dc99f5c6f9c7cf8026",
+        "ip": "206.187.24.150",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "206.187.24.150:80",
+        "_rev": "8-e9720a5bf8c7e5103f5bd1c58283155a",
+        "ip": "206.187.24.150",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "216.251.32.98:21",
-        "_rev": "5-90835492da4a1bceef3c9da23ce4865a",
+        "_rev": "9-d98b6e806832c26909f2a31f6fb31f88",
         "ip": "216.251.32.98",
         "port": "21",
         "program": "villedequebec",
@@ -1626,7 +2276,7 @@
     },
     {
         "_id": "216.251.32.98:443",
-        "_rev": "5-60e7c21bf276d114b19930934e3c70ba",
+        "_rev": "9-204f23477b6d6e8b3f9a82953e28fe6f",
         "ip": "216.251.32.98",
         "port": "443",
         "program": "villedequebec",
@@ -1639,7 +2289,7 @@
     },
     {
         "_id": "216.251.32.98:80",
-        "_rev": "5-1bbff949e7b1a378deb436d29136d0af",
+        "_rev": "9-4db5782c6b569ca487955a99d0ba1882",
         "ip": "216.251.32.98",
         "port": "80",
         "program": "villedequebec",
@@ -1651,8 +2301,21 @@
         "type": "service"
     },
     {
+        "_id": "216.40.47.17:80",
+        "_rev": "7-ffe817c528b5589cb32241a94a0908dd",
+        "ip": "216.40.47.17",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "23.236.62.147:443",
-        "_rev": "5-c3270d74cc119db195414be0dcdc1a7c",
+        "_rev": "9-98543430e9e26bcc3943e55f32dd5bf6",
         "ip": "23.236.62.147",
         "port": "443",
         "program": "villedequebec",
@@ -1665,7 +2328,7 @@
     },
     {
         "_id": "23.236.62.147:80",
-        "_rev": "5-b108eb5e3b95927788b0839c83c2fbbb",
+        "_rev": "9-ad058fb7249fd99c1a536b3c97ca9b17",
         "ip": "23.236.62.147",
         "port": "80",
         "program": "villedequebec",
@@ -1678,7 +2341,7 @@
     },
     {
         "_id": "35.208.26.197:110",
-        "_rev": "5-fbc41adea00aeeec11470b5ddc96fd1a",
+        "_rev": "9-73e9db56486b3870ec74ee1643034d07",
         "ip": "35.208.26.197",
         "port": "110",
         "program": "villedequebec",
@@ -1691,7 +2354,7 @@
     },
     {
         "_id": "35.208.26.197:143",
-        "_rev": "5-2b2f976b7f51de951d9cda65e858b2ad",
+        "_rev": "9-6eea1ba1b527069093bf2aeb7092a8bc",
         "ip": "35.208.26.197",
         "port": "143",
         "program": "villedequebec",
@@ -1704,7 +2367,7 @@
     },
     {
         "_id": "35.208.26.197:21",
-        "_rev": "5-e3231984a4739c38142a7638cbb2b86e",
+        "_rev": "9-372bd3ff7c002f324e41a6e621508102",
         "ip": "35.208.26.197",
         "port": "21",
         "program": "villedequebec",
@@ -1717,7 +2380,7 @@
     },
     {
         "_id": "35.208.26.197:3306",
-        "_rev": "5-1ee104e9e44d183065e5fea5997ff9d7",
+        "_rev": "9-550e367f3ce1c8e376772f8768fe8fe4",
         "ip": "35.208.26.197",
         "port": "3306",
         "program": "villedequebec",
@@ -1730,7 +2393,7 @@
     },
     {
         "_id": "35.208.26.197:443",
-        "_rev": "5-35d0bb181cae4de7b68a3328f5a98dbe",
+        "_rev": "9-9c30cd1242383759e56ae3d6111e4979",
         "ip": "35.208.26.197",
         "port": "443",
         "program": "villedequebec",
@@ -1743,7 +2406,7 @@
     },
     {
         "_id": "35.208.26.197:5432",
-        "_rev": "5-3d235eead4e764783fcde7737964f029",
+        "_rev": "9-5fd148f1a7d5585f004a0648e60e4f4b",
         "ip": "35.208.26.197",
         "port": "5432",
         "program": "villedequebec",
@@ -1756,7 +2419,7 @@
     },
     {
         "_id": "35.208.26.197:80",
-        "_rev": "5-c0c50fd7b74343583f51c44afa4668cc",
+        "_rev": "9-347b8fc03cc518faa53ff55c2993cabb",
         "ip": "35.208.26.197",
         "port": "80",
         "program": "villedequebec",
@@ -1769,7 +2432,7 @@
     },
     {
         "_id": "35.208.26.197:993",
-        "_rev": "5-86e8b186b5b25c22ceccd0acaf698453",
+        "_rev": "9-3f37dec12ba350c01367ec89d8476cae",
         "ip": "35.208.26.197",
         "port": "993",
         "program": "villedequebec",
@@ -1782,7 +2445,7 @@
     },
     {
         "_id": "35.208.26.197:995",
-        "_rev": "5-1eed02d90e9ec9d510deff88a92928fd",
+        "_rev": "9-2636bc8014e4e4415068932d5bfa8343",
         "ip": "35.208.26.197",
         "port": "995",
         "program": "villedequebec",
@@ -1795,7 +2458,7 @@
     },
     {
         "_id": "40.97.188.8:80",
-        "_rev": "5-243d493785b58e96cac36c1f0513f899",
+        "_rev": "9-1ef40631487b35b4fb9b9663d30b82d1",
         "ip": "40.97.188.8",
         "port": "80",
         "program": "villedequebec",
@@ -1808,7 +2471,7 @@
     },
     {
         "_id": "51.161.122.78:18080",
-        "_rev": "1-418dc61ccacc4b877aa37f6837a82f53",
+        "_rev": "3-78cc29a7544186801c2c18fe167de8b0",
         "ip": "51.161.122.78",
         "port": "18080",
         "program": "villedequebec",
@@ -1820,12 +2483,12 @@
         "type": "service"
     },
     {
-        "_id": "51.161.122.78:3389",
-        "_rev": "1-8190709d1f979afa62447930a2a4038d",
+        "_id": "51.161.122.78:3306",
+        "_rev": "3-df38d7f9294c75d9d663e65d10aab4a8",
         "ip": "51.161.122.78",
-        "port": "3389",
+        "port": "3306",
         "program": "villedequebec",
-        "service": "ms-wbt-server",
+        "service": "mysql",
         "tags": {
             "banner": "",
             "state": "open"
@@ -1834,7 +2497,7 @@
     },
     {
         "_id": "51.161.122.78:443",
-        "_rev": "3-001e7f3eedc7402f41d6f58e3d971f57",
+        "_rev": "7-c220a1c3dbb12dbceeffe51728d35092",
         "ip": "51.161.122.78",
         "port": "443",
         "program": "villedequebec",
@@ -1846,34 +2509,8 @@
         "type": "service"
     },
     {
-        "_id": "51.161.122.78:5050",
-        "_rev": "1-647598e795de9526adf470efd3fca79d",
-        "ip": "51.161.122.78",
-        "port": "5050",
-        "program": "villedequebec",
-        "service": "mmcc",
-        "tags": {
-            "banner": "",
-            "state": "open"
-        },
-        "type": "service"
-    },
-    {
-        "_id": "51.161.122.78:5432",
-        "_rev": "1-b44e769110dfd05a6c72aff9f5de7b88",
-        "ip": "51.161.122.78",
-        "port": "5432",
-        "program": "villedequebec",
-        "service": "postgresql",
-        "tags": {
-            "banner": "",
-            "state": "open"
-        },
-        "type": "service"
-    },
-    {
         "_id": "51.161.122.78:80",
-        "_rev": "3-b7149fe5297a2da61688e573da7a419b",
+        "_rev": "7-ef6d4faff66114f02d4ac4ebf3eaae42",
         "ip": "51.161.122.78",
         "port": "80",
         "program": "villedequebec",
@@ -1886,7 +2523,7 @@
     },
     {
         "_id": "51.161.122.78:8080",
-        "_rev": "1-203e03ed56268092b761d9e1aa46d5df",
+        "_rev": "3-50fcf77b73884f5a1adb88b7891b8363",
         "ip": "51.161.122.78",
         "port": "8080",
         "program": "villedequebec",
@@ -1898,12 +2535,12 @@
         "type": "service"
     },
     {
-        "_id": "51.161.122.78:8082",
-        "_rev": "1-6ce3bc00035b01aa11d50a78decdc5f6",
+        "_id": "51.161.122.78:8443",
+        "_rev": "3-875bfffc2b8c3bcc5b2a21147fea8af1",
         "ip": "51.161.122.78",
-        "port": "8082",
+        "port": "8443",
         "program": "villedequebec",
-        "service": "blackice-alerts",
+        "service": "https-alt",
         "tags": {
             "banner": "",
             "state": "open"
@@ -1911,25 +2548,12 @@
         "type": "service"
     },
     {
-        "_id": "51.161.122.78:8181",
-        "_rev": "1-c0e67ae1d646a56ef73ec1b632a5f146",
+        "_id": "51.161.122.78:88",
+        "_rev": "1-aeea97c8e40e1d4abf65e85360785d58",
         "ip": "51.161.122.78",
-        "port": "8181",
+        "port": "88",
         "program": "villedequebec",
-        "service": "intermapper",
-        "tags": {
-            "banner": "",
-            "state": "open"
-        },
-        "type": "service"
-    },
-    {
-        "_id": "51.161.122.78:82",
-        "_rev": "1-82e575e7027d15a97645938c6ac9c264",
-        "ip": "51.161.122.78",
-        "port": "82",
-        "program": "villedequebec",
-        "service": "xfer",
+        "service": "kerberos-sec",
         "tags": {
             "banner": "",
             "state": "open"
@@ -1938,7 +2562,7 @@
     },
     {
         "_id": "52.96.111.56:80",
-        "_rev": "5-ab1548d12e0407ee951d57b4bf572070",
+        "_rev": "9-f57dab80572840bcdcc143c34096dd35",
         "ip": "52.96.111.56",
         "port": "80",
         "program": "villedequebec",
@@ -1951,7 +2575,7 @@
     },
     {
         "_id": "52.96.15.8:80",
-        "_rev": "3-b5df162ee600064724ae550d8564fbac",
+        "_rev": "7-bc6de07ad46f4a791baac0c989922377",
         "ip": "52.96.15.8",
         "port": "80",
         "program": "villedequebec",
@@ -1963,8 +2587,21 @@
         "type": "service"
     },
     {
+        "_id": "52.96.230.200:80",
+        "_rev": "7-755eedd86e738ce42c47ba89eb9c58ca",
+        "ip": "52.96.230.200",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "52.96.33.88:80",
-        "_rev": "5-f83ecfaabdcb586170b4a2949813e235",
+        "_rev": "9-eb450d3cb585f356d3957ae14f321018",
         "ip": "52.96.33.88",
         "port": "80",
         "program": "villedequebec",
@@ -1977,7 +2614,7 @@
     },
     {
         "_id": "52.96.38.88:80",
-        "_rev": "5-ce7a337c1c007cd7a58f181e297f6012",
+        "_rev": "9-59583ff670966c5b18cb19b6f9982660",
         "ip": "52.96.38.88",
         "port": "80",
         "program": "villedequebec",
@@ -1989,8 +2626,34 @@
         "type": "service"
     },
     {
+        "_id": "52.96.69.56:80",
+        "_rev": "7-1d8eaf77c28f11387d56352c745de49c",
+        "ip": "52.96.69.56",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "52.96.88.104:80",
+        "_rev": "9-7be0ff3d40de7a54eca36415cd6c4ec8",
+        "ip": "52.96.88.104",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "54.39.127.81:443",
-        "_rev": "6-bf4a5a578673190f0eae9581eb9ea326",
+        "_rev": "10-194200d8301c8d6e4f5400776001f058",
         "ip": "54.39.127.81",
         "port": "443",
         "program": "villedequebec",
@@ -2003,7 +2666,7 @@
     },
     {
         "_id": "54.39.127.81:80",
-        "_rev": "6-303886179e937b2662789e255ae0e31c",
+        "_rev": "10-34cd79d7f5d475890a0f97f84d9fb83f",
         "ip": "54.39.127.81",
         "port": "80",
         "program": "villedequebec",
@@ -2016,7 +2679,7 @@
     },
     {
         "_id": "64.68.200.48:443",
-        "_rev": "10-95e4aeefc82a209b69335736978ee4ae",
+        "_rev": "14-49dd76c35cb401fee5da9d23eca2ad3c",
         "ip": "64.68.200.48",
         "port": "443",
         "program": "villedequebec",
@@ -2029,7 +2692,7 @@
     },
     {
         "_id": "64.68.200.48:80",
-        "_rev": "10-f7d1dc05cc9f9d775b8859ab3fcdfee2",
+        "_rev": "14-6d2664f65d3597bd2a444aabb887a6c8",
         "ip": "64.68.200.48",
         "port": "80",
         "program": "villedequebec",
@@ -2042,7 +2705,7 @@
     },
     {
         "_id": "69.49.101.57:21",
-        "_rev": "5-544019223b6d49aebc7874249bab4fb9",
+        "_rev": "9-f31ebb0cd0549446b173a77331c16e67",
         "ip": "69.49.101.57",
         "port": "21",
         "program": "villedequebec",
@@ -2055,7 +2718,7 @@
     },
     {
         "_id": "69.49.101.57:22",
-        "_rev": "5-3992e6538e0d3df1969120d87459da17",
+        "_rev": "9-3c5a58b3b263dc2b51f5d047f81b2c6b",
         "ip": "69.49.101.57",
         "port": "22",
         "program": "villedequebec",
@@ -2068,7 +2731,7 @@
     },
     {
         "_id": "69.49.101.57:443",
-        "_rev": "5-c23d2e92ad81ba146d4eacfeb1a501d4",
+        "_rev": "9-a3335ea4a155a99a77bc6654ec64e8b6",
         "ip": "69.49.101.57",
         "port": "443",
         "program": "villedequebec",
@@ -2081,8 +2744,47 @@
     },
     {
         "_id": "69.49.101.57:80",
-        "_rev": "5-dd51cd86f870ffcd759504eb5337c3af",
+        "_rev": "9-f85267e36384086280db539e91216636",
         "ip": "69.49.101.57",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "99.79.156.1:22",
+        "_rev": "7-da2e1180448ac5fd1079c42f39eda7f8",
+        "ip": "99.79.156.1",
+        "port": "22",
+        "program": "villedequebec",
+        "service": "ssh",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "99.79.156.1:443",
+        "_rev": "10-f1ca38bcb6919c4295c04fc4691309ec",
+        "ip": "99.79.156.1",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "99.79.156.1:80",
+        "_rev": "10-40ab3ff9e9df27d617b9ecea18910f25",
+        "ip": "99.79.156.1",
         "port": "80",
         "program": "villedequebec",
         "service": "http",
