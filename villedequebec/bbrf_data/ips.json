@@ -15,29 +15,31 @@
     },
     {
         "_id": "104.245.200.145",
-        "_rev": "20-62cc18c1599a8d199b60d5272dedd3ea",
+        "_rev": "22-b0ae1d23a2b05e44cc3863bafa49d4f7",
         "domains": [
-            "git.qc.ca"
+            "git.qc.ca",
+            "server.k2web.ca"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
     {
         "_id": "108.163.147.52",
-        "_rev": "20-699260eaa2489aeea31b1afa9da437f1",
+        "_rev": "22-1f16ac743a6037a16f54ad85ebc72073",
         "domains": [
-            "sv.qc.ca"
+            "sv.qc.ca",
+            "s172.panelboxmanager.com"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
@@ -58,10 +60,10 @@
         "type": "ip"
     },
     {
-        "_id": "15.222.112.81",
-        "_rev": "24-af7626c7ae09776eba3550acaabcd7da",
+        "_id": "13.107.246.36",
+        "_rev": "2-d7d048fe45e555e8d7dc40243c300af6",
         "domains": [
-            "sip.qc.ca"
+            "gpddocs.ville.quebec.qc.ca"
         ],
         "program": "villedequebec",
         "tags": {
@@ -72,8 +74,23 @@
         "type": "ip"
     },
     {
+        "_id": "15.222.112.81",
+        "_rev": "26-418e3b88f898885de6d034e07aa718ad",
+        "domains": [
+            "sip.qc.ca",
+            "canada12.rebel.com"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdnwaf": "false",
+            "portscan_date": "20240619",
+            "resolved": "true"
+        },
+        "type": "ip"
+    },
+    {
         "_id": "162.159.136.54",
-        "_rev": "46-bfc92dbf7241c799fb3a73b915b90814",
+        "_rev": "48-9697a4faa18749d1ebb8a5256e15873b",
         "domains": [
             "sport.qc.ca"
         ],
@@ -87,7 +104,7 @@
     },
     {
         "_id": "162.159.137.54",
-        "_rev": "46-bfc92dbf7241c799fb3a73b915b90814",
+        "_rev": "48-9697a4faa18749d1ebb8a5256e15873b",
         "domains": [
             "sport.qc.ca"
         ],
@@ -101,15 +118,16 @@
     },
     {
         "_id": "192.30.252.153",
-        "_rev": "20-496be05b09ccb61923c8181b21179dd1",
+        "_rev": "22-b237a3201c82770292455b59206b00d0",
         "domains": [
-            "dd.qc.ca"
+            "dd.qc.ca",
+            "lb-192-30-252-153-iad.github.com"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
@@ -411,7 +429,7 @@
     },
     {
         "_id": "198.168.96.25",
-        "_rev": "20-92c45da936cc0ac1cf246808671d4ae9",
+        "_rev": "22-227a8928e00a6976935102f6669d653e",
         "domains": [
             "smtp-sortie.ville.quebec.qc.ca"
         ],
@@ -419,7 +437,7 @@
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
@@ -603,7 +621,7 @@
     },
     {
         "_id": "198.168.96.69",
-        "_rev": "20-e0069934af1c123599d2e7341bd257c2",
+        "_rev": "22-0fc595183a03d281c8804ada82cbbd56",
         "domains": [
             "smtp-sortant.ville.quebec.qc.ca"
         ],
@@ -611,7 +629,7 @@
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
@@ -1004,7 +1022,7 @@
     },
     {
         "_id": "198.168.97.143",
-        "_rev": "20-1f3ca4af97444c53f29f9036deb01d6e",
+        "_rev": "22-5d3d33b5371d717fd843e4bc335b68c0",
         "domains": [
             "validation.ville.quebec.qc.ca"
         ],
@@ -1012,7 +1030,7 @@
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
@@ -1089,7 +1107,7 @@
     },
     {
         "_id": "198.168.97.25",
-        "_rev": "20-49fabc6b1e0a3d177f65856c96cd4733",
+        "_rev": "22-44bb9fae79f52542d07eccffc6477e4e",
         "domains": [
             "smtpsortieouest.ville.quebec.qc.ca"
         ],
@@ -1097,7 +1115,7 @@
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
@@ -1204,7 +1222,7 @@
     },
     {
         "_id": "198.168.97.69",
-        "_rev": "20-e0069934af1c123599d2e7341bd257c2",
+        "_rev": "22-0fc595183a03d281c8804ada82cbbd56",
         "domains": [
             "smtp-sortant.ville.quebec.qc.ca"
         ],
@@ -1212,7 +1230,7 @@
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
@@ -1278,18 +1296,19 @@
     },
     {
         "_id": "199.59.247.100",
-        "_rev": "22-76808135b3f98780045376066a3cad38",
+        "_rev": "24-ffc12f2b766642bc97128545ae6b49ac",
         "domains": [
             "intranet.cmquebec.qc.ca",
             "www.cmquebec.qc.ca",
             "www.intranet.cmquebec.qc.ca",
-            "cmquebec.qc.ca"
+            "cmquebec.qc.ca",
+            "hybrid1546.ca.ns.planethoster.net"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
@@ -1336,6 +1355,20 @@
             "alerte.ville.quebec.qc.ca",
             "pdidev.app.ville.quebec.qc.ca",
             "blogue.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdnwaf": "false",
+            "portscan_date": "20240619",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
+        "_id": "20.22.31.128",
+        "_rev": "2-4d265d4739e56ddeb999ffd7f4798a6e",
+        "domains": [
+            "decisions.ville.quebec.qc.ca"
         ],
         "program": "villedequebec",
         "tags": {
@@ -1490,85 +1523,91 @@
     },
     {
         "_id": "204.101.92.5",
-        "_rev": "20-e3ddc7434d199bba793c400c5b2439cd",
+        "_rev": "22-77ae363461e6d9b63c4b8d1d05bc4054",
         "domains": [
-            "pma.qc.ca"
+            "pma.qc.ca",
+            "net092-005.host.partnersolutions.ca"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
     {
         "_id": "206.187.24.150",
-        "_rev": "20-7832c36d0ddb8e2b8c624ed49e8cf20e",
+        "_rev": "22-6a4c99e0ba9db5df6d8acc16175d5c98",
         "domains": [
-            "catalogue.bibliothequedequebec.qc.ca"
+            "catalogue.bibliothequedequebec.qc.ca",
+            "chulak.sirsidynix.net"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
     {
         "_id": "216.251.32.98",
-        "_rev": "20-72ecf13fe2bbf9f570d0cbe61204cfc8",
+        "_rev": "22-bea61c32a4ccd3e6766464f81636bfe2",
         "domains": [
-            "demo.qc.ca"
+            "demo.qc.ca",
+            "hosting.megawebservers.com"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
     {
         "_id": "216.40.47.17",
-        "_rev": "20-a768c835f35aa1aa013f22bcff0f3e3b",
+        "_rev": "22-84eeb4e3856d52d92e0df54cc34a6ce6",
         "domains": [
-            "job.qc.ca"
+            "job.qc.ca",
+            "redirect.managednsservice.com"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
     {
         "_id": "23.236.62.147",
-        "_rev": "25-40b3d666f3cf972f392b8557bca946a1",
+        "_rev": "27-1c3b9993a30d342e365fb99caac8592a",
         "domains": [
-            "pre.qc.ca"
+            "pre.qc.ca",
+            "147.62.236.23.bc.googleusercontent.com"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
     {
         "_id": "35.208.26.197",
-        "_rev": "25-d2a973cf6cfe8de308e3d7f4d78c3548",
+        "_rev": "27-790b7fff79584f6827d265df6cc40292",
         "domains": [
-            "mm.qc.ca"
+            "mm.qc.ca",
+            "197.26.208.35.bc.googleusercontent.com"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
@@ -1601,6 +1640,32 @@
         "type": "ip"
     },
     {
+        "_id": "40.99.141.24",
+        "_rev": "1-ba8210089a6d0913c29b7ccdef9448db",
+        "domains": [
+            "autodiscover.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdn": "false",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
+        "_id": "40.99.141.8",
+        "_rev": "1-ba8210089a6d0913c29b7ccdef9448db",
+        "domains": [
+            "autodiscover.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdn": "false",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
         "_id": "40.99.236.120",
         "_rev": "20-1e34b1227e843dca7d00db8efa9c7121",
         "domains": [
@@ -1616,15 +1681,16 @@
     },
     {
         "_id": "51.161.122.78",
-        "_rev": "20-eab10703c470098afaa2a53cc1e88872",
+        "_rev": "22-2f17bda94d5095aab637a250a1c24ad0",
         "domains": [
-            "idp.qc.ca"
+            "idp.qc.ca",
+            "cluster051.hosting.ovh.net"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
@@ -1652,6 +1718,19 @@
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.15.184",
+        "_rev": "1-ba8210089a6d0913c29b7ccdef9448db",
+        "domains": [
+            "autodiscover.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdn": "false",
             "resolved": "false"
         },
         "type": "ip"
@@ -1708,6 +1787,32 @@
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.183.40",
+        "_rev": "1-ba8210089a6d0913c29b7ccdef9448db",
+        "domains": [
+            "autodiscover.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdn": "false",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.230.136",
+        "_rev": "1-ba8210089a6d0913c29b7ccdef9448db",
+        "domains": [
+            "autodiscover.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdn": "false",
             "resolved": "false"
         },
         "type": "ip"
@@ -1811,6 +1916,19 @@
         "type": "ip"
     },
     {
+        "_id": "52.96.87.216",
+        "_rev": "1-ba8210089a6d0913c29b7ccdef9448db",
+        "domains": [
+            "autodiscover.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdn": "false",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
         "_id": "52.96.87.248",
         "_rev": "20-1e34b1227e843dca7d00db8efa9c7121",
         "domains": [
@@ -1839,8 +1957,34 @@
         "type": "ip"
     },
     {
+        "_id": "52.96.88.152",
+        "_rev": "1-ba8210089a6d0913c29b7ccdef9448db",
+        "domains": [
+            "autodiscover.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdn": "false",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
+        "_id": "52.96.88.168",
+        "_rev": "1-ba8210089a6d0913c29b7ccdef9448db",
+        "domains": [
+            "autodiscover.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdn": "false",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
         "_id": "54.39.127.81",
-        "_rev": "20-e02d6aa93845c215c99ddfc17d9d9ac3",
+        "_rev": "22-2a6d742f2b7a46984621b5213a7ffdf6",
         "domains": [
             "dossieranimal.ville.quebec.qc.ca"
         ],
@@ -1848,13 +1992,13 @@
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
     {
         "_id": "64.68.200.48",
-        "_rev": "20-d7dd41cec22465f2501c2023c493d063",
+        "_rev": "22-69e0cc7fe3f55830569e06ebe58ccf24",
         "domains": [
             "acces.ville.quebec.qc.ca",
             "alertes.ville.quebec.qc.ca",
@@ -1862,43 +2006,46 @@
             "taxes.ville.quebec.qc.ca",
             "loisirs-organismes.ville.quebec.qc.ca",
             "cumulus.app.ville.quebec.qc.ca",
-            "loisirs.ville.quebec.qc.ca"
+            "loisirs.ville.quebec.qc.ca",
+            "url-fwd-https.easydns.com"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
     {
         "_id": "69.49.101.57",
-        "_rev": "20-a8e7e8054c196089851db37a169444a2",
+        "_rev": "22-aa2d258754acb4432c00e2190242301e",
         "domains": [
-            "prd.qc.ca"
+            "prd.qc.ca",
+            "hostedc11.megawebservers.com"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     },
     {
         "_id": "99.79.156.1",
-        "_rev": "24-41439410c55c23c07bdfb9ffa59a03b8",
+        "_rev": "26-6393ebd1fa53525b7ab985dd0f2ada3f",
         "domains": [
             "batirensemble.cmquebec.qc.ca",
             "participationcitoyenne.ville.quebec.qc.ca",
-            "www.batirensemble.cmquebec.qc.ca"
+            "www.batirensemble.cmquebec.qc.ca",
+            "ec2-99-79-156-1.ca-central-1.compute.amazonaws.com"
         ],
         "program": "villedequebec",
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
-            "resolved": "false"
+            "resolved": "true"
         },
         "type": "ip"
     }
