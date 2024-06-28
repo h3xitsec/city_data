@@ -74,6 +74,20 @@
         "type": "ip"
     },
     {
+        "_id": "13.107.246.51",
+        "_rev": "2-70db0c4bb3647adec7286d7c90a38dde",
+        "domains": [
+            "accesinfo-docs.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdnwaf": "false",
+            "portscan_date": "20240622",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
         "_id": "15.222.112.81",
         "_rev": "26-418e3b88f898885de6d034e07aa718ad",
         "domains": [
@@ -90,7 +104,7 @@
     },
     {
         "_id": "162.159.136.54",
-        "_rev": "48-9697a4faa18749d1ebb8a5256e15873b",
+        "_rev": "50-a6414e924d41d113e025b2b3290dd783",
         "domains": [
             "sport.qc.ca"
         ],
@@ -104,7 +118,7 @@
     },
     {
         "_id": "162.159.137.54",
-        "_rev": "48-9697a4faa18749d1ebb8a5256e15873b",
+        "_rev": "50-a6414e924d41d113e025b2b3290dd783",
         "domains": [
             "sport.qc.ca"
         ],

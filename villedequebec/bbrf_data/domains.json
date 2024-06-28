@@ -50,7 +50,7 @@
     },
     {
         "_id": "acc-ge.app.ville.quebec.qc.ca",
-        "_rev": "26-c177cb54338feed6d70f3a3a45b1d0d1",
+        "_rev": "29-84f3b3ce3c07a1ab09f906ac31d88b37",
         "ips": [
             "20.232.173.23"
         ],
@@ -67,9 +67,9 @@
             "https_port": [
                 "443"
             ],
-            "permutation_tested_date": "20240614",
+            "permutation_tested_date": "20240620",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240620",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -80,7 +80,7 @@
     },
     {
         "_id": "acc-sesame.ville.quebec.qc.ca",
-        "_rev": "5-5391f6f2238bb08e7dba519e741e4535",
+        "_rev": "6-61050c6588d62280bb0e66e6cb1a0223",
         "ips": [],
         "program": "villedequebec",
         "tags": {
@@ -89,7 +89,7 @@
             "http_alive": "false",
             "http_probed_date": "never",
             "https": "false",
-            "permutation_tested_date": "20240614",
+            "permutation_tested_date": "20240622",
             "resolved": "false",
             "resolved_date": "20240619",
             "scanned": "false",
@@ -152,7 +152,7 @@
     },
     {
         "_id": "accesinfo-cms.ville.quebec.qc.ca",
-        "_rev": "28-91c67aad715fcf4db8d8c8148a3e6e01",
+        "_rev": "30-2179f8c747667164345a60e3b243e9ee",
         "ips": [
             "20.48.202.168"
         ],
@@ -171,7 +171,7 @@
             ],
             "permutation_tested_date": "20240614",
             "resolved": "true",
-            "resolved_date": "20240617",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -182,9 +182,10 @@
     },
     {
         "_id": "accesinfo-docs.ville.quebec.qc.ca",
-        "_rev": "27-5585bb0e9336724d862954621c09c02c",
+        "_rev": "29-439564da0a62697cd939543f4339e516",
         "ips": [
-            "13.107.246.35"
+            "13.107.246.35",
+            "13.107.246.51"
         ],
         "program": "villedequebec",
         "tags": {
@@ -201,7 +202,7 @@
             ],
             "permutation_tested_date": "20240617",
             "resolved": "true",
-            "resolved_date": "20240617",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -212,7 +213,7 @@
     },
     {
         "_id": "accesinfo.ville.quebec.qc.ca",
-        "_rev": "32-5b0b472232f53017e89c57324258b8b6",
+        "_rev": "34-566a75660fcdb7698b42c0a28ee4c6b4",
         "ips": [
             "20.175.151.117"
         ],
@@ -231,7 +232,7 @@
             ],
             "permutation_tested_date": "20240617",
             "resolved": "true",
-            "resolved_date": "20240617",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -389,7 +390,7 @@
     },
     {
         "_id": "api.ville.quebec.qc.ca",
-        "_rev": "44-c332190c7cd7ae50207f6e5ec087da1b",
+        "_rev": "48-f4c3907dc72e0d3e40dbbb5e4d426181",
         "ips": [
             "198.168.96.52"
         ],
@@ -408,7 +409,7 @@
             ],
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -749,7 +750,7 @@
     },
     {
         "_id": "autodiscover.ville.quebec.qc.ca",
-        "_rev": "39-1f789cd8b4661274237040f1ecce42cb",
+        "_rev": "43-6610252871ed20fd9a6206919974abf1",
         "ips": [
             "40.99.227.104",
             "52.96.230.88",
@@ -804,7 +805,13 @@
             "52.96.88.152",
             "52.96.15.184",
             "52.96.183.40",
-            "52.96.87.216"
+            "52.96.87.216",
+            "52.96.111.8",
+            "52.96.32.184",
+            "52.96.109.216",
+            "52.96.58.104",
+            "40.99.163.248",
+            "40.99.226.216"
         ],
         "program": "villedequebec",
         "tags": {
@@ -818,7 +825,7 @@
             "https": "false",
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -829,7 +836,7 @@
     },
     {
         "_id": "av.ville.quebec.qc.ca",
-        "_rev": "30-2cb336e94f78811269796070e4248a47",
+        "_rev": "34-b476a0151442cb1af3772a32e35da36e",
         "ips": [
             "198.168.96.185"
         ],
@@ -842,7 +849,7 @@
             "https": "false",
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -2395,7 +2402,7 @@
     },
     {
         "_id": "data.ville.quebec.qc.ca",
-        "_rev": "30-480fcaecad320b24942a5b42c4278ce7",
+        "_rev": "34-6ee87aeaa6cd86b5b55c48c33334ef6b",
         "ips": [
             "198.168.96.145"
         ],
@@ -2408,7 +2415,7 @@
             "https": "false",
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -2852,7 +2859,7 @@
     },
     {
         "_id": "enterpriseenrollment.ville.quebec.qc.ca",
-        "_rev": "45-d6398975f2cc56f806c43cf87fbd49ef",
+        "_rev": "49-747a9060a83adec2b7ff920b53dab7fd",
         "ips": [
             "52.182.141.192",
             "52.168.116.128",
@@ -2873,7 +2880,7 @@
             ],
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -2884,7 +2891,7 @@
     },
     {
         "_id": "enterpriseregistration.ville.quebec.qc.ca",
-        "_rev": "42-a439338c417f2d1238d1566363afcb90",
+        "_rev": "46-14569e0f302811d1ee740492e094b048",
         "ips": [
             "20.190.156.68",
             "20.190.156.66",
@@ -2909,7 +2916,7 @@
             ],
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -3139,7 +3146,7 @@
     },
     {
         "_id": "fs.ville.quebec.qc.ca",
-        "_rev": "30-67a1e1bd20b19ecf4d02d9099983c6fb",
+        "_rev": "34-271076a5494540c2289f207d03adec2a",
         "ips": [
             "198.168.96.33"
         ],
@@ -3152,7 +3159,7 @@
             "https": "false",
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -3163,7 +3170,7 @@
     },
     {
         "_id": "ftp.ville.quebec.qc.ca",
-        "_rev": "30-bf645b5d2abfd11ccd44079edfdcf78d",
+        "_rev": "34-8ec80892451caabf3bb162b10fe9e4d0",
         "ips": [
             "198.168.96.29"
         ],
@@ -3176,7 +3183,7 @@
             "https": "false",
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -3187,7 +3194,7 @@
     },
     {
         "_id": "ftp2.ville.quebec.qc.ca",
-        "_rev": "30-5b93bfd93b8938b5b744d280a352e145",
+        "_rev": "34-d2c11718883c44da055a88d43695ec78",
         "ips": [
             "198.168.97.81"
         ],
@@ -3200,7 +3207,7 @@
             "https": "false",
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -3211,7 +3218,7 @@
     },
     {
         "_id": "ftp3.ville.quebec.qc.ca",
-        "_rev": "30-5b93bfd93b8938b5b744d280a352e145",
+        "_rev": "34-d2c11718883c44da055a88d43695ec78",
         "ips": [
             "198.168.97.81"
         ],
@@ -3224,7 +3231,7 @@
             "https": "false",
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -3385,7 +3392,7 @@
     },
     {
         "_id": "ge.app.ville.quebec.qc.ca",
-        "_rev": "27-045ebefdffcd951c4598283dcc854fbe",
+        "_rev": "29-b686154b6df1e4628099a8f3f155fc12",
         "ips": [
             "20.232.173.23"
         ],
@@ -3404,7 +3411,7 @@
             ],
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240620",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -5390,7 +5397,7 @@
     },
     {
         "_id": "monitoring.app.ville.quebec.qc.ca",
-        "_rev": "26-457609f5ca8581b9a217ea66aee51295",
+        "_rev": "28-0bc574ca6ac69eb1db1ca65371aa6d14",
         "ips": [
             "20.232.173.23"
         ],
@@ -5409,7 +5416,7 @@
             ],
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240620",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -7651,7 +7658,7 @@
     },
     {
         "_id": "services.ville.quebec.qc.ca",
-        "_rev": "41-56539cf7bad6f75d9fd0aa9ef49dd4ff",
+        "_rev": "45-13e64c96cf2ddda2d5b8a21ce8530738",
         "ips": [
             "198.168.96.15"
         ],
@@ -7670,7 +7677,7 @@
             ],
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -7821,7 +7828,7 @@
     },
     {
         "_id": "sesame.ville.quebec.qc.ca",
-        "_rev": "14-bb3067e4440eaa7b33d811b7cab84819",
+        "_rev": "16-60186190596d49c5bf7afc5af8ec2a76",
         "ips": [
             "198.168.96.33"
         ],
@@ -7834,7 +7841,7 @@
             "https": "false",
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -8713,7 +8720,7 @@
     },
     {
         "_id": "tramwaydequebec.info",
-        "_rev": "9-09ff44ee37e3dce520f71142f9234598",
+        "_rev": "16-0938e10a6127a0dd43b42f532e8a7e66",
         "ips": [
             "198.168.96.23"
         ],
@@ -8723,14 +8730,15 @@
             "http": "false",
             "http_alive": "true",
             "http_port": "80",
-            "http_probed_date": "20240617",
+            "http_probed_date": "20240622",
             "https": "true",
+            "https_port": "443",
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240617",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
-            "tko_scanned_date": "20240617",
+            "tko_scanned_date": "20240622",
             "tko_tested": "true",
             "urlrecon_date": "never"
         },
@@ -8897,7 +8905,7 @@
     },
     {
         "_id": "ville.quebec.qc.ca",
-        "_rev": "42-b351f53d6196d32760c1744e053a70ab",
+        "_rev": "46-504da8a6da758b24ab0ca085618a68b3",
         "ips": [
             "198.168.96.123"
         ],
@@ -8914,7 +8922,7 @@
             "https_port": "443",
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -9133,7 +9141,7 @@
     },
     {
         "_id": "vpn.ville.quebec.qc.ca",
-        "_rev": "39-fb3257b8112eae5f0bd4a194243a642d",
+        "_rev": "43-aebcb3c842589ceef5f5d41836441fa4",
         "ips": [
             "198.168.97.5"
         ],
@@ -9149,7 +9157,7 @@
             ],
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",
@@ -10978,7 +10986,7 @@
     },
     {
         "_id": "www.ville.quebec.qc.ca",
-        "_rev": "42-ea430668edcb5eb53ce28063057b1e29",
+        "_rev": "46-e0db1f361a8d18cc8e8dacd916bcf859",
         "ips": [
             "198.168.96.123"
         ],
@@ -10997,7 +11005,7 @@
             ],
             "permutation_tested_date": "never",
             "resolved": "true",
-            "resolved_date": "20240619",
+            "resolved_date": "20240622",
             "scanned": "false",
             "tko_scanned": "false",
             "tko_scanned_date": "20240619",

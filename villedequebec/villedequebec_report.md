@@ -4,14 +4,14 @@
 
 | Asset Type | Count |
 |------------|-------|
-|Urls|300|
+|Urls|0|
 |Resolved Domains|223|
 |HTTP Alive Domains|188|
 |Unresolved Domains|232|
-|Services|230|
-|Ips|132|
+|Services|232|
+|Ips|133|
 
-*Generated: 2024-06-20 @ 00:04:37*
+*Generated: 2024-06-27 @ 23:33:15*
 
 ## Scope
 
@@ -39,306 +39,6 @@
 
 | URL | StatusCode | Title | Location | Techs |
 |-----|------------|-------|----------|-------|
-| http://311.ville.quebec.qc.ca:80/ | 200 | 311_|_Ville_de_Québec | N/A | ['node.js', 'iis:10.0', 'nuxt.js', 'vue.js', 'windows_server'] |
-| http://acc-ge.app.ville.quebec.qc.ca:80/ | 404 | N/A | N/A | [] |
-| http://acces.ville.quebec.qc.ca:80/ | 200 | Portail_d'accès_sécurisé_de_la_Ville_de_Québec_<br><br><font_size="2"_color="#000080">_Si_vous_éprouvez_des_difficultés_de_connexion,_veuillez_contacter_l'assistance_TI.<br><br>Différentes_options_s'offrent_à_vous_:<br><br>Par_téléphone_pour_joindre_le_6410_:<br>418_641_6410<br>1_833_407_0971_(numéro_sans_frais_pour_les_appels_en_provenance_de_l’Amérique_du_Nord<br><br>Par_<a_href="https://direct.lc.chat/7935311/14">_<FONT_COLOR="#0000FF">messagerie_instantanée</a><br><br><font_size="2"_color="#000080">Par_courriel_:<br>_<a_href="mailto:6410@ville.quebec.qc.ca"></a>_<FONT_COLOR="#0000FF">_6410@ville.quebec.qc.ca<font_color="#000080">_(SVP_ne_pas_oublier_d’y_indiquer_un_numéro_de_téléphone_pour_vous_rejoindre_facilement)</font> | N/A | hsts |
-| http://accesinfo-cms.ville.quebec.qc.ca:80/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| http://accesinfo-docs.ville.quebec.qc.ca:80/ | 400 | N/A | N/A | ['azure_front_door', 'azure'] |
-| http://accesinfo.ville.quebec.qc.ca:80/ | 200 | Demande_d'accès_à_l'information_–_Ville_de_Québec | N/A | ['google_tag_manager', 'bootstrap:3.3.7', 'hsts', 'kestrel', 'microsoft_asp.net', 'typekit'] |
-| http://alerte.ville.quebec.qc.ca:80/ | 200 | Québec_en_alerte___Ville_de_Québec___Alerte_inactive | N/A | ['hsts', 'google_tag_manager', 'kestrel', 'microsoft_asp.net'] |
-| http://alertes.ville.quebec.qc.ca:80/ | 200 | Québec_en_alerte___Ville_de_Québec___Alerte_inactive | N/A | ['hsts', 'google_tag_manager', 'kestrel', 'microsoft_asp.net'] |
-| http://api.ville.quebec.qc.ca:80/ | 403 | 403___Forbidden:_Access_is_denied. | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| http://apps-externes.ville.quebec.qc.ca:80/ | 200 | N/A | N/A | ['windows_server', 'iis:10.0'] |
-| http://archeologie.ville.quebec.qc.ca:80/ | 200 | Accueil___Archéologie___Ville_de_Québec | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net:4.0.30319', 'windows_server'] |
-| http://archiveshisto.ville.quebec.qc.ca:80/ | 403 | 403___Forbidden:_Access_is_denied. | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| http://autodiscover.ville.quebec.qc.ca:80/ | 200 | Redirecting | N/A | hsts |
-| http://batirensemble.cmquebec.qc.ca:80/ | 200 | N/A | N/A | hsts |
-| http://bibliothequedequebec.qc.ca:80/ | 200 | Bibliothèque_de_Québec_–_Découvrir._Se_divertir._Rêver.___Bibliothèques_de_la_ville_de_Québec | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net:4.0.30319', 'windows_server'] |
-| http://blogue.ville.quebec.qc.ca:80/ | 200 | Accueil___Blogue_#AccentLocal | N/A | ['hsts', 'google_tag_manager', 'kestrel', 'mailchimp', 'microsoft_asp.net'] |
-| http://bvi-cloud.ville.quebec.qc.ca:80/ | 200 | VMware_Horizon | N/A | ['java', 'hsts'] |
-| http://bvi.ville.quebec.qc.ca:80/ | 200 | VMware_Horizon | N/A | ['java', 'hsts'] |
-| http://carte.ville.quebec.qc.ca:80/ | 200 | Redirection_en_cours... | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| http://catalogue.bibliothequedequebec.qc.ca:80/ | 200 | Bibliothèque_de_Québec | N/A | ['hsts', 'apache_http_server', 'java'] |
-| http://cmquebec.qc.ca:2082/ | 200 | cPanel_Login | N/A | cpanel |
-| http://cmquebec.qc.ca:80/ | 200 | Communauté_métropolitaine_de_Québec | N/A | ['google_tag_manager', 'apache_http_server', 'mysql', 'php', 'wordpress'] |
-| http://console-ti-acc.ga.app.ville.quebec.qc.ca:80/ | 503 | 503_Service_Temporarily_Unavailable | N/A | hsts |
-| http://console-ti-dev.ga.app.ville.quebec.qc.ca:80/ | 503 | 503_Service_Temporarily_Unavailable | N/A | hsts |
-| http://console-ti.ga.app.ville.quebec.qc.ca:80/ | 503 | 503_Service_Temporarily_Unavailable | N/A | hsts |
-| http://cumulus.app.ville.quebec.qc.ca:443/ | 400 | 400_The_plain_HTTP_request_was_sent_to_HTTPS_port | N/A | nginx |
-| http://cumulus.app.ville.quebec.qc.ca:80/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| http://decisions.ville.quebec.qc.ca:80/ | 200 | GPD_–_Documents_décisionnels | N/A | ['google_tag_manager', 'bootstrap:3.3.7', 'hsts', 'typekit'] |
-| http://dev-ge.app.ville.quebec.qc.ca:80/ | 404 | N/A | N/A | [] |
-| http://dossieranimal.ville.quebec.qc.ca:80/ | 200 | N/A | N/A | ['nginx', 'hsts'] |
-| http://ecoute-spciq.app.ville.quebec.qc.ca:80/ | 200 | Redirecting | N/A | hsts |
-| http://enterpriseenrollment.ville.quebec.qc.ca:80/ | 200 | Microsoft_Intune_admin_center | N/A | ['azure_front_door', 'azure', 'hsts'] |
-| http://enterpriseregistration.ville.quebec.qc.ca:80/ | 404 | N/A | N/A | [] |
-| http://ezdev.bibliothequedequebec.qc.ca:80/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| http://gdcm.ville.quebec.qc.ca:80/ | 200 | GDCM___Gestion_des_consentements_municipaux | N/A | ['microsoft_asp.net:4.0.30319', 'iis:10.0', 'windows_server'] |
-| http://ge.app.ville.quebec.qc.ca:80/ | 404 | N/A | N/A | [] |
-| http://gpddocs-dev.ville.quebec.qc.ca:80/ | 400 | N/A | N/A | ['azure_front_door', 'azure'] |
-| http://gpddocs.ville.quebec.qc.ca:80/ | 404 | Page_not_found | N/A | ['azure_front_door', 'azure'] |
-| http://hydroweb.ville.quebec.qc.ca:80/ | 215 | Hydroweb | N/A | nginx:1.22.1 |
-| http://icd-acc.app.ville.quebec.qc.ca:80/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| http://icd-dev.app.ville.quebec.qc.ca:80/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| http://icd-formation.app.ville.quebec.qc.ca:80/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| http://icd.app.ville.quebec.qc.ca:80/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| http://imagespatrimoine.ville.quebec.qc.ca:80/ | 403 | 403___Forbidden:_Access_is_denied. | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| http://intranet.cmquebec.qc.ca:2082/ | 200 | cPanel_Login | N/A | cpanel |
-| http://intranet.cmquebec.qc.ca:80/ | 200 | Communauté_métropolitaine_de_Québec | N/A | ['google_tag_manager', 'apache_http_server', 'mysql', 'php', 'wordpress'] |
-| http://loisirs-organismes.ville.quebec.qc.ca:80/ | 200 | Ville_de_Québec___Site_officiel_de_la_Ville_de_Québec | N/A | hsts |
-| http://loisirs-paiement.ville.quebec.qc.ca:80/ | 200 | Ville_de_Québec___Site_officiel_de_la_Ville_de_Québec | N/A | hsts |
-| http://loisirs.ville.quebec.qc.ca:80/ | 200 | Activités_de_loisir | N/A | ['hsts', 'google_tag_manager', 'microsoft_asp.net'] |
-| http://maintenance.ville.quebec.qc.ca:80/ | 200 | Ville_de_Québec___Site_officiel_de_la_Ville_de_Québec | N/A | hsts |
-| http://maximoeam-acc.app.ville.quebec.qc.ca:80/ | 200 | Redirecting | N/A | hsts |
-| http://maximoeam-dev.app.ville.quebec.qc.ca:80/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| http://maximoeam-formation.app.ville.quebec.qc.ca:80/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| http://maximoeam-rapport.app.ville.quebec.qc.ca:80/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| http://maximoeam.app.ville.quebec.qc.ca:80/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| http://midi.ville.quebec.qc.ca:80/ | 200 | MIDI | N/A | ['microsoft_asp.net:4.0.30319', 'iis:10.0', 'windows_server'] |
-| http://monitoring.app.ville.quebec.qc.ca:80/ | 404 | N/A | N/A | [] |
-| http://partenaires.bibliothequedequebec.qc.ca:80/ | 403 | 403___Forbidden:_Access_is_denied. | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| http://partenaires.ville.quebec.qc.ca:80/ | 200 | N/A | N/A | ['microsoft_asp.net:4.0.30319', 'iis:10.0', 'windows_server'] |
-| http://participationcitoyenne.ville.quebec.qc.ca:80/ | 200 | Participation_citoyenne___Ville_de_Québec | N/A | hsts |
-| http://pdidev.app.ville.quebec.qc.ca:80/ | 404 | 404_Not_Found | N/A | [] |
-| http://portailvip-recpreprod.ville.quebec.qc.ca:80/ | 200 | N/A | N/A | ['microsoft_asp.net', 'hsts'] |
-| http://premiereovation.com:80/ | 200 | Première_Ovation_–_Accueil | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net:4.0.30319', 'windows_server'] |
-| http://reglements.ville.quebec.qc.ca:80/ | 200 | Portail_des_règlements_municipaux_de_la_Ville_de_Québec | N/A | google_tag_manager |
-| http://rel-www.ville.quebec.qc.ca:80/ | 404 | Not_Found | N/A | microsoft_httpapi:2.0 |
-| http://service-alarmes-acc.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-alarmes-dev.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-alarmes.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-configuration-acc.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-configuration-dev.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-configuration.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-declencheur-acc.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-declencheur-dev.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-declencheur.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-etatequipement-acc.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-etatequipement-dev.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-etatequipement.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-infoequipement-acc.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-infoequipement-dev.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-infoequipement.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-interventions-acc.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-interventions-dev.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-interventions.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-preemption-acc.ga.app.ville.quebec.qc.ca:80/ | 503 | 503_Service_Temporarily_Unavailable | N/A | hsts |
-| http://service-preemption-dev.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://service-preemption.ga.app.ville.quebec.qc.ca:80/ | 403 | 403_Forbidden | N/A | hsts |
-| http://services.ville.quebec.qc.ca:80/ | 403 | 403___Forbidden:_Access_is_denied. | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| http://servicessesame.ville.quebec.qc.ca:80/ | 404 | N/A | N/A | [] |
-| http://servicessesameacc.ville.quebec.qc.ca:80/ | 404 | N/A | N/A | [] |
-| http://suivimeteo.ville.quebec.qc.ca:80/ | 200 | IIS_Windows_Server | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| http://taxes.ville.quebec.qc.ca:80/ | 200 | Qu�bec | N/A | ['hsts', 'apache_http_server'] |
-| http://test-ecoute-spciq.app.ville.quebec.qc.ca:80/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| http://testssl.ville.quebec.qc.ca:80/ | 200 | N/A | N/A | bootstrap:5.2.3 |
-| http://tramwaydequebec.info:80/ | 200 | Le_tramway_de_Québec_|_Le_plus_grand_projet_collectif | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net:4.0.30319', 'windows_server', 'youtube'] |
-| http://vdi.ville.quebec.qc.ca:80/ | 200 | VMware_Horizon | N/A | ['java', 'hsts'] |
-| http://ville.quebec.qc.ca:80/ | 200 | Ville_de_Québec___Site_officiel_de_la_Ville_de_Québec | N/A | ['hsts', 'google_tag_manager', 'microsoft_asp.net'] |
-| http://vplus.ville.quebec.qc.ca:80/ | 200 | Portail_citoyen | N/A | ['react', 'hsts'] |
-| http://www.batirensemble.cmquebec.qc.ca:80/ | 200 | Bâtir_ensemble | N/A | hsts |
-| http://www.bibliothequedequebec.qc.ca:80/ | 200 | Bibliothèque_de_Québec_–_Découvrir._Se_divertir._Rêver.___Bibliothèques_de_la_ville_de_Québec | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net', 'windows_server'] |
-| http://www.cmquebec.qc.ca:2082/ | 200 | cPanel_Login | N/A | cpanel |
-| http://www.cmquebec.qc.ca:80/ | 200 | Communauté_métropolitaine_de_Québec | N/A | ['google_tag_manager', 'apache_http_server', 'mysql', 'php', 'wordpress'] |
-| http://www.intranet.cmquebec.qc.ca:2082/ | 200 | cPanel_Login | N/A | cpanel |
-| http://www.intranet.cmquebec.qc.ca:80/ | 200 | Communauté_métropolitaine_de_Québec | N/A | ['google_tag_manager', 'apache_http_server', 'mysql', 'php', 'wordpress'] |
-| http://www.premiereovation.com:80/ | 200 | Première_Ovation_–_Accueil | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net:4.0.30319', 'windows_server'] |
-| http://www.tramwaydequebec.info:80/ | 200 | Le_tramway_de_Québec_|_Le_plus_grand_projet_collectif | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net', 'windows_server', 'youtube'] |
-| http://www.ville.quebec.qc.ca:80/ | 200 | Ville_de_Québec___Site_officiel_de_la_Ville_de_Québec | N/A | ['hsts', 'google_tag_manager', 'microsoft_asp.net'] |
-| http://zoneemploye.ville.quebec.qc.ca:80/ | 200 | Zone_RH | N/A | ['hsts', 'bootstrap', 'microsoft_asp.net'] |
-| https://311.ville.quebec.qc.ca:443/ | 200 | 311_|_Ville_de_Québec | N/A | ['node.js', 'iis:10.0', 'nuxt.js', 'vue.js', 'windows_server'] |
-| https://acc-ge.app.ville.quebec.qc.ca:443/ | 404 | N/A | N/A | [] |
-| https://acces.ville.quebec.qc.ca:443/ | 200 | Portail_d'accès_sécurisé_de_la_Ville_de_Québec_<br><br><font_size="2"_color="#000080">_Si_vous_éprouvez_des_difficultés_de_connexion,_veuillez_contacter_l'assistance_TI.<br><br>Différentes_options_s'offrent_à_vous_:<br><br>Par_téléphone_pour_joindre_le_6410_:<br>418_641_6410<br>1_833_407_0971_(numéro_sans_frais_pour_les_appels_en_provenance_de_l’Amérique_du_Nord<br><br>Par_<a_href="https://direct.lc.chat/7935311/14">_<FONT_COLOR="#0000FF">messagerie_instantanée</a><br><br><font_size="2"_color="#000080">Par_courriel_:<br>_<a_href="mailto:6410@ville.quebec.qc.ca"></a>_<FONT_COLOR="#0000FF">_6410@ville.quebec.qc.ca<font_color="#000080">_(SVP_ne_pas_oublier_d’y_indiquer_un_numéro_de_téléphone_pour_vous_rejoindre_facilement)</font> | N/A | hsts |
-| https://accesinfo-cms.ville.quebec.qc.ca:443/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| https://accesinfo-docs.ville.quebec.qc.ca:443/ | 400 | N/A | N/A | ['azure_front_door', 'azure'] |
-| https://accesinfo.ville.quebec.qc.ca:443/ | 200 | Demande_d'accès_à_l'information_–_Ville_de_Québec | N/A | ['google_tag_manager', 'bootstrap:3.3.7', 'hsts', 'kestrel', 'microsoft_asp.net', 'typekit'] |
-| https://alerte.ville.quebec.qc.ca:443/ | 200 | Québec_en_alerte___Ville_de_Québec___Alerte_inactive | N/A | ['hsts', 'google_tag_manager', 'kestrel', 'microsoft_asp.net'] |
-| https://alertes.ville.quebec.qc.ca:443/ | 200 | Québec_en_alerte___Ville_de_Québec___Alerte_inactive | N/A | ['hsts', 'google_tag_manager', 'kestrel', 'microsoft_asp.net'] |
-| https://api.ville.quebec.qc.ca:443/ | 403 | 403___Forbidden:_Access_is_denied. | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| https://app.bibliodyssee.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://app.bibliodyssee.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://apps-externes.ville.quebec.qc.ca:443/ | 200 | N/A | N/A | [] |
-| https://archeologie.ville.quebec.qc.ca:443/ | 200 | Accueil___Archéologie___Ville_de_Québec | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net:4.0.30319', 'windows_server'] |
-| https://archiveshisto.ville.quebec.qc.ca:443/ | 403 | 403___Forbidden:_Access_is_denied. | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| https://assets.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://assets.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://atlasstat.cmquebec.qc.ca:443/ | 200 | N/A | N/A | ['iis:10.0', 'hsts', 'microsoft_asp.net', 'windows_server'] |
-| https://batirensemble.cmquebec.qc.ca:443/ | 200 | N/A | N/A | hsts |
-| https://biblio.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://biblio.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://bibliodysseeshelf.pubcoder.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://biblioqc.ululab.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://biblioqc.ululab.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec_–_Découvrir._Se_divertir._Rêver.___Bibliothèques_de_la_ville_de_Québec | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net:4.0.30319', 'windows_server'] |
-| https://blogue.ville.quebec.qc.ca:443/ | 200 | Accueil___Blogue_#AccentLocal | N/A | ['hsts', 'google_tag_manager', 'kestrel', 'mailchimp', 'microsoft_asp.net'] |
-| https://bvi-cloud.ville.quebec.qc.ca:443/ | 200 | VMware_Horizon | N/A | ['java', 'hsts'] |
-| https://bvi-cloud.ville.quebec.qc.ca:8443/ | 404 | N/A | N/A | [] |
-| https://bvi.ville.quebec.qc.ca:443/ | 200 | VMware_Horizon | N/A | ['java', 'hsts'] |
-| https://bvi.ville.quebec.qc.ca:8443/ | 404 | N/A | N/A | [] |
-| https://carte.ville.quebec.qc.ca:443/ | 200 | Redirection_en_cours... | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| https://catalogue.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec | N/A | ['hsts', 'apache_http_server', 'java'] |
-| https://clavardage6410.ville.quebec.qc.ca:443/ | 200 | N/A | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| https://cmgvdq.ville.quebec.qc.ca:443/ | 500 | N/A | N/A | ['iis:10.0', 'hsts', 'windows_server'] |
-| https://cmquebec.qc.ca:2083/ | 200 | cPanel_Login | N/A | cpanel |
-| https://cmquebec.qc.ca:443/ | 200 | Communauté_métropolitaine_de_Québec | N/A | ['google_tag_manager', 'apache_http_server', 'mysql', 'php', 'wordpress'] |
-| https://console-ti-acc.ga.app.ville.quebec.qc.ca:443/ | 503 | 503_Service_Temporarily_Unavailable | N/A | hsts |
-| https://console-ti-dev.ga.app.ville.quebec.qc.ca:443/ | 503 | 503_Service_Temporarily_Unavailable | N/A | hsts |
-| https://console-ti.ga.app.ville.quebec.qc.ca:443/ | 503 | 503_Service_Temporarily_Unavailable | N/A | hsts |
-| https://cours.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://cours.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://cumulus.app.ville.quebec.qc.ca:443/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| https://curio.ca.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://curio.ca.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://decisions.ville.quebec.qc.ca:443/ | 200 | GPD_–_Documents_décisionnels | N/A | ['google_tag_manager', 'bootstrap:3.3.7', 'hsts', 'typekit'] |
-| https://dev-ge.app.ville.quebec.qc.ca:443/ | 404 | N/A | N/A | [] |
-| https://dossieranimal.ville.quebec.qc.ca:443/ | 200 | N/A | N/A | ['nginx', 'hsts'] |
-| https://ecoute-spciq.app.ville.quebec.qc.ca:443/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| https://english.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://enqueteodregionquebec.cmquebec.qc.ca:443/ | 200 | N/A | N/A | ['iis:10.0', 'hsts', 'microsoft_asp.net', 'windows_server'] |
-| https://enterpriseenrollment.ville.quebec.qc.ca:443/ | 200 | Microsoft_Intune_admin_center | N/A | ['azure_front_door', 'azure', 'hsts'] |
-| https://enterpriseregistration.ville.quebec.qc.ca:443/ | 404 | N/A | N/A | [] |
-| https://ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://fournisseurs.ville.quebec.qc.ca:443/ | 200 | E_Business_Suite_Home_Page_Redirect | N/A | [] |
-| https://french.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://games.mazaam.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://games.mazaam.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://gdcm.ville.quebec.qc.ca:443/ | 200 | GDCM___Gestion_des_consentements_municipaux | N/A | ['microsoft_asp.net:4.0.30319', 'iis:10.0', 'windows_server'] |
-| https://ge.app.ville.quebec.qc.ca:443/ | 404 | N/A | N/A | [] |
-| https://german.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://gpddocs-dev.ville.quebec.qc.ca:443/ | 400 | N/A | N/A | ['azure_front_door', 'azure'] |
-| https://gpddocs.ville.quebec.qc.ca:443/ | 400 | N/A | N/A | ['azure_front_door', 'azure'] |
-| https://hydroweb.ville.quebec.qc.ca:443/ | 215 | Hydroweb | N/A | nginx:1.22.1 |
-| https://icd-acc.app.ville.quebec.qc.ca:443/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| https://icd-dev.app.ville.quebec.qc.ca:443/ | 200 | Redirecting | N/A | hsts |
-| https://icd-formation.app.ville.quebec.qc.ca:443/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| https://icd.app.ville.quebec.qc.ca:443/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| https://identite.ville.quebec.qc.ca:443/ | 503 | Ville_de_Québec___Site_officiel_de_la_Ville_de_Québec | N/A | ['iis:10.0', 'hsts', 'typekit', 'windows_server'] |
-| https://images.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://images.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://imagespatrimoine.ville.quebec.qc.ca:443/ | 403 | 403___Forbidden:_Access_is_denied. | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| https://institutcanadien.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://institutcanadien.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://institutcanadien.naxosvideolibrary.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://institutcanadien.naxosvideolibrary.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://institutcanadien.nml3.naxosmusiclibrary.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://institutcanadien.nml3.naxosmusiclibrary.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://intranet.cmquebec.qc.ca:2083/ | 200 | cPanel_Login | N/A | cpanel |
-| https://intranet.cmquebec.qc.ca:443/ | 200 | Communauté_métropolitaine_de_Québec | N/A | ['google_tag_manager', 'apache_http_server', 'mysql', 'php', 'wordpress'] |
-| https://inventaire.ville.quebec.qc.ca:443/ | 200 | N/A | N/A | apache_http_server |
-| https://ip.vodeclic.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://ip.vodeclic.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://jeux.mazaam.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://jeux.mazaam.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://login.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://loisirs-organismes.ville.quebec.qc.ca:443/ | 200 | Ville_de_Québec___Site_officiel_de_la_Ville_de_Québec | N/A | hsts |
-| https://loisirs-paiement.ville.quebec.qc.ca:443/ | 200 | Ville_de_Québec___Site_officiel_de_la_Ville_de_Québec | N/A | hsts |
-| https://loisirs.ville.quebec.qc.ca:443/ | 200 | Activités_de_loisir | N/A | ['hsts', 'google_tag_manager', 'microsoft_asp.net'] |
-| https://maintenance.ville.quebec.qc.ca:443/ | 200 | Ville_de_Québec___Site_officiel_de_la_Ville_de_Québec | N/A | hsts |
-| https://maximoeam-acc.app.ville.quebec.qc.ca:443/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| https://maximoeam-dev.app.ville.quebec.qc.ca:443/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| https://maximoeam-formation.app.ville.quebec.qc.ca:443/ | 200 | Redirecting | N/A | hsts |
-| https://maximoeam-rapport.app.ville.quebec.qc.ca:443/ | 200 | Redirecting | N/A | hsts |
-| https://maximoeam.app.ville.quebec.qc.ca:443/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| https://mbg.ville.quebec.qc.ca:443/ | 200 | Redirecting... | N/A | ['hsts', 'apache_http_server'] |
-| https://messaveurs.cmquebec.qc.ca:443/ | 404 | Not_Found | N/A | ['microsoft_httpapi:2.0', 'hsts'] |
-| https://micollab.ville.quebec.qc.ca:443/ | 200 | Redirecting... | N/A | ['hsts', 'apache_http_server'] |
-| https://midi.ville.quebec.qc.ca:443/ | 200 | MIDI | N/A | ['microsoft_asp.net:4.0.30319', 'iis:10.0', 'windows_server'] |
-| https://monitoring.app.ville.quebec.qc.ca:443/ | 404 | N/A | N/A | [] |
-| https://myrxtx.ca.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://myrxtx.ca.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://nouveau.eureka.cc.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://nouveau.eureka.cc.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://partenaires.bibliothequedequebec.qc.ca:443/ | 403 | 403___Forbidden:_Access_is_denied. | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| https://partenaires.ville.quebec.qc.ca:443/ | 200 | N/A | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| https://participationcitoyenne.ville.quebec.qc.ca:443/ | 200 | Participation_citoyenne___Ville_de_Québec | N/A | hsts |
-| https://pdidev.app.ville.quebec.qc.ca:443/ | 404 | 404_Not_Found | N/A | [] |
-| https://portail.cmquebec.qc.ca:443/ | 401 | 401___Unauthorized:_Access_is_denied_due_to_invalid_credentials. | N/A | ['hsts', 'basic', 'iis:10.0', 'microsoft_asp.net', 'windows_server'] |
-| https://portailemploye.ville.quebec.qc.ca:443/ | 200 | IIS_Windows_Server | N/A | hsts |
-| https://portailvip-rec.ville.quebec.qc.ca:443/ | 200 | N/A | N/A | ['microsoft_asp.net', 'hsts'] |
-| https://portailvip-recpreprod.ville.quebec.qc.ca:443/ | 200 | N/A | N/A | ['microsoft_asp.net', 'hsts'] |
-| https://portuguese.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://premiereovation.com:443/ | 200 | Première_Ovation_–_Accueil | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net:4.0.30319', 'windows_server'] |
-| https://recrutement.ville.quebec.qc.ca:443/ | 200 | N/A | N/A | ['microsoft_asp.net', 'hsts'] |
-| https://reglements.ville.quebec.qc.ca:443/ | 200 | Portail_des_règlements_municipaux_de_la_Ville_de_Québec | N/A | google_tag_manager |
-| https://rel-www.ville.quebec.qc.ca:443/ | 404 | Not_Found | N/A | microsoft_httpapi:2.0 |
-| https://repere2.sdm.qc.ca.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://repere2.sdm.qc.ca.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://repere4.sdmliaisons.org.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://repere4.sdmliaisons.org.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://service-alarmes-acc.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-alarmes-dev.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-alarmes.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-configuration-acc.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-configuration-dev.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-configuration.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-declencheur-acc.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-declencheur-dev.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-declencheur.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-etatequipement-acc.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-etatequipement-dev.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-etatequipement.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-infoequipement-acc.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-infoequipement-dev.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-infoequipement.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-interventions-acc.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-interventions-dev.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-interventions.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-preemption-acc.ga.app.ville.quebec.qc.ca:443/ | 503 | 503_Service_Temporarily_Unavailable | N/A | hsts |
-| https://service-preemption-dev.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://service-preemption.ga.app.ville.quebec.qc.ca:443/ | 403 | 403_Forbidden | N/A | hsts |
-| https://services.sesame2011.ville.quebec.qc.ca:443/ | 404 | Not_Found | N/A | microsoft_httpapi:2.0 |
-| https://services.ville.quebec.qc.ca:443/ | 403 | 403___Forbidden:_Access_is_denied. | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| https://servicessesame.ville.quebec.qc.ca:443/ | 404 | N/A | N/A | [] |
-| https://servicessesameacc.ville.quebec.qc.ca:443/ | 404 | N/A | N/A | [] |
-| https://sig.cmquebec.qc.ca:443/ | 404 | Not_Found | N/A | ['microsoft_httpapi:2.0', 'hsts'] |
-| https://soutien-scolaire.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://spanish.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://ssl.eureka.cc.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://ssl.eureka.cc.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://sts.ville.quebec.qc.ca:443/ | 404 | Not_Found | N/A | microsoft_httpapi:2.0 |
-| https://suivimeteo.ville.quebec.qc.ca:443/ | 200 | IIS_Windows_Server | N/A | ['microsoft_asp.net', 'iis:10.0', 'windows_server'] |
-| https://syrano.demarque.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://syrano.demarque.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://tapiro.taptouche.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://tapiro.taptouche.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://taxes.ville.quebec.qc.ca:443/ | 200 | Qu�bec | N/A | ['hsts', 'apache_http_server'] |
-| https://test-ecoute-spciq.app.ville.quebec.qc.ca:443/ | 200 | Sign_in_to_your_account | N/A | hsts |
-| https://testssl.ville.quebec.qc.ca:443/ | 200 | N/A | N/A | bootstrap:5.2.3 |
-| https://tomplay.toutapprendre.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://tomplay.toutapprendre.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://tramwaydequebec.info:443/ | 200 | Le_tramway_de_Québec_|_Le_plus_grand_projet_collectif | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net:4.0.30319', 'windows_server', 'youtube'] |
-| https://vdi.ville.quebec.qc.ca:443/ | 200 | VMware_Horizon | N/A | ['java', 'hsts'] |
-| https://ville.quebec.qc.ca:443/ | 200 | Ville_de_Québec___Site_officiel_de_la_Ville_de_Québec | N/A | ['hsts', 'google_tag_manager', 'microsoft_asp.net'] |
-| https://vplus-api.ville.quebec.qc.ca:443/ | 404 | Error | N/A | ['hsts', 'application_request_routing:3.0', 'iis', 'microsoft_httpapi:2.0'] |
-| https://vplus.ville.quebec.qc.ca:443/ | 200 | Portail_citoyen | N/A | ['react', 'hsts'] |
-| https://vpn.ville.quebec.qc.ca:443/ | 200 | Portail_d'accès_sécurisé_de_la_Ville_de_Québec_<br><br><font_size="2"_color="#000080">_Si_vous_éprouvez_des_difficultés_de_connexion,_veuillez_contacter_l'assistance_TI.<br><br>Différentes_options_s'offrent_à_vous_:<br><br>Par_téléphone_pour_joindre_le_6410_:<br>418_641_6410<br>1_833_407_0971_(numéro_sans_frais_pour_les_appels_en_provenance_de_l’Amérique_du_Nord<br><br>Par_<a_href="https://direct.lc.chat/7935311/14">_<FONT_COLOR="#0000FF">messagerie_instantanée</a><br><br><font_size="2"_color="#000080">Par_courriel_:<br>_<a_href="mailto:6410@ville.quebec.qc.ca"></a>_<FONT_COLOR="#0000FF">_6410@ville.quebec.qc.ca<font_color="#000080">_(SVP_ne_pas_oublier_d’y_indiquer_un_numéro_de_téléphone_pour_vous_rejoindre_facilement)</font> | N/A | hsts |
-| https://vpnagence.ville.quebec.qc.ca:443/ | 200 | Portail_d'accès_sécurisé_de_l'Agence_Ville_de_Québec_<br><br><font_size="2"_color="#000080">_Si_vous_éprouvez_des_difficultés_de_connexion,_veuillez_contacter_l'assistance_TI.<br><br>Différentes_options_s'offrent_à_vous_:<br><br>Par_téléphone_pour_joindre_le_6410_:<br>418_641_6410<br>1_833_407_0971_(numéro_sans_frais_pour_les_appels_en_provenance_de_l’Amérique_du_Nord<br><br>Par_<a_href="https://direct.lc.chat/7935311/14">_<FONT_COLOR="#0000FF">messagerie_instantanée</a><br><br><font_size="2"_color="#000080">Par_courriel_:<br>_<a_href="mailto:6410@ville.quebec.qc.ca"></a>_<FONT_COLOR="#0000FF">_6410@ville.quebec.qc.ca<font_color="#000080">_(SVP_ne_pas_oublier_d’y_indiquer_un_numéro_de_téléphone_pour_vous_rejoindre_facilement)</font> | N/A | hsts |
-| https://www.atlasstat.cmquebec.qc.ca:443/ | 200 | N/A | N/A | ['iis:10.0', 'hsts', 'microsoft_asp.net', 'windows_server'] |
-| https://www.batirensemble.cmquebec.qc.ca:443/ | 200 | Bâtir_ensemble | N/A | hsts |
-| https://www.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec_–_Découvrir._Se_divertir._Rêver.___Bibliothèques_de_la_ville_de_Québec | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net', 'windows_server'] |
-| https://www.cmquebec.qc.ca:2083/ | 200 | cPanel_Login | N/A | cpanel |
-| https://www.cmquebec.qc.ca:443/ | 200 | Communauté_métropolitaine_de_Québec | N/A | ['google_tag_manager', 'apache_http_server', 'mysql', 'php', 'wordpress'] |
-| https://www.e-therapeutics.ca.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://www.e-therapeutics.ca.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://www.enqueteodregionquebec.cmquebec.qc.ca:443/ | 200 | N/A | N/A | ['iis:10.0', 'hsts', 'microsoft_asp.net', 'windows_server'] |
-| https://www.genealogiequebec.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://www.genealogiequebec.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://www.intranet.cmquebec.qc.ca:2083/ | 200 | cPanel_Login | N/A | cpanel |
-| https://www.intranet.cmquebec.qc.ca:443/ | 200 | Communauté_métropolitaine_de_Québec | N/A | ['google_tag_manager', 'apache_http_server', 'mysql', 'php', 'wordpress'] |
-| https://www.mesaieux.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://www.mesaieux.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://www.messaveurs.cmquebec.qc.ca:443/ | 404 | Not_Found | N/A | ['microsoft_httpapi:2.0', 'hsts'] |
-| https://www.portail.cmquebec.qc.ca:443/ | 401 | 401___Unauthorized:_Access_is_denied_due_to_invalid_credentials. | N/A | ['hsts', 'basic', 'iis:10.0', 'microsoft_asp.net', 'windows_server'] |
-| https://www.premiereovation.com:443/ | 200 | Première_Ovation_–_Accueil | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net:4.0.30319', 'windows_server'] |
-| https://www.pressreader.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://www.pressreader.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://www.sig.cmquebec.qc.ca:443/ | 200 | IIS_Windows_Server_Lyre | N/A | ['iis:10.0', 'hsts', 'microsoft_asp.net', 'windows_server'] |
-| https://www.tramwaydequebec.info:443/ | 200 | Le_tramway_de_Québec_|_Le_plus_grand_projet_collectif | N/A | ['iis:10.0', 'google_tag_manager', 'microsoft_asp.net', 'windows_server', 'youtube'] |
-| https://www.universalis-edu.com.ezdev.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://www.universalis-edu.com.ezproxy.bibliothequedequebec.qc.ca:443/ | 200 | Bibliothèque_de_Québec___Astrolabe___Connexion | N/A | ezproxy |
-| https://www.ville.quebec.qc.ca:443/ | 200 | Ville_de_Québec___Site_officiel_de_la_Ville_de_Québec | N/A | ['hsts', 'google_tag_manager', 'microsoft_asp.net'] |
-| https://zoneemploye.ville.quebec.qc.ca:443/ | 200 | Zone_RH | N/A | ['hsts', 'bootstrap', 'microsoft_asp.net'] |
 
 </details>
 
@@ -348,7 +48,7 @@
 | Domain | Alive | Last HTTP Test | IPs | Found Date |
 |---------|-------|----------------|-----|------------|
 | www.tramwaydequebec.info | true | 20240619 | 198.168.96.23 | 20240619 | 
-| tramwaydequebec.info | true | 20240617 | 198.168.96.23 | 20240617 | 
+| tramwaydequebec.info | true | 20240622 | 198.168.96.23 | 20240617 | 
 | zoneemploye.ville.quebec.qc.ca | true | 20240619 | 20.232.173.23 | 20240613 | 
 | www.ville.quebec.qc.ca | true | 20240619 | 198.168.96.123 | 20240613 | 
 | www.universalis-edu.com.ezproxy.bibliothequedequebec.qc.ca | true | 20240619 | 198.168.97.115 | 20240613 | 
@@ -565,7 +265,7 @@
 | alerte.ville.quebec.qc.ca | true | 20240619 | 20.175.151.117 | 20240613 | 
 | adfsvdq.ville.quebec.qc.ca | false | 20240619 | 40.121.51.80 | 20240613 | 
 | accesinfo.ville.quebec.qc.ca | true | 20240619 | 20.175.151.117 | 20240613 | 
-| accesinfo-docs.ville.quebec.qc.ca | true | 20240619 | 13.107.246.35 | 20240613 | 
+| accesinfo-docs.ville.quebec.qc.ca | true | 20240619 | 13.107.246.35,13.107.246.51 | 20240613 | 
 | accesinfo-cms.ville.quebec.qc.ca | true | 20240619 | 20.48.202.168 | 20240613 | 
 | acces.ville.quebec.qc.ca | true | 20240619 | 64.68.200.48 | 20240613 | 
 | acc-ge.app.ville.quebec.qc.ca | true | 20240619 | 20.232.173.23 | 20240613 | 
@@ -579,7 +279,7 @@
 | Domain | HTTP Ports | HTTPS Ports | IPs | Found Date |
 |--------|----------|-------|-----|------------|
 | www.tramwaydequebec.info | 80 | [] | 198.168.96.23 | 20240619 | 
-| tramwaydequebec.info | 80 | [] | 198.168.96.23 | 20240617 | 
+| tramwaydequebec.info | 80 | 443 | 198.168.96.23 | 20240617 | 
 | zoneemploye.ville.quebec.qc.ca | ['80'] | ['443'] | 20.232.173.23 | 20240613 | 
 | www.ville.quebec.qc.ca | ['80'] | ['443'] | 198.168.96.123 | 20240613 | 
 | www.universalis-edu.com.ezproxy.bibliothequedequebec.qc.ca | [] | ['443'] | 198.168.97.115 | 20240613 | 
@@ -761,7 +461,7 @@
 | alertes.ville.quebec.qc.ca | ['80'] | ['443'] | 64.68.200.48 | 20240613 | 
 | alerte.ville.quebec.qc.ca | ['80'] | ['443'] | 20.175.151.117 | 20240613 | 
 | accesinfo.ville.quebec.qc.ca | ['80'] | ['443'] | 20.175.151.117 | 20240613 | 
-| accesinfo-docs.ville.quebec.qc.ca | ['80'] | ['443'] | 13.107.246.35 | 20240613 | 
+| accesinfo-docs.ville.quebec.qc.ca | ['80'] | ['443'] | 13.107.246.35,13.107.246.51 | 20240613 | 
 | accesinfo-cms.ville.quebec.qc.ca | ['80'] | ['443'] | 20.48.202.168 | 20240613 | 
 | acces.ville.quebec.qc.ca | ['80'] | ['443'] | 64.68.200.48 | 20240613 | 
 | acc-ge.app.ville.quebec.qc.ca | ['80'] | ['443'] | 20.232.173.23 | 20240613 | 
@@ -799,6 +499,8 @@
 | 13.107.246.35 | 80 | ['gpddocs-dev.ville.quebec.qc.ca', 'gpddocs.ville.quebec.qc.ca'] | http |
 | 13.107.246.36 | 443 | accesinfo-docs.ville.quebec.qc.ca | https |
 | 13.107.246.36 | 80 | accesinfo-docs.ville.quebec.qc.ca | http |
+| 13.107.246.51 | 443 | N/A | https |
+| 13.107.246.51 | 80 | N/A | http |
 | 15.222.112.81 | 110 | N/A | pop3 |
 | 15.222.112.81 | 143 | N/A | imap |
 | 15.222.112.81 | 21 | N/A | ftp |
@@ -826,8 +528,8 @@
 | 198.168.96.221 | 443 | bvi.ville.quebec.qc.ca | https |
 | 198.168.96.221 | 80 | bvi.ville.quebec.qc.ca | http |
 | 198.168.96.221 | 8443 | bvi.ville.quebec.qc.ca | https |
-| 198.168.96.23 | 443 | www.tramwaydequebec.info | https |
-| 198.168.96.23 | 80 | www.tramwaydequebec.info | http |
+| 198.168.96.23 | 443 | ['tramwaydequebec.info', 'www.tramwaydequebec.info'] | https |
+| 198.168.96.23 | 80 | ['tramwaydequebec.info', 'www.tramwaydequebec.info'] | http |
 | 198.168.96.24 | 443 | portailemploye.ville.quebec.qc.ca | https |
 | 198.168.96.24 | 80 | N/A | http |
 | 198.168.96.26 | 443 | carte.ville.quebec.qc.ca | https |
@@ -987,8 +689,8 @@
 | 51.161.122.78 | 993 | N/A | imaps |
 | 52.96.111.56 | 80 | N/A | http |
 | 52.96.15.8 | 80 | N/A | http |
-| 52.96.230.200 | 80 | N/A | http |
-| 52.96.230.88 | 80 | autodiscover.ville.quebec.qc.ca | http |
+| 52.96.230.200 | 80 | autodiscover.duproprio.com | http |
+| 52.96.230.88 | 80 | ['autodiscover.duproprio.com', 'autodiscover.ville.quebec.qc.ca'] | http |
 | 52.96.33.88 | 80 | N/A | http |
 | 52.96.38.88 | 80 | N/A | http |
 | 52.96.69.56 | 80 | N/A | http |
@@ -1017,6 +719,7 @@
 | 108.163.147.52 | ['sv.qc.ca', 's172.panelboxmanager.com'] | false|
 | 13.107.246.35 | ['gpddocs-dev.ville.quebec.qc.ca', 'accesinfo-docs.ville.quebec.qc.ca', 'gpddocs.ville.quebec.qc.ca'] | false|
 | 13.107.246.36 | ['gpddocs.ville.quebec.qc.ca'] | false|
+| 13.107.246.51 | ['accesinfo-docs.ville.quebec.qc.ca'] | false|
 | 15.222.112.81 | ['sip.qc.ca', 'canada12.rebel.com'] | false|
 | 162.159.136.54 | ['sport.qc.ca'] | cloudflare|
 | 162.159.137.54 | ['sport.qc.ca'] | cloudflare|

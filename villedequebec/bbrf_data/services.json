@@ -331,6 +331,32 @@
         "type": "service"
     },
     {
+        "_id": "13.107.246.51:443",
+        "_rev": "1-44a9d8f8a6839d95693c0ae3862fa8f6",
+        "ip": "13.107.246.51",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "13.107.246.51:80",
+        "_rev": "1-7b9f58c2a38febf77e70b838235f6078",
+        "ip": "13.107.246.51",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "15.222.112.81:110",
         "_rev": "7-76fbaa48f93b8e385e18c2a86b2d95d5",
         "ip": "15.222.112.81",
@@ -698,26 +724,32 @@
     },
     {
         "_id": "198.168.96.23:443",
-        "_rev": "9-3a5cbe3e87ce5596a69d2a4a9ddca3af",
+        "_rev": "10-ab21f080b7e84e48fde8d6ecf885a58d",
         "ip": "198.168.96.23",
         "port": "443",
         "program": "villedequebec",
         "service": "https",
         "tags": {
-            "hostname": "www.tramwaydequebec.info",
+            "hostname": [
+                "tramwaydequebec.info",
+                "www.tramwaydequebec.info"
+            ],
             "state": "open"
         },
         "type": "service"
     },
     {
         "_id": "198.168.96.23:80",
-        "_rev": "9-74277ff0fbd0db52378b3a5fed349a27",
+        "_rev": "10-51eab3c97414ffcde3b7ec240a6789a7",
         "ip": "198.168.96.23",
         "port": "80",
         "program": "villedequebec",
         "service": "http",
         "tags": {
-            "hostname": "www.tramwaydequebec.info",
+            "hostname": [
+                "tramwaydequebec.info",
+                "www.tramwaydequebec.info"
+            ],
             "state": "open"
         },
         "type": "service"
@@ -3001,26 +3033,30 @@
     },
     {
         "_id": "52.96.230.200:80",
-        "_rev": "7-755eedd86e738ce42c47ba89eb9c58ca",
+        "_rev": "8-c088bb78830d8fe9a524908e7576f787",
         "ip": "52.96.230.200",
         "port": "80",
         "program": "villedequebec",
         "service": "http",
         "tags": {
-            "banner": "",
+            "hostname": "autodiscover.duproprio.com",
             "state": "open"
         },
         "type": "service"
     },
     {
         "_id": "52.96.230.88:80",
-        "_rev": "1-040db27302c0df93b93ee79fe7ad99d0",
+        "_rev": "3-93637a54a8eab11f375016975d25e896",
         "ip": "52.96.230.88",
         "port": "80",
         "program": "villedequebec",
         "service": "http",
         "tags": {
-            "hostname": "autodiscover.ville.quebec.qc.ca"
+            "hostname": [
+                "autodiscover.duproprio.com",
+                "autodiscover.ville.quebec.qc.ca"
+            ],
+            "state": "open"
         },
         "type": "service"
     },
