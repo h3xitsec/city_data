@@ -104,7 +104,7 @@
     },
     {
         "_id": "162.159.136.54",
-        "_rev": "50-a6414e924d41d113e025b2b3290dd783",
+        "_rev": "52-779de6b85143249d076fd38631f6115d",
         "domains": [
             "sport.qc.ca"
         ],
@@ -118,7 +118,7 @@
     },
     {
         "_id": "162.159.137.54",
-        "_rev": "50-a6414e924d41d113e025b2b3290dd783",
+        "_rev": "52-779de6b85143249d076fd38631f6115d",
         "domains": [
             "sport.qc.ca"
         ],
@@ -1522,6 +1522,20 @@
         "type": "ip"
     },
     {
+        "_id": "20.84.237.30",
+        "_rev": "2-83b7f390d9420fddabb6200c9970e05a",
+        "domains": [
+            "maintenance.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdnwaf": "false",
+            "portscan_date": "20240628",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
         "_id": "20.95.29.9",
         "_rev": "20-3216de1e1e3d2b04ea216d4daa4b4cb3",
         "domains": [
@@ -1626,6 +1640,19 @@
         "type": "ip"
     },
     {
+        "_id": "40.104.46.24",
+        "_rev": "1-ba8210089a6d0913c29b7ccdef9448db",
+        "domains": [
+            "autodiscover.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdn": "false",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
         "_id": "40.121.51.80",
         "_rev": "20-49301df7b192d3ca342e439c49b2e1e4",
         "domains": [
@@ -1635,6 +1662,21 @@
         "tags": {
             "cdnwaf": "false",
             "portscan_date": "20240619",
+            "resolved": "false"
+        },
+        "type": "ip"
+    },
+    {
+        "_id": "40.122.165.147",
+        "_rev": "2-8848dfe27691412e5f991278b9f58379",
+        "domains": [
+            "maximoeam.app.ville.quebec.qc.ca",
+            "maximoeam-formation.app.ville.quebec.qc.ca"
+        ],
+        "program": "villedequebec",
+        "tags": {
+            "cdnwaf": "false",
+            "portscan_date": "20240628",
             "resolved": "false"
         },
         "type": "ip"

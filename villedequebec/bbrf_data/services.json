@@ -2476,6 +2476,32 @@
         "type": "service"
     },
     {
+        "_id": "20.84.237.30:443",
+        "_rev": "1-8afdb4d3370059a8c3c7e23de2bb89f7",
+        "ip": "20.84.237.30",
+        "port": "443",
+        "program": "villedequebec",
+        "service": "https",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.84.237.30:80",
+        "_rev": "1-c98c5ae8bb01328635edc194baef96e6",
+        "ip": "20.84.237.30",
+        "port": "80",
+        "program": "villedequebec",
+        "service": "http",
+        "tags": {
+            "banner": "",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
         "_id": "20.95.29.9:443",
         "_rev": "9-ceb2bdab941febe222f16824d1f3c392",
         "ip": "20.95.29.9",
@@ -2776,25 +2802,27 @@
     },
     {
         "_id": "40.122.165.147:443",
-        "_rev": "1-e1d063915557201205d5bc52223d9e68",
+        "_rev": "2-1e45e1e10c3324f94594d2e073ed5639",
         "ip": "40.122.165.147",
         "port": "443",
         "program": "villedequebec",
         "service": "https",
         "tags": {
-            "hostname": "test-ecoute-spciq.app.ville.quebec.qc.ca"
+            "hostname": "test-ecoute-spciq.app.ville.quebec.qc.ca",
+            "state": "open"
         },
         "type": "service"
     },
     {
         "_id": "40.122.165.147:80",
-        "_rev": "1-d91ab242cb48d764189cc564c4f6807a",
+        "_rev": "2-6ef5d328bf4456f8f42b4a285cf12ab1",
         "ip": "40.122.165.147",
         "port": "80",
         "program": "villedequebec",
         "service": "http",
         "tags": {
-            "hostname": "test-ecoute-spciq.app.ville.quebec.qc.ca"
+            "hostname": "test-ecoute-spciq.app.ville.quebec.qc.ca",
+            "state": "open"
         },
         "type": "service"
     },
