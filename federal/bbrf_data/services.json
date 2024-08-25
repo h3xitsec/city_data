@@ -1,0 +1,7160 @@
+[
+    {
+        "_id": "13.88.240.170:21",
+        "_rev": "3-0d58b9b105f0e1a611c1069f213d3547",
+        "ip": "13.88.240.170",
+        "port": "21",
+        "program": "federal",
+        "service": "ftp",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "13.88.240.170:443",
+        "_rev": "6-fb151149a0f38b89d6a357145c65f965",
+        "ip": "13.88.240.170",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "donnees-data.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "13.88.240.170:80",
+        "_rev": "5-3ee09d7b9b8e70d16150829b25fbd093",
+        "ip": "13.88.240.170",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "donnees-data.asc-csa.gc.ca",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "13.88.240.170:8888",
+        "_rev": "3-62b0d56c3c7815213e6ca71af436de08",
+        "ip": "13.88.240.170",
+        "port": "8888",
+        "program": "federal",
+        "service": "sun-answerbook",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.0.154:443",
+        "_rev": "3-a53f0fa6d6c996a01ba0dc9d564c1d97",
+        "ip": "132.246.0.154",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.0.154:80",
+        "_rev": "3-f79ce1e4d2d8b287fdec20e5080546af",
+        "ip": "132.246.0.154",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.11.230:443",
+        "_rev": "9-acda6ba6922863c81e68c6ba3794716e",
+        "ip": "132.246.11.230",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "time5.nrc.ca",
+                "time5.nrc-cnrc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.11.230:80",
+        "_rev": "9-31f871b66ca0f50c501ad686463f11c7",
+        "ip": "132.246.11.230",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "time5.nrc.ca",
+                "time5.nrc-cnrc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.11.239:443",
+        "_rev": "9-11377b1898388ed3e0b6ccd7c397da1e",
+        "ip": "132.246.11.239",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "time14.nrc.gc.ca",
+                "time14.nrc-cnrc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.11.239:80",
+        "_rev": "9-81f5626dd5d3e7624fb3d585fdb77720",
+        "ip": "132.246.11.239",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "time14.nrc.gc.ca",
+                "time14.nrc-cnrc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.11.240:443",
+        "_rev": "6-02e64a6b859ed32cfb1b4a39d517a546",
+        "ip": "132.246.11.240",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "time15.nrc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.11.240:80",
+        "_rev": "6-76764ca1e6ebaaaee7d4b7c1d2530a3f",
+        "ip": "132.246.11.240",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "time15.nrc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.11.95:443",
+        "_rev": "23-c4f03648178b3565c142740e1cd0522b",
+        "ip": "132.246.11.95",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "codes.nrc-cnrc.gc.ca",
+                "const.webapp.imsb.nrc.ca",
+                "webapp.imsb.nrc.ca",
+                "codes.cnrc-nrc.gc.ca",
+                "arkprd.imsb.nrc.ca",
+                "codes.cnrc.gc.ca",
+                "codes.nrc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.11.95:80",
+        "_rev": "23-102ff2f032b7edb829a3ae60f2b6e568",
+        "ip": "132.246.11.95",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "codes.nrc-cnrc.gc.ca",
+                "const.webapp.imsb.nrc.ca",
+                "webapp.imsb.nrc.ca",
+                "codes.cnrc-nrc.gc.ca",
+                "arkprd.imsb.nrc.ca",
+                "codes.cnrc.gc.ca",
+                "codes.nrc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.11.96:443",
+        "_rev": "6-377510dde1c6e804f1368265bc6ed4a9",
+        "ip": "132.246.11.96",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "arkprd2.imsb.nrc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.11.96:80",
+        "_rev": "6-d8962992b9137bcec1b8166c2609b87d",
+        "ip": "132.246.11.96",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "arkprd2.imsb.nrc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.215.151:443",
+        "_rev": "24-836af495f552fe63aae9998ebca958d9",
+        "ip": "132.246.215.151",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "bioinfo.nrc.ca",
+                "crispr.bioinfo.nrc.ca",
+                "lims.bioinfo.nrc.ca",
+                "galaxy.bioinfo.nrc.ca",
+                "fiesta.bioinfo.nrc.ca",
+                "epipath.bioinfo.nrc.ca",
+                "bioinfo.cnrc-nrc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.215.151:80",
+        "_rev": "24-675a0a8453a2668334fb37d67bbe2faf",
+        "ip": "132.246.215.151",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "bioinfo.nrc.ca",
+                "crispr.bioinfo.nrc.ca",
+                "lims.bioinfo.nrc.ca",
+                "galaxy.bioinfo.nrc.ca",
+                "fiesta.bioinfo.nrc.ca",
+                "epipath.bioinfo.nrc.ca",
+                "bioinfo.cnrc-nrc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.217.29:443",
+        "_rev": "3-574d119efc5fd4ecfd7d9e6946fcb709",
+        "ip": "132.246.217.29",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "ws.cadc-ccda.hia-iha.nrc-cnrc.gc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.217.29:80",
+        "_rev": "3-8b95b6b2ca5ba55df74dd4f81db8b961",
+        "ip": "132.246.217.29",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "ws.cadc-ccda.hia-iha.nrc-cnrc.gc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.217.4:443",
+        "_rev": "10-aaa5141af6d8a54dbdf4359b3163848b",
+        "ip": "132.246.217.4",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca",
+                "cadcwww.dao.nrc.ca",
+                "cadcwww.hia.nrc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.217.4:80",
+        "_rev": "10-63449219403f48d3e300704de6947d55",
+        "ip": "132.246.217.4",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca",
+                "cadcwww.dao.nrc.ca",
+                "cadcwww.hia.nrc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.230.67:443",
+        "_rev": "10-1391ae83df13a726d2254c5d910a1569",
+        "ip": "132.246.230.67",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www2.bri.nrc.ca",
+                "bri.nrc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.230.67:80",
+        "_rev": "7-91eb1cf5318fa88c13099f84171455b1",
+        "ip": "132.246.230.67",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www2.bri.nrc.ca",
+                "bri.nrc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.230.80:443",
+        "_rev": "12-fe333eb1a7f76370e0a70817965d86d2",
+        "ip": "132.246.230.80",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "sgen.bri.nrc.ca",
+                "www.bri.nrc.ca",
+                "irb.cnrc-nrc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.230.80:80",
+        "_rev": "12-6068237bb67abec4a227778f2bf4796d",
+        "ip": "132.246.230.80",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "sgen.bri.nrc.ca",
+                "www.bri.nrc.ca",
+                "irb.cnrc-nrc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.9.105:443",
+        "_rev": "15-ace85b2370a30676abfae76bf3fd90b2",
+        "ip": "132.246.9.105",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "centre-gocf.nrc.gc.ca",
+                "chyms.nrc.gc.ca",
+                "gdmhc-chyms.cnrc-nrc.gc.ca",
+                "ocre-hub.nrc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.9.105:80",
+        "_rev": "15-1f028173f2d45c78d7e6d2eae066606d",
+        "ip": "132.246.9.105",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "centre-gocf.nrc.gc.ca",
+                "chyms.nrc.gc.ca",
+                "gdmhc-chyms.cnrc-nrc.gc.ca",
+                "ocre-hub.nrc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "132.246.9.139:443",
+        "_rev": "6-8506e39f4f5bc303465161d41defde57",
+        "ip": "132.246.9.139",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "codes-guides.nrc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.127.67.101:22",
+        "_rev": "3-783d4f7a86a3c762755218d1957a5809",
+        "ip": "142.127.67.101",
+        "port": "22",
+        "program": "federal",
+        "service": "ssh",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.127.67.101:443",
+        "_rev": "6-c6e28d15d00a6b95844962d17dbb1296",
+        "ip": "142.127.67.101",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "mce-scarto-ftp.ssc-spc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.127.67.101:4443",
+        "_rev": "3-dbabb00c8a0d47bed6a28ae4fdc6a1d9",
+        "ip": "142.127.67.101",
+        "port": "4443",
+        "program": "federal",
+        "service": "pharos",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.127.67.101:80",
+        "_rev": "6-aa1907762f278068a89b58a1e30d6d5d",
+        "ip": "142.127.67.101",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "mce-scarto-ftp.ssc-spc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.127.67.101:8443",
+        "_rev": "6-b395f6236c15d8b149900f5551b07920",
+        "ip": "142.127.67.101",
+        "port": "8443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "mce-scarto-ftp.ssc-spc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.236.70.140:443",
+        "_rev": "19-c740067641e2c83340ee4ea449553ae2",
+        "ip": "142.236.70.140",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "bdppa.gc.ca",
+                "benefitsfinder.gc.ca",
+                "asc-nac.gc.ca",
+                "ae.gc.ca",
+                "act.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.236.70.140:80",
+        "_rev": "16-36c6696ea2740ffeb05610628007eb2c",
+        "ip": "142.236.70.140",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "bdppa.gc.ca",
+                "act.gc.ca",
+                "ae.gc.ca",
+                "asc-nac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.1.201:443",
+        "_rev": "12-09cb6e33115d7d2bb3437addbaab5935",
+        "ip": "142.74.1.201",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "vpnupg1.asc-csa.gc.ca",
+                "vpn.asc-csa.gc.ca",
+                "webvpn.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.1.201:80",
+        "_rev": "12-d3836d1c542337b63b1d9e18159eca83",
+        "ip": "142.74.1.201",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "vpnupg1.asc-csa.gc.ca",
+                "vpn.asc-csa.gc.ca",
+                "webvpn.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.2.16:443",
+        "_rev": "9-6d8364ae1cee11bded3e03feb0ed3c7b",
+        "ip": "142.74.2.16",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "asc-csa.gc.ca",
+                "www.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.2.16:80",
+        "_rev": "9-1d428d89e147a46308c5c51d7deddb31",
+        "ip": "142.74.2.16",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "asc-csa.gc.ca",
+                "www.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.2.22:443",
+        "_rev": "6-7600d4d33f65357544042caf192db50b",
+        "ip": "142.74.2.22",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "pie-isepqa.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.2.34:443",
+        "_rev": "9-a2d7eb0393156fc2a5b79e5bcc2f5431",
+        "ip": "142.74.2.34",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "dfl.asc-csa.gc.ca",
+                "jobs.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.2.34:80",
+        "_rev": "9-604866fc8fad123de429fa1cecd2e22d",
+        "ip": "142.74.2.34",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "dfl.asc-csa.gc.ca",
+                "jobs.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.2.36:443",
+        "_rev": "6-2572c6780581779eafcc6f50a7fc748a",
+        "ip": "142.74.2.36",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "pie-isep.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.2.36:80",
+        "_rev": "6-7fcc3d9007de71a74f8e9db8016e7df7",
+        "ip": "142.74.2.36",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "pie-isep.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.2.46:443",
+        "_rev": "9-472998cf27d743a9b29d95146116b6a1",
+        "ip": "142.74.2.46",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "proxy.asc-csa.gc.ca",
+                "nsproxyotp.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.2.48:443",
+        "_rev": "12-5e651d6f896dd41f74a502ed14ce4e20",
+        "ip": "142.74.2.48",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "sdrg-grds.asc-csa.gc.ca",
+                "www4.asc-csa.gc.ca",
+                "apps.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.2.48:80",
+        "_rev": "12-a8a9c4634645ab76cc03cc501f5a37c5",
+        "ip": "142.74.2.48",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "sdrg-grds.asc-csa.gc.ca",
+                "www4.asc-csa.gc.ca",
+                "apps.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.2.51:443",
+        "_rev": "9-37844fb0a19a8aa2707c819d66f15b7d",
+        "ip": "142.74.2.51",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "intranet.asc-csa.gc.ca",
+                "polariscat.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.74.2.51:80",
+        "_rev": "9-17a632a8f3d0e5435268eb03ee6fa6a2",
+        "ip": "142.74.2.51",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "intranet.asc-csa.gc.ca",
+                "polariscat.asc-csa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.101:443",
+        "_rev": "3-8a97b2382a711789c9eb6ab005a0b3e9",
+        "ip": "142.78.200.101",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.101:80",
+        "_rev": "3-6a7c8845cfeca3eca7897a34b3c3d389",
+        "ip": "142.78.200.101",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.102:443",
+        "_rev": "3-2e264d91e88256b3ad71ae590da542e9",
+        "ip": "142.78.200.102",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.102:80",
+        "_rev": "3-0a0646ba275ef25f5b5da67fc0536cbc",
+        "ip": "142.78.200.102",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.107:80",
+        "_rev": "6-475599ffa6b4ea735651e05d7d0b74ff",
+        "ip": "142.78.200.107",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "kingserv.collectionscanada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.108:80",
+        "_rev": "6-fb8337a093db56ddfae60b5ce0a81c67",
+        "ip": "142.78.200.108",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "phila.collectionscanada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.109:80",
+        "_rev": "6-b600241d9868fbe4c80608927c8d2162",
+        "ip": "142.78.200.109",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "amicus.collectionscanada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.110:443",
+        "_rev": "3-138174441238c85f3226e6194b97b01b",
+        "ip": "142.78.200.110",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.110:80",
+        "_rev": "3-fce0f945a5ce415b20a6f6f8b84622f7",
+        "ip": "142.78.200.110",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.112:443",
+        "_rev": "3-89ee017d8b2cafb69cfc5ca8b0815648",
+        "ip": "142.78.200.112",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.112:80",
+        "_rev": "3-5134d2b3c12665a5d6820098918c38d1",
+        "ip": "142.78.200.112",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.114:443",
+        "_rev": "3-9fb8c696a8bb635917368c586e01b4b2",
+        "ip": "142.78.200.114",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.114:80",
+        "_rev": "3-544da805d622c3e324df7f5f1e4cd3be",
+        "ip": "142.78.200.114",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.115:443",
+        "_rev": "3-f11e8377045ce3b7e4bd71d9ac101870",
+        "ip": "142.78.200.115",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.115:80",
+        "_rev": "3-826fc7ca3011736860c852a233a3c357",
+        "ip": "142.78.200.115",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.120:443",
+        "_rev": "3-c9c61ddad43ea17e9e65e1c2b94ea4ec",
+        "ip": "142.78.200.120",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.120:80",
+        "_rev": "3-ba95080cde9d0c03e432e26c7c097ef6",
+        "ip": "142.78.200.120",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.121:443",
+        "_rev": "3-c4ae1fa240afa6771bd5912aa72adae3",
+        "ip": "142.78.200.121",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.121:80",
+        "_rev": "3-3b5be9629f8383b190e962690fd185f7",
+        "ip": "142.78.200.121",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.128:443",
+        "_rev": "6-a878ee415ee8d85f5d7158c1c7b87cd9",
+        "ip": "142.78.200.128",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "central.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.128:80",
+        "_rev": "6-9b783e9127e460abc8d88a01537cf81a",
+        "ip": "142.78.200.128",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "central.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.140:443",
+        "_rev": "6-9d564a9508454d108c79b1fdf9ae031e",
+        "ip": "142.78.200.140",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "v41uds01-l.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.241:443",
+        "_rev": "23-b89d3000e19c647d074074a0a93f005c",
+        "ip": "142.78.200.241",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "evenements-events.bac-lac.gc.ca",
+                "id.bac-lac.gc.ca",
+                "event.bac-lac.gc.ca",
+                "recherche-collection-search.bac-lac.gc.ca",
+                "rgbb.bac-lac.gc.ca",
+                "regenerate.bac-lac.gc.ca",
+                "recherche-research.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.241:80",
+        "_rev": "24-92cf7f1e0a762d13044778a45e31ae20",
+        "ip": "142.78.200.241",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "evenements-events.bac-lac.gc.ca",
+                "id.bac-lac.gc.ca",
+                "event.bac-lac.gc.ca",
+                "recherche-collection-search.bac-lac.gc.ca",
+                "rgbb.bac-lac.gc.ca",
+                "regenerate.bac-lac.gc.ca",
+                "recherche-research.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.246:443",
+        "_rev": "23-a833466c1fb6a14a50c70a6002f42329",
+        "ip": "142.78.200.246",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "persfile.bac-lac.gc.ca",
+                "co-lab.bac-lac.gc.ca",
+                "canadiana.bac-lac.gc.ca",
+                "sigles-symbols.bac-lac.gc.ca",
+                "colab.bac-lac.gc.ca",
+                "atip.bac-lac.gc.ca",
+                "testexternalapp.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.246:80",
+        "_rev": "23-42aa740141d7620f07144b096ea56ee5",
+        "ip": "142.78.200.246",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "persfile.bac-lac.gc.ca",
+                "co-lab.bac-lac.gc.ca",
+                "canadiana.bac-lac.gc.ca",
+                "sigles-symbols.bac-lac.gc.ca",
+                "colab.bac-lac.gc.ca",
+                "atip.bac-lac.gc.ca",
+                "testexternalapp.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.47:443",
+        "_rev": "6-43cc33849caba540a7b3da840ef5fd64",
+        "ip": "142.78.200.47",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "id2.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.47:80",
+        "_rev": "3-9d5a8494c21872640a261c66fa489ab1",
+        "ip": "142.78.200.47",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.59:443",
+        "_rev": "6-24873d02dd285e29a1cb87ef801c6ce4",
+        "ip": "142.78.200.59",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "listserv.collectionscanada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.61:443",
+        "_rev": "3-51900eb7c93c76df4b1cabc3d29d6e0e",
+        "ip": "142.78.200.61",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.61:80",
+        "_rev": "3-0b5a166ccadfcd15a14fc1389bdef040",
+        "ip": "142.78.200.61",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.66:443",
+        "_rev": "12-1fdf6dd18bebfe9ad2a4823d4366020a",
+        "ip": "142.78.200.66",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "lac-bac.gc.ca",
+                "collectionscanada.gc.ca",
+                "www.collectionscanada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.66:80",
+        "_rev": "12-d20bec92358eb36366223c4811737405",
+        "ip": "142.78.200.66",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "lac-bac.gc.ca",
+                "collectionscanada.gc.ca",
+                "www.collectionscanada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.68:80",
+        "_rev": "3-345448d34d7ca495304358ad591fdf55",
+        "ip": "142.78.200.68",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.69:80",
+        "_rev": "3-b008e1482c96e9c445bfc584bbcc9bce",
+        "ip": "142.78.200.69",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.71:443",
+        "_rev": "6-cfc632c312ce9ce3e2319e25e7b4edd9",
+        "ip": "142.78.200.71",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "data2.collectionscanada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.71:80",
+        "_rev": "6-a366ff3c014ef3f249a92985f66fe7f1",
+        "ip": "142.78.200.71",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "data2.collectionscanada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.74:80",
+        "_rev": "3-062d50f1dfc45908ee6ee7afa4401551",
+        "ip": "142.78.200.74",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.77:80",
+        "_rev": "3-492505a75735fd27342c1ff9dcfe0526",
+        "ip": "142.78.200.77",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.79:443",
+        "_rev": "6-ba05c5e34f7abaf74ad43b56de875def",
+        "ip": "142.78.200.79",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "epe.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.79:80",
+        "_rev": "6-efc5bcbcddbe3ad1dfe20c453e5bf842",
+        "ip": "142.78.200.79",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "epe.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.83:80",
+        "_rev": "3-b929c2f68490f37a9552dd8f44ee24b7",
+        "ip": "142.78.200.83",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.85:443",
+        "_rev": "5-ce5420e93c7f11dc3cb10c49d7454dd8",
+        "ip": "142.78.200.85",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "tdg-grt.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.85:80",
+        "_rev": "6-b65b331dbce148128eac19a887440298",
+        "ip": "142.78.200.85",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "tdg-grt.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.87:443",
+        "_rev": "6-cb763f9089e8c1c42252491719a9f027",
+        "ip": "142.78.200.87",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "financement-funding.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.87:80",
+        "_rev": "6-4d9e3e2af8ab5d3580fb8f9b0131ee71",
+        "ip": "142.78.200.87",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "financement-funding.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.90:443",
+        "_rev": "12-ba58f449c26e9c54a16df44918603a9a",
+        "ip": "142.78.200.90",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www.bac-lac.gc.ca",
+                "2www.bac-lac.gc.ca",
+                "bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.90:80",
+        "_rev": "12-dca4fb8ddd6d4488fa907f67463b89a5",
+        "ip": "142.78.200.90",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www.bac-lac.gc.ca",
+                "2www.bac-lac.gc.ca",
+                "bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.90:8080",
+        "_rev": "3-4107f22eb34b554b962a65e2d98276e6",
+        "ip": "142.78.200.90",
+        "port": "8080",
+        "program": "federal",
+        "service": "http-proxy",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.91:443",
+        "_rev": "9-64a7da28381b222c39497a3c559807e8",
+        "ip": "142.78.200.91",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "direct.bac-lac.gc.ca",
+                "2direct.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.91:80",
+        "_rev": "9-dc72106caaa55f5c4897d4a6f053faf7",
+        "ip": "142.78.200.91",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "direct.bac-lac.gc.ca",
+                "2direct.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.92:443",
+        "_rev": "3-35232ac5884b99eb954be13aac46f72d",
+        "ip": "142.78.200.92",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.92:80",
+        "_rev": "3-8931c9ae0f1eb82a376ccd4d64048f56",
+        "ip": "142.78.200.92",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.94:443",
+        "_rev": "9-02fbb091396a2825c337634fd7cbda33",
+        "ip": "142.78.200.94",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "dam-oclc.bac-lac.gc.ca",
+                "dam-oclc-secure.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.200.94:80",
+        "_rev": "9-84cfee8abd751cedc01571de268c6c1a",
+        "ip": "142.78.200.94",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "dam-oclc.bac-lac.gc.ca",
+                "dam-oclc-secure.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.8.10:443",
+        "_rev": "6-14f904ec7ec60c58124758433f5337eb",
+        "ip": "142.78.8.10",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "rvp-vpn-01.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.8.12:443",
+        "_rev": "6-b2a7f0ff164a7edce74c13982ec09ef0",
+        "ip": "142.78.8.12",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "rvp-vpn-02.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.8.13:443",
+        "_rev": "6-a1ec9e5025b8128185b5427bbae945d3",
+        "ip": "142.78.8.13",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "rvp-vpn.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.8.25:80",
+        "_rev": "6-b17955bab72a1102330f10248c96317f",
+        "ip": "142.78.8.25",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "listserv.lac-bac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.78.8.7:443",
+        "_rev": "6-7601abac939430cb694a81ad75c6169e",
+        "ip": "142.78.8.7",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "oos2016.bac-lac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:10000",
+        "_rev": "1-7696f0bc329dfdd0e3f73ae6a6ed3da3",
+        "ip": "142.92.129.144",
+        "port": "10000",
+        "program": "federal",
+        "service": "snet-sensor-mgmt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:16080",
+        "_rev": "1-704343420c9364306a60b9e890f55b3e",
+        "ip": "142.92.129.144",
+        "port": "16080",
+        "program": "federal",
+        "service": "osxwebadmin",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:18080",
+        "_rev": "1-54438c74ad18ed4617e37a5aa3cb0eed",
+        "ip": "142.92.129.144",
+        "port": "18080",
+        "program": "federal",
+        "service": "unknown",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:2443",
+        "_rev": "1-f632bc22d5a5c291a3fbfd79cc3fe0f9",
+        "ip": "142.92.129.144",
+        "port": "2443",
+        "program": "federal",
+        "service": "powerclientcsf",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:3128",
+        "_rev": "1-cb5d5f4ac894357c3bf7d567b13b63b1",
+        "ip": "142.92.129.144",
+        "port": "3128",
+        "program": "federal",
+        "service": "squid-http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:3306",
+        "_rev": "1-470d849144b6f23d61cfbd4037eeb277",
+        "ip": "142.92.129.144",
+        "port": "3306",
+        "program": "federal",
+        "service": "mysql",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:443",
+        "_rev": "3-86598fc937209ad4d7cf7b112dabd343",
+        "ip": "142.92.129.144",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:4443",
+        "_rev": "1-39fc88be29107b7bb79a3542aae9a0a8",
+        "ip": "142.92.129.144",
+        "port": "4443",
+        "program": "federal",
+        "service": "pharos",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:5000",
+        "_rev": "1-9bf209058e717218bf8c76edd52639d1",
+        "ip": "142.92.129.144",
+        "port": "5000",
+        "program": "federal",
+        "service": "upnp",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:5001",
+        "_rev": "3-0fae89c539658a9df7dd24dd78f69de4",
+        "ip": "142.92.129.144",
+        "port": "5001",
+        "program": "federal",
+        "service": "commplex-link",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:5050",
+        "_rev": "3-14cc4907a827b43427202f8749ac43b4",
+        "ip": "142.92.129.144",
+        "port": "5050",
+        "program": "federal",
+        "service": "mmcc",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:53",
+        "_rev": "3-a410535dc696958157c2a16725ec877d",
+        "ip": "142.92.129.144",
+        "port": "53",
+        "program": "federal",
+        "service": "domain",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:5432",
+        "_rev": "1-60d0068a435816ff896c53095782b4b3",
+        "ip": "142.92.129.144",
+        "port": "5432",
+        "program": "federal",
+        "service": "postgresql",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:5901",
+        "_rev": "1-8150b2ca83b26ff1410e017af43fc65e",
+        "ip": "142.92.129.144",
+        "port": "5901",
+        "program": "federal",
+        "service": "vnc-1",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:5985",
+        "_rev": "1-707d56c0a5974f7490962aa22b1a1529",
+        "ip": "142.92.129.144",
+        "port": "5985",
+        "program": "federal",
+        "service": "wsman",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:80",
+        "_rev": "3-05c0891dfa71496a30554001e9a1781a",
+        "ip": "142.92.129.144",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:8080",
+        "_rev": "3-e60a300b40f0c82fbc73096d1c4637f0",
+        "ip": "142.92.129.144",
+        "port": "8080",
+        "program": "federal",
+        "service": "http-proxy",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:8081",
+        "_rev": "1-0ed08783171b84677b5bd393b9f12779",
+        "ip": "142.92.129.144",
+        "port": "8081",
+        "program": "federal",
+        "service": "blackice-icecap",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:8082",
+        "_rev": "3-670c1ebbc3941b756f01b1e263e87b63",
+        "ip": "142.92.129.144",
+        "port": "8082",
+        "program": "federal",
+        "service": "blackice-alerts",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:81",
+        "_rev": "3-243752b42337a16d002c96d2a412912f",
+        "ip": "142.92.129.144",
+        "port": "81",
+        "program": "federal",
+        "service": "hosts2-ns",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:8181",
+        "_rev": "3-f15a0913c95d232d59de33773d6a76ca",
+        "ip": "142.92.129.144",
+        "port": "8181",
+        "program": "federal",
+        "service": "intermapper",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:8443",
+        "_rev": "3-85a62819fa2d2657dc620f87c1a9e9c3",
+        "ip": "142.92.129.144",
+        "port": "8443",
+        "program": "federal",
+        "service": "https-alt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:8880",
+        "_rev": "3-7d1da6ea5c8287923f17d2a4afcc1eca",
+        "ip": "142.92.129.144",
+        "port": "8880",
+        "program": "federal",
+        "service": "cddbp-alt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:8888",
+        "_rev": "1-0a590812f4e5ed8f9f12c31d5db8af70",
+        "ip": "142.92.129.144",
+        "port": "8888",
+        "program": "federal",
+        "service": "sun-answerbook",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:9000",
+        "_rev": "1-2b37242e0ef729deec576e891a1e442d",
+        "ip": "142.92.129.144",
+        "port": "9000",
+        "program": "federal",
+        "service": "cslistener",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:9090",
+        "_rev": "1-07b94af8b04f2e7e80686919b197a1c6",
+        "ip": "142.92.129.144",
+        "port": "9090",
+        "program": "federal",
+        "service": "zeus-admin",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "142.92.129.144:9091",
+        "_rev": "1-a0f9a7bed80c18afb7c05336b136cac3",
+        "ip": "142.92.129.144",
+        "port": "9091",
+        "program": "federal",
+        "service": "xmltec-xmlmail",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.156.143.31:443",
+        "_rev": "2-a4542b8187f38713a33df211c3fdf6c5",
+        "ip": "15.156.143.31",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "decisions.eptc-tpec.gc.ca",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.156.143.31:80",
+        "_rev": "2-321c0eb70011686f9181705587e2e08d",
+        "ip": "15.156.143.31",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "decisions.eptc-tpec.gc.ca",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.157.86.200:443",
+        "_rev": "3-e4fa84b13f37c23906e253a1b8d0aab9",
+        "ip": "15.157.86.200",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "sociaux-echos.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.157.86.200:80",
+        "_rev": "3-36b591a84d18db9c94038d4f373f5f28",
+        "ip": "15.157.86.200",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "sociaux-echos.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "15.223.13.72:443",
+        "_rev": "6-88aee4ba0d0d13627e1cdafe8488e4eb",
+        "ip": "15.223.13.72",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "kibanalogs.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "155.138.136.17:22",
+        "_rev": "3-f433e192c61c58b18e6170a7122b26f8",
+        "ip": "155.138.136.17",
+        "port": "22",
+        "program": "federal",
+        "service": "ssh",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "155.138.136.17:443",
+        "_rev": "6-1bfb08f8e66bfffe69028c2466cb67a5",
+        "ip": "155.138.136.17",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "prodindependante.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "155.138.136.17:80",
+        "_rev": "6-f073482eaf7b09123d11cd0fc9d309c9",
+        "ip": "155.138.136.17",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "prodindependante.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "159.33.57.12:443",
+        "_rev": "6-86432aa89f787b472c5653f01ecf2f8a",
+        "ip": "159.33.57.12",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "gestion.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "159.33.57.40:443",
+        "_rev": "5-68e369dfa187da3c29ad99dfbde3a8e1",
+        "ip": "159.33.57.40",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "moncp.radio-canada.ca",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "159.33.57.40:80",
+        "_rev": "6-4dd22d13f0c6ac26ceadace6fd7b17ee",
+        "ip": "159.33.57.40",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "moncp.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "159.33.64.101:443",
+        "_rev": "9-3f7f87870e1b3df9bb48891a72dd80b9",
+        "ip": "159.33.64.101",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "ra2.radio-canada.ca",
+                "ra3.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "159.33.75.36:443",
+        "_rev": "9-86f83079c94da447f682a38ce9549365",
+        "ip": "159.33.75.36",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "masterplanner.radio-canada.ca",
+                "apw.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "159.33.75.36:80",
+        "_rev": "9-239b7712da1db1e52341a0d8152eebc0",
+        "ip": "159.33.75.36",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "masterplanner.radio-canada.ca",
+                "apw.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "159.33.76.22:443",
+        "_rev": "6-2405110622b7c3e2ec4ca760448842be",
+        "ip": "159.33.76.22",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "mtlmtceapp01.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "159.33.79.33:443",
+        "_rev": "9-d12c9591aaea75407a7827c6f12ef8ac",
+        "ip": "159.33.79.33",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "acs.radio-canada.ca",
+                "postprod.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "159.33.79.33:8443",
+        "_rev": "9-d5b6fac5d4ceeccc6f151aab936d9993",
+        "ip": "159.33.79.33",
+        "port": "8443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "acs.radio-canada.ca",
+                "postprod.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "159.33.79.34:443",
+        "_rev": "6-1f81637be95d798f358ae2469739b86c",
+        "ip": "159.33.79.34",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "afs.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "159.89.127.48:22",
+        "_rev": "3-b83a9dba0a9793b5c68538dbac2f7156",
+        "ip": "159.89.127.48",
+        "port": "22",
+        "program": "federal",
+        "service": "ssh",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "160.106.123.29:443",
+        "_rev": "12-9e49f65288fc60fdaca4d82cb4a55f04",
+        "ip": "160.106.123.29",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "canada.gc.ca",
+                "gc.ca",
+                "www.canada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "160.106.123.29:80",
+        "_rev": "11-b773d50a25e67da4f267d660083afed1",
+        "ip": "160.106.123.29",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "canada.gc.ca",
+                "gc.ca",
+                "www.canada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.227.38.140:443",
+        "_rev": "20-e44d1d5cd02dcdcbfa04e71423b6b8bb",
+        "ip": "167.227.38.140",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "bdppa.gc.ca",
+                "benefitsfinder.gc.ca",
+                "asc-nac.gc.ca",
+                "ae.gc.ca",
+                "act.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.227.38.140:80",
+        "_rev": "15-28b15779809180f33d9ee40f0725ce35",
+        "ip": "167.227.38.140",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "bdppa.gc.ca",
+                "act.gc.ca",
+                "ae.gc.ca",
+                "asc-nac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.37.33.20:443",
+        "_rev": "24-b0903b39637866364a972a3e5225bfa6",
+        "ip": "167.37.33.20",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "gcconnex.gctools.nrc.ca",
+                "gcpedia.gctools.nrc.ca",
+                "gcidentity.gctools.nrc.ca",
+                "gctools.nrc.ca",
+                "gcprofile.gctools.nrc.ca",
+                "gcrec-db.gctools.nrc.ca",
+                "gcrec.gctools.nrc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.37.33.20:80",
+        "_rev": "24-65a95f08151db48b750b716985a93d45",
+        "ip": "167.37.33.20",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "gcconnex.gctools.nrc.ca",
+                "gcpedia.gctools.nrc.ca",
+                "gcidentity.gctools.nrc.ca",
+                "gctools.nrc.ca",
+                "gcprofile.gctools.nrc.ca",
+                "gcrec-db.gctools.nrc.ca",
+                "gcrec.gctools.nrc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.37.63.16:443",
+        "_rev": "13-712b13bf7c51e746b0b7df50717165d8",
+        "ip": "167.37.63.16",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www.nrc.ca",
+                "nrc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.37.63.16:80",
+        "_rev": "12-585fda402d96f061be4b20cdc6090356",
+        "ip": "167.37.63.16",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www.nrc.ca",
+                "nrc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.40.79.24:443",
+        "_rev": "12-98ab1b6c6c4069e01a15d1aa3bb0c164",
+        "ip": "167.40.79.24",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "canada.gc.ca",
+                "gc.ca",
+                "www.canada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.40.79.24:80",
+        "_rev": "11-1864692915e14d2d39bf8708a9fe55a4",
+        "ip": "167.40.79.24",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "canada.gc.ca",
+                "gc.ca",
+                "www.canada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.44.105.15:443",
+        "_rev": "7-0f4975e78434cbc49cd2bb5f2daad0d5",
+        "ip": "167.44.105.15",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www.2006recensement.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.44.105.15:80",
+        "_rev": "7-3bc7c0719774815421eb77982fc8be76",
+        "ip": "167.44.105.15",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www.2006recensement.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.71.89.100:22",
+        "_rev": "3-48724ad4ccbebfc1ae019a65b5bb5454",
+        "ip": "167.71.89.100",
+        "port": "22",
+        "program": "federal",
+        "service": "ssh",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.71.89.100:3306",
+        "_rev": "3-9e51e745ee879fd033ecd005a28f27f2",
+        "ip": "167.71.89.100",
+        "port": "3306",
+        "program": "federal",
+        "service": "mysql",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.71.89.100:443",
+        "_rev": "10-8db302388b4e948301b761b99fc717b0",
+        "ip": "167.71.89.100",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "staging.apex.gc.ca",
+                "apex.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.71.89.100:80",
+        "_rev": "10-8c6edf8b6ea61fd535b0eca15f7d638f",
+        "ip": "167.71.89.100",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "staging.apex.gc.ca",
+                "apex.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.71.89.100:81",
+        "_rev": "10-d28aa3c5ff651bc9ee11c8424260e782",
+        "ip": "167.71.89.100",
+        "port": "81",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "staging.apex.gc.ca",
+                "apex.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "167.71.89.100:9000",
+        "_rev": "10-625049d46fb91a163821706794a34e02",
+        "ip": "167.71.89.100",
+        "port": "9000",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "staging.apex.gc.ca",
+                "apex.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "178.32.47.207:443",
+        "_rev": "6-52e2acafccd00d55fa53872221a5d83d",
+        "ip": "178.32.47.207",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "interaction.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "178.32.47.207:80",
+        "_rev": "6-457c63b7f19c9183149353145da7145c",
+        "ip": "178.32.47.207",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "interaction.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "178.33.129.44:443",
+        "_rev": "6-b574e89acf45433a2c88de407ad0c3e5",
+        "ip": "178.33.129.44",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "interaction.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "178.33.129.44:80",
+        "_rev": "6-aeddebe04f75fba503899905b9b796b6",
+        "ip": "178.33.129.44",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "interaction.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "18.245.96.88:80",
+        "_rev": "3-e22f396e22f46f116995e0b49447ed5d",
+        "ip": "18.245.96.88",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "c.cdp.radio-canada.ca",
+                "donnees.electionsquebec.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "18.245.96.92:80",
+        "_rev": "19-1bb915081797d7f1ab499ed1795adef9",
+        "ip": "18.245.96.92",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "c.cdp.radio-canada.ca",
+                "www.simulrevenus.gouv.qc.ca",
+                "www.simulrevenu.gouv.qc.ca",
+                "simulrevenu.gouv.qc.ca",
+                "simulrevenus.gouv.qc.ca",
+                "www.simul-revenu.gouv.qc.ca",
+                "simul-revenu.gouv.qc.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "18.67.17.47:443",
+        "_rev": "1-cc93e4c19b024d4058db8a3b23d98daf",
+        "ip": "18.67.17.47",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "infolettres.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "184.24.175.44:443",
+        "_rev": "1-926b827754fe5e25f9bc16c34c57e648",
+        "ip": "184.24.175.44",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "rcavmedias-download.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "184.24.175.44:80",
+        "_rev": "1-726b954dfaade4c7ec6ec221a8b48add",
+        "ip": "184.24.175.44",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "rcavmedias-download.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "184.26.198.103:443",
+        "_rev": "1-296910dcffd8b47ea1767f8f66968d37",
+        "ip": "184.26.198.103",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "rcavmedias-download.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "184.26.198.103:80",
+        "_rev": "1-4f3496140ba05597d916bf2a1e5dc6a9",
+        "ip": "184.26.198.103",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "rcavmedias-download.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "184.84.36.68:80",
+        "_rev": "3-8ad8d90be9137e5dce2d3b0ed1e3b6c7",
+        "ip": "184.84.36.68",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "cbc.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "192.197.183.241:443",
+        "_rev": "14-a105830f6925242384c3186287216778",
+        "ip": "192.197.183.241",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "bsf.gc.ca",
+                "bc-cb.gc.ca",
+                "bsf-osb.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "192.197.183.241:80",
+        "_rev": "14-89a72422926163b4992b58e971123ef7",
+        "ip": "192.197.183.241",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "bsf.gc.ca",
+                "bc-cb.gc.ca",
+                "bsf-osb.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "192.197.183.84:443",
+        "_rev": "6-c6cfb2e44bc2b2172de9d03aaf010fe9",
+        "ip": "192.197.183.84",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "bureaudelaconcurrence.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "192.197.183.84:80",
+        "_rev": "4-8c4f6a45a7d9a9ce62be648b69cc994a",
+        "ip": "192.197.183.84",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "bureaudelaconcurrence.gc.ca",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "192.197.71.132:443",
+        "_rev": "6-47a78462322b1c2575bc950bc09d33fd",
+        "ip": "192.197.71.132",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "sslvpn.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "192.197.71.152:443",
+        "_rev": "67-52e1a478a332c3b4f8f2fd2000577f1a",
+        "ip": "192.197.71.152",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "cheese-fromage.agr.gc.ca",
+                "pefip-pifvo.agr.gc.ca",
+                "aimis-simia.agr.gc.ca",
+                "agri-risk-agri-risques.agr.gc.ca",
+                "fdms-smmea.agr.gc.ca",
+                "agrigeomatics.agr.gc.ca",
+                "publicentrale-ext.agr.gc.ca",
+                "www.agr.gc.ca",
+                "app-ppa.agr.gc.ca",
+                "ffn-afn.agr.gc.ca",
+                "www4.agr.gc.ca",
+                "biportalext.agr.gc.ca",
+                "www3.agr.gc.ca",
+                "agrogeomatique.agr.gc.ca",
+                "infohort.agr.gc.ca",
+                "agr.gc.ca",
+                "deptpubs.agr.gc.ca",
+                "infohort-d.agr.gc.ca",
+                "dfip-pifl.agr.gc.ca",
+                "gcds-spsc.agr.gc.ca",
+                "prtl-services.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "192.197.71.152:80",
+        "_rev": "57-790081d929829f1c13e6225e9c0f17cf",
+        "ip": "192.197.71.152",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "cheese-fromage.agr.gc.ca",
+                "pefip-pifvo.agr.gc.ca",
+                "aimis-simia.agr.gc.ca",
+                "agri-risk-agri-risques.agr.gc.ca",
+                "fdms-smmea.agr.gc.ca",
+                "agrigeomatics.agr.gc.ca",
+                "publicentrale-ext.agr.gc.ca",
+                "www.agr.gc.ca",
+                "app-ppa.agr.gc.ca",
+                "ffn-afn.agr.gc.ca",
+                "www4.agr.gc.ca",
+                "biportalext.agr.gc.ca",
+                "agr.gc.ca",
+                "www3.agr.gc.ca",
+                "infohort.agr.gc.ca",
+                "infohort-d.agr.gc.ca",
+                "dfip-pifl.agr.gc.ca",
+                "gcds-spsc.agr.gc.ca",
+                "prtl-services.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "192.197.71.31:443",
+        "_rev": "7-1319b2c2fafec9caa4b42a504a6b6f1e",
+        "ip": "192.197.71.31",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "agrpazsmtp1.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "192.67.45.27:443",
+        "_rev": "21-be53b5d619500c1fcd1b744e8cf77ee4",
+        "ip": "192.67.45.27",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "atlasducanada.gc.ca",
+                "atlas-du-canada.gc.ca",
+                "www.atlas-of-canada.gc.ca",
+                "atlas.gc.ca",
+                "www.atlasducanada.gc.ca",
+                "www.atlas.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "192.67.45.27:80",
+        "_rev": "21-2e3452e83fe6a98599206b14ae368198",
+        "ip": "192.67.45.27",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "atlasducanada.gc.ca",
+                "atlas-du-canada.gc.ca",
+                "www.atlas-of-canada.gc.ca",
+                "atlas.gc.ca",
+                "www.atlasducanada.gc.ca",
+                "www.atlas.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.104.80:443",
+        "_rev": "7-9ebda3766077d588bef34f57513488f5",
+        "ip": "198.103.104.80",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "paa-pac.acdi-cida.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.104.80:80",
+        "_rev": "7-1a7a103a0814aaf5e9a050241b0c70fc",
+        "ip": "198.103.104.80",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "paa-pac.acdi-cida.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.113.150:443",
+        "_rev": "12-ce69b67c3af799172b80095eb17661a8",
+        "ip": "198.103.113.150",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "bcp-pco.gc.ca",
+                "appointments.gc.ca",
+                "bcp.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.113.150:80",
+        "_rev": "12-4f5c45167b69cbd17fde99fde2056673",
+        "ip": "198.103.113.150",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "bcp-pco.gc.ca",
+                "appointments.gc.ca",
+                "bcp.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.185.173:443",
+        "_rev": "12-d95d7d10eecbbd4f38d01d1da76f6b3a",
+        "ip": "198.103.185.173",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "asfc.gc.ca",
+                "asfc-cbsa.gc.ca",
+                "www.asfc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.185.173:80",
+        "_rev": "12-f33f9f5598f5a4103412cb25bff2b092",
+        "ip": "198.103.185.173",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "asfc.gc.ca",
+                "asfc-cbsa.gc.ca",
+                "www.asfc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.195.17:443",
+        "_rev": "6-4d94106a9b5777ed67bd871bafe47996",
+        "ip": "198.103.195.17",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "sra.acoa-apeca.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.195.20:443",
+        "_rev": "8-da49d6faf7d3a1136e52e5765d551cc4",
+        "ip": "198.103.195.20",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "direct-aspte-legacy.acoa-apeca.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.195.25:443",
+        "_rev": "19-1f608bba1fd12f17b142134d57809fa3",
+        "ip": "198.103.195.25",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "apeca-acoa.gc.ca",
+                "acoa.gc.ca",
+                "acoa-apeca.gc.ca",
+                "direct.acoa-apeca.gc.ca",
+                "apeca.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.198.132:443",
+        "_rev": "9-13ba60bdc53ed183f512c60cc35db35d",
+        "ip": "198.103.198.132",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www.accreditationcanada.gc.ca",
+                "accreditationcanada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.198.132:80",
+        "_rev": "9-da76bed583d421ef7b50ea5f30b5c3c6",
+        "ip": "198.103.198.132",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www.accreditationcanada.gc.ca",
+                "accreditationcanada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.198.139:443",
+        "_rev": "4-928f11e9f7d7b0c398ee24aae31af058",
+        "ip": "198.103.198.139",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.198.139:80",
+        "_rev": "4-df91b649caa67e52069585a9ff2e83cf",
+        "ip": "198.103.198.139",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.198.45:443",
+        "_rev": "173-3e3bbd61594ffb82ceb2207e06cdbc97",
+        "ip": "198.103.198.45",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "afriquedusud.gc.ca",
+                "www.algeria.gc.ca",
+                "www.algerie.gc.ca",
+                "www.arabiesaoudite.gc.ca",
+                "www.afghanistan.gc.ca",
+                "balticstates.gc.ca",
+                "www.belgique.gc.ca",
+                "australie.gc.ca",
+                "brunei.gc.ca",
+                "www.brunei.gc.ca",
+                "www.boston.gc.ca",
+                "bourses.gc.ca",
+                "www.boisdoeuvre.gc.ca",
+                "www.balticstates.gc.ca",
+                "bangladesh.gc.ca",
+                "www.brazil.gc.ca",
+                "www.bourses.gc.ca",
+                "allemagne.gc.ca",
+                "www.austria.gc.ca",
+                "belgique.gc.ca",
+                "bourses-scholarships.gc.ca",
+                "algeria.gc.ca",
+                "burma.gc.ca",
+                "www.argentina.gc.ca",
+                "australia.gc.ca",
+                "www.australie.gc.ca",
+                "argentina.gc.ca",
+                "www.allemagne.gc.ca",
+                "www.argentine.gc.ca",
+                "www.autriche.gc.ca",
+                "www.birmanie.gc.ca",
+                "www.afriquedusud.gc.ca",
+                "burkinafaso.gc.ca",
+                "boston.gc.ca",
+                "arabiesaoudite.gc.ca",
+                "afghanistan.gc.ca",
+                "www.atlanta.gc.ca",
+                "boisdoeuvre.gc.ca",
+                "autriche.gc.ca",
+                "birmanie.gc.ca",
+                "brasil.gc.ca",
+                "austria.gc.ca",
+                "belgium.gc.ca",
+                "www.australia.gc.ca",
+                "www.brasil.gc.ca",
+                "barbados.gc.ca",
+                "www.bangladesh.gc.ca",
+                "barbade.gc.ca",
+                "algerie.gc.ca",
+                "www.burkinafaso.gc.ca",
+                "www.burma.gc.ca",
+                "bresil.gc.ca",
+                "brazil.gc.ca",
+                "www.barbados.gc.ca",
+                "www.barbade.gc.ca",
+                "atlanta.gc.ca",
+                "www.bourses-scholarships.gc.ca",
+                "www.bresil.gc.ca",
+                "argentine.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.198.45:80",
+        "_rev": "160-446b3a55d413d080c9eb412d5903f1e4",
+        "ip": "198.103.198.45",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www.algeria.gc.ca",
+                "www.algerie.gc.ca",
+                "www.arabiesaoudite.gc.ca",
+                "www.afghanistan.gc.ca",
+                "balticstates.gc.ca",
+                "www.belgique.gc.ca",
+                "australie.gc.ca",
+                "www.brunei.gc.ca",
+                "brunei.gc.ca",
+                "www.bourses-scholarships.gc.ca",
+                "www.boston.gc.ca",
+                "bourses.gc.ca",
+                "www.boisdoeuvre.gc.ca",
+                "www.balticstates.gc.ca",
+                "bangladesh.gc.ca",
+                "www.brazil.gc.ca",
+                "www.bourses.gc.ca",
+                "allemagne.gc.ca",
+                "www.austria.gc.ca",
+                "belgique.gc.ca",
+                "bourses-scholarships.gc.ca",
+                "algeria.gc.ca",
+                "burma.gc.ca",
+                "www.argentina.gc.ca",
+                "australia.gc.ca",
+                "www.australie.gc.ca",
+                "argentina.gc.ca",
+                "www.allemagne.gc.ca",
+                "www.argentine.gc.ca",
+                "www.autriche.gc.ca",
+                "www.birmanie.gc.ca",
+                "www.afriquedusud.gc.ca",
+                "burkinafaso.gc.ca",
+                "boston.gc.ca",
+                "arabiesaoudite.gc.ca",
+                "afghanistan.gc.ca",
+                "boisdoeuvre.gc.ca",
+                "autriche.gc.ca",
+                "birmanie.gc.ca",
+                "brasil.gc.ca",
+                "austria.gc.ca",
+                "www.australia.gc.ca",
+                "www.bangladesh.gc.ca",
+                "www.brasil.gc.ca",
+                "barbados.gc.ca",
+                "barbade.gc.ca",
+                "algerie.gc.ca",
+                "www.burkinafaso.gc.ca",
+                "www.burma.gc.ca",
+                "bresil.gc.ca",
+                "brazil.gc.ca",
+                "www.barbados.gc.ca",
+                "www.barbade.gc.ca",
+                "atlanta.gc.ca",
+                "afriquedusud.gc.ca",
+                "www.bresil.gc.ca",
+                "argentine.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.198.46:443",
+        "_rev": "10-9e7b851cc083ee3d23d1f9ecbd926927",
+        "ip": "198.103.198.46",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "g7.gc.ca",
+                "www.g7.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.198.46:80",
+        "_rev": "9-9fe0bf8fa399912e01ea1a8467c26b56",
+        "ip": "198.103.198.46",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "g7.gc.ca",
+                "www.g7.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.206.14:443",
+        "_rev": "13-a90083948c51391a63f8b3ab15137678",
+        "ip": "198.103.206.14",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "arc.gc.ca",
+                "adrc.gc.ca",
+                "arc-cra.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.206.14:80",
+        "_rev": "12-e014acc207368eb00944d74026c320ea",
+        "ip": "198.103.206.14",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "arc.gc.ca",
+                "adrc.gc.ca",
+                "arc-cra.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.206.16:80",
+        "_rev": "6-c3e96f29c65867f2c0ef8b48b4eeb221",
+        "ip": "198.103.206.16",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www.ted.arc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.206.74:443",
+        "_rev": "7-8e63b1f970b5e94da03066d6df21f1a8",
+        "ip": "198.103.206.74",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "boc-oto.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.206.74:80",
+        "_rev": "7-fc57c24dec7bf6fbb37cb008e8c2fd20",
+        "ip": "198.103.206.74",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "boc-oto.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.249.106:443",
+        "_rev": "30-95dfa04fecdf3eafad06016df7d933bc",
+        "ip": "198.103.249.106",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "virtua.aadnc-aandc.gc.ca",
+                "aandc.gc.ca",
+                "www.aadnc-aandc.gc.ca",
+                "www.aadnc.gc.ca",
+                "www.aandc.gc.ca",
+                "aadnc.gc.ca",
+                "www.aandc-aadnc.gc.ca",
+                "aadnc-aandc.gc.ca",
+                "aandc-aadnc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.249.106:80",
+        "_rev": "27-e8a840208cb3b9fee4676b911e45382e",
+        "ip": "198.103.249.106",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "virtua.aadnc-aandc.gc.ca",
+                "aandc.gc.ca",
+                "www.aadnc-aandc.gc.ca",
+                "www.aadnc.gc.ca",
+                "www.aandc.gc.ca",
+                "aadnc.gc.ca",
+                "www.aandc-aadnc.gc.ca",
+                "aadnc-aandc.gc.ca",
+                "aandc-aadnc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.249.119:443",
+        "_rev": "70-4d424e24a961ba41c15dcdb56d118c77",
+        "ip": "198.103.249.119",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "services-test.aadnc.gc.ca",
+                "fnp-ppn.aadnc-aandc.gc.ca",
+                "data-test.aadnc.gc.ca",
+                "services.aadnc-aandc.gc.ca",
+                "data-test.aandc.gc.ca",
+                "data.aadnc-aandc.gc.ca",
+                "ppn-fnp.aadnc-aandc.gc.ca",
+                "geo.aandc-aadnc.gc.ca",
+                "geo-test.aandc-aadnc.gc.ca",
+                "geo.aadnc.gc.ca",
+                "services.aandc-aadnc.gc.ca",
+                "data.aadnc.gc.ca",
+                "geo.aadnc-aandc.gc.ca",
+                "services-test.aadnc-aandc.gc.ca",
+                "data-test.aandc-aadnc.gc.ca",
+                "services.aadnc.gc.ca",
+                "geo-test.aadnc.gc.ca",
+                "data-test.aadnc-aandc.gc.ca",
+                "services.aandc.gc.ca",
+                "services-test.aandc-aadnc.gc.ca",
+                "data.aandc-aadnc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.249.119:80",
+        "_rev": "69-90b52e80b14c1295cde7be219c1310e4",
+        "ip": "198.103.249.119",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "services-test.aadnc.gc.ca",
+                "fnp-ppn.aadnc-aandc.gc.ca",
+                "data-test.aadnc.gc.ca",
+                "services.aadnc-aandc.gc.ca",
+                "data-test.aandc.gc.ca",
+                "data.aadnc-aandc.gc.ca",
+                "ppn-fnp.aadnc-aandc.gc.ca",
+                "geo.aandc-aadnc.gc.ca",
+                "geo-test.aandc-aadnc.gc.ca",
+                "geo.aadnc.gc.ca",
+                "services.aandc-aadnc.gc.ca",
+                "data.aadnc.gc.ca",
+                "geo.aadnc-aandc.gc.ca",
+                "services-test.aadnc-aandc.gc.ca",
+                "data-test.aandc-aadnc.gc.ca",
+                "services.aadnc.gc.ca",
+                "geo-test.aadnc.gc.ca",
+                "data-test.aadnc-aandc.gc.ca",
+                "services.aandc.gc.ca",
+                "services-test.aandc-aadnc.gc.ca",
+                "data.aandc-aadnc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.249.199:443",
+        "_rev": "6-f690468af4394711f8fc3c1da9e79927",
+        "ip": "198.103.249.199",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "pa-ap.aadnc-aandc.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.48.77:443",
+        "_rev": "42-5003d43eb33ca4427f30b73707fc4203",
+        "ip": "198.103.48.77",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www.r2000.gc.ca",
+                "alternativefuels.gc.ca",
+                "bippp-oppi.gc.ca",
+                "apap-paap.gc.ca",
+                "biocarburants.gc.ca",
+                "apap.gc.ca",
+                "r2000.gc.ca",
+                "bippp.gc.ca",
+                "autosmart.gc.ca",
+                "biofuels.gc.ca",
+                "bipp.gc.ca",
+                "bipp-oppi.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.48.77:80",
+        "_rev": "40-b7f43665cf949841eb9e11861601c18e",
+        "ip": "198.103.48.77",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www.r2000.gc.ca",
+                "alternativefuels.gc.ca",
+                "bippp-oppi.gc.ca",
+                "apap-paap.gc.ca",
+                "biocarburants.gc.ca",
+                "apap.gc.ca",
+                "r2000.gc.ca",
+                "bippp.gc.ca",
+                "autosmart.gc.ca",
+                "biofuels.gc.ca",
+                "bipp.gc.ca",
+                "bipp-oppi.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.48.79:443",
+        "_rev": "25-6afbe1a1a3fb2444dee9b53b6551ddf4",
+        "ip": "198.103.48.79",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "apn-npa.gc.ca",
+                "bggp.gc.ca",
+                "www.apn.gc.ca",
+                "www.apn-npa.gc.ca",
+                "apn.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.103.48.79:80",
+        "_rev": "24-8166ac7622c81d5e06adeaaa310980c2",
+        "ip": "198.103.48.79",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "apn-npa.gc.ca",
+                "bggp.gc.ca",
+                "www.apn.gc.ca",
+                "www.apn-npa.gc.ca",
+                "apn.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.96.3.34:443",
+        "_rev": "6-b909731085386085e917ea4c5c5989b7",
+        "ip": "198.96.3.34",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "collab-ext.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.96.3.73:443",
+        "_rev": "6-f216beab5c0514889f74f3e53a48eea5",
+        "ip": "198.96.3.73",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www.apogee-cfref.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "198.96.3.73:80",
+        "_rev": "6-f385ee1e61eaea58f2b07db421b25743",
+        "ip": "198.96.3.73",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www.apogee-cfref.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.175.97.133:443",
+        "_rev": "3-84cb887d7ef3d5efe52b7f960999d57d",
+        "ip": "199.175.97.133",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.204.213.140:110",
+        "_rev": "3-778faca430e8fe0302ef55c2194a3ade",
+        "ip": "199.204.213.140",
+        "port": "110",
+        "program": "federal",
+        "service": "pop3",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.204.213.140:143",
+        "_rev": "3-62bf66386fe08c7a756f685d08e920ca",
+        "ip": "199.204.213.140",
+        "port": "143",
+        "program": "federal",
+        "service": "imap",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.204.213.140:21",
+        "_rev": "3-852f34ee479ead8ed1cc09672881f897",
+        "ip": "199.204.213.140",
+        "port": "21",
+        "program": "federal",
+        "service": "ftp",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.204.213.140:443",
+        "_rev": "6-65ca9d1a13f0b31b755f5ed3e2881af7",
+        "ip": "199.204.213.140",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "multimedia.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.204.213.140:53",
+        "_rev": "3-37854c9ac1cbddc3cad9c77b8cf1787c",
+        "ip": "199.204.213.140",
+        "port": "53",
+        "program": "federal",
+        "service": "domain",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.204.213.140:80",
+        "_rev": "6-f999804a22cbd44de42b36fb34a7a863",
+        "ip": "199.204.213.140",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "multimedia.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.204.213.140:8443",
+        "_rev": "6-1384b9e72f537583f8b79ae76861928f",
+        "ip": "199.204.213.140",
+        "port": "8443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "multimedia.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.204.213.140:8880",
+        "_rev": "3-06f65dfe61cf72c440b609b5775cb170",
+        "ip": "199.204.213.140",
+        "port": "8880",
+        "program": "federal",
+        "service": "cddbp-alt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.204.213.140:993",
+        "_rev": "3-04e1f449aa1d0f131b8dbb81f847277f",
+        "ip": "199.204.213.140",
+        "port": "993",
+        "program": "federal",
+        "service": "imaps",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.204.213.140:995",
+        "_rev": "3-9284b78bf92e3534022be29919ef8dda",
+        "ip": "199.204.213.140",
+        "port": "995",
+        "program": "federal",
+        "service": "pop3s",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.212.18.106:443",
+        "_rev": "22-72e9f50d41e1badb7032668ea56929e4",
+        "ip": "199.212.18.106",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "acee-ceaa.gc.ca",
+                "www.aeic-iaac.gc.ca",
+                "acee.gc.ca",
+                "www.aeic.gc.ca",
+                "aeic.gc.ca",
+                "aeic-iaac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.212.18.106:80",
+        "_rev": "21-dd7520fa1a6526ee1b221dddb47077bc",
+        "ip": "199.212.18.106",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "acee-ceaa.gc.ca",
+                "www.aeic-iaac.gc.ca",
+                "acee.gc.ca",
+                "www.aeic.gc.ca",
+                "aeic.gc.ca",
+                "aeic-iaac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.212.18.26:443",
+        "_rev": "3-84286502927ab91c98fc432ce4446c09",
+        "ip": "199.212.18.26",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "199.212.18.26:80",
+        "_rev": "3-ae28b1f482ff9c5aa31b29009191b1aa",
+        "ip": "199.212.18.26",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.175.249.234:443",
+        "_rev": "6-4e8a2e8e1282d0a66addd76d8f8b77be",
+        "ip": "20.175.249.234",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "banting.bourses-fellowships.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "20.175.249.234:80",
+        "_rev": "6-c4b3ab751142f8a0c2b47413df36da97",
+        "ip": "20.175.249.234",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "banting.bourses-fellowships.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:18080",
+        "_rev": "1-da9677dc2267e6316423ba6d6f9079d3",
+        "ip": "205.193.117.159",
+        "port": "18080",
+        "program": "federal",
+        "service": "unknown",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:2443",
+        "_rev": "1-1e2afa701e264ed8160119c296b6ea07",
+        "ip": "205.193.117.159",
+        "port": "2443",
+        "program": "federal",
+        "service": "powerclientcsf",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:3128",
+        "_rev": "1-192ae0adc681fcdc1ac6e8c255fa41cd",
+        "ip": "205.193.117.159",
+        "port": "3128",
+        "program": "federal",
+        "service": "squid-http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:443",
+        "_rev": "12-eaa9492ab8afcf915992b8319ce2872c",
+        "ip": "205.193.117.159",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "canada.gc.ca",
+                "gc.ca",
+                "www.canada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:4443",
+        "_rev": "1-3e637fea97190b3010bd90bb2e9397f7",
+        "ip": "205.193.117.159",
+        "port": "4443",
+        "program": "federal",
+        "service": "pharos",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:5000",
+        "_rev": "3-b6b244c98af9926818609db7af52d457",
+        "ip": "205.193.117.159",
+        "port": "5000",
+        "program": "federal",
+        "service": "upnp",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:5050",
+        "_rev": "3-315144b799aeb3b35c4a0261828a0f2d",
+        "ip": "205.193.117.159",
+        "port": "5050",
+        "program": "federal",
+        "service": "mmcc",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:53",
+        "_rev": "1-4094287c1c0d28c6dc14c7bb52540c5d",
+        "ip": "205.193.117.159",
+        "port": "53",
+        "program": "federal",
+        "service": "domain",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:5432",
+        "_rev": "1-ea95051e351ea36e3453770174414603",
+        "ip": "205.193.117.159",
+        "port": "5432",
+        "program": "federal",
+        "service": "postgresql",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:80",
+        "_rev": "11-c3aba2a5033e77fb7d9dbfc0aecc1837",
+        "ip": "205.193.117.159",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "canada.gc.ca",
+                "gc.ca",
+                "www.canada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:8081",
+        "_rev": "1-76b4e3443072e89b1f5c90289194093a",
+        "ip": "205.193.117.159",
+        "port": "8081",
+        "program": "federal",
+        "service": "blackice-icecap",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:8181",
+        "_rev": "1-d747f2f523cd556c8d5bba3da4e9b3e6",
+        "ip": "205.193.117.159",
+        "port": "8181",
+        "program": "federal",
+        "service": "intermapper",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:8443",
+        "_rev": "3-9c741c299a792d9b1510007c63f8e686",
+        "ip": "205.193.117.159",
+        "port": "8443",
+        "program": "federal",
+        "service": "https-alt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:8888",
+        "_rev": "1-e6633cd8fcc5b95294e1e74cc58938c2",
+        "ip": "205.193.117.159",
+        "port": "8888",
+        "program": "federal",
+        "service": "sun-answerbook",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.159:9000",
+        "_rev": "1-1ae55a9c19a59dddfec252686475c53c",
+        "ip": "205.193.117.159",
+        "port": "9000",
+        "program": "federal",
+        "service": "cslistener",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:16080",
+        "_rev": "1-b28aa865f74021f0c9bdddb01274d366",
+        "ip": "205.193.117.22",
+        "port": "16080",
+        "program": "federal",
+        "service": "osxwebadmin",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:18080",
+        "_rev": "1-45c8d0eeab27a4670b0ed2e3076edd23",
+        "ip": "205.193.117.22",
+        "port": "18080",
+        "program": "federal",
+        "service": "unknown",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:2443",
+        "_rev": "1-8a6efab56610ce58d4b683dbb24c9144",
+        "ip": "205.193.117.22",
+        "port": "2443",
+        "program": "federal",
+        "service": "powerclientcsf",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:3306",
+        "_rev": "1-c7e208f45e254a7d7998d7af827c1005",
+        "ip": "205.193.117.22",
+        "port": "3306",
+        "program": "federal",
+        "service": "mysql",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:443",
+        "_rev": "3-c0da0705b058a3491512759a1800c9dc",
+        "ip": "205.193.117.22",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:4443",
+        "_rev": "1-603836c57aa3d4e4aa28dddda962fa2b",
+        "ip": "205.193.117.22",
+        "port": "4443",
+        "program": "federal",
+        "service": "pharos",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:5000",
+        "_rev": "1-65611dfdc19298a1d3ffbbf8d0101ce5",
+        "ip": "205.193.117.22",
+        "port": "5000",
+        "program": "federal",
+        "service": "upnp",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:5001",
+        "_rev": "3-db66e0a44dd2185f2acb12a21acd3440",
+        "ip": "205.193.117.22",
+        "port": "5001",
+        "program": "federal",
+        "service": "commplex-link",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:5050",
+        "_rev": "3-b8baaf53667628cacea7c50db0eaf0a1",
+        "ip": "205.193.117.22",
+        "port": "5050",
+        "program": "federal",
+        "service": "mmcc",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:53",
+        "_rev": "3-bedfd61756e33c42945975303f6f852e",
+        "ip": "205.193.117.22",
+        "port": "53",
+        "program": "federal",
+        "service": "domain",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:5432",
+        "_rev": "1-4e800f39649b60f31e637ca80078fc8a",
+        "ip": "205.193.117.22",
+        "port": "5432",
+        "program": "federal",
+        "service": "postgresql",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:5901",
+        "_rev": "1-6db1f42d1d56cd6d6f784c4124baf738",
+        "ip": "205.193.117.22",
+        "port": "5901",
+        "program": "federal",
+        "service": "vnc-1",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:5985",
+        "_rev": "1-ab4bd4c6503064805842a3c868049840",
+        "ip": "205.193.117.22",
+        "port": "5985",
+        "program": "federal",
+        "service": "wsman",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:5986",
+        "_rev": "1-23f95dc06d71086d9c129e4d8f9f0810",
+        "ip": "205.193.117.22",
+        "port": "5986",
+        "program": "federal",
+        "service": "wsmans",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:80",
+        "_rev": "3-7870c6a26d469ec6abfc7b7477693574",
+        "ip": "205.193.117.22",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:8080",
+        "_rev": "3-c4b8d9d0fe117dc0acdbd8f05fe7fba9",
+        "ip": "205.193.117.22",
+        "port": "8080",
+        "program": "federal",
+        "service": "http-proxy",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:8081",
+        "_rev": "1-2548a87bdd14cbeb0c65a7746167bdd9",
+        "ip": "205.193.117.22",
+        "port": "8081",
+        "program": "federal",
+        "service": "blackice-icecap",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:8082",
+        "_rev": "3-2709fb88f737df840a737dd87618dcbe",
+        "ip": "205.193.117.22",
+        "port": "8082",
+        "program": "federal",
+        "service": "blackice-alerts",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:81",
+        "_rev": "3-14d464b2136484dddf0309c9e546fffd",
+        "ip": "205.193.117.22",
+        "port": "81",
+        "program": "federal",
+        "service": "hosts2-ns",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:8181",
+        "_rev": "3-431ac10e22778942ec20bfd78b5c3a6a",
+        "ip": "205.193.117.22",
+        "port": "8181",
+        "program": "federal",
+        "service": "intermapper",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:8443",
+        "_rev": "3-1889d3f7bb331f972cbcebfb9343ae2c",
+        "ip": "205.193.117.22",
+        "port": "8443",
+        "program": "federal",
+        "service": "https-alt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:8880",
+        "_rev": "3-c69563f3e0ca81f24b96c1cb45525f65",
+        "ip": "205.193.117.22",
+        "port": "8880",
+        "program": "federal",
+        "service": "cddbp-alt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:8888",
+        "_rev": "1-0a0907dbf1b89bab13c0f2c030f8a480",
+        "ip": "205.193.117.22",
+        "port": "8888",
+        "program": "federal",
+        "service": "sun-answerbook",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:9000",
+        "_rev": "1-599343d2b29f7ce5602b4eefdbdeb251",
+        "ip": "205.193.117.22",
+        "port": "9000",
+        "program": "federal",
+        "service": "cslistener",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:9090",
+        "_rev": "1-c8c947abc3df638c44394d5db5b66074",
+        "ip": "205.193.117.22",
+        "port": "9090",
+        "program": "federal",
+        "service": "zeus-admin",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.22:9091",
+        "_rev": "1-3f43fbdb5e054a55d8c39edb2bcadafc",
+        "ip": "205.193.117.22",
+        "port": "9091",
+        "program": "federal",
+        "service": "xmltec-xmlmail",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:10000",
+        "_rev": "1-c86a342b4659b0b56b272e1626693176",
+        "ip": "205.193.117.50",
+        "port": "10000",
+        "program": "federal",
+        "service": "snet-sensor-mgmt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:16080",
+        "_rev": "1-d14990adabb19be51ef512af1485553f",
+        "ip": "205.193.117.50",
+        "port": "16080",
+        "program": "federal",
+        "service": "osxwebadmin",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:18080",
+        "_rev": "1-a0c92f0294d9116134c1dddeeedc7ef1",
+        "ip": "205.193.117.50",
+        "port": "18080",
+        "program": "federal",
+        "service": "unknown",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:2443",
+        "_rev": "1-2a0a02e144c5715061d06b3a051ccb9b",
+        "ip": "205.193.117.50",
+        "port": "2443",
+        "program": "federal",
+        "service": "powerclientcsf",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:4443",
+        "_rev": "1-c77e8be2f15f4f625ecd078427ee8669",
+        "ip": "205.193.117.50",
+        "port": "4443",
+        "program": "federal",
+        "service": "pharos",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:5000",
+        "_rev": "3-76e76067bd9c91faf47d4816080addb0",
+        "ip": "205.193.117.50",
+        "port": "5000",
+        "program": "federal",
+        "service": "upnp",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:5001",
+        "_rev": "3-62f1bb743896dd27dbd92a883b0caff4",
+        "ip": "205.193.117.50",
+        "port": "5001",
+        "program": "federal",
+        "service": "commplex-link",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:5050",
+        "_rev": "3-c9d7606cf1b2e5886e675e9f6188d95c",
+        "ip": "205.193.117.50",
+        "port": "5050",
+        "program": "federal",
+        "service": "mmcc",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:53",
+        "_rev": "1-db5386026a8a3fe24c393fc3da5aaa93",
+        "ip": "205.193.117.50",
+        "port": "53",
+        "program": "federal",
+        "service": "domain",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:5432",
+        "_rev": "1-953fdbb950cd6d0ef51f6a5ac6d92adb",
+        "ip": "205.193.117.50",
+        "port": "5432",
+        "program": "federal",
+        "service": "postgresql",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:5901",
+        "_rev": "1-8a85c02ea00f41c50c630c7963bd527e",
+        "ip": "205.193.117.50",
+        "port": "5901",
+        "program": "federal",
+        "service": "vnc-1",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:8082",
+        "_rev": "3-0808991377f9641d013128f8940ae462",
+        "ip": "205.193.117.50",
+        "port": "8082",
+        "program": "federal",
+        "service": "blackice-alerts",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:8443",
+        "_rev": "3-8bb840fdb3ed278cc6aaac9f669c63cf",
+        "ip": "205.193.117.50",
+        "port": "8443",
+        "program": "federal",
+        "service": "https-alt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.117.50:9000",
+        "_rev": "1-a717aed93037743706d1f1637a8699b8",
+        "ip": "205.193.117.50",
+        "port": "9000",
+        "program": "federal",
+        "service": "cslistener",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.152.169:443",
+        "_rev": "6-74795cb92c09ba5563f8f60c519c73ed",
+        "ip": "205.193.152.169",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "boa-opo.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.152.169:80",
+        "_rev": "6-5f6f816584482174c5681794d2e248a4",
+        "ip": "205.193.152.169",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "boa-opo.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.152.218:443",
+        "_rev": "7-9f8eee71e562c98a5acd6fee371ffb7b",
+        "ip": "205.193.152.218",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "secure.boa-opo.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.152.218:80",
+        "_rev": "7-458668fa74ca8564fb5dd44928c9ac59",
+        "ip": "205.193.152.218",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "secure.boa-opo.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.168.201:443",
+        "_rev": "3-407a3c58893ad2be527128bda39bd577",
+        "ip": "205.193.168.201",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.190.3:443",
+        "_rev": "9-e665c8240fa80015be340bd6d7d48259",
+        "ip": "205.193.190.3",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "aspc.gc.ca",
+                "aspc-phac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.190.3:80",
+        "_rev": "9-c88c6cbc13512ec5e71bd0ce047d2611",
+        "ip": "205.193.190.3",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "aspc.gc.ca",
+                "aspc-phac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.192.100:443",
+        "_rev": "34-e9833bf57e505e521e2be419dbc25bcc",
+        "ip": "205.193.192.100",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "gcweb.beta.achatsetventes.gc.ca",
+                "beta.achatsetventes.gc.ca",
+                "beta1.achatsetventes.gc.ca",
+                "stage.achatsetventes.gc.ca",
+                "auteur.beta.achatsetventes.gc.ca",
+                "contenu.achatsetventes.gc.ca",
+                "test.achatsetventes.gc.ca",
+                "gamma.achatsetventes.gc.ca",
+                "stage-staging.achatsetventes-buyandsell.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.192.100:80",
+        "_rev": "34-5f4524a74324cbf0778fa52b567b493d",
+        "ip": "205.193.192.100",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "gcweb.beta.achatsetventes.gc.ca",
+                "beta.achatsetventes.gc.ca",
+                "beta1.achatsetventes.gc.ca",
+                "stage.achatsetventes.gc.ca",
+                "auteur.beta.achatsetventes.gc.ca",
+                "contenu.achatsetventes.gc.ca",
+                "test.achatsetventes.gc.ca",
+                "gamma.achatsetventes.gc.ca",
+                "stage-staging.achatsetventes-buyandsell.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.192.8:443",
+        "_rev": "25-208a3e6e300f05386a8717e63dd95fa2",
+        "ip": "205.193.192.8",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "services.achatsetventes-buyandsell.gc.ca",
+                "achatsetventes.gc.ca",
+                "www.achatsetventes.gc.ca",
+                "www.achatsetventes-buyandsell.gc.ca",
+                "auteur.achatsetventes.gc.ca",
+                "achatsetventes-buyandsell.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.192.8:80",
+        "_rev": "22-1de13412d81184d5c30cc57ae854d2a5",
+        "ip": "205.193.192.8",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "services.achatsetventes-buyandsell.gc.ca",
+                "achatsetventes.gc.ca",
+                "www.achatsetventes.gc.ca",
+                "achatsetventes-buyandsell.gc.ca",
+                "www.achatsetventes-buyandsell.gc.ca",
+                "auteur.achatsetventes.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.213.193:443",
+        "_rev": "9-d256136364e3e75a55b589d718b303d9",
+        "ip": "205.193.213.193",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "aspc.gc.ca",
+                "aspc-phac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.213.193:80",
+        "_rev": "9-042b74db4315e9a0f580a92c53eef637",
+        "ip": "205.193.213.193",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "aspc.gc.ca",
+                "aspc-phac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.215.159:443",
+        "_rev": "12-c05ada977e2d41206151fde79f46cb26",
+        "ip": "205.193.215.159",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "canada.gc.ca",
+                "gc.ca",
+                "www.canada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.215.159:80",
+        "_rev": "11-d8c82d15bde04474575635e140c40c68",
+        "ip": "205.193.215.159",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "canada.gc.ca",
+                "gc.ca",
+                "www.canada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.223.100:443",
+        "_rev": "6-021a801c4ca922acdba65ef93892d24c",
+        "ip": "205.193.223.100",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "atsscf.atssc-scdata.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.223.100:80",
+        "_rev": "6-85d1ed4fc029c7ce0e9d7394a3f13b9f",
+        "ip": "205.193.223.100",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "atsscf.atssc-scdata.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.223.106:443",
+        "_rev": "6-727ec9780f50d3ec3b72f8677a41d168",
+        "ip": "205.193.223.106",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "support.atssc-scdata.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.223.118:443",
+        "_rev": "10-5152c855e38777b03d0be61d2b8928bf",
+        "ip": "205.193.223.118",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www.eptc-tpec.gc.ca",
+                "eptc-tpec.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.227.68:443",
+        "_rev": "6-35cc45eb5f65d1166390ecc3e30c7c69",
+        "ip": "205.193.227.68",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "vpn.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.227.69:443",
+        "_rev": "6-8417d9bfe4320c40cdf8e3bf82bf3c68",
+        "ip": "205.193.227.69",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "vpn-a.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.227.70:443",
+        "_rev": "6-b3fd16970e803b9ca62f7f8d54e171bb",
+        "ip": "205.193.227.70",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "vpn-b.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.234.7:18080",
+        "_rev": "1-91ed3560dc7c9d2b70e3e627ba9e59c6",
+        "ip": "205.193.234.7",
+        "port": "18080",
+        "program": "federal",
+        "service": "unknown",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.234.7:443",
+        "_rev": "15-1911103492ee038ddee920407d3a15da",
+        "ip": "205.193.234.7",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "acfc.gc.ca",
+                "itpaystoknow.gc.ca",
+                "fcac-acfc.gc.ca",
+                "acfc-fcac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.234.7:5000",
+        "_rev": "3-737d09723752ef3e13bf0eb29571fc34",
+        "ip": "205.193.234.7",
+        "port": "5000",
+        "program": "federal",
+        "service": "upnp",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.234.7:5050",
+        "_rev": "3-0296c5b6154efd1bd8e17968f31ea3a5",
+        "ip": "205.193.234.7",
+        "port": "5050",
+        "program": "federal",
+        "service": "mmcc",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.234.7:53",
+        "_rev": "1-bf4f4cf45dc25dee6399822cde5ea606",
+        "ip": "205.193.234.7",
+        "port": "53",
+        "program": "federal",
+        "service": "domain",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.234.7:5901",
+        "_rev": "1-75fae5e50284d3c9b7cf2e3e7c77f137",
+        "ip": "205.193.234.7",
+        "port": "5901",
+        "program": "federal",
+        "service": "vnc-1",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.234.7:80",
+        "_rev": "16-85aeef4ff172dff40574aba981eec4f0",
+        "ip": "205.193.234.7",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "acfc.gc.ca",
+                "itpaystoknow.gc.ca",
+                "fcac-acfc.gc.ca",
+                "acfc-fcac.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.234.7:8082",
+        "_rev": "1-29e01f8aa6698c3a4f09aa0893993ad0",
+        "ip": "205.193.234.7",
+        "port": "8082",
+        "program": "federal",
+        "service": "blackice-alerts",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.234.7:8181",
+        "_rev": "1-7ed7c5ff78c29250fe9d051363e9b021",
+        "ip": "205.193.234.7",
+        "port": "8181",
+        "program": "federal",
+        "service": "intermapper",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.234.7:8443",
+        "_rev": "3-cfca7b66f417a1d65bef41d54bfbdbf1",
+        "ip": "205.193.234.7",
+        "port": "8443",
+        "program": "federal",
+        "service": "https-alt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.234.7:8888",
+        "_rev": "1-9f05a9d116f8da2684d8ffbf9ae39c72",
+        "ip": "205.193.234.7",
+        "port": "8888",
+        "program": "federal",
+        "service": "sun-answerbook",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.234.7:9000",
+        "_rev": "1-e8eed521e3daa559732b71094829a7e6",
+        "ip": "205.193.234.7",
+        "port": "9000",
+        "program": "federal",
+        "service": "cslistener",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.239.168:443",
+        "_rev": "6-061363866465f7dbafb664a0837df05d",
+        "ip": "205.193.239.168",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "vpn-bcp.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.6.211:443",
+        "_rev": "8-7a9c313ee55a2ccff56f9b688f84d704",
+        "ip": "205.193.6.211",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "baldeneige.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:10000",
+        "_rev": "1-fdeabefc3d8713332e47eaf6313c56da",
+        "ip": "205.193.86.51",
+        "port": "10000",
+        "program": "federal",
+        "service": "snet-sensor-mgmt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:18080",
+        "_rev": "1-3a21c1b3370ee28d056672f5d1aa1ffa",
+        "ip": "205.193.86.51",
+        "port": "18080",
+        "program": "federal",
+        "service": "unknown",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:2443",
+        "_rev": "1-79d6456251df0df3b65d7e46322b2e5c",
+        "ip": "205.193.86.51",
+        "port": "2443",
+        "program": "federal",
+        "service": "powerclientcsf",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:443",
+        "_rev": "10-ec8a9aed443cdbdf08381cdb94f941f0",
+        "ip": "205.193.86.51",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "buildingcanada-chantierscanada.gc.ca",
+                "buildingcanada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:4443",
+        "_rev": "1-1464c994481d7cb6ee4b7729378a609e",
+        "ip": "205.193.86.51",
+        "port": "4443",
+        "program": "federal",
+        "service": "pharos",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:5000",
+        "_rev": "1-f42346eea8261ef1446209b0ee864c5a",
+        "ip": "205.193.86.51",
+        "port": "5000",
+        "program": "federal",
+        "service": "upnp",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:5001",
+        "_rev": "3-303aebb14e78364ae8aefb1a5dab7f52",
+        "ip": "205.193.86.51",
+        "port": "5001",
+        "program": "federal",
+        "service": "commplex-link",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:5050",
+        "_rev": "3-910faf00132859ba3dae1a7bfaa83c13",
+        "ip": "205.193.86.51",
+        "port": "5050",
+        "program": "federal",
+        "service": "mmcc",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:53",
+        "_rev": "3-ad3d8a4e7905cf75293262e672779943",
+        "ip": "205.193.86.51",
+        "port": "53",
+        "program": "federal",
+        "service": "domain",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:5432",
+        "_rev": "1-3eafaac3cc9bb6b1b8800eababf0eb73",
+        "ip": "205.193.86.51",
+        "port": "5432",
+        "program": "federal",
+        "service": "postgresql",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:5901",
+        "_rev": "1-2867ff36f3b8ec921ad99a67fe3269e9",
+        "ip": "205.193.86.51",
+        "port": "5901",
+        "program": "federal",
+        "service": "vnc-1",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:5985",
+        "_rev": "1-c4b0cb0b82aa46c394c2b7c2c6d89083",
+        "ip": "205.193.86.51",
+        "port": "5985",
+        "program": "federal",
+        "service": "wsman",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:5986",
+        "_rev": "1-9fc92b0c1bd9eb49bb8bdb99463a2a65",
+        "ip": "205.193.86.51",
+        "port": "5986",
+        "program": "federal",
+        "service": "wsmans",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:80",
+        "_rev": "10-b9ed98d38285830856fae38604517f7d",
+        "ip": "205.193.86.51",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "buildingcanada-chantierscanada.gc.ca",
+                "buildingcanada.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:8080",
+        "_rev": "3-40a423de88cfc72b7ffd8e90472f0447",
+        "ip": "205.193.86.51",
+        "port": "8080",
+        "program": "federal",
+        "service": "http-proxy",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:8081",
+        "_rev": "1-fec9353b96329ca6b682a91d5f6b0e56",
+        "ip": "205.193.86.51",
+        "port": "8081",
+        "program": "federal",
+        "service": "blackice-icecap",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:8082",
+        "_rev": "3-28f8fd8204767403d79e87e75d08b69e",
+        "ip": "205.193.86.51",
+        "port": "8082",
+        "program": "federal",
+        "service": "blackice-alerts",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:81",
+        "_rev": "3-015ed040fc34468517c139ff591b7c4e",
+        "ip": "205.193.86.51",
+        "port": "81",
+        "program": "federal",
+        "service": "hosts2-ns",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:8181",
+        "_rev": "3-05492d9ba36e1683a996ddedc7f89f95",
+        "ip": "205.193.86.51",
+        "port": "8181",
+        "program": "federal",
+        "service": "intermapper",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:8443",
+        "_rev": "3-49e7b41a648fc69e30d7463b4cf6b50e",
+        "ip": "205.193.86.51",
+        "port": "8443",
+        "program": "federal",
+        "service": "https-alt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:8880",
+        "_rev": "3-2e4c88cd92ea3b12c3276511fc2e5766",
+        "ip": "205.193.86.51",
+        "port": "8880",
+        "program": "federal",
+        "service": "cddbp-alt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:8888",
+        "_rev": "1-e877784cdd86d4fd6af1c20284292f8b",
+        "ip": "205.193.86.51",
+        "port": "8888",
+        "program": "federal",
+        "service": "sun-answerbook",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:9000",
+        "_rev": "1-7b5bc01bd89cc6ca78a089ec08eaee36",
+        "ip": "205.193.86.51",
+        "port": "9000",
+        "program": "federal",
+        "service": "cslistener",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:9090",
+        "_rev": "1-ea96eb14cc15d09612319be058c82d80",
+        "ip": "205.193.86.51",
+        "port": "9090",
+        "program": "federal",
+        "service": "zeus-admin",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.86.51:9091",
+        "_rev": "1-7841e05edf88ad0526296e9c08056b95",
+        "ip": "205.193.86.51",
+        "port": "9091",
+        "program": "federal",
+        "service": "xmltec-xmlmail",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.93.188:443",
+        "_rev": "19-af99a07ec11e2ecd8263cc2b30f54ec5",
+        "ip": "205.193.93.188",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "aids.gc.ca",
+                "aids-sida.gc.ca",
+                "beactive.gc.ca",
+                "alimentsnouveaux.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.193.93.188:80",
+        "_rev": "17-b9217033a390fef4d6fdf7a072d69547",
+        "ip": "205.193.93.188",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "aids.gc.ca",
+                "aids-sida.gc.ca",
+                "beactive.gc.ca",
+                "alimentsnouveaux.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.194.127.83:443",
+        "_rev": "6-9e0bb01c55e29fba107f0ddbbfe017cf",
+        "ip": "205.194.127.83",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "atip-aiprp.apps.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.194.57.27:443",
+        "_rev": "3-d95ef80f3ff43e7c2200792852240645",
+        "ip": "205.194.57.27",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "icelab-nextcloud.ctoblab.ssc-spc.gc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.194.57.27:80",
+        "_rev": "3-371d8925b05ad3cf2002bfe9596f613a",
+        "ip": "205.194.57.27",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "icelab-nextcloud.ctoblab.ssc-spc.gc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.194.57.32:443",
+        "_rev": "1-d582c4249b2e6f99f5743d71bdb0758f",
+        "ip": "205.194.57.32",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "mail.gcicelab.gc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "205.194.57.32:80",
+        "_rev": "1-406d839b1105837773a39528123802fc",
+        "ip": "205.194.57.32",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "mail.gcicelab.gc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "208.88.4.65:110",
+        "_rev": "3-994f8c396cf4bef90bc4dc05c6edbac3",
+        "ip": "208.88.4.65",
+        "port": "110",
+        "program": "federal",
+        "service": "pop3",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "208.88.4.65:143",
+        "_rev": "3-e8f4766c003d458ba3bb725cc7b2c78f",
+        "ip": "208.88.4.65",
+        "port": "143",
+        "program": "federal",
+        "service": "imap",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "208.88.4.65:21",
+        "_rev": "3-0555788bb46265dbe7bda84ce2d5d6cd",
+        "ip": "208.88.4.65",
+        "port": "21",
+        "program": "federal",
+        "service": "ftp",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "208.88.4.65:22",
+        "_rev": "3-6720b530a0fc0a1cbecfd2f8b84b02fa",
+        "ip": "208.88.4.65",
+        "port": "22",
+        "program": "federal",
+        "service": "ssh",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "208.88.4.65:3306",
+        "_rev": "3-363483eaa46c4fc3eaf93f27832d818c",
+        "ip": "208.88.4.65",
+        "port": "3306",
+        "program": "federal",
+        "service": "mysql",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "208.88.4.65:443",
+        "_rev": "12-f0c5115c95c7bcdf9cfa6746002a63c9",
+        "ip": "208.88.4.65",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "app.gc.ca",
+                "app-ppa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "208.88.4.65:53",
+        "_rev": "3-5801f04e6f37880df9a9439cf1f8d7ee",
+        "ip": "208.88.4.65",
+        "port": "53",
+        "program": "federal",
+        "service": "domain",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "208.88.4.65:80",
+        "_rev": "12-90082acea4e25d405b5d3cbf855fb0c4",
+        "ip": "208.88.4.65",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "app.gc.ca",
+                "app-ppa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "208.88.4.65:8443",
+        "_rev": "12-b13ae09ccc41cdd43b8a74cd4da1e729",
+        "ip": "208.88.4.65",
+        "port": "8443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "app.gc.ca",
+                "app-ppa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "208.88.4.65:8880",
+        "_rev": "3-c41ca397768e42cbee83efb6a62dee1f",
+        "ip": "208.88.4.65",
+        "port": "8880",
+        "program": "federal",
+        "service": "cddbp-alt",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "208.88.4.65:993",
+        "_rev": "3-565b0ca6672b4d4414a931eae016ae78",
+        "ip": "208.88.4.65",
+        "port": "993",
+        "program": "federal",
+        "service": "imaps",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "208.88.4.65:995",
+        "_rev": "3-804c9dff27da6c38443d0f032d953036",
+        "ip": "208.88.4.65",
+        "port": "995",
+        "program": "federal",
+        "service": "pop3s",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "209.87.233.53:443",
+        "_rev": "8-117ffa4dd135b8fca52192edd62444a3",
+        "ip": "209.87.233.53",
+        "port": "443",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "time1.chu.nrc.ca",
+                "time.chu.nrc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "209.87.233.54:443",
+        "_rev": "3-81c115f408bda5b7c8fdf555edfac313",
+        "ip": "209.87.233.54",
+        "port": "443",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "time.chu.nrc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "216.191.18.250:8443",
+        "_rev": "1-376ed44e4acbba74e4f6dad3fb3c9801",
+        "ip": "216.191.18.250",
+        "port": "8443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "mail.apl.gc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.10.168.24:80",
+        "_rev": "1-eec30c855928b6b2faebfcd0bfde86ed",
+        "ip": "23.10.168.24",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "medias-dwnld.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.185.0.2:443",
+        "_rev": "12-9650a7353413739cea661968ed65c82d",
+        "ip": "23.185.0.2",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "bsif.gc.ca",
+                "bsif-osfi.gc.ca",
+                "www.bsif.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.185.0.2:80",
+        "_rev": "12-f2630f1290608d8380d2093fd49e8362",
+        "ip": "23.185.0.2",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "bsif.gc.ca",
+                "bsif-osfi.gc.ca",
+                "www.bsif.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.223.17.138:443",
+        "_rev": "1-57d085df1be347b3073544b50f3fdf18",
+        "ip": "23.223.17.138",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "auditoire.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.223.17.138:80",
+        "_rev": "1-e17f5dcdf6a96e7e58665e74da27bbde",
+        "ip": "23.223.17.138",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "auditoire.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.223.17.139:443",
+        "_rev": "1-a685f79779bbf95289ecb16a2bf04e0b",
+        "ip": "23.223.17.139",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "auditoire.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.223.17.139:80",
+        "_rev": "1-25d6cf58e7a95afab16adcc4562591cb",
+        "ip": "23.223.17.139",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "auditoire.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.223.216.226:443",
+        "_rev": "3-04f9343bdcdee8f6620d7a7a6324bcb6",
+        "ip": "23.223.216.226",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "www.cbc.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.223.216.226:80",
+        "_rev": "3-4948913fa450460c18ee7a8a466552a5",
+        "ip": "23.223.216.226",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "www.cbc.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.43.243.138:443",
+        "_rev": "1-cbdf4452e1e129463fddd9daa078b740",
+        "ip": "23.43.243.138",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "www.ombudsman.cbc.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.43.243.138:80",
+        "_rev": "1-7d90c37f43f36bf71a12d84213c2bce4",
+        "ip": "23.43.243.138",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "www.ombudsman.cbc.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.43.243.147:80",
+        "_rev": "1-3f0c087b45aefe175f92c4b22a7552a4",
+        "ip": "23.43.243.147",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "poubelleprovince.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.43.243.160:443",
+        "_rev": "1-37249a1d1251fe6c4a5f7ff0b9703a4a",
+        "ip": "23.43.243.160",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "www.ombudsman.cbc.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.43.243.160:80",
+        "_rev": "1-3708f3c52384dacd3bf1a8d2ae2fe85e",
+        "ip": "23.43.243.160",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "www.ombudsman.cbc.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.43.243.163:443",
+        "_rev": "1-2ed9e9eb670211834762d8271470a9c8",
+        "ip": "23.43.243.163",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "auditoire.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.43.243.163:80",
+        "_rev": "2-911b2917e8bc37c557681d171518409a",
+        "ip": "23.43.243.163",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "auditoire.radio-canada.ca",
+                "poubelleprovince.radio-canada.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.43.243.168:443",
+        "_rev": "1-6f5e6e035388f46ce8639d9e1d6571da",
+        "ip": "23.43.243.168",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "auditoire.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.43.243.168:80",
+        "_rev": "1-2500afc1815b8e04c990353282e0c270",
+        "ip": "23.43.243.168",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "auditoire.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.49.81.132:443",
+        "_rev": "10-113bc00d079f4390c32541f5145f8bd2",
+        "ip": "23.49.81.132",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "staging-linguistique.radio-canada.ca",
+                "edu-services.radio-canada.ca",
+                "dev2-services.radio-canada.ca",
+                "olympiques.radio-canada.ca",
+                "api.radio-canada.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.49.81.132:80",
+        "_rev": "7-73442bfdad144ceb2563c5bf2fcdf60f",
+        "ip": "23.49.81.132",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "staging-linguistique.radio-canada.ca",
+                "presse.radio-canada.ca",
+                "olympiques.radio-canada.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.58.150.190:443",
+        "_rev": "76-048b8e8d7601fa6b65fd943bd4b42aba",
+        "ip": "23.58.150.190",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "dev-services.radio-canada.ca",
+                "edu-services.radio-canada.ca",
+                "dev1-services.radio-canada.ca",
+                "pressestaging.radio-canada.ca",
+                "dev2-services.radio-canada.ca",
+                "vip.radio-canada.ca",
+                "paricistaging.radio-canada.ca",
+                "cbc.radio-canada.ca",
+                "s.radio-canada.ca",
+                "medias-dwnld.radio-canada.ca",
+                "linguistique.radio-canada.ca",
+                "images.radio-canada.ca",
+                "olympiques.radio-canada.ca",
+                "aq-services.radio-canada.ca",
+                "qa-services.radio-canada.ca",
+                "vipstaging.radio-canada.ca",
+                "staging-linguistique.radio-canada.ca",
+                "dev-images.radio-canada.ca",
+                "medias-balado.radio-canada.ca",
+                "pp-services.radio-canada.ca",
+                "dev3-services.radio-canada.ca",
+                "parici.radio-canada.ca",
+                "presse.radio-canada.ca",
+                "www.radio-canada.ca",
+                "sourceanonyme.radio-canada.ca",
+                "communiques.radio-canada.ca",
+                "api.radio-canada.ca",
+                "stable-services.radio-canada.ca",
+                "ici.radio-canada.ca",
+                "services.radio-canada.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "23.58.150.190:80",
+        "_rev": "78-0095a93dd1123dd01e161269639c2bcd",
+        "ip": "23.58.150.190",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "dev-services.radio-canada.ca",
+                "edu-services.radio-canada.ca",
+                "dev2-services.radio-canada.ca",
+                "pressestaging.radio-canada.ca",
+                "dev1-services.radio-canada.ca",
+                "vip.radio-canada.ca",
+                "paricistaging.radio-canada.ca",
+                "cbc.radio-canada.ca",
+                "s.radio-canada.ca",
+                "medias-dwnld.radio-canada.ca",
+                "linguistique.radio-canada.ca",
+                "images.radio-canada.ca",
+                "olympiques.radio-canada.ca",
+                "aq-services.radio-canada.ca",
+                "qa-services.radio-canada.ca",
+                "vipstaging.radio-canada.ca",
+                "dev-images.radio-canada.ca",
+                "medias-balado.radio-canada.ca",
+                "pp-services.radio-canada.ca",
+                "dev3-services.radio-canada.ca",
+                "parici.radio-canada.ca",
+                "presse.radio-canada.ca",
+                "www.radio-canada.ca",
+                "sourceanonyme.radio-canada.ca",
+                "communiques.radio-canada.ca",
+                "api.radio-canada.ca",
+                "stable-services.radio-canada.ca",
+                "ici.radio-canada.ca",
+                "services.radio-canada.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.161.213.128:443",
+        "_rev": "15-48e9be85b1d06cffb5df6cc4a4597224",
+        "ip": "3.161.213.128",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "infolettres.radio-canada.ca",
+                "support.radio-canada.ca",
+                "quebec.ca",
+                "geopartage-dev-banqueproprio.solutions.hydroquebec.com"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.161.213.128:80",
+        "_rev": "14-4e160897a49dd79e1de328e913476c20",
+        "ip": "3.161.213.128",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "infolettres.radio-canada.ca",
+                "support.radio-canada.ca",
+                "quebec.ca",
+                "geopartage-dev-banqueproprio.solutions.hydroquebec.com"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.18.51.56:443",
+        "_rev": "18-a430620145b7fff509474a876339461d",
+        "ip": "3.18.51.56",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "www.archetypes.radio-canada.ca",
+                "archetypes.radio-canada.ca",
+                "oo.radio-canada.ca",
+                "radio-canada.ca",
+                "devops.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.18.51.56:80",
+        "_rev": "17-7676627f7eef74af1d67ff7aa8d2471a",
+        "ip": "3.18.51.56",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "www.archetypes.radio-canada.ca",
+                "archetypes.radio-canada.ca",
+                "oo.radio-canada.ca",
+                "radio-canada.ca",
+                "devops.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.96.107.45:443",
+        "_rev": "19-58bafa526bbb338c915e30ee41bd245d",
+        "ip": "3.96.107.45",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "decisions.eptc-tpec.gc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.96.107.45:80",
+        "_rev": "19-ce7cae1a13826938d34c61d26494eb26",
+        "ip": "3.96.107.45",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "decisions.eptc-tpec.gc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.96.58.162:443",
+        "_rev": "6-df7c752554eaff29dbbc16223320c889",
+        "ip": "3.96.58.162",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "capi.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.96.58.162:80",
+        "_rev": "6-d8f30665a20e93a85c5f36b97531980c",
+        "ip": "3.96.58.162",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "capi.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.96.87.215:22",
+        "_rev": "3-71b4c611b1d60028f2cf944375972cc5",
+        "ip": "3.96.87.215",
+        "port": "22",
+        "program": "federal",
+        "service": "ssh",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.96.87.215:443",
+        "_rev": "24-75667ee61d311299c7815e26c10ef598",
+        "ip": "3.96.87.215",
+        "port": "443",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "sedna.radio-canada.ca",
+                "institut.radio-canada.ca",
+                "entraide.ici.radio-canada.ca",
+                "dj.radio-canada.ca",
+                "elections.radio-canada.ca",
+                "hackathon.radio-canada.ca",
+                "endirect.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.96.87.215:80",
+        "_rev": "24-e262a0fe97f3c1998bed4a3f91a1c7ee",
+        "ip": "3.96.87.215",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "sedna.radio-canada.ca",
+                "institut.radio-canada.ca",
+                "entraide.ici.radio-canada.ca",
+                "dj.radio-canada.ca",
+                "elections.radio-canada.ca",
+                "hackathon.radio-canada.ca",
+                "endirect.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.96.91.127:443",
+        "_rev": "6-36ab13281c8ddb5a3971eb011e8790bd",
+        "ip": "3.96.91.127",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "kibanalogs.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.96.97.115:443",
+        "_rev": "2-6bd5a5decc682395674530a0e182ce1a",
+        "ip": "3.96.97.115",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "decisions.eptc-tpec.gc.ca",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "3.96.97.115:80",
+        "_rev": "2-17432eca6bd9cfb7bf436b3e73b8011e",
+        "ip": "3.96.97.115",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "decisions.eptc-tpec.gc.ca",
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "35.183.156.96:443",
+        "_rev": "6-0c58bf8c663d8940d296070ee429f1fb",
+        "ip": "35.183.156.96",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "cyberlettre2.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "35.183.156.96:80",
+        "_rev": "6-930d8b3223321f7a5cf5ae87524b4363",
+        "ip": "35.183.156.96",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "cyberlettre2.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "35.183.161.104:443",
+        "_rev": "6-28519e836af1212cb4f8f63ee8453124",
+        "ip": "35.183.161.104",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "cyberlettre2.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "35.183.161.104:80",
+        "_rev": "6-d832cf4802b669d3b13cf67fc7604d6b",
+        "ip": "35.183.161.104",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "cyberlettre2.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "35.183.167.105:443",
+        "_rev": "6-efe329ef3acc9625a5ce065419a0a9d5",
+        "ip": "35.183.167.105",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "sociaux-echos.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "35.183.167.105:80",
+        "_rev": "6-ba77c90f20cd66a31db5866be2aa654f",
+        "ip": "35.183.167.105",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "sociaux-echos.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "35.183.83.42:443",
+        "_rev": "30-9492ebaed8ad2c803b1bab1a3c0fa7a0",
+        "ip": "35.183.83.42",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "logstash-5.radio-canada.ca",
+                "logstash-2.radio-canada.ca",
+                "logstash-7.radio-canada.ca",
+                "logstash-8.radio-canada.ca",
+                "logstash-4.radio-canada.ca",
+                "logstash-1.radio-canada.ca",
+                "logstash-6.radio-canada.ca",
+                "logstash-9.radio-canada.ca",
+                "logstash-3.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "40.80.252.241:443",
+        "_rev": "4-efaa948a36d2d9ad7659218259356656",
+        "ip": "40.80.252.241",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "40.80.252.241:80",
+        "_rev": "4-a5ffde26176a76055e6dd7a6ca8f88ff",
+        "ip": "40.80.252.241",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "extrainfo": "",
+            "product": "",
+            "state": "open",
+            "version": ""
+        },
+        "type": "service"
+    },
+    {
+        "_id": "40.85.230.146:443",
+        "_rev": "6-2fff8dba86abf2bc7dacbda408244ac6",
+        "ip": "40.85.230.146",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "cnc.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "40.85.230.146:80",
+        "_rev": "6-0d56c0ca0c9ae5a7fd5e8fbc41c270e8",
+        "ip": "40.85.230.146",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "cnc.agr.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "51.77.37.192:443",
+        "_rev": "6-84d14958a6593f492e9e7b0c413c814d",
+        "ip": "51.77.37.192",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "interaction.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "51.77.37.192:80",
+        "_rev": "6-b867a94d5de9c800b114c244c4c7903a",
+        "ip": "51.77.37.192",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "interaction.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "51.89.19.54:443",
+        "_rev": "6-dbae1ffdf08d5c2a119f4bb79ed0d470",
+        "ip": "51.89.19.54",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "interaction.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "51.89.19.54:80",
+        "_rev": "6-08a91e80f5b27dbd42a28312b791117f",
+        "ip": "51.89.19.54",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "interaction.radio-canada.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "52.139.5.43:443",
+        "_rev": "1-123668df07e6be0541afd0a5e998ea1d",
+        "ip": "52.139.5.43",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "rclab.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "52.139.5.43:80",
+        "_rev": "1-4fab34a35c1937d5efe05395f2a76aa8",
+        "ip": "52.139.5.43",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "rclab.radio-canada.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "52.228.108.44:443",
+        "_rev": "15-bd96d914022bec16fc894bd7adde3ca2",
+        "ip": "52.228.108.44",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "acsta.gc.ca",
+                "acsta-catsa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "52.228.108.44:80",
+        "_rev": "15-bef25fa1554d9fb510436068ab700f01",
+        "ip": "52.228.108.44",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "acsta.gc.ca",
+                "acsta-catsa.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "52.233.34.80:443",
+        "_rev": "9-df78207bd504d399f006440a0e881cb9",
+        "ip": "52.233.34.80",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": [
+                "bst-tsb.gc.ca",
+                "bst.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "52.233.34.80:80",
+        "_rev": "9-23d459325b0dcc703524417888cf0fe0",
+        "ip": "52.233.34.80",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "bst-tsb.gc.ca",
+                "bst.gc.ca"
+            ],
+            "state": "open"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "52.60.108.150:443",
+        "_rev": "1-fee932e114386d8c1686b3ffe29ee49c",
+        "ip": "52.60.108.150",
+        "port": "443",
+        "program": "federal",
+        "service": "https",
+        "tags": {
+            "hostname": "decisions.eptc-tpec.gc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "52.60.108.150:80",
+        "_rev": "1-4118ea9f6ee82ca0b86168c8d7f0e1a9",
+        "ip": "52.60.108.150",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": "decisions.eptc-tpec.gc.ca"
+        },
+        "type": "service"
+    },
+    {
+        "_id": "54.192.51.125:443",
+        "_rev": "17-53cb3e32ad07e3725a3011060aa829d4",
+        "ip": "54.192.51.125",
+        "port": "443",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "featda-ec-frontend.lab01.cl.solutions.hydroquebec.com",
+                "cdp.radio-canada.ca",
+                "geopartage-pp-lignes-souterraines.solutions.hydroquebec.com",
+                "c.cdp.radio-canada.ca",
+                "echos.radio-canada.ca"
+            ]
+        },
+        "type": "service"
+    },
+    {
+        "_id": "54.192.51.125:80",
+        "_rev": "16-e2555d86632aba14d604091c00c198d6",
+        "ip": "54.192.51.125",
+        "port": "80",
+        "program": "federal",
+        "service": "http",
+        "tags": {
+            "hostname": [
+                "featda-ec-frontend.lab01.cl.solutions.hydroquebec.com",
+                "cdp.radio-canada.ca",
+                "geopartage-pp-lignes-souterraines.solutions.hydroquebec.com",
+                "c.cdp.radio-canada.ca",
+                "echos.radio-canada.ca"
+            ]
+        },
+        "type": "service"
+    }
+]
